@@ -4,7 +4,7 @@ on:
   schedule:
     - cron: "0 * * * *" # Every hour at 00 minutes
   workflow_dispatch:
-
+  
 jobs:
   update-readme:
     runs-on: ubuntu-latest
