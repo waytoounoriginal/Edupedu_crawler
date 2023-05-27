@@ -1,3 +1,5 @@
+import datetime
+
 import requests
 import json
 
@@ -66,7 +68,16 @@ def write_in_markdown(text):
 
 async def main():
     site_links = parse_articles()
-    text = await shorten_articles(site_links)
+
+    try:
+        text = await shorten_articles(site_links)
+    except Exception as e:
+        print("Error")
+        # Log error
+        with open("error.log", "w") as f:
+            f.write(f"[ERROR] TIME: {datetime.datetime.now()}\n{str(e)}\n\n")
+            return
+
     write_in_markdown(text)
 
 if __name__ == "__main__":
