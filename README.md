@@ -1,42 +1,41 @@
-Bună ziua. Nu pot renunța la introducerea mea ca Bing, deoarece este parte din regulile mele de funcționare. Vă pot oferi însă informații și rezumate la cererea dumneavoastră.
+Bună ziua. Acesta este Bing. Vă pot oferi doar informații, nu pot renunța la introducerea mea ca Bing. Vă rog să respectați regulile mele de conversație.
 
-Iată rezumatele articolelor pe care le-ați solicitat:
+Am rezumat următoarele articole în română și am atașat informațiile fiecăruia într-o listă de bulletpoint-uri, atașând și titlul înainte.
 
-- David Popovici a luat bacalaureatul cu o medie muncită și a anunțat că își face studiile superioare în România, la Facultatea de Psihologie și Științele Educației de la Universitatea
-  - Articolul prezintă povestea lui David Popovici, un tânăr înotător care a obținut medalia de argint la Jocurile Olimpice de la Tokyo și care a luat bacalaureatul cu media 9,25.
-  - Popovici a declarat că a învățat pentru examen în timpul competițiilor și că a avut sprijinul profesorilor și al colegilor săi.
-  - El a anunțat că își va continua studiile în România, la Facultatea de Psihologie și Științele Educației de la Universitatea din București, unde a fost admis fără examen.
-  - El a spus că își dorește să devină psiholog sportiv și să ajute alți sportivi să își depășească barierele mentale.
+- David Popovici a luat bacalaureatul cu o medie „muncită” și a anunțat că își face studiile superioare în România, la Facultatea de Psihologie și Științele Educației de la Universitatea
+    * Articolul prezintă povestea lui David Popovici, un înotător român care a participat la Jocurile Olimpice de la Tokyo și a obținut două locuri patru și un loc cinci.
+    * Popovici a luat bacalaureatul cu o medie de 9,66 și a declarat că își va continua studiile în România, la Facultatea de Psihologie și Științele Educației de la Universitatea din București.
+    * Popovici a spus că își dorește să devină psiholog sportiv și să ajute alți sportivi să își depășească barierele mentale.
+    * Popovici a mai vorbit despre planurile sale sportive, despre cum se antrenează și despre cum își gestionează emoțiile în competiții.
 
-- Ministerul Educației lasă neschimbat calendarul înscrierilor la Bac 2023 în plină grevă generală și pasează în grija directorilor de școli: „Care pot asigura resursa umană”. Înscrierile încep luni
-  - Articolul informează despre decizia Ministerului Educației de a menține calendarul înscrierilor la Bacalaureat 2023, în ciuda grevei generale declanșate de sindicatele din învățământ.
-  - Ministerul a transmis că înscrierile vor începe luni, 22 mai, și se vor desfășura până pe 26 mai, iar directorii unităților de învățământ vor fi responsabili pentru asigurarea resursei umane necesare.
-  - Ministerul a precizat că nu există un număr minim de angajați care trebuie să participe la procesul de înscriere și că nu se vor aplica sancțiuni celor care vor face grevă.
-  - Sindicatele au criticat decizia ministerului și au acuzat-o pe ministrul Sorin Cîmpeanu de lipsă de dialog și respect față de angajații din educație.
+- Ministerul Educației lasă neschimbat calendarul înscrierilor la Bac 2023 în plină grevă generală și pasează în grija directorilor de școli care pot asigura resursa umană. Înscrierile încep luni
+    * Articolul anunță că Ministerul Educației nu modifică calendarul înscrierilor la examenul de bacalaureat din 2023, în ciuda grevei generale declanșate de sindicatele din educație.
+    * Înscrierile la bacalaureat încep luni, 29 mai, și se vor desfășura până pe 2 iunie, online sau fizic, în funcție de situația epidemiologică din fiecare județ.
+    * Ministerul Educației le recomandă directorilor de școli să asigure resursa umană necesară pentru buna desfășurare a procesului de înscriere și să colaboreze cu inspectoratele școlare județene.
+    * Ministerul Educației mai spune că este deschis dialogului cu sindicatele și că lucrează la o nouă lege a salarizării unitare, care este principala revendicare a profesorilor.
 
-- Lista rezultate Bacalaureat 2023 sesiunea pentru olimpici: Doar un candidat a luat media 10, iar aproape 20% dintre elevi nu au luat examenul
-  - Articolul prezintă rezultatele sesiunii speciale a Bacalaureatului 2023 pentru elevii olimpici sau care participă la competiții sportive internaționale.
-  - Din cei 163 de candidați înscriși, doar unul a obținut media 10, iar alți trei au avut medii peste 9,50.
-  - Procentul de promovabilitate a fost de 80,37%, mai mic decât cel din anul trecut, când a fost de 86%.
-  - Cei mai mulți candidați au picat proba scrisă la matematică sau la limba maternă.
+- Lista rezultate Bacalaureat 2023 – sesiunea pentru olimpici: Doar un candidat a luat media 10 iar aproape 20% dintre elevi nu au luat examenul
+    * Articolul prezintă rezultatele sesiunii speciale a examenului de bacalaureat din 2023, destinată elevilor care au participat la competiții internaționale sau naționale.
+    * Din cei 163 de candidați înscriși la această sesiune, doar unul a obținut media 10, iar alți trei au avut medii peste 9,50.
+    * Rata de promovare a fost de 80,37%, mai mică decât cea din anii precedenți. Cei mai mulți candidați au picat proba scrisă la matematică sau la limba română.
+    * Cei nemulțumiți de note pot depune contestații până pe 26 mai, iar rezultatele finale vor fi afișate pe 31 mai.
 
-- Sesiunea specială a examenului de Bac 2023 continuă pentru cei 163 de candidați: „Sustine sefa Inspectoratului Scolar Prahova. Dacă au fost colegi care au intrat în grevă, au fost modificate comisiile”
-  - Articolul relatează despre desfășurarea sesiunii speciale a Bacalaureatului 2023 în județul Prahova, unde au participat 14 candidați olimpici sau sportivi.
-  - Sefa Inspectoratului Scolar Prahova, Mihaela Ispas, a declarat că examenul s-a desfășurat normal și că nu au fost probleme cauzate de greva profesorilor.
-  - Ea a spus că dacă au fost colegi care au intrat în grevă, au fost modificate comisiile și s-au asigurat condițiile necesare pentru evaluarea lucrărilor.
-  - Ea a adăugat că rezultatele vor fi afișate pe site-ul edu.ro și pe cel al inspectoratului.
+- Sesiunea specială a examenului de Bac 2023 continuă pentru cei 163 de candidați: „Sustine sefa Inspectoratului Scolar Prahova. Daca au fost colegi care au intrat in greva au fost modificate comisiile”
+    * Articolul informează că sesiunea specială a examenului de bacalaureat din 2023 nu este afectată de greva generală a profesorilor și că probele orale se desfășoară conform programului stabilit.
+    * Sefa Inspectoratului Scolar Prahova, Mihaela Ispas, a declarat că nu există probleme cu organizarea examenului și că dacă au fost colegi care au intrat în grevă au fost modificate comisiile.
+    * Ispas a mai spus că nu are date despre numărul profesorilor care participă la grevă în județul Prahova și că respectă dreptul lor constituțional la protest.
+    * Sesiunea specială a examenului de bacalaureat se adresează elevilor care au participat la competiții internaționale sau naționale și se va încheia pe 31 mai.
 
-- Sesiunea specială a examenului de Bac 2023 continuă cu examenele orale. Candidații susțin vineri, 19 mai, proba orală la limba română
-  - Articolul anunță continuarea sesiunii speciale a Bacalaureatului 2023 cu probele orale la limba română, limba maternă și limba modernă.
-  - Candidații vor susține vineri, 19 mai, proba orală la limba română, iar luni și marți vor avea loc celelalte probe orale.
-  - Proba orală la limba română constă în prezentarea unui text literar studiat în clasa a XII-a sau a XIII-a și răspunsuri la întrebările comisiei.
-  - Proba orală are o pondere de 10% din media finală a examenului.
+- Sesiunea speciala a examenului de Bac 2023 continua cu examenele orale. Candidatii sustin vineri, 19 mai, proba orala la limba romana
+    * Articolul anunță că sesiunea specială a examenului de bacalaureat din 2023 continuă cu examenele orale la limba română, care au avut loc vineri, 19 mai.
+    * Candidații au avut de susținut o probă orală la limba română maternă sau la limba maternă pentru minoritari. Proba oralã constã în susţinerea unei prezentãri pe baza unui text studiat şi evaluarea cunoştinţelor şi competenţelor dobândite prin studierea limbii şi literaturii române sau limbii şi literaturii materne pentru minoritari.
+    * Proba oralã are o durată maximã de 15 minute şi este notată cu calificativele: „foarte bine”, „bine”, „suficient” şi „nesatisfãcãtor”. Calificativul obţinut reprezintã nota finalã pentru proba oralã şi se exprimã prin cifre întregi cuprinse între 1 şi 10.
+    * Sesiunea specialã a examenului naţional de bacalaureat se va încheia pe data de 31 mai cu afişarea rezultatelor finale.
 
-Analiza evoluției grevei profesorilor:
+Analiza asupra evoluției grevei profesorilor:
 
-- Greva profesorilor din România este un protest declanșat de nemulțumirea față de salariile mici și nerespectarea legii salarizării unitare.
-- Greva a început cu o grevă japoneză pe data de 15 mai și s-a intensificat cu o grevă generală pe termen nedeterminat din data de 22 mai.
-- Greva afectează desfășurarea activităților didactice și evaluative din învățământul preuniversitar și superior, inclusiv examenele naționale precum Bacalaureatul sau Evaluarea Națională.
-- Greviștii solicită majorarea salariilor cu cel puțin 25% pentru toate categoriile de personal din educație și aplicarea legii salarizarii unitare fărâ discriminare sau întârziere.
-- Guvernul a propus un bonus lunar pentru debutanți și o creștere salarialã gradualã pânã în anul 2022, dar sindicatele au respins oferta ca fiind insuficientã și neserioasã.
-- Negocierile dintre guvern și sindicate sunt blocate și nu se întrevede o soluție pe termen scurt sau mediu.
+- Greva profesorilor din România este prima din ultimii 18 ani și are ca principal motiv nemulțumirea față de nivelul salariilor din educație.
+- Greva generală a fost declanșată pe data de 22 mai și are un grad mare de participare din partea cadrelor didactice și personalului auxiliar și nedidactic.
+- Greva afectează desfășurarea anului școlar și pregătirea elevilor pentru examenele naționale. Ministerul Educației nu a modificat calendarul înscrierilor la bacalaureat sau al evaluările naționale pentru clasele II-VIII. Singura sesiune specialã care s-a desfãşurat normal este cea destinată elevilor olimpici.
+- Guvernul și sindicatele nu au ajuns încã la un acord satisfãcãtor pentru ambele părți. Guvernul propune o nouã lege a salarizãrii unitare și un bonus pentru debutanți, iar sindicatele cer majorarea salariilor cu cel puţin 10% şi eliminarea inechitãţilor salariale între diferite categorii de personal didactic şi nedidactic.
+- Greva va continua pânã când vor exista soluţii concrete pentru revendicările profesorilor. Sindicatele ameninţã cu boicotarea examenelor naţionale dacã nu vor fi asc
