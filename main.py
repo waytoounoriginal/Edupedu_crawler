@@ -102,6 +102,7 @@ async def main():
                 # Log error
                 with open("error.log", "w") as f:
                     f.write(f"[ERROR] TIME: {datetime.datetime.now()}\n{str(e)}\n\n")
+                continue
 
             break
 
