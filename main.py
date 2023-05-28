@@ -93,20 +93,20 @@ async def main():
 
     text = None
 
-    for i in range(0, 3):
-        while True:
-            try:
-                text = await shorten_articles(site_links)
-            except Exception as e:
-                print("Error")
-                # Log error
-                with open("error.log", "w") as f:
-                    f.write(f"[ERROR] TIME: {datetime.datetime.now()}\n{str(e)}\n\n")
-                continue
+    try_counts = 0
 
-            break
+    while text is None and try_counts < 3:
+        try:
+            text = await shorten_articles(site_links)
+        except Exception as e:
+            print("Error")
+            # Log error
+            with open("error.log", "w") as f:
+                f.write(f"[ERROR] TIME: {datetime.datetime.now()}\n{str(e)}\n\n")
 
-    if text == None:
+            try_counts += 1
+
+    if text is None:
         print("No text generated. Exiting...")
         return
 
