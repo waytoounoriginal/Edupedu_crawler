@@ -49,6 +49,7 @@ async def shorten_articles(site_links):
 
     await bot.close()
 
+    # Set the timezone
     os.environ['TZ'] = 'Europe/Bucharest'
     time.tzset()
 
