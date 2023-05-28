@@ -10,6 +10,8 @@ import asyncio
 from EdgeGPT import Chatbot, ConversationStyle
 
 def parse_articles():
+
+    # Get the articles
     url = "https://www.edupedu.ro/category/stiri/"
     response = requests.get(url)
     response.encoding = 'utf-8'
