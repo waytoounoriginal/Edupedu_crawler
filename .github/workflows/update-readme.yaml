@@ -24,6 +24,7 @@ jobs:
       - name: Run script and commit changes
         run: |
           python main.py
+          git pull
           git config --global user.name "Mike4544"
           git config --global user.email "mihai.tira@yahoo.ro"
           git commit -am "Update README file"
