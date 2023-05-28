@@ -46,7 +46,7 @@ async def shorten_articles(site_links):
     for link in site_links:
         prompt += f"TITLU: {link} | LINK: {site_links[link]}\n"
 
-    print(prompt)
+    # print(prompt)
 
     print("Asking bot...")
     response = await bot.ask(prompt=prompt, conversation_style=ConversationStyle.creative)
