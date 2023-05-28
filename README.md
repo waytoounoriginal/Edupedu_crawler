@@ -1,37 +1,28 @@
 # 👩‍🏫 Totul despre greva
-<sub>Ultima actualizare: 28/05/2023 13:27:58</sub>
+<sub>Ultima actualizare: 28/05/2023 14:28:09</sub>
 
 
-**Breaking: Purtătorul de cuvânt al Guvernului Ciucă, Dan Cârbunaru, o nouă sfidare la adresa profesorilor și angajaților din educație: anunță că Guvernul va acorda primele de 2.500 de lei pentru cadrele didactice care nu au făcut grevă**
+**Breaking: Greva generală a profesorilor și angajaților din educație continuă și luni. Sindicate: „Guvernul este singurul responsabil pentru continuarea acestei forme extreme de protest. Nu mai avem prieteni”**
+- Articolul relatează despre continuarea grevei generale a profesorilor și angajaților din educație care a început pe 22 mai 2023 și care are ca scop obținerea unei majorări salariale de 25%.
+- Articolul citează declarațiile liderilor sindicali care acuză guvernul de lipsă de dialog și de nerespectarea legii salarizării unitare.
+- Articolul menționează că sindicatele au respins oferta guvernului de a acorda prime de 2.500 de lei pentru cadrele didactice debutante și că vor continua protestele până la satisfacerea revendicărilor.
 
-- Articolul relatează declarația purtătorului de cuvânt al Guvernului Ciucă, Dan Cârbunaru, care a anunțat că Guvernul va acorda primele de 2.500 de lei pentru cadrele didactice care nu au făcut grevă și care au participat la evaluarea națională și bacalaureat.
-- Declarația a fost făcută în cadrul unei conferințe de presă la Palatul Victoria, după ce premierul Nicolae Ciucă a avut o întâlnire cu sindicatele din educație.
-- Sindicatele au respins oferta Guvernului și au anunțat că vor continua greva generală până când vor obține majorarea salariilor cu 25% și eliminarea inechităților salariale din sistemul de învățământ.
-- Articolul citează reacțiile liderilor sindicali, care au criticat declarația purtătorului de cuvânt și au acuzat Guvernul de discriminare și încercare de divizare a cadrelor didactice.
+**Liderul sindical Marius Nistor (FSE), reacție la anunțul Guvernului să coboare marți în stradă: „Să se uite în ochii profesorilor și să le spună ce ne spun nouă. Nu stăm cu mâna întinsă, este vorba de drepturile noastre”**
+- Articolul prezintă reacția președintelui Federației Sindicatelor din Educație „Spiru Haret” (FSE), Marius Nistor, la anunțul premierului Nicolae Ciucă că va coborî marți în stradă pentru a discuta cu profesorii aflați în grevă.
+- Articolul transmite mesajul lui Nistor care îi cere premierului să se uite în ochii profesorilor și să le spună ce le spune nouă, adică că nu sunt bani pentru majorarea salariilor cu 25%.
+- Articolul subliniază că liderul sindical afirmă că profesorii nu stau cu mâna întinsă, ci cer respectarea drepturilor lor legale și că nu vor renunța la grevă până când nu vor primi un răspuns favorabil.
 
-**Marius Nistor (FSE): „Domnul de la Ministerul Muncii are o problemă legată de educație. Cum ai tupeul să declari atunci când ai 200.000 de angajați din învățământ în grevă că noi nu suntem la piața muncii?”**
-
-- Articolul prezintă declarația liderului Federației Sindicatelor din Educație (FSE), Marius Nistor, care a criticat afirmațiile ministrului Muncii, Marius Budăi, care a spus că nu se poate trata educația ca la piața muncii.
-- Nistor a spus că ministrul Muncii are o problemă legată de educație și că nu înțelege realitatea din sistemul de învățământ.
-- Nistor a susținut că profesorii sunt la piața muncii și că au dreptul să își negocieze salariile și condițiile de muncă.
-- Nistor a mai spus că profesorii nu cer bani în plus, ci doar respectarea legii salarizării unitare și corectarea inechităților salariale.
-
-**Ministrul Muncii Marius Budai: „Nu tratăm educaţia ca la piaţa muncii: mai pune tu, mai dau eu şi vedem unde am ajuns”. Dacă am majora salariile în educaţie se pune în pericol atragerea fondurilor din PNRR**
-
-- Articolul prezintă declarația ministrului Muncii, Marius Budai, care a spus că nu se poate trata educația ca la piața muncii și că majorarea salariilor în educație ar pune în pericol atragerea fondurilor din Planul Național de Redresare și Reziliență (PNRR).
-- Budai a spus că Guvernul are un plan pentru creșterea salariilor în educație pe termen mediu și lung și că este dispus să discute cu sindicatele despre acest plan.
-- Budai a mai spus că Guvernul a făcut deja eforturi pentru a crește salariile profesorilor debutanți și pentru a acorda stimulente financiare pentru cei care lucrează în zone defavorizate.
-- Budai a cerut sindicatelor să renunțe la greva generală și să revină la masa dialogului.
+**Breaking: Purtatorul de cuvant al Guvernului Ciucă, Dan Cârbunaru, o noua sfidare la adresa profesorilor si angajatilor din educatie: Anunta ca Guvernul va acorda primele de 2.500 de lei pentru cadrele didactice debutante**
+- Articolul informează despre anunțul făcut de purtatorul de cuvant al Guvernului Ciucă, Dan Cârbunaru, care a declarat că guvernul va acorda primele de 2.500 de lei pentru cadrele didactice debutante, în ciuda refuzului sindicatelor de a accepta această ofertă.
+- Articolul interpretează acest anunț ca o noua sfidare la adresa profesorilor si angajatilor din educatie care cer o majorare salariala generalizată de 25%.
+- Articolul amintește că greva generala a profesorilor a intrat în a doua zi și că peste 200.000 de angajați din sistemul de învățământ participa la protest.
 
 ## 🏫 Despre greva profesorilor
-
-- Greva profesorilor este cea mai mare mișcare de protest din ultimii 30 de ani din sistemul de învățământ românesc[^1^].
-- Greva a început pe 22 mai 2023 și continuă până în prezent, afectând activitatea a peste **10.000** de unități de învățământ preuniversitar și universitar[^1^] [^2^].
-- Greva este susținută de **peste 90%** dintre angajații din educație, adică **peste 200.000** de persoane[^1^] [^2^].
-- Revendicările principale ale profesorilor sunt: majorarea salariilor cu **25%**, eliminarea inechităților salariale dintre personalul didactic și cel nedidactic, acordarea unui bonus pentru profesorii debutanți și pentru cei care lucrează în zone defavorizate[^2^] [^3^].
-- Negocierile dintre sindicatele din educație și Guvern au eșuat până acum, iar Guvernul a propus doar acordarea unui bonus de **2.500** de lei pentru cadrele didactice care nu au făcut grevă și care au participat la evaluarea națională și bacalaureat[^3^].
-- Sindicatele au respins oferta Guvernului și au acuzat autoritățile de discriminare, sfidare și lipsă de respect față de profesori[^3^] [^4^].
-- Greva profesorilor are un impact negativ asupra elevilor și studenților, care sunt privați de orele de curs și care riscă să întârzie finalizarea anului școlar sau universitar[^1^] [^2^].
+- Greva profesorilor este un conflict social major care afectează sistemul de învățământ din România și care are ca principal motiv revendicarea unei majorari salariale de **25%** pentru toți angajații din educație.
+- Greva a început pe **22 mai 2023** și a continuat și în zilele urmatoare, cu participarea a peste **200.000** de cadre didactice și personal auxiliar din preuniversitar și universitar.
+- Greva a generat perturbarea activității didactice în multe școli și universități din țară, precum și nemulțumirea elevilor și părinților care au fost afectați de lipsa orelor sau de amânarea examenelor.
+- Greva a determinat guvernul să încerce să negocieze cu sindicatele din educație, dar fără succes până în prezent. Guvernul a propus o ofertă de acordare a unor prime de **2.500** de lei pentru cadrele didactice debutante, dar aceasta a fost respinsa categoric de sindicate care au considerat-o o sfidare.
+- Greva se afla într-un impas și nu se întrevede o soluție pe termen scurt. Sindicatele susțin că vor continua protestele până la obținerea unei creșteri salariale generale de **25%**, iar guvernul afirmă că nu are resurse bugetare suficiente pentru a satisface această cerere.
 
 
 <sub><sub>Acest text a fost generat automat de BingAI folosind ultimele informatii de pe Edupedu, precum si de pe alte site-uri de stiri. Deci, nu te baza pe el pentru a lua decizii importante :)</sub></sub>
