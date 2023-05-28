@@ -91,7 +91,7 @@ def write_in_markdown(text):
 async def main():
     site_links = parse_articles()
 
-    text = ""
+    text = None
 
     for i in range(0, 3):
         while True:
@@ -105,7 +105,7 @@ async def main():
 
             break
 
-    if text == "":
+    if text == None:
         print("No text generated. Exiting...")
         return
 
