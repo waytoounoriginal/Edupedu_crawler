@@ -3,7 +3,8 @@ name: Update README
 on:
   schedule:
     - cron: "0 * * * *" # Every hour at 00 minutes
-
+  workflow_dispatch:
+  
 jobs:
   update-readme:
     runs-on: ubuntu-latest
@@ -15,7 +16,7 @@ jobs:
       - name: Set up Python
         uses: actions/setup-python@v2
         with:
-          python-version: 3.11  # Replace with the desired Python version
+          python-version: 3.11.0  # Replace with the desired Python version
 
       - name: Install dependencies
         run: pip install -r requirements.txt  # Replace with the path to your requirements file, if applicable
