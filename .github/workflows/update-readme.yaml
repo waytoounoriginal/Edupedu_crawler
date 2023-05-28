@@ -24,8 +24,10 @@ jobs:
       - name: Run script and commit changes
         run: |
           python main.py
-          git pull
+          git fetch
+          git checkout news
+          git pull origin news
           git config --global user.name "Mike4544"
           git config --global user.email "mihai.tira@yahoo.ro"
           git commit -am "Update README file"
-          git push
+          git push origin news
