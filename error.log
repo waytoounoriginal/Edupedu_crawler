@@ -1,0 +1,3 @@
+[ERROR] TIME: 2023-05-28 12:41:06.386867
+time data '2023-05-28T09:39:03.7520042+00:00' does not match format '%Y-%m-%dT%H:%M:%S.%fZ+00:00'
+
