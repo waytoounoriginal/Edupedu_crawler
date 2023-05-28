@@ -24,6 +24,7 @@ jobs:
       - name: Run script and commit changes
         run: |
           python main.py
+          git fetch
           git checkout news
           git pull origin news
           git config --global user.name "Mike4544"
