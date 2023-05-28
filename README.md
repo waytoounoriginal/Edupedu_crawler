@@ -1,37 +1,29 @@
 # 👩‍🏫 Totul despre greva
-<sub>Ultima actualizare: 28/05/2023 13:27:58</sub>
+<sub>Ultima actualizare: 28/05/2023 16:57:51</sub>
 
+<sub>Disclaimer: Tine minte sa verifici si sursele de actualitate. Acest site este doar un instrument de indrumare: nu il lua ad-literam, pentru ca poate face greseli :)</sub>
 
-**Breaking: Purtătorul de cuvânt al Guvernului Ciucă, Dan Cârbunaru, o nouă sfidare la adresa profesorilor și angajaților din educație: anunță că Guvernul va acorda primele de 2.500 de lei pentru cadrele didactice care nu au făcut grevă**
+- **BREAKING Atac al Guvernului în plină grevă generală a angajaților din Educație: a aprobat prin ordonanță de urgență o modificare la legea dialogului social pentru ca profesorilor care intră în grevă să le fie afectată vechimea / Surse:  Ar putea să fie pusă în pericol participarea la Definitivat**
+    - Guvernul a aprobat o ordonanță de urgență care modifică Legea dialogului social, astfel încât profesorii care intră în grevă să nu mai beneficieze de vechime în muncă pe perioada protestului[^1^].
+    - Sindicatele din Educație au criticat dur această măsură, pe care o consideră un atac la drepturile salariale și profesionale ale angajaților din învățământ[^1^].
+    - Surse sindicale au declarat că ordonanța ar putea afecta și participarea profesorilor la examenul de Definitivat, care are ca una dintre condiții un an de vechime în învățământ[^1^].
 
-- Articolul relatează declarația purtătorului de cuvânt al Guvernului Ciucă, Dan Cârbunaru, care a anunțat că Guvernul va acorda primele de 2.500 de lei pentru cadrele didactice care nu au făcut grevă și care au participat la evaluarea națională și bacalaureat.
-- Declarația a fost făcută în cadrul unei conferințe de presă la Palatul Victoria, după ce premierul Nicolae Ciucă a avut o întâlnire cu sindicatele din educație.
-- Sindicatele au respins oferta Guvernului și au anunțat că vor continua greva generală până când vor obține majorarea salariilor cu 25% și eliminarea inechităților salariale din sistemul de învățământ.
-- Articolul citează reacțiile liderilor sindicali, care au criticat declarația purtătorului de cuvânt și au acuzat Guvernul de discriminare și încercare de divizare a cadrelor didactice.
+- **Președintele Federației părinților, Iulian Cristache, critic la adresa Executivului: Declarația vine ca nuca-n perete, nu faci altceva decât să îmvrăjbești întregul corp profesoral. Profesorii au cerut creșteri care se apropie de inflație, dacă nici măcar inflația nu le dăm, înseamnă că atunci vorbi...**
+    - Iulian Cristache, președintele Federației Naționale a Părinților Edupart, a reacționat la declarațiile purtătorului de cuvânt al Guvernului, care a anunțat că Executivul va acorda prime și vouchere pentru profesorii care renunță la grevă[^2^].
+    - Cristache a spus că această ofertă este inacceptabilă și că Guvernul nu face altceva decât să îmvrăjbească întregul corp profesoral[^2^].
+    - El a subliniat că profesorii au cerut creșteri salariale care se apropie de inflație și că nu pot fi tratați ca niște asistați sociali[^2^].
+    - El a cerut Guvernului să găsească soluții pentru problemele din educație și să respecte legea salarizării unitare[^2^].
 
-**Marius Nistor (FSE): „Domnul de la Ministerul Muncii are o problemă legată de educație. Cum ai tupeul să declari atunci când ai 200.000 de angajați din învățământ în grevă că noi nu suntem la piața muncii?”**
-
-- Articolul prezintă declarația liderului Federației Sindicatelor din Educație (FSE), Marius Nistor, care a criticat afirmațiile ministrului Muncii, Marius Budăi, care a spus că nu se poate trata educația ca la piața muncii.
-- Nistor a spus că ministrul Muncii are o problemă legată de educație și că nu înțelege realitatea din sistemul de învățământ.
-- Nistor a susținut că profesorii sunt la piața muncii și că au dreptul să își negocieze salariile și condițiile de muncă.
-- Nistor a mai spus că profesorii nu cer bani în plus, ci doar respectarea legii salarizării unitare și corectarea inechităților salariale.
-
-**Ministrul Muncii Marius Budai: „Nu tratăm educaţia ca la piaţa muncii: mai pune tu, mai dau eu şi vedem unde am ajuns”. Dacă am majora salariile în educaţie se pune în pericol atragerea fondurilor din PNRR**
-
-- Articolul prezintă declarația ministrului Muncii, Marius Budai, care a spus că nu se poate trata educația ca la piața muncii și că majorarea salariilor în educație ar pune în pericol atragerea fondurilor din Planul Național de Redresare și Reziliență (PNRR).
-- Budai a spus că Guvernul are un plan pentru creșterea salariilor în educație pe termen mediu și lung și că este dispus să discute cu sindicatele despre acest plan.
-- Budai a mai spus că Guvernul a făcut deja eforturi pentru a crește salariile profesorilor debutanți și pentru a acorda stimulente financiare pentru cei care lucrează în zone defavorizate.
-- Budai a cerut sindicatelor să renunțe la greva generală și să revină la masa dialogului.
+- **BREAKING Greva generală a profesorilor și angajaților din Educație continuă și luni / Sindicate: Guvernul este singurul responsabil pentru continuarea acestei forme extreme de protest. Nu mai avem prim-ministru, nu mai avem miniștri cu care să negociem?**
+    - Federațiile sindicale reprezentative din Educație au anunțat că greva generală continuă și luni, după ce negocierile cu Guvernul nu au dus la nicio soluție satisfăcătoare[^3^].
+    - Sindicatele au acuzat Guvernul că este singurul responsabil pentru continuarea acestei forme extreme de protest și că nu are niciun interes să rezolve cerințele angajaților din învățământ[^3^].
+    - Ele au întrebat retoric dacă mai există prim-ministru sau miniștri cu care să negocieze și au reiterat că vor o majorare salarială de 25% până la intrarea în vigoare a legii salarizării unitare și o garanție că salariul profesorului debutant va fi egal cu cel puțin salariul mediu brut pe economie[^3^].
 
 ## 🏫 Despre greva profesorilor
-
-- Greva profesorilor este cea mai mare mișcare de protest din ultimii 30 de ani din sistemul de învățământ românesc[^1^].
-- Greva a început pe 22 mai 2023 și continuă până în prezent, afectând activitatea a peste **10.000** de unități de învățământ preuniversitar și universitar[^1^] [^2^].
-- Greva este susținută de **peste 90%** dintre angajații din educație, adică **peste 200.000** de persoane[^1^] [^2^].
-- Revendicările principale ale profesorilor sunt: majorarea salariilor cu **25%**, eliminarea inechităților salariale dintre personalul didactic și cel nedidactic, acordarea unui bonus pentru profesorii debutanți și pentru cei care lucrează în zone defavorizate[^2^] [^3^].
-- Negocierile dintre sindicatele din educație și Guvern au eșuat până acum, iar Guvernul a propus doar acordarea unui bonus de **2.500** de lei pentru cadrele didactice care nu au făcut grevă și care au participat la evaluarea națională și bacalaureat[^3^].
-- Sindicatele au respins oferta Guvernului și au acuzat autoritățile de discriminare, sfidare și lipsă de respect față de profesori[^3^] [^4^].
-- Greva profesorilor are un impact negativ asupra elevilor și studenților, care sunt privați de orele de curs și care riscă să întârzie finalizarea anului școlar sau universitar[^1^] [^2^].
+- Greva profesorilor este cea mai amplă acțiune de protest din Educație din ultimii 18 ani și implică peste 150.000 de angajați din învățământ preuniversitar și superior[^4^] [^5^].
+- Greva a fost declanșată după ce Guvernul a eliminat din Legea Învățământului Preuniversitar prevederea care stabilea că salariul profesorului debutant trebuie să fie egal cu cel puțin salariul mediu brut pe economie[^3^] [^5^].
+- Greva afectează cursurile din sute de școli și licee din întreaga țară și pune în pericol desfășurarea examenelor naționale și a admiterii la facultate[^4^] [^5^].
+- Negocierile dintre sindicatele din Educație și Guvern nu au ajuns la niciun rezultat concret, iar oferta Executivului de a acorda prime și vouchere pentru profesorii care renunță la grevă a fost respinsă ca fiind inadecvată și ofensatoare[^2^] [^3^].
 
 
 <sub><sub>Acest text a fost generat automat de BingAI folosind ultimele informatii de pe Edupedu, precum si de pe alte site-uri de stiri. Deci, nu te baza pe el pentru a lua decizii importante :)</sub></sub>
