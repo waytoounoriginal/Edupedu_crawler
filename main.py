@@ -1,4 +1,6 @@
 import datetime
+import os
+import time
 
 import requests
 import json
@@ -46,6 +48,9 @@ async def shorten_articles(site_links):
     print(text)
 
     await bot.close()
+
+    os.environ['TZ'] = 'Europe/Bucharest'
+    time.tzset()
 
     # Get the time
     formatted_time_string = datetime.datetime.now().strftime("%d/%m/%Y %H:%M:%S")
