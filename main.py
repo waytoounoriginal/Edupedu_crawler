@@ -91,14 +91,24 @@ def write_in_markdown(text):
 async def main():
     site_links = parse_articles()
 
-    try:
-        text = await shorten_articles(site_links)
-    except Exception as e:
-        print("Error")
-        # Log error
-        with open("error.log", "w") as f:
-            f.write(f"[ERROR] TIME: {datetime.datetime.now()}\n{str(e)}\n\n")
-            return
+    text = None
+
+    try_counts = 0
+
+    while text is None and try_counts < 3:
+        try:
+            text = await shorten_articles(site_links)
+        except Exception as e:
+            print("Error")
+            # Log error
+            with open("error.log", "w") as f:
+                f.write(f"[ERROR] TIME: {datetime.datetime.now()}\n{str(e)}\n\n")
+
+            try_counts += 1
+
+    if text is None:
+        print("No text generated. Exiting...")
+        return
 
     write_in_markdown(text)
 
