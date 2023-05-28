@@ -27,6 +27,7 @@ jobs:
           git fetch
           git checkout news
           git pull origin news
+          git add error.log
           git config --global user.name "Mike4544"
           git config --global user.email "mihai.tira@yahoo.ro"
           git commit -am "Update README file"
