@@ -73,7 +73,7 @@ async def shorten_articles(site_links):
     text = "\n".join(text)
 
     # Add a h1 title at the beginning of the text
-    text = "# 👩‍🏫 Totul despre greva\n" + f"<sub>Ultima actualizare: {formatted_time_string}</sub>\n<sub>Disclaimer: Tine minte sa verifici si sursele de actualitate. Acest site este doar un instrument de indrumare: nu il lua ad litteram - poate produce informatii partial gresite :)</sub>\n" + text
+    text = "# 👩‍🏫 Totul despre greva\n" + f"<sub>Ultima actualizare: {formatted_time_string}</sub>\n\n<sub>Disclaimer: Tine minte sa verifici si sursele de actualitate. Acest site este doar un instrument de indrumare: nu il lua ad litteram - poate produce informatii partial gresite :)</sub>\n" + text
 
     # Add a small disclaimer at the end of the text
     text += "\n\n\n<sub><sub>Acest text a fost generat automat de BingAI folosind ultimele informatii de pe Edupedu, precum si de pe alte site-uri de stiri. Deci, nu te baza pe el pentru a lua decizii importante :)</sub></sub>"
