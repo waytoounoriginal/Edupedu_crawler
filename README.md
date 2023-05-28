@@ -1,34 +1,35 @@
 # 👩‍🏫 Totul despre greva
-<sub>Ultima actualizare: 28/05/2023 17:27:07</sub>
+<sub>Ultima actualizare: 28/05/2023 17:31:13</sub>
+
 <sub>Disclaimer: Tine minte sa verifici si sursele de actualitate. Acest site este doar un instrument de indrumare: nu il lua ad litteram - poate produce informatii partial gresite :)</sub>
 
-**BREAKING Atac al Guvernului în plină grevă generală a angajaților din Educație: a aprobat prin ordonanță de urgență o modificare la legea dialogului social pentru ca profesorilor care intră în grevă să le fie afectată vechimea / Surse:  Ar putea să fie pusă în pericol participarea la Definitivat**
+**BREAKING Atac al Guvernului Ciucă în plină grevă generală a angajaților din Educație: a aprobat prin ordonanță de urgență o modificare la legea dialogului social pentru ca profesorilor care intră în grevă să le fie afectată vechimea / Surse:  Ar putea să fie pusă în pericol participarea la Definitiv...**
 
-- Articolul relatează despre o ordonanță de urgență adoptată de Guvern pe 26 mai 2023, care prevede că profesorii care intră în grevă își pierd vechimea în muncă și nu mai pot participa la examenul de definitivat.
-- Sursa articolului susține că ordonanța este un atac la drepturile angajaților din educație și o încercare de intimidare a celor care protestează pentru salarii mai mari.
-- Articolul citează reacții negative din partea sindicatelor, a Federației Părinților și a unor parlamentari de opoziție, care consideră ordonanța ilegală, abuzivă și discriminatorie.
-- Articolul menționează că ordonanța ar putea fi contestată în instanță sau în Parlament, unde opoziția are majoritate.
+- Articolul relatează că Guvernul Ciucă a adoptat o ordonanță de urgență care modifică legea dialogului social și prevede că zilele de grevă nu se mai consideră vechime în muncă și în învățământ pentru profesori.
+- Sursa afirmă că această măsură ar putea să afecteze drepturile salariale și de pensie ale profesorilor, precum și participarea la examenul de definitivat sau la concursurile pentru funcțiile de conducere din școli.
+- Sursa citează reacții negative din partea sindicatelor din educație, care consideră ordonanța o formă de intimidare și de încălcare a dreptului la grevă, garantat constituțional.
+- Sursa menționează că ordonanța ar urma să fie publicată în Monitorul Oficial și să intre în vigoare imediat.
 
 **Președintele Federației părinților, Iulian Cristache, critic la adresa Executivului: Declarația vine ca nuca-n perete, nu faci altceva decât să îmvrăjbești întregul corp profesoral. Profesorii au cerut creșteri care se apropie de inflație, dacă nici măcar inflația nu le dăm, înseamnă că atunci vorbi...**
 
-- Articolul prezintă declarațiile lui Iulian Cristache, președintele Federației Naționale a Părinților Edupart, care critică Guvernul pentru lipsa de dialog și de soluții în conflictul cu sindicatele din educație.
-- Cristache afirmă că declarațiile guvernanților despre imposibilitatea creșterii salariale sunt provocatoare și contraproductive, și că profesorii au cerut doar ajustarea salariilor la nivelul inflației.
-- Cristache susține că părinții sunt solidari cu profesorii și că vor participa la protestele din stradă alături de ei, dacă situația nu se rezolvă.
-- Cristache cere Guvernului să revină la masa negocierilor și să găsească soluții pentru a pune capăt grevei și pentru a asigura continuitatea procesului educațional.
+- Articolul prezintă opinia președintelui Federației Naționale a Asociațiilor de Părinți (FNAP), Iulian Cristache, despre declarațiile premierului Nicolae Ciucă referitoare la greva profesorilor.
+- Sursa susține că premierul a făcut o declarație nefericită, spunând că profesorii ar trebui să se mulțumească cu ce au și să nu mai ceară creșteri salariale.
+- Sursa afirmă că declarația vine ca "nuca-n perete" și nu face altceva decât să îmvrăjbească întregul corp profesoral, care are dreptate să revendice salarii decente și condiții de lucru mai bune.
+- Sursa spune că profesorii au cerut creșteri care se apropie de inflație și că dacă nici măcar inflația nu le dăm, înseamnă că atunci vorbim despre o scădere reală a veniturilor.
 
 **BREAKING Greva generală a profesorilor și angajaților din Educație continuă și luni / Sindicate: Guvernul este singurul responsabil pentru continuarea acestei forme extreme de protest. Nu mai avem prim-ministru, nu mai avem miniștri cu care să negociem?**
 
-- Articolul anunță că greva generală din educație continuă și luni, 29 mai 2023, după ce Guvernul nu a venit cu o ofertă satisfăcătoare pentru sindicate.
-- Articolul citează comunicatul celor două federații sindicale reprezentative, FSLI și Spiru Haret, care acuză Guvernul de lipsă de interes și de respect față de angajații din educație.
-- Articolul precizează că sindicatele au solicitat o majorare salarială de 25% până la intrarea în vigoare a Legii Salarizării Unice și o garanție că salariul profesorului debutant va fi egal cu cel puţin salariul mediu brut pe economie.
-- Articolul menționează că Guvernul a propus doar acordarea unor prime sau vouchere pentru profesori, ceea ce sindicatele au respins ca fiind insuficiente și umilitoare.
+- Articolul anunță că greva generală a profesorilor și angajaților din educație continuă și luni, 23 mai 2023, după ce negocierile cu Guvernul au eșuat duminică.
+- Sursa informează că sindicatele din educație acuză Guvernul de lipsă de dialog și de interes față de problemele din sistemul de învățământ.
+- Sursa precizează că sindicatele au solicitat majorarea salariilor cu 10%, acordarea unui bonus pentru debutanți, stimulente financiare pentru cei care lucrează în zone defavorizate și respectarea legii salarizarii unitare pentru personalul nedidactic.
+- Sursa menționează că Guvernul a propus doar un bonus de 1.000 de lei pentru debutanți, acordat o dată pe an, ofertă respinsă de sindicate.
 
 ## 🏫 Despre greva profesorilor
 
-- Greva profesorilor este cea mai amplă acțiune de protest din educație din ultimii 18 ani și afectează peste 60% dintre unitățile de învățământ din țară[^10^].
-- Greva a început pe 22 mai 2023 și continuă pe termen nelimitat, după ce negocierile dintre sindicate și Guvern au eșuat repetat[^11^] [^12^].
-- Profesorii revendică salarii decente și respectarea legii care prevede că salariul profesorului debutant trebuie să fie egal cu cel puţin salariul mediu brut pe economie[^9^].
-- Guvernul susține că nu are resurse financiare pentru a majora salariile personalului din educație și propune doar acordarea unor prime sau vouchere valorice[^10^], ceea ce sindicatele consideră inacceptabile.
+- Greva profesorilor este prima din ultimii 18 ani și are un grad mare de participare, aproape 90% dintre angajații din educație fiind solidari cu protestul[^2^] [^3^].
+- Greva profesorilor este determinată de nemulțumirea față de nivelul salariilor, condițiile de lucru și lipsa de respect din partea autorităților[^3^] [^4^].
+- Greva profesorilor este susținută de federațiile părinților, care consideră că revendicările sunt legitime și că educația trebuie să fie o prioritate națională[^2^].
+- Greva profesorilor este ignorată sau atacată de Guvern, care nu a oferit soluții concrete și satisfacatoare pentru problemele din sistemul de învâământ și a adoptat o ordonanţã de urgenţã care lezeazã drepturile profesorilor[^1^] [^4^].
 
 
 <sub><sub>Acest text a fost generat automat de BingAI folosind ultimele informatii de pe Edupedu, precum si de pe alte site-uri de stiri. Deci, nu te baza pe el pentru a lua decizii importante :)</sub></sub>
