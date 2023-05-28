@@ -25,19 +25,28 @@ def parse_articles():
     # print(text)
     soup = BeautifulSoup(text, 'lxml')
     articles = soup.find_all("article")
-    article_links = [article.find('a', {"class": "cs-overlay-link"}).get("href") for article in articles]
-    print(article_links)
 
-    return article_links[0:3]
+    article_links = {}
+
+    for article in articles[0:3]:
+        title_anchor = article.find("h2", class_="entry-title").find("a")
+        article_links[(title_anchor.text[:300] + '...') if len(title_anchor.text) > 300 else title_anchor.text] = title_anchor['href']
+
+
+    # print(article_links.__str__())
+
+    return article_links
 
 
 async def shorten_articles(site_links):
     print("Creating bot...")
     bot = await Chatbot.create()
-    prompt = "Te rog rezuma urmatoarele articole in romana si ataseaza informatiile fiecaruia intr-o lista de bulletpoint-uri, atasand si titlul inainte, boldit. Ofera in finalul mesajului o analiza concreta si compacta asupra evolutiei grevei profesorilor, cu cele mai actuale date, cu subtitlul boldit, format h2, '🏫 Despre greva profesorilor'. Boldeaza cele mai importante date.  "
+    prompt = "Te rog rezuma urmatoarele articole in romana si ataseaza informatiile fiecaruia intr-o lista de bulletpoint-uri, atasand si titlul inainte, boldit. Ofera in finalul mesajului o analiza concreta si compacta (4 bullet points) asupra evolutiei grevei profesorilor, cu cele mai actuale date, cu subtitlul boldit, format h2, '🏫 Despre greva profesorilor'. Boldeaza cele mai importante date.\n"
 
     for link in site_links:
-        prompt += link + "\n"
+        prompt += f"TITLU: {link} | LINK: {site_links[link]}\n"
+
+    print(prompt)
 
     print("Asking bot...")
     response = await bot.ask(prompt=prompt, conversation_style=ConversationStyle.creative)
@@ -64,7 +73,7 @@ async def shorten_articles(site_links):
     text = "\n".join(text)
 
     # Add a h1 title at the beginning of the text
-    text = "# 👩‍🏫 Totul despre greva\n" + f"<sub>Ultima actualizare: {formatted_time_string}</sub>\n\n" + text
+    text = "# 👩‍🏫 Totul despre greva\n" + f"<sub>Ultima actualizare: {formatted_time_string}</sub>\n\n<sub>Disclaimer: Tine minte sa verifici si sursele de actualitate. Acest site este doar un instrument de indrumare: nu il lua ad-literam, pentru ca poate face greseli :)</sub>\n" + text
 
     # Add a small disclaimer at the end of the text
     text += "\n\n\n<sub><sub>Acest text a fost generat automat de BingAI folosind ultimele informatii de pe Edupedu, precum si de pe alte site-uri de stiri. Deci, nu te baza pe el pentru a lua decizii importante :)</sub></sub>"
