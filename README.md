@@ -1,35 +1,35 @@
 # 👩‍🏫 Totul despre greva
-<sub>Ultima actualizare: 29/05/2023 15:20:57</sub>
+<sub>Ultima actualizare: 29/05/2023 16:15:43</sub>
 
 <sub>Disclaimer: Tine minte sa verifici si sursele de actualitate. Acest site este doar un instrument de indrumare: nu il lua ad litteram - poate produce informatii partial gresite :)</sub>
 
-**O nouă formă de presiune pe angajații din școli, aflați în a doua săptămână de grevă generală: mesaje de ultimatum primite de directorii școlilor, prin inspectorate, să facă estimări până azi la 16:30 despre salariile angajaților în luna mai – surse**
+**BREAKING Ligia Deca: Vom prelungi termenul de înscriere la examene, dacă va fi cazul, chiar și perioada cursurilor. Niciun copil nu va rămâne cu situația neîncheiată**
 
-- Articolul relatează despre o solicitare trimisă de Ministerul Educației către inspectoratele școlare județene și al municipiului București, prin care le cere să trimită până la ora 16:30 a zilei de 26 mai 2023 un tabel cu estimarea salariilor angajaților din unitățile de învățământ pentru luna mai.
-- Solicitarea este considerată o formă de presiune asupra angajaților din școli, care se află în a doua săptămână de grevă generală, cerând majorarea salariilor cu 25% și respectarea grilelor de salarizare convenite în decembrie 2022.
-- Surse sindicale susțin că solicitarea este ilegală și că nu există nicio bază legală pentru a face estimări salariale înainte de a se stabili bugetul pe anul 2023.
-- Surse din Ministerul Educației spun că solicitarea are scopul de a verifica situația salarială din sistemul de învățământ și că nu are legătură cu greva.
+- Ministrul Educației, Ligia Deca, a anunțat că prima generație care ar da examen de admitere separat la liceu este cea care intră în clasa a V-a în anul școlar 2023-2024[^1^].
+- Deca a spus că examenul de admitere va fi pilotat după ce va fi aprobat prin lege și că elevii care vor să dea admitere separată vor participa la programul „Școală după școală”[^1^].
+- Deca a precizat că nu sunt modificări în privința Evaluării Naționale și că liceele care vor organiza concurs de admitere trebuie să demonstreze concurență în anii anteriori și să-și dorească acest lucru[^1^].
+- Deca a mai declarat că va prelungi termenul de înscriere la examene, dacă va fi cazul, chiar și perioada cursurilor și că niciun copil nu va rămâne cu situația neîncheiată din cauza grevei profesorilor[^2^].
 
-**BREAKING Evaluarea Națională pentru clasa a VI-a a fost amânată din nou pentru 12 iunie -13 iunie 2023, anunță Ministerul Educației**
+**Liderii sindicali din educație, după discuțiile cu ministrul Muncii: Este obligația lui Klaus Iohannis să intervină într-un moment critic / Nu există niciun motiv pentru anularea protestului de mâine**
 
-- Articolul anunță că Ministerul Educației a decis să amâne din nou Evaluarea Națională pentru clasa a VI-a, care era programată inițial pentru perioada 29-30 mai 2023, din cauza grevei generale a profesorilor.
-- Noua dată stabilită pentru Evaluarea Națională este 12-13 iunie 2023, iar calendarul detaliat va fi comunicat ulterior.
-- Ministerul Educației precizează că amânarea are ca scop asigurarea unor condiții optime pentru desfășurarea examenului și protejarea drepturilor elevilor.
-- Evaluarea Națională pentru clasa a VI-a fusese deja amânată o dată, de la data inițială de 22-23 mai 2023, tot din cauza grevei profesorilor.
+- Liderii sindicali din educație au avut discuții cu ministrul Muncii, Marius Budăi, dar nu au ajuns la un acord privind revendicările lor salariale[^3^].
+- Sindicaliștii au afirmat că este obligația președintelui Klaus Iohannis să intervină într-un moment critic și să medieze conflictul dintre Guvern și profesori[^3^].
+- Sindicaliștii au anunțat că nu există niciun motiv pentru anularea protestului de mâine, 22 mai, când profesorii vor intra în grevă generală[^3^] [^4^].
+- Sindicaliștii au cerut guvernanților să vină cu oferte clare, cu sume și termene exacte, pentru majorarea salariilor și stimularea personalului didactic[^4^].
 
 **Toate sindicatele din educație îi cer președintelui Klaus Iohannis să le primească mâine la discuții, la o săptămână de la declanșarea primei greve generale din învățământ din ultimii 18 ani și după ce președintele a refuzat prima invitație la dialog**
 
-- Articolul informează că toate sindicatele din educație au trimis o scrisoare deschisă președintelui Klaus Iohannis, prin care îi cer să le primească mâine, 30 mai 2023, la discuții despre situația din sistemul de învățământ și despre revendicările lor salariale.
-- Sindicatele își exprimă nemulțumirea față de faptul că președintele nu a răspuns la prima invitație la dialog, trimisă pe 23 mai 2023, și îl acuză că ignoră problemele grave ale educației românești.
-- Sindicatele îi reamintesc președintelui despre proiectul său „România educată”, pe care îl consideră un eșec și o burla la adresa cadrelor didactice și a elevilor.
-- Sindicatele își mențin solicitările privind majorarea salariilor cu 25%, respectarea grilelor de salarizare convenite în decembrie 2022 și deblocarea posturilor vacante.
+- Toate federațiile sindicale din educație (FSLI, FSE „Spiru Haret” și FNS „Alma Mater”) i-au trimis o scrisoare publică președintelui Klaus Iohannis, în care îi cer să le primească mâine la discuții[^5^] [^6^].
+- Sindicaliștii îl acuză pe premierul Florin Cîțu că a tratat cu indiferență solicitările lor de dialog și că a refuzat orice întrevedere cu reprezentanții lor[^5^] [^6^].
+- Sindicaliștii își exprimă nemulțumirea față de lipsa unor acte normative care să vizeze salariații din învățământ și față de amânarea punerii în aplicare a legilor educației[^5^] [^6^].
+- Sindicaliștii își reiterează revendicările privind majorarea salariilor, stimulentele financiare pentru profesorii debutanți și din mediile defavorizate și respectarea drepturilor salariale ale personalului nedidactic[^5^] [^6^].
 
 ## 🏫 Despre greva profesorilor
 
-- Greva profesorilor este prima grevă generală din învățământ din ultimii 18 ani și a fost declanșată pe 22 mai 2023, după ce negocierile cu Guvernul au eșuat.
-- Greva profesorilor afectează peste **150.000** de cadre didactice și peste **70.000** de angajați auxiliari din unitățile de învățământ și peste **3 milioane** de elevi din toată țara.
-- Greva profesorilor are ca principale revendicări majorarea salariilor cu **25%**, respectarea grilelor de salarizare convenite în decembrie 2022 și deblocarea posturilor vacante.
-- Greva profesorilor a determinat amânarea Evaluării Naționale pentru clasa a VI-a pentru **12-13 iunie** 2023 și a pus sub semnul întrebării desfășurarea altor examene naționale.
+- Greva profesorilor a fost declanșată pe 15 mai 2023, după ce negocierile cu Guvernul au eșuat.
+- Greva afectează peste 150.000 de cadre didactice din preuniversitar și peste 10.000 de cadre didactice din universitar.
+- Greva pune în pericol finalizarea anului școlar și organizarea examenelor naționale (Evaluare Națională, Bacalaureat).
+- Greva are ca principale revendicări majorarea salariilor profesorilor debutanți până la nivelul salariului mediu brut pe economie (6.789 lei), stimulente financiare pentru profesorii din mediile defavorizate și respectarea drepturilor salariale ale personalului nedidactic.
 
 
 <sub><sub>Acest text a fost generat automat de BingAI folosind ultimele informatii de pe Edupedu, precum si de pe alte site-uri de stiri. Deci, nu te baza pe el pentru a lua decizii importante :)</sub></sub>
