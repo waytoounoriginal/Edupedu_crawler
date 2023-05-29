@@ -1,35 +1,35 @@
 # 👩‍🏫 Totul despre greva
-<sub>Ultima actualizare: 29/05/2023 16:15:43</sub>
+<sub>Ultima actualizare: 29/05/2023 17:12:30</sub>
 
 <sub>Disclaimer: Tine minte sa verifici si sursele de actualitate. Acest site este doar un instrument de indrumare: nu il lua ad litteram - poate produce informatii partial gresite :)</sub>
 
-**BREAKING Ligia Deca: Vom prelungi termenul de înscriere la examene, dacă va fi cazul, chiar și perioada cursurilor. Niciun copil nu va rămâne cu situația neîncheiată**
-
-- Ministrul Educației, Ligia Deca, a anunțat că prima generație care ar da examen de admitere separat la liceu este cea care intră în clasa a V-a în anul școlar 2023-2024[^1^].
-- Deca a spus că examenul de admitere va fi pilotat după ce va fi aprobat prin lege și că elevii care vor să dea admitere separată vor participa la programul „Școală după școală”[^1^].
-- Deca a precizat că nu sunt modificări în privința Evaluării Naționale și că liceele care vor organiza concurs de admitere trebuie să demonstreze concurență în anii anteriori și să-și dorească acest lucru[^1^].
-- Deca a mai declarat că va prelungi termenul de înscriere la examene, dacă va fi cazul, chiar și perioada cursurilor și că niciun copil nu va rămâne cu situația neîncheiată din cauza grevei profesorilor[^2^].
-
 **Liderii sindicali din educație, după discuțiile cu ministrul Muncii: Este obligația lui Klaus Iohannis să intervină într-un moment critic / Nu există niciun motiv pentru anularea protestului de mâine**
 
-- Liderii sindicali din educație au avut discuții cu ministrul Muncii, Marius Budăi, dar nu au ajuns la un acord privind revendicările lor salariale[^3^].
-- Sindicaliștii au afirmat că este obligația președintelui Klaus Iohannis să intervină într-un moment critic și să medieze conflictul dintre Guvern și profesori[^3^].
-- Sindicaliștii au anunțat că nu există niciun motiv pentru anularea protestului de mâine, 22 mai, când profesorii vor intra în grevă generală[^3^] [^4^].
-- Sindicaliștii au cerut guvernanților să vină cu oferte clare, cu sume și termene exacte, pentru majorarea salariilor și stimularea personalului didactic[^4^].
+- Liderii sindicali din educație au anunțat că vor declanșa o grevă generală începând de luni, 22 mai 2023, după ce negocierile cu Guvernul au eșuat[^1^] [^2^] [^3^].
+- Sindicaliștii au cerut majorarea salariilor din învățământ și un calendar exact și sumele cu care vor crește salariile, pentru a pune capăt grevei[^1^] [^2^].
+- Guvernul le-a propus stimulente financiare pentru profesorii debutanți și din mediile defavorizate și creșteri salariale prevăzute în legea salarizării, care va fi înaintată Parlamentului la 1 septembrie[^1^] [^2^].
+- Sindicaliștii au respins oferta Guvernului și au afirmat că este obligația președintelui Klaus Iohannis să intervină într-un moment critic pentru educație[^1^] [^2^] [^3^].
+- În total, vor protesta peste 150.000 de cadre didactice, la care se pot adăuga în jur de 50-60.000 de reprezentanți din personalul auxiliar și nedidactic[^1^] [^2^].
+- Sindicaliștii au precizat că greva ar putea afecta examenele naționale și finalul de an școlar și că vina este a Guvernului, care nu a finalizat legea salarizării în învățământ[^1^] [^2^].
 
-**Toate sindicatele din educație îi cer președintelui Klaus Iohannis să le primească mâine la discuții, la o săptămână de la declanșarea primei greve generale din învățământ din ultimii 18 ani și după ce președintele a refuzat prima invitație la dialog**
+**Ministrul Educației: Vom lua legătura cu omologii din alte state pentru a-i ajuta pe cei care susțin admiterea la facultate în străinătate, dacă vor fi prelungiri ale bacalaureatului**
 
-- Toate federațiile sindicale din educație (FSLI, FSE „Spiru Haret” și FNS „Alma Mater”) i-au trimis o scrisoare publică președintelui Klaus Iohannis, în care îi cer să le primească mâine la discuții[^5^] [^6^].
-- Sindicaliștii îl acuză pe premierul Florin Cîțu că a tratat cu indiferență solicitările lor de dialog și că a refuzat orice întrevedere cu reprezentanții lor[^5^] [^6^].
-- Sindicaliștii își exprimă nemulțumirea față de lipsa unor acte normative care să vizeze salariații din învățământ și față de amânarea punerii în aplicare a legilor educației[^5^] [^6^].
-- Sindicaliștii își reiterează revendicările privind majorarea salariilor, stimulentele financiare pentru profesorii debutanți și din mediile defavorizate și respectarea drepturilor salariale ale personalului nedidactic[^5^] [^6^].
+- Ministrul educației, Ligia Deca, a anunțat că va discuta cu miniștrii din alte state, dacă greva din educație se va prelungi și absolvenții de liceu vor susține examenul de bacalaureat cu întârziere[^4^] [^6^].
+- Deca a spus că își dorește să explice situația și să încerce să-i ajute pe cei care au nevoie de un timp suplimentar pentru a putea depune documentele necesare pentru admiterea la o facultate în străinătate[^4^] [^6^].
+- Ministrul a precizat că înscrierile la facultate se realizează după susținerea examenului de bacalaureat și că în acest moment calendarul de bacalaureat rămâne cel anunțat[^4^] [^6^].
+- Deca a mai spus că dacă vor exista prelungiri ale examenului de bacalaureat, atunci se va lua în considerare și posibilitatea de a prelungi termenul de înscriere la examene sau chiar perioada cursurilor[^4^] [^7^].
+- Ministrul a dat asigurări că niciun copil nu va rămâne cu situația neîncheiată și fără să susțină examenele naționale[^7^].
+
+**BREAKING Ligia Deca: Vom prelungi termenul de înscriere la examene, dacă va fi cazul, chiar și perioada cursurilor. Niciun copil nu va rămâne cu situația neîncheiată și fără să susțină examenele**
+
+- Acest articol este identic cu cel anterior, doar că are un titlu diferit[^7^].
 
 ## 🏫 Despre greva profesorilor
 
-- Greva profesorilor a fost declanșată pe 15 mai 2023, după ce negocierile cu Guvernul au eșuat.
-- Greva afectează peste 150.000 de cadre didactice din preuniversitar și peste 10.000 de cadre didactice din universitar.
-- Greva pune în pericol finalizarea anului școlar și organizarea examenelor naționale (Evaluare Națională, Bacalaureat).
-- Greva are ca principale revendicări majorarea salariilor profesorilor debutanți până la nivelul salariului mediu brut pe economie (6.789 lei), stimulente financiare pentru profesorii din mediile defavorizate și respectarea drepturilor salariale ale personalului nedidactic.
+- Greva profesorilor este o formă de protest față de nivelul scăzut al salariilor din învățământ și față de lipsa unei legi clare a salarizării în domeniu.
+- Greva a fost declanșată după ce negocierile cu Guvernul nu au dus la nicio soluție satisfăcătoare pentru sindicatele din educație, care au cerut majorări salariale concrete și un calendar precis de aplicare.
+- Greva ar putea avea consecințe negative asupra elevilor și studenților, care ar putea pierde ore de curs sau ar putea întâmpina dificultăți la susținerea examenelor naționale sau internaționale.
+- Greva ar putea fi rezolvată prin intervenția președintelui Klaus Iohannis sau prin adoptarea unei legi a salarizării în educație care să răspundă cerințelor sindicatelor.
 
 
 <sub><sub>Acest text a fost generat automat de BingAI folosind ultimele informatii de pe Edupedu, precum si de pe alte site-uri de stiri. Deci, nu te baza pe el pentru a lua decizii importante :)</sub></sub>
