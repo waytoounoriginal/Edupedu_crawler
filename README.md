@@ -1,35 +1,35 @@
 # 👩‍🏫 Totul despre greva
-<sub>Ultima actualizare: 29/05/2023 10:12:07</sub>
+<sub>Ultima actualizare: 29/05/2023 11:15:37</sub>
 
 <sub>Disclaimer: Tine minte sa verifici si sursele de actualitate. Acest site este doar un instrument de indrumare: nu il lua ad litteram - poate produce informatii partial gresite :)</sub>
 
+**Liderul sindical Marius Nistor: “În momentul de față vorbim de amânarea examenelor” / “Rugăm copiii și părinții să ne înțeleagă și să fie alături de noi”**
+
+- Articolul prezintă un interviu cu Marius Nistor, președintele Federației Sindicatelor din Educație „Spiru Haret” (FSE), care explică motivele și consecințele grevei profesorilor.
+- Nistor spune că profesorii cer o majorare salarială de 25%, o lege a educației care să respecte autonomia școlilor și să asigure finanțarea adecvată a sistemului, precum și o recunoaștere a rolului lor social.
+- Nistor afirmă că greva este o măsură extremă, luată după ce negocierile cu guvernul au eșuat și după ce au fost ignorate protestele anterioare ale profesorilor.
+- Nistor anunță că greva va duce la amânarea examenelor naționale, cum ar fi Evaluarea Națională și Bacalaureatul, și cere înțelegere și solidaritate din partea elevilor și părinților.
+
+**Întâlnire a ministrului Muncii, Marius Budăi, cu sindicatele din Educație astăzi, la ora 14:00, anunțată de reprezentanții FSE**
+
+- Articolul informează despre o întâlnire programată între ministrul Muncii, Marius Budăi, și reprezentanții sindicatelor din educație, care are loc astăzi, la ora 14:00.
+- Scopul întâlnirii este de a discuta despre situația salarială a angajaților din sistemul de învățământ și despre posibilitatea de a evita greva generală anunțată pentru luni, 22 mai.
+- Articolul citează un comunicat al FSE, care spune că sindicatele sunt deschise la dialog, dar nu vor renunța la revendicările lor legitime.
+- Articolul menționează că ministrul Educației, Sorin Cîmpeanu, nu va participa la întâlnire, deoarece se află în vizită oficială în Franța.
+
 **A șasea zi de grevă generală în Educație, prima de acest fel din ultimii 18 ani. Guvernul sfidează solicitările sindicatelor, deși le cunoaște de circa 6 luni**
 
-- Profesorii cer majorarea salariilor cu 25%, respectarea legii privind finanțarea educației cu 6% din PIB și eliminarea discriminărilor salariale între angajații din învățământ.
-- Guvernul Ciucă nu a venit cu nicio ofertă concretă și a amânat rotativa guvernamentală până la rezolvarea conflictului.
-- Sindicatele au anunțat că vor continua greva generală până când vor obține satisfacție și au respins propunerea de a primi un bonus de 1000 de lei pentru debutanți.
-- Greva afectează peste 3 milioane de elevi și peste 200.000 de angajați din educație.
-
-**BREAKING Atac al Guvernului Ciucă în plină grevă generală a angajaților din Educație: a aprobat prin ordonanță de urgență o modificare la legea dialogului social pentru ca profesorilor care intră în grevă să le fie afectată vechimea / Surse:  Ar putea să fie pusă în pericol participarea la Definitiv...**
-
-- Guvernul a adoptat o ordonanță de urgență care modifică legea dialogului social și prevede că timpul petrecut în grevă nu se consideră vechime în muncă și nu se ia în calcul la stabilirea salariului sau a pensiei.
-- Măsura ar putea afecta profesorii care vor să participe la examenul de definitivat sau la gradul didactic I sau II, care necesită o anumită vechime în învățământ.
-- Sindicatele au calificat ordonanța drept un atac la dreptul constituțional al angajaților de a face grevă și au anunțat că vor contesta actul normativ în instanță.
-- Președintele Klaus Iohannis a criticat guvernul pentru lipsa de dialog cu sindicatele și a cerut retragerea ordonanței.
-
-**Președintele Federației părinților, Iulian Cristache, critic la adresa Executivului: Declarația vine ca nuca-n perete, nu faci altceva decât să învrăjbești întregul corp profesoral. Profesorii au cerut creșteri care se apropie de inflație, dacă nici măcar inflația nu le dăm, înseamnă că atunci vorbi...**
-
-- Iulian Cristache, președintele Federației Naționale a Asociațiilor de Părinți (FNAP), a declarat că susține revendicările profesorilor și că guvernul ar trebui să găsească soluții pentru a îmbunătăți situația din educație.
-- Cristache a criticat declarația premierului Nicolae Ciucă, care a spus că profesorii ar trebui să fie recunoscători pentru că au primit salarii pe timpul pandemiei, când mulți români au rămas fără locuri de muncă.
-- Cristache a spus că declarația premierului este nepotrivită și ofensatoare și că nu face decât să încingă spiritele într-un moment delicat.
-- Cristache a mai spus că profesorii au cerut creșteri salariale care se apropie de inflație și că dacă nici măcar inflația nu le dăm, înseamnă că atunci vorbim despre o diminuare reală a veniturilor.
+- Articolul relatează despre a șasea zi consecutivă de grevă generală în educație, care afectează peste 4 milioane de elevi și peste 200.000 de angajați din sistem.
+- Articolul critică atitudinea guvernului Ciucă, care nu a venit cu nicio ofertă concretă pentru a rezolva conflictul și care a amânat rotativa guvernamentală din cauza crizei din educație.
+- Articolul susține că guvernul cunoaște solicitările sindicatelor de circa 6 luni, dar le-a ignorat sau le-a respins pe motiv că nu există resurse bugetare suficiente pentru a le acorda.
+- Articolul prezintă câteva dintre revendicările sindicatelor, cum ar fi majorarea salariilor cu 25%, eliminarea impozitului pe venit pentru personalul didactic și nedidactic, creșterea alocațiilor pentru elevi și studenți sau modificarea legii educației.
 
 ## 🏫 Despre greva profesorilor
 
-- Greva profesorilor este cea mai amplă mișcare sindicală din educație din ultimii 18 ani și exprimă nemulțumirea față de politica guvernamentală în domeniu.
-- Profesorii solicită respectarea legii salarizării unitare, care prevede majorarea salariilor cu 25% în 2023, precum și respectarea legii educației naționale, care prevede finanțarea educației cu 6% din PIB.
-- Guvernul nu a venit cu nicio propunere concretă pentru a rezolva conflictul și a adoptat o ordonanță controversată care afectează vechimea profesorilor care fac grevă.
-- Greva profesorilor are sprijinul părinților și al președintelui Klaus Iohannis, care au cerut guvernului să retragă ordonanța și să dialogheze cu sindicatele.
+- Greva profesorilor este cea mai amplă mișcare de protest din educație din ultimii 18 ani și exprimă nemulțumirea față de situația salarială și legislativă din domeniu.
+- Greva profesorilor are consecințe majore asupra desfășurării anului școlar și a examenelor naționale, care ar putea fi amânate sau anulate dacă nu se ajunge la o soluție rapidă.
+- Greva profesorilor este susținută de majoritatea sindicatelor din educație, care au organizat mai multe acțiuni de protest în ultimele luni și care au încercat să negocieze cu guvernul fără succes.
+- Greva profesorilor este ignorată sau sfidată de guvernul Ciucă, care nu a venit cu nicio propunere satisfăcătoare pentru a rezolva conflictul și care a amânat rotativa guvernamentală din cauza crizei din educație.
 
 
 <sub><sub>Acest text a fost generat automat de BingAI folosind ultimele informatii de pe Edupedu, precum si de pe alte site-uri de stiri. Deci, nu te baza pe el pentru a lua decizii importante :)</sub></sub>
