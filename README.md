@@ -1,31 +1,31 @@
 # 👩‍🏫 Totul despre greva
-<sub>Ultima actualizare: 30/05/2023 13:12:51</sub>
+<sub>Ultima actualizare: 30/05/2023 14:10:29</sub>
 
 <sub>Disclaimer: Tine minte sa verifici si sursele de actualitate. Acest site este doar un instrument de indrumare: nu il lua ad litteram - poate produce informatii partial gresite :)</sub>
 
-**LIVE  VIDEO FOTO Peste  15.000 de persoane s-au adunat la protestul din București, la care sunt așteptați 20.000 de angajați din educație / Manifestanții au pornit în marș spre Cotroceni / “O lume minunată, România educată, școala abandonată”**
-- Articolul relatează despre protestul organizat de sindicatele din educație pe 30 mai 2023 în București, la care au participat peste 15.000 de persoane.
-- Protestatarii au cerut majorarea salarială a profesorilor până la finalul anului și garantarea prin lege a salariului minim egal cu salariul mediu brut pe economie pentru profesorii debutanți.
-- Protestatarii au plecat din Piața Victoriei în jurul orei 15:00 și au mers către Palatul Cotroceni, unde au cerut o întâlnire cu președintele României pentru a media conflictul cu Guvernul.
-- Articolul conține imagini și video de la protest și declarații ale liderilor sindicali și ale unor participanți.
+**SURSE Președintele Klaus Iohannis îi primește azi la discuții pe liderii de sindicat din Educație**
+- Președintele Klaus Iohannis a convocat o întâlnire cu liderii de sindicat din Educație pentru marți, 30 mai, la ora 15:00, la Palatul Cotroceni.
+- Scopul întâlnirii este de a discuta despre situația din sistemul de învățământ și despre revendicările sindicaliștilor care au declanșat o grevă generală pe termen nelimitat.
+- Sindicaliștii cer majorarea salariilor cu 60%, finanțarea educației cu 6% din PIB și respectarea legii salarizării unitare.
+- Întâlnirea vine după ce negocierile dintre sindicate și Guvern au eșuat luni seara, iar profesorii au anunțat că vor continua protestele.
 
-**VIDEO Elevii din Constanța au ajuns la protestul profesorilor din fața Guvernului cu un banner: Ciucă și Ciolacu, haideți cu noi să vă dați Bacu’**
-- Articolul prezintă un grup de elevi din Constanța care au venit la protestul profesorilor din fața Guvernului cu un banner provocator: Ciucă și Ciolacu, haideți cu noi să vă dați Bacu’.
-- Elevii au spus că susțin revendicările profesorilor și că nu se tem de amânarea examenelor, ci de subfinanțarea sistemului educațional.
-- Elevii au transmis un mesaj guvernanților: „Elevii sunt cu voi! Transmiteți acestora!”
-- Articolul conține un video cu elevii și bannerul lor.
+**LIVE VIDEO FOTO Peste 20.000 de angajați din educație au pornit în marș spre Cotroceni / “O lume minunată, România educată, sticlă”, printre mesajele protestatarilor care solicită guvernanților creșterea salariilor și finanțarea Educației**
+- Peste 20.000 de angajați din educație au participat marți la un miting și un marș de protest în București, pentru a cere Guvernului să le crească salariile și să finanțeze corespunzător sistemul de învățământ.
+- Protestatarii au plecat de la sediul Ministerului Educației și s-au îndreptat spre Palatul Cotroceni, unde președintele Klaus Iohannis îi primea pe liderii de sindicat la discuții.
+- Pe pancartele și bannerele purtate de manifestanți se puteau citi mesaje precum: “O lume minunată, România educată, sticlă”, “Educația nu se negociază”, “Nu vrem carduri cadou, vrem salarii decente”, “Educația este viitorul României”.
+- Sindicaliștii au declarat că nu vor renunța la greva generală până când nu vor primi soluții concrete și credibile din partea autorităților.
 
-**Mărturii ale unor profesori veniți în Piața Victoriei, la miting: Se pare că nu doresc să comunice deloc și nu doresc să rezolve problema, ci doar să tergiverseze întreaga situație / Sperăm ca președintele să fie la Cotroceni, el în mod normal ar trebui să vină să medieze, poate chiar la un moment d...**
-- Articolul conține mărturii ale unor profesori veniți la mitingul din Piața Victoriei, care își exprimă nemulțumirea față de atitudinea Guvernului față de revendicările lor.
-- Profesorii spun că nu au primit niciun răspuns concret de la ministrul Muncii sau de la prim-ministru și că se simt ignorați și batjocoriți.
-- Profesorii speră ca președintele să fie la Cotroceni și să vină să medieze conflictul, poate chiar la un moment dat să se alăture lor în marș.
-- Articolul conține declarații ale unor profesori din diferite județe.
+**VIDEO „Părinții susțin profesorii” – mesaj aplaudat de cadrele didactice participante la miting**
+- Un grup de părinți a venit marți la mitingul profesorilor din București pentru a le arăta solidaritatea și sprijinul față de revendicările acestora.
+- Părinții au afișat un banner pe care scria: “Părinții susțin profesorii”, iar mesajul lor a fost aplaudat de cadrele didactice prezente la protest.
+- Unul dintre părinți a declarat că este important ca profesorii să fie respectați și apreciați pentru munca lor și că educația este prioritară pentru dezvoltarea copiilor și a societății.
+- Un alt părinte a spus că este revoltat de modul în care Guvernul tratează sistemul de învățământ și că este dispus să își țină copilul acasă până când profesorii vor obține ceea ce cer.
 
 ## 🏫 Despre greva profesorilor
-- Greva profesorilor este un protest masiv al angajaților din educație care cere o majorare salarială semnificativă și o lege a salarizării unitare care să asigure echitatea între categoriile de personal didactic.
-- Greva a început pe 25 mai 2023 și a continuat pe 30 mai 2023, când s-au organizat mitinguri în toată țara, cel mai mare fiind cel din București, unde au participat peste 15.000 de persoane.
-- Greva a determinat amânarea examenelor naționale pentru elevii claselor terminale (evaluarea națională și bacalaureatul), care vor avea loc în iunie 2023.
-- Greva nu a avut până acum niciun rezultat concret din partea Guvernului sau a președintelui României, care nu au oferit nicio soluție acceptabilă pentru sindicatele din educație.
+- Greva profesorilor a început pe 22 mai și continuă pe termen nelimitat, după ce negocierile cu Guvernul nu au dus la niciun rezultat satisfăcător pentru sindicate.
+- Profesorii cer majorarea salariilor cu 60%, respectarea legii salarizării unitare și alocarea a 6% din PIB pentru educație.
+- Guvernul le-a oferit profesorilor carduri cadou de 2.500 de lei în două tranșe, dar această propunere a fost respinsă ca fiind jignitoare și insuficientă.
+- Președintele Klaus Iohannis a intervenit în conflict și i-a primit pe liderii de sindicat la discuții la Palatul Cotroceni, dar nu se cunoaște dacă s-a ajuns la vreo soluție.
 
 
 <sub><sub>Acest text a fost generat automat de BingAI folosind ultimele informatii de pe Edupedu, precum si de pe alte site-uri de stiri. Deci, nu te baza pe el pentru a lua decizii importante :)</sub></sub>
