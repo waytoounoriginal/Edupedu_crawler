@@ -1,33 +1,35 @@
 # 👩‍🏫 Totul despre greva
-<sub>Ultima actualizare: 30/05/2023 21:15:11</sub>
+<sub>Ultima actualizare: 30/05/2023 22:10:03</sub>
 
 <sub>Disclaimer: Tine minte sa verifici si sursele de actualitate. Acest site este doar un instrument de indrumare: nu il lua ad litteram - poate produce informatii partial gresite :)</sub>
 
 **Încheierea mediilor pentru clasele a VIII-a și a XII-a a fost prelungită până pe 9 iunie, la fel ca înscrierea pentru Bacalaureat, anunță Ministerul Educației în contextul grevei generale care continuă în școli**
 
-- Ministerul Educației a publicat în Monitorul Oficial un ordin care prelungește termenul de încheiere a mediilor pentru elevii din clasele din anii terminali, care au examenele naționale, în contextul grevei generale[^2^] [^4^].
-- Situația școlară a elevilor din clasa a XII-a zi se poate încheia până la data de 9 iunie 2023, iar perioada de înscrieri pentru BAC s-au prelungit tot până la data de 9 iunie 2023[^2^] [^3^]. Inițial termenul limită era 7 iunie[^2^].
-- Pentru clasele a VIII-a, anul școlar are 33 de săptămâni de cursuri și se încheie la data de 3 iunie 2022[^1^] [^2^] [^3^].
+- Ministerul Educației a anunțat că termenul de încheiere a mediilor pentru clasele a VIII-a și a XII-a se prelungește până pe 9 iunie, din cauza grevei generale din sistemul de învățământ.
+- De asemenea, termenul de înscriere la examenul de Bacalaureat se prelungește până pe 10 iunie, iar probele scrise vor începe pe 19 iunie.
+- Ministerul Educației spune că aceste măsuri sunt necesare pentru a asigura desfășurarea în condiții optime a evaluărilor naționale și pentru a nu afecta drepturile elevilor.
+- Greva profesorilor a început pe 22 mai și continuă pe termen nelimitat, după ce sindicatele au respins oferta Guvernului de acordare a unor carduri de 2.500 de lei în două tranșe.
 
 **Nu vă bateți joc de noi, nu ne vindeți, nu cedăm – mesajul unui profesor protestatar către liderul FSLI, Simion Hăncescu, la ieșirea de la discuțiile cu Iohannis**
 
-- Un profesor protestatar i-a adresat un mesaj ferm și direct liderului FSLI, Simion Hancescu, la ieșirea de la discuțiile cu președintele Klaus Iohannis: “Nu vă bateți joc de noi, nu ne vindeți, nu cedăm”[^5^].
-- Profesorul l-a întrebat pe Simion Hancescu ce a discutat cu șeful statului. Acesta i-a spus că s-a angajat să gireze un acord, în cazul în care se va accepta[^5^].
-- Mesajul președintelui Iohannis a fost că nu se pot da majorări salariale de la 1 iunie, potrivit liderului sindical Simion Hăncescu[^5^] [^7^].
+- Un profesor protestatar i-a transmis un mesaj dur liderului Federației Sindicatelor Libere din Învățământ (FSLI), Simion Hăncescu, la ieșirea de la discuțiile cu președintele Klaus Iohannis.
+- Profesorul i-a reproșat lui Hăncescu că nu reprezintă interesele reale ale cadrelor didactice și că ar fi dispus să accepte o ofertă insuficientă din partea Guvernului.
+- Profesorul i-a cerut lui Hăncescu să nu se bată joc de colegii săi, să nu-i vândă și să nu cedeze presiunilor politice.
+- Hăncescu a declarat că discuțiile cu Iohannis au fost constructive și că președintele le-a promis că va face tot posibilul să găsească o soluție pentru majorarea salariilor din învățământ.
 
 **Mesajul președintelui Iohannis a fost că nu se pot da majorări salariale de la 1 iunie, potrivit liderului sindical Simion Hăncescu**
 
-- Președintele Klaus Iohannis a avut o întâlnire cu reprezentanții celor trei federații sindicale din educație: FSLI, FSE Spiru Haret și Alma Mater[^7^].
-- În urma discuțiilor, liderul FSLI, Simion Hăncescu, a declarat că mesajul președintelui a fost că nu se pot da majorări salariale de la 1 iunie[^7^].
-- Președintele s-a angajat să gireze un acord politic între guvern și sindicate, în cazul în care se va accepta oferta guvernamentală[^7^].
-- Sindicatele au respins oferta guvernului care consta în acordarea unor prime de 4000 de lei și elaborarea unei noi legi a salarizării unitare până la 15 iulie[^7^].
+- Liderul FSLI, Simion Hăncescu, a declarat că mesajul președintelui Klaus Iohannis după întâlnirea cu sindicatele din învățământ a fost că nu se pot da majorări salariale de la 1 iunie, din cauza constrângerilor bugetare.
+- Hăncescu a spus că Iohannis le-a explicat că Guvernul trebuie să respecte legea responsabilității fiscal-bugetare și să mențină deficitul bugetar sub 3% din PIB.
+- Hăncescu a mai spus că Iohannis le-a promis că va face demersuri pentru ca Legea salarizarii unitare să fie modificată astfel încât să prevadă creșteri salariale pentru personalul didactic și nedidactic din învățământ.
+- Hăncescu a mai spus că sindicatele vor continua greva generală până când vor primi o ofertă concretă și satisfăcătoare din partea Guvernului.
 
 ## 🏫 Despre greva profesorilor
 
-- Greva profesorilor a început pe 29 mai și continuă până la obținerea unui acord satisfăcător privind majorarea salarială de la 1 iunie[^5^] [^7^].
-- Sindicatele cer aplicarea legii salarizării unitare care prevede o creștere salarială de 25% pentru personalul didactic și nedidactic din educație[^7^].
-- Guvernul propune acordarea unor prime de 4000 de lei și elaborarea unei noi legi a salarizării unitare până la 15 iulie, dar sindicatele consideră că aceste măsuri sunt insuficiente și amânate[^7^].
-- Președintele Klaus Iohannis susține că nu se pot da majorări salariale de la 1 iunie și îndeamnă sindicatele să accepte oferta guvernului și să sprijine proiectul România Educată[^7^] [^8^].
+- Greva profesorilor este cea mai amplă mișcare de protest din sistemul de învățământ din ultimii 18 ani și afectează milioane de elevi și peste 200.000 de angajați din domeniu.
+- Revendicarea principală a sindicaliștilor este majorarea salariilor cu aproximativ 60%, astfel încât un profesor debutant să ajungă la nivelul salariului mediu pe economie (4.500 de lei), iar un profesor cu grad didactic I să primească 7.000 de lei în mână.
+- Guvernul le-a propus profesorilor acordarea unor carduri de 2.500 de lei în două tranșe (1.000 de lei în iunie și 1.500 de lei în octombrie), dar această ofertă a fost respinsă ca fiind jignitoare și insuficientă.
+- Negocierile dintre sindicate și autorități sunt blocate, iar președintele Klaus Iohannis s-a implicat personal în medierea conflictului, dar fără rezultate concrete până acum.
 
 
 <sub><sub>Acest text a fost generat automat de BingAI folosind ultimele informatii de pe Edupedu, precum si de pe alte site-uri de stiri. Deci, nu te baza pe el pentru a lua decizii importante :)</sub></sub>
