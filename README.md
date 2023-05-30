@@ -1,34 +1,34 @@
 # 👩‍🏫 Totul despre greva
-<sub>Ultima actualizare: 30/05/2023 23:13:30</sub>
+<sub>Ultima actualizare: 31/05/2023 00:10:49</sub>
 
 <sub>Disclaimer: Tine minte sa verifici si sursele de actualitate. Acest site este doar un instrument de indrumare: nu il lua ad litteram - poate produce informatii partial gresite :)</sub>
 
 **Surse: Iohannis ar fi insistat, în discuțiile cu liderii de sindicat, pe oferta repetată a guvernului și le-ar fi cerut să sprijine România Educată și să pună muzică veselă pe fundal când comunică**
 
-- Articolul relatează despre întâlnirea dintre președintele Klaus Iohannis și liderii sindicatelor din educație, care au avut loc la Palatul Cotroceni, în contextul grevei generale a profesorilor.
-- Potrivit surselor citate de autor, Iohannis ar fi insistat pe oferta guvernului de a acorda o primă de 4000 de lei profesorilor și de a majora salariile cu 8% de la 1 ianuarie 2024.
-- De asemenea, Iohannis le-ar fi cerut liderilor sindicali să sprijine proiectul România Educată și să pună muzică veselă pe fundal când comunică cu presa sau cu membrii lor de sindicat.
-- Liderii sindicali au declarat că nu sunt mulțumiți de oferta guvernului și că vor continua protestele până la obținerea unor majorări salariale de la 1 iunie 2023.
+- Articolul relatează despre întâlnirea dintre președintele Klaus Iohannis și liderii sindicali din educație, care a avut loc pe 24 mai 2023, la Palatul Cotroceni.
+- Potrivit unor surse citate de Edupedu.ro, Iohannis ar fi insistat pe oferta guvernului de a acorda un card de 2.500 de lei pentru profesori, în două tranșe, și le-ar fi cerut să sprijine proiectul România Educată.
+- De asemenea, Iohannis le-ar fi sugerat liderilor sindicali să pună muzică veselă pe fundal când comunică cu presa sau cu membrii lor, pentru a transmite un mesaj pozitiv și de încredere.
+- Liderii sindicali au respins oferta guvernului și au anunțat că vor continua greva generală până când vor obține o majorare salarială de 60% pentru toți angajații din educație.
 
 **Încheierea mediilor pentru clasele a VIII-a și a XII-a a fost prelungită până pe 9 iunie, la fel ca înscrierea pentru Bacalaureat, anunță Ministerul Educației în contextul grevei generale care continuă în școli**
 
-- Articolul anunță că Ministerul Educației a publicat în Monitorul Oficial un ordin prin care prelungește termenul de încheiere a mediilor pentru elevii din clasele din anii terminali, care au examenele naționale, în contextul grevei generale.
-- Astfel, situația școlară a elevilor din clasa a XII-a zi se poate încheia până la data de 9 iunie 2023, iar perioada de înscrieri pentru BAC s-au prelungit tot până la data de 9 iunie 2023.
-- Inițial termenul limită era 7 iunie. Modificările nu afectează calendarul de desfășurare a probelor de evaluare a competențelor sau a probelor scrise din cadrul examenului de Bacalaureat 2023 sau calendarul de desfășurare a probelor scrise ale Evaluării Naționale pentru absolvenții clasei a VIII-a.
+- Articolul informează despre decizia Ministerului Educației de a prelungi termenele pentru încheierea mediilor pentru clasele a VIII-a și a XII-a și pentru înscrierea la examenul de Bacalaureat, din cauza grevei generale din învățământ.
+- Inițial, termenele erau stabilite pentru 31 mai 2023, dar au fost amânate până pe 9 iunie 2023, pentru a nu afecta drepturile elevilor care vor susține evaluările naționale.
+- Ministerul Educației precizează că prelungirea termenelor nu va modifica calendarul examenelor naționale și că va monitoriza situația din școli pentru a asigura desfășurarea normală a acestora.
 
 **Nu vă bateți joc de noi, nu ne vindeți, nu cedăm – mesajul unui profesor protestatar către liderul FSLI, Simion Hăncescu, la ieșirea de la discuțiile cu Iohannis**
 
-- Articolul prezintă mesajul unui profesor protestatar care i-a adresat liderului Federației Sindicatelor Libere din Învățământ (FSLI), Simion Hancescu, la ieșirea de la discuțiile cu președintele Klaus Iohannis.
-- Profesorul i-a spus lui Hancescu: “Nu vă bateți joc de noi, nu ne vindeți, nu cedăm” și l-a întrebat ce au obținut la negocieri.
-- Liderul FSLI i-a răspuns că președintele s-a angajat să gireze un acord, în cazul în care se va accepta oferta guvernului.
-- Profesorul a remarcat că este vorba doar de o promisiune, ca până acum. La ieșirea de la negocieri, protestarii scandau: “Grevă, grevă”.
+- Articolul prezintă reacția unui profesor protestatar care a participat la întâlnirea dintre președintele Klaus Iohannis și liderii sindicali din educație, care a avut loc pe 24 mai 2023, la Palatul Cotroceni.
+- Profesorul este membru al Federației Sindicatelor Libere din Învățământ (FSLI), condusă de Simion Hăncescu, și îl acuză pe acesta că ar fi acceptat oferta guvernului de a acorda un card de 2.500 de lei pentru profesori, în două tranșe.
+- Profesorul îi transmite lui Hăncescu că nu reprezintă interesele profesorilor și că nu are mandat să negocieze în numele lor. El îi cere să nu se bată joc de ei, să nu îi vândă și să nu cedeze presiunilor politice.
+- Profesorul declară că va continua greva generală până când va obține o majorare salarială de 60% pentru toți angajații din educație.
 
 ## 🏫 Despre greva profesorilor
 
-- Greva profesorilor este un protest declanșat pe 30 mai 2023 și continuat până în prezent, care vizează obținerea unor majorări salariale de la 1 iunie 2023 și respectarea legii salarizarii unitare.
-- Profesorii cer o creștere salarială cu 25% față de nivelul actual și o primire egalitară cu ceilalți bugetari. Ei susțin că salariile lor sunt cele mai mici din Uniunea Europeană și că nu reflectă munca depusă și importanța educației.
-- Guvernul le oferă profesorilor o primă de 4000 de lei și o majorare salarială cu 8% de la 1 ianuarie 2024. El argumentează că nu are resurse bugetare suficiente pentru a acorda majorările solicitate și că trebuie să respecte limitele deficitului impuse de Comisia Europeană.
-- Negocierile dintre guvern și sindicatele din educație nu au dus la nicio soluție până acum. Președintele Klaus Iohannis s-a implicat în dialogul social și a avut întâlniri separate cu reprezentanții celor două părți. El le-a cerut sindicatelor să accepte oferta guvernului și să sprijine proiectul România Educată.
+- Greva profesorilor din România este cea mai amplă mișcare sindicală din ultimii 18 ani și afectează peste 3 milioane de elevi și peste 250.000 de angajați din educație[^1^] [^2^].
+- Profesorii cer o majorare salarială de 60% pentru toți angajații din educație, precum și respectarea legii privind finanțarea sistemului educațional cu cel puțin 6% din PIB[^1^] [^2^] [^4^].
+- Guvernul le-a propus profesorilor un card de 2.500 de lei, în două tranșe, care ar putea fi folosit pentru achiziționarea de materiale didactice sau alte cheltuieli legate de activitatea profesională[^1^] [^2^] [^5^].
+- Oferta guvernului a fost respinsă de liderii sindicali, care au anunțat că vor continua greva generală până când vor obține o soluție corectă și decentă[^1^] [^2^] [^5^].
 
 
 <sub><sub>Acest text a fost generat automat de BingAI folosind ultimele informatii de pe Edupedu, precum si de pe alte site-uri de stiri. Deci, nu te baza pe el pentru a lua decizii importante :)</sub></sub>
