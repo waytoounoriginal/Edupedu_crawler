@@ -1,31 +1,31 @@
 # 👩‍🏫 Totul despre greva
-<sub>Ultima actualizare: 31/05/2023 12:13:02</sub>
+<sub>Ultima actualizare: 31/05/2023 13:13:33</sub>
 
 <sub>Disclaimer: Tine minte sa verifici si sursele de actualitate. Acest site este doar un instrument de indrumare: nu il lua ad litteram - poate produce informatii partial gresite :)</sub>
 
-**FOTO VIDEO Profesorii protestează și miercuri în orașele țării – peste 1.000 de manifestanți la Constanța, demonstrații și la Pitești, Sighetul Marmației, Galați, Buzău, Drobeta-Turnu Severin, Iași**
-- Articolul prezintă imagini și informații despre protestele profesorilor din mai multe orașe ale României, care au avut loc miercuri, 31 mai 2023.
-- Profesorii cer majorări salariale de 25%, egalarea salariului debutantului cu cel mediu pe economie și garantarea acestor drepturi prin legea salarizării.
-- Articolul menționează că profesorii au discutat cu premierul Nicolae Ciucă și cu președintele Klaus Iohannis, dar nu au ajuns la o înțelegere.
-- Articolul citează declarații ale liderilor sindicali și ale ministrului Educației, Ligia Deca.
+**De ce educația riscă să intre în colaps fără salarii mărite: veniturile sunt umilitoare, absolvenții buni fug de catedră, profesorii sunt îmbătrâniți, în școli sunt sute de pensionari sau necalificați**
+- Articolul prezintă o serie de probleme grave ale sistemului educațional din România, care ar putea duce la un colaps al acestuia dacă nu se iau măsuri urgente.
+- Printre problemele menționate se numără: salariile mici și neechitabile ale profesorilor, care nu acoperă nici măcar rata inflației; lipsa de interes și de motivație a absolvenților buni pentru cariera didactică; îmbătrânirea personalului din învățământ și lipsa de resurse umane calificate; prezența în școli a unui număr mare de pensionari sau de persoane necalificate; scăderea nivelului de cunoștințe și de competențe ale elevilor; lipsa de investiții în infrastructura și dotarea școlilor; segregarea socială și abandonul școlar.
+- Articolul citează date statistice și studii care susțin aceste afirmații și oferă câteva exemple concrete de situații dramatice din școli.
+- Articolul conchide că educația este o prioritate națională și că este nevoie de o reformă profundă și de o creștere semnificativă a salariilor profesorilor pentru a salva sistemul educațional din România.
 
-**BREAKING Sindicatele profesorilor au decis să nu semneze niciun acord: Avem nevoie de majorări, nu de vouchere / Greva continuă în școli**
-- Articolul anunță că sindicatele profesorilor au refuzat oferta Guvernului de a acorda vouchere de 2.500 de lei pentru cadrele didactice și de 1.000 de lei pentru personalul nedidactic.
-- Sindicaliștii consideră oferta „jignitoare” și spun că vor continua greva până la obținerea unor soluții „corecte și decente”.
-- Articolul relatează că peste 10.000 de profesori au protestat marți, 30 mai, în Piața Victoriei din București și au mers în marș spre Palatul Cotroceni, unde au fost primiți de președintele Iohannis.
-- Articolul precizează că președintele le-a promis profesorilor că va gira un acord politic care să le rezolve doleanțele prin legea salarizării.
+**Deputați USR au adus în ședința de plen pancarte ale profesorilor de la protestele din stradă: “Vrem o țară ca afară, dar la noi în țară” / “Nu suntem cerșetori, suntem educatori”**
+- Articolul relatează despre acțiunea unor parlamentari USR care au afișat în plenul Camerei Deputaților pancarte cu mesaje ale profesorilor care au protestat marți în București pentru creșterea salariilor.
+- Printre mesajele afișate se numără: “Nu suntem cerșetori, suntem educatori”, “Școala de azi este România de mâine”, “Vrem educație ca afară dar la noi în țară”, “Natura ne aseamănă, educația ne deosebește”.
+- Articolul menționează că liderul grupului USR, Ionuț Moșteanu, a declarat că a vrut să aducă mesajul străzii în Parlament și să le ceară pesediștilor și peneliștilor să discute și să dezbată în plen, nu în spatele ușilor închise.
+- Articolul mai spune că parlamentarii PSD au reacționat nervos la gestul celor de la USR și i-au dat afară din sala unde se aflau împreună cu ministrul Justiției Cătălin Predoiu.
 
-**“Suntem alături de profesori” – mesaj scris pe o pancartă la defilarea elevilor de clasa a XII-a de la Colegiul Național “Gheorghe Lazăr” din Capitală**
-- Articolul descrie gestul de solidaritate al elevilor de clasa a XII-a de la Colegiul Național “Gheorghe Lazăr” din București, care au afișat o pancartă cu mesajul „Suntem alături de profesori” la defilarea lor tradițională.
-- Articolul menționează că elevii au scandat și lozinci în favoarea profesorilor și împotriva Guvernului.
-- Articolul notează că elevii sunt afectați de greva profesorilor, care pune în pericol desfășurarea examenelor naționale.
-- Articolul citează declarații ale unor elevi care susțin revendicările profesorilor și critică atitudinea autorităților.
+**De ce nu mai au încredere profesorii în acorduri politice cu Guvernul? Cum s-a făcut țăndări marele acord din 2018**
+- Articolul explică motivele pentru care profesorii nu mai cred în promisiunile guvernului privind majorarea salariilor și își amintește de acordul semnat în 2018 între sindicatele din educație și coaliția PSD-ALDE.
+- Acel acord prevedea o creștere treptată a salariilor profesorilor până la nivelul salariului mediu brut pe economie, precum și alte măsuri privind condițiile de muncă, finanțarea educației și dialogul social.
+- Articolul arată că acordul nu a fost respectat integral nici de guvernul Dăncilă, nici de guvernul Orban, care au invocat diverse motive bugetare sau juridice pentru a amâna sau reduce creșterile salariale promise.
+- Articolul mai spune că profesorii sunt dezamăgiți și revoltați de atitudinea guvernanților față de sistemul educațional și că vor continua protestele până când vor obține drepturile cuvenite.
 
 ## 🏫 Despre greva profesorilor
-- Greva profesorilor din România a început pe 22 mai 2023 și este prima din ultimii 18 ani.
-- Profesorii revendică majorarea salariilor cu 25%, egalarea salariului debutantului cu cel mediu pe economie și garantarea acestor drepturi prin legea salarizării.
-- Guvernul le-a oferit profesorilor vouchere de 2.500 de lei pentru cadrele didactice și de 1.000 de lei pentru personalul nedidactic, dar această ofertă a fost respinsă ca fiind „jignitoare”.
-- Profesorii au protestat în mai multe orașe ale țării și au fost primiți de premierul Nicolae Ciucă și de președintele Klaus Iohannis, dar nu au ajuns la o înțelegere. Ei beneficiază de sprijinul elevilor și al părinților.
+- Greva profesorilor este o mișcare sindicală declanșată pe 22 mai 2023 pentru a cere majorarea salariilor cu cel puțin 20% și respectarea acordului din 2018.
+- Greva este susținută de Federația Sindicatelor Libere din Învățământ (FSLI) și Federația Sindicatelor din Educație „Spiru Haret” (FSE-SH), care reprezintă peste 80% dintre angajații din educație.
+- Greva constă în blocarea activității didactice prin neprezentarea la ore a profesorilor sau prin organizarea unor activități alternative cu elevii. Sindicatele au anunțat că greva va continua până când vor primi un răspuns satisfăcător din partea guvernului.
+- Greva este considerată cea mai amplă mișcare sindicală din educație din ultimii ani. Pe 23 mai, peste 20.000 de profesori au participat la un miting de protest la București. Sindicatele au amenințat cu noi acțiuni dacă nu se ajunge la o soluție.
 
 
 <sub><sub>Acest text a fost generat automat de BingAI folosind ultimele informatii de pe Edupedu, precum si de pe alte site-uri de stiri. Deci, nu te baza pe el pentru a lua decizii importante :)</sub></sub>
