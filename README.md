@@ -1,35 +1,32 @@
 # 👩‍🏫 Totul despre greva
-<sub>Ultima actualizare: 31/05/2023 14:11:31</sub>
+<sub>Ultima actualizare: 31/05/2023 15:23:11</sub>
 
 <sub>Disclaimer: Tine minte sa verifici si sursele de actualitate. Acest site este doar un instrument de indrumare: nu il lua ad litteram - poate produce informatii partial gresite :)</sub>
 
+**Daniel Funeriu: Norocul președintelui Iohannis este că ridicolul nu omoară / Pentru a le vorbi profesorilor, trebuie să ai autoritate intelectuală și morală. Nu poți, ca guvern, să le spui „aici nu e piață de negociat”. Nu le spui asta profesorilor**
+- Articolul este un comentariu al fostului ministru al Educației Daniel Funeriu la Euronews, în contextul protestelor de stradă ale profesorilor și angajaților în Educație din 31 mai 2023[^1^].
+- Funeriu critică discursul președintelui Iohannis care a promis o Românie educată, dar nu a făcut nimic pentru a moderniza sistemul de învățământ în cei nouă ani de mandat[^1^].
+- Funeriu susține că modernizarea a avut loc în perioada 2009-2012, când el a fost ministru și a implementat Legea educației nr. 1/2011 derivată din Raportul Comisiei Prezidențiale condusă de Mircea Miclea[^1^].
+- Funeriu afirmă că revendicările profesorilor nu sunt doar despre salarii, ci și despre poziția socială a acestora, care a fost afectată de mafiile pesediste care au distrus reformele inițiate de el[^1^].
+- Funeriu îi reproșează președintelui că nu are autoritate intelectuală și morală pentru a vorbi profesorilor și că le-a spus că „aici nu e piață de negociat”, ceea ce consideră o jignire[^1^].
+
+**UPDATE FOTO VIDEO Profesorii protestează și miercuri în orașele țării – peste 1.000 de manifestanți la Constanța, demonstrații și la Pitești, Suceava, Bistrița, Hunedoara, Sighetu Marmației, Galați, Buzău, Drobeta-Turnu Severin, Iași**
+- Articolul este o relatare a protestelor organizate de profesori și angajați în Educație în mai multe orașe din țară pe 1 iunie 2023[^2^].
+- Protestatarii cer majorarea salariilor cu 25%, acordarea voucherelor de vacanță pentru anul 2022 și 2023, plata orelor suplimentare și deblocarea posturilor din sistem[^2^].
+- Protestele au loc după ce Guvernul a respins revendicările sindicatelor din Educație și le-a transmis că nu există fonduri pentru creșterea salariilor[^2^].
+- În București au ieșit în stradă marți peste 20.000 de persoane, iar miercuri au fost organizate mitinguri și marșuri în alte orașe precum Constanța (peste 1.000 de participanți), Pitești (circa 500), Suceava (circa 300), Bistrița (circa 200), Hunedoara (circa 200), Sighetu Marmației (circa 150), Galați (circa 100), Buzău (circa 100), Drobeta-Turnu Severin (circa 100) sau Iași (circa 50)[^2^].
+
 **Klaus Iohannis le-a solicitat liderilor coaliției să prezinte în cel mai scurt timp măsurile pe care Guvernul le poate adopta, astfel încât calendarul susținerii examenelor naționale să nu fie afectat**
-
-- Președintele României a participat la un summit european în Islanda și a declarat că se așteaptă ca negocierile pentru împărțirea ministerelor în viitorul guvern să se finalizeze până săptămâna viitoare.
-- El a subliniat că este nevoie ca procedurile parlamentare pentru învestirea noului cabinet, condus de Marcel Ciolacu, să se încheie în câteva zile, astfel ca noul guvern să-și intre rapid în atribuții.
-- El a spus că educația este un domeniu prioritar și că trebuie să se găsească soluții pentru a evita perturbarea examenelor naționale din cauza grevei profesorilor.
-- El a atras atenția asupra situației tensionate din Ucraina și a cerut solidaritate europeană și sprijin pentru țara vecină.
-
-**Nicolae Ciucă și Marcel Ciolacu i-au chemat pe sindicaliștii din Educație la o altă rundă de negocieri, începând cu 13:30/ Noua ofertă a Guvernului: Creșterea etapizată a salariului unui debutant până la 4.000 de lei în următorii trei ani**
-
-- Premierul Nicolae Ciucă și liderul PSD Marcel Ciolacu au invitat liderii celor trei federații sindicale din educație la o nouă întâlnire la Palatul Victoria, după ce discuțiile anterioare nu au dus la o soluție acceptabilă pentru ambele părți.
-- Noua ofertă a guvernului prevede o creștere etapizată a salariului unui profesor debutant cu studii superioare de la 2.399 de lei la 4.000 de lei în următorii trei ani, precum și o majorare procentuală pentru ceilalți angajați din sistem.
-- Sindicaliștii au respins oferta ca fiind insuficientă și au menținut revendicarea ca salariul unui profesor debutant să fie egal cu salariul mediu brut pe economie, adică aproximativ 5.500 de lei.
-- Ei au anunțat că vor continua greva generală declanșată luni și că vor organiza un miting cu 15.000 de participanți joi în fața Guvernului.
-
-**De ce educația riscă să intre în colaps fără salarii mărite: veniturile sunt umilitoare, absolvenții buni fug de catedră, profesorii sunt îmbătrâniți, în școli sunt sute de pensionari sau necalificați**
-
-- Articolul prezintă o serie de argumente care susțin necesitatea unei reforme profunde a educației din România, care să asigure o finanțare adecvată, o valorizare a profesiei didactice și o creștere a calității actului educațional.
-- Printre argumentele invocate se numără: veniturile mici ale profesorilor comparativ cu alte categorii socio-profesionale sau cu media europeană; lipsa de interes a absolvenților buni pentru cariera didactică; îmbătrânirea personalului din învățământ; prezența unui număr mare de pensionari sau necalificați care predau; scăderea nivelului de cunoștințe al elevilor; creșterea abandonului școlar; segregarea socială în educație; infrastructura școlară precară; consumul scăzut de carte; deficiențele de comunicare și exprimare ale românilor etc.
-- Articolul susține că educația este esențială pentru dezvoltarea economică, socială și culturală a unei țări și că România nu își poate permite să rămână la coada Europei în acest domeniu.
-- Articolul critică lipsa de viziune și competență a decidenților politici, care nu au reușit să conceapă și să implementeze o reformă realistă și eficientă a educației.
+- Articolul este un comunicat al Administrației Prezidențiale despre întâlnirea dintre președintele Klaus Iohannis și liderii coaliției de guvernare pe tema situației din Educație pe 31 mai 2023[^3^].
+- Președintele Iohannis le-a cerut liderilor coaliției să găsească soluții pentru a rezolva conflictul cu sindicatele din Educație și pentru a asigura desfășurarea normală a examenelor naționale[^3^].
+- Președintele Iohannis a subliniat importanța educației pentru dezvoltarea României și a reiterat angajamentul său pentru o Românie educată[^3^].
+- Președintele Iohannis a exprimat speranța că Guvernul va găsi resursele financiare necesare pentru a răspunde revendicărilor legitime ale profesorilor și angajaților din Educație[^3^].
 
 ## 🏫 Despre greva profesorilor
-
-- Greva profesorilor este un protest declanșat pe 22 mai 2023 de cele trei federații sindicale din educație (FSLI, Alma Mater și Spiru Haret), care reprezintă aproximativ 80% din personalul din sistem.
-- Scopul grevei este obținerea unei grile de salarizare care să asigure un salariu minim egal cu salariul mediu brut pe economie pentru un profesor debutant cu studii superioare și o majorare procentuală pentru ceilalți angajați din sistem.
-- Greva afectează activitatea didactică din aproximativ 90% din unitățile de învățământ preuniversitar și universitar din România, precum și desfășurarea examenelor naționale (bacalaureat, evaluare națională etc.).
-- Negocierile dintre sindicate și guvern nu au dus până acum la un acord satisfăcător pentru ambele părți, iar sindicaliștii amenință cu radicalizarea protestului dacă nu li se vor îndeplini revendicările.
+- Greva profesorilor este cea mai amplă mișcare sindicală din ultimii 18 ani din sistemul de învățământ românesc[^1^] [^2^].
+- Greva profesorilor este motivată de nemulțumirile legate de salarizare, condițiile de muncă și poziția socială a cadrelor didactice[^1^] [^2^].
+- Greva profesorilor este susținută de majoritatea sindicatelor din Educație și are un grad ridicat de participare la nivel național[^2^].
+- Greva profesorilor pune în pericol desfășurarea examenelor naționale și necesită o intervenție urgentă din partea autorităților pentru a găsi soluții negociate[^3^].
 
 
 <sub><sub>Acest text a fost generat automat de BingAI folosind ultimele informatii de pe Edupedu, precum si de pe alte site-uri de stiri. Deci, nu te baza pe el pentru a lua decizii importante :)</sub></sub>
