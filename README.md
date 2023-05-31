@@ -1,31 +1,36 @@
 # 👩‍🏫 Totul despre greva
-<sub>Ultima actualizare: 31/05/2023 08:12:24</sub>
+<sub>Ultima actualizare: 31/05/2023 09:17:14</sub>
 
 <sub>Disclaimer: Tine minte sa verifici si sursele de actualitate. Acest site este doar un instrument de indrumare: nu il lua ad litteram - poate produce informatii partial gresite :)</sub>
 
-**OFICIAL Perioada pentru susținerea atestatului de către elevii de clasa a XII-a a fost prelungită până pe 23 iunie**
-- Elevii de clasa a XII-a care sunt la clase de bilingv/intensiv se pot înscrie și susține examenul pentru obținerea atestatului de competență lingvistică în perioada 1 mai-23 iunie, potrivit unui ordin publicat în Monitorul Oficial[^1^].
-- Pentru liceenii de la matematică-informatică, examenul de atestare a competențelor profesionale se prelungește până la data de 23 iunie[^1^].
-- Inițial, aceste examene se desfășurau în perioada 1-31 mai[^1^].
-- Ordinul modifică și completează Metodologia de organizare și desfășurare a examenului pentru obținerea atestatului de competență lingvistică pentru absolvenții claselor cu studiu intensiv și bilingv al unei limbi moderne și pentru absolvenții claselor cu predare în limbile minorităților[^2^] [^3^].
+**SURSE G4Media.ro: Președintele Iohannis i-a chemat la Cotroceni pe liderii coaliției de guvernare Ciucă, Ciolacu și Kelemen Hunor pentru a discuta despre revendicările profesorilor**
 
-**Greva generală din școli – ziua 8. Federațiile sindicale anunță că greva continuă, după cel mai mare protest de stradă al angajaților din școli, după întâlnirea cu președintele Iohannis, miercuri au loc proteste în mai multe orașe**
-- Sindicaliștii din Educație vor decide dacă greva generală va continua după ce Guvernul le-a oferit carduri de sprijin și nu măriri salariale[^4^].
-- Între timp, profesorii protestează în Piața Victoriei, unde sunt așteptați 15.000 de oameni[^4^].
-- Angajații din Educație sunt nemulțumiți de plafonarea cheltuielilor de personal, de blocarea salariilor de bază prevăzute de Legea 153/2017, de lipsa sporurilor pentru condiții de muncă și de deficitul de personal[^4^].
-- Revendicările sindicatelor sunt: rezolvarea problemei aplicării integrale a Legii-cadru nr. 153/2017 pentru toate categoriile de salariați din învățământ, creșterea veniturilor personalului din educație, adoptarea normativelor pentru personalul nedidactic și personalul didactic auxiliar, poziționarea personalului din învățământ pe o treaptă net superioară celei actuale în ierarhia funcțiilor bugetare, remedierea anomaliilor actuale în ceea ce privește salarizarea celor care ocupă funcții de conducere, îndrumare și control, instituirea regulii indexării anuale a salariilor personalului plătit din fonduri publice[^4^].
+- Președintele Klaus Iohannis i-a invitat miercuri, 31 mai 2023, pe liderii PSD-PNL-UDMR la Palatul Cotroceni pentru a discuta despre situația din educație, unde sindicatele au declanșat o grevă generală[^1^] [^2^].
+- Invitația președintelui a venit după ce acesta s-a întâlnit marți cu reprezentanții celor trei mari federații sindicale din domeniu: Federația Sindicatelor Libere din Învățământ (FSLI), Federația Sindicatelor din Educație „Spiru Haret” (FSE „Spiru Haret”) și Federația Națională Sindicală „Alma Mater” (FNS „Alma Mater”)[^1^] [^2^].
+- Sindicatele cer majorarea salariilor, indexarea lor cu rata inflației, plata orelor suplimentare și a drepturilor prevăzute de lege și de contractele colective de muncă, precum decontarea navetei sau indemnizația de instalare[^1^] [^2^].
+- Nu se știe încă dacă întâlnirea dintre președinte și liderii coaliției va duce la o soluție care să pună capăt grevei sau dacă aceasta va continua și în zilele următoare[^1^] [^2^].
 
-**Surse: Iohannis ar fi insistat, în discuțiile cu liderii de sindicat, pe oferta repetată a guvernului și le-ar fi cerut să sprijine România Educată și să pună muzică veselă pe fundal când comunică**
-- Nu am găsit niciun articol care să confirme această informație.
-- Surse politice au indicat faptul că președintele Klaus Iohannis a avut o discuție cu liderii coaliției de guvernare pe tema bugetului de stat pentru anul 2021[^10^].
-- Președintele ar fi vrut să se asigure că nu vor exista probleme în coaliție în privința adoptării bugetului, după ce între partenerii de guvernare au apărut mai multe tensiuni[^10^].
-- Singura condiție pusă de Klaus Iohannis ar fi fost ca liberalii să nu cedeze postul de premier, în rest având libertatea să negocieze orice altceva[^11^].
+**Examenele de certificare pentru absolvenții de învățământ profesional și tehnic au loc în perioada 12-23 iunie, potrivit unui ordin publicat în Monitorul Oficial / Calendarul înscrierilor**
+
+- Ordinul nr. 3.770/2023 al ministrului educației stabilește calendarul examenelor de certificare a calificării profesionale a absolvenților din învățământul profesional și tehnic preuniversitar în anul școlar 2021-2022[^6^] [^7^] [^8^].
+- Examenul se organizează pentru nivelurile 3, 4 și 5 de calificare și cuprinde probe practice, scrise și orale/proiecte de absolvire[^6^] [^7^] [^8^].
+- Înscrierea candidaților se face la unitatea de învățământ unde aceștia au absolvit cursurile sau stagiile de pregătire practică[^6^] [^7^] [^8^].
+- Calendarul diferă în funcție de nivelul de calificare, tipul de învățământ (postliceal, liceal sau profesional) și instituția organizatoare (Ministerul Educației sau alte ministere)[^6^] [^7^] [^8^].
+- Examenul se desfășoară în perioada 12-23 iunie pentru absolvenții învățământului liceal filiera tehnologică — nivelul 4 de calificare[^6^] [^7^] [^8^].
+
+**Ministrul de Interne a chemat sindicatele la discuții și le-a anunțat că de la 1 iunie le cresc salariile tuturor celor peste 125.000 de angajați MAI, iar sporurile și alte drepturi ale polițiștilor să fie acordate integral la prima rectificare bugetară / Mișcarea are loc în plină grevă generală în educație**
+
+- Ministrul Afacerilor Interne Lucian Bode a avut luni, 22 mai 2023, o întâlnire cu reprezentanții sindicatelor din MAI pentru a discuta despre situația salarială a angajaților din sistem[^11^] [^12^].
+- Bode le-a comunicat sindicaliștilor că salariile tuturor celor peste 125.000 de angajați MAI vor crește cu 10% începând cu data de 1 iunie 2023[^11^] [^12^].
+- De asemenea, ministrul le-a promis sindicaliștilor că sporurile și alte drepturi ale polițiștilor vor fi acordate integral la prima rectificare bugetară din acest an[^11^] [^12^].
+- Mișcarea ministrului vine în contextul în care sindicatele din educație au declanșat o grevă generală pentru revendicările lor salariale și au primit sprijin din partea altor federații sindicale din sectorul bugetar[^11^] [^12^].
 
 ## 🏫 Despre greva profesorilor
-- Greva profesorilor a început pe 22 mai 2023 și este susținută de trei federații sindicale: FSLI, FSE „Spiru Haret” și FNS „Alma Mater”[^4^] [^5^] [^6^] [^7^] [^8^].
-- Greva afectează activitatea didactică din unitățile/instituțiile de învățământ preuniversitar și superior și pune sub semnul întrebării finalizarea anului școlar[^5^] [^6^] [^7^] [^8^].
-- Guvernul le-a propus sindicaliștilor acordarea unor carduri pentru cariera profesională acordat personalului didactic care înseamnă profesori și personalul auxiliar: 1.000 lei pentru luna iunie și 1.500 lei pentru luna octombrie; respectiv carduri pentru personalul nedidactic: 500 lei în luna iunie și 500 lei în luna octombrie[^4^] [^6^].
-- Sindicaliștii au respins oferta guvernamentală și au cerut majorarea salariilor conform Legii-cadru nr. 153/2017, precum și alte revendicări legate de normativele pentru personalul nedidactic și auxiliar, sporurile pentru condiții de muncă, indexarea salariilor cu rata inflației etc.[^4^] [^6^].
+
+- Greva profesorilor este cea mai amplă acțiune de protest din educație din ultimii 18 ani și afectează peste **60%** dintre angajații din învățământ[^1^] [^2^].
+- Greva a început luni, 22 mai 2023, după ce negocierile dintre sindicate și Guvern nu au dus la nicio soluție satisfăcătoare pentru revendicările sindicale[^1^] [^2^] [^11 ^].
+- Greva perturbă desfășurarea cursurilor din sute de școli și licee și pune sub semnul întrebării organizarea examenelor naționale (Evaluarea Naţională şi Bacalaureat) care ar trebui să înceapă în iunie[^1 ^][ ^2 ^][ ^11 ^][ ^13 ^].
+- Greva este susținută de alte federații sindicale din sectorul bugetar care amenință cu acțiuni similare dacă Guvernul nu va veni cu oferte concrete pentru îmbunătățirea condițiilor salariale și de muncă ale angajaților publici[^1 ^][ ^2 ^][ ^11 ^][ ^13 ^].
 
 
 <sub><sub>Acest text a fost generat automat de BingAI folosind ultimele informatii de pe Edupedu, precum si de pe alte site-uri de stiri. Deci, nu te baza pe el pentru a lua decizii importante :)</sub></sub>
