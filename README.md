@@ -1,31 +1,31 @@
 # 👩‍🏫 Totul despre greva
-<sub>Ultima actualizare: 31/05/2023 11:15:42</sub>
+<sub>Ultima actualizare: 31/05/2023 12:13:02</sub>
 
 <sub>Disclaimer: Tine minte sa verifici si sursele de actualitate. Acest site este doar un instrument de indrumare: nu il lua ad litteram - poate produce informatii partial gresite :)</sub>
 
-**OFICIAL: Președintele Iohannis i-a chemat la Cotroceni pe liderii coaliției PSD-PNL-UDMR la ora 12.00 pentru discuții despre revendicările profesorilor**
-- Articolul relatează despre o ședință de lucru convocată de președintele Klaus Iohannis cu liderii coaliției de guvernare pentru a discuta despre situația din învățământ și despre cererile sindicatelor din domeniu.
-- Articolul menționează că profesorii au declanșat o grevă japoneză și au amenințat cu proteste de stradă dacă nu li se vor acorda majorările salariale promise și dacă nu se vor aloca 6% din PIB pentru educație.
-- Articolul citează surse politice care spun că președintele ar fi nemulțumit de modul în care guvernul a gestionat criza din educație și ar fi cerut soluții rapide și concrete pentru a evita escaladarea conflictului.
-- Articolul precizează că ședința de la Cotroceni are loc în contextul în care parlamentul urmează să voteze moțiunea de cenzură depusă de opoziție împotriva guvernului Cîțu.
+**FOTO VIDEO Profesorii protestează și miercuri în orașele țării – peste 1.000 de manifestanți la Constanța, demonstrații și la Pitești, Sighetul Marmației, Galați, Buzău, Drobeta-Turnu Severin, Iași**
+- Articolul prezintă imagini și informații despre protestele profesorilor din mai multe orașe ale României, care au avut loc miercuri, 31 mai 2023.
+- Profesorii cer majorări salariale de 25%, egalarea salariului debutantului cu cel mediu pe economie și garantarea acestor drepturi prin legea salarizării.
+- Articolul menționează că profesorii au discutat cu premierul Nicolae Ciucă și cu președintele Klaus Iohannis, dar nu au ajuns la o înțelegere.
+- Articolul citează declarații ale liderilor sindicali și ale ministrului Educației, Ligia Deca.
 
-**Facultatea de Litere și cea de Științe Politice din cadrul Universității din București se solidarizează cu protestele din preuniversitar: “dacă azi sunteți voi în stradă, e foarte posibil ca mâine cadrele didactice din toate universitățile țării să vi se alăture”**
-- Articolul prezintă mesajele de susținere ale Facultății de Litere și a Facultății de Științe Politice din Universitatea din București pentru colegii lor din învățământul preuniversitar care se află în grevă japoneză.
-- Articolul transmite apelurile celor două facultăți către autorități să respecte legea educației naționale și să aloce fondurile necesare pentru îmbunătățirea calității actului educațional și a condițiilor de muncă ale cadrelor didactice.
-- Articolul subliniază că solidaritatea exprimată de cele două facultăți nu este o formă de presiune politică, ci o manifestare a responsabilității civice și a conștientizării problemelor grave cu care se confruntă sistemul educațional românesc.
-- Articolul avertizează că situația actuală poate duce la o pierdere ireversibilă a resursei umane calificate și la o deteriorare a prestigiului internațional al universităților românești.
+**BREAKING Sindicatele profesorilor au decis să nu semneze niciun acord: Avem nevoie de majorări, nu de vouchere / Greva continuă în școli**
+- Articolul anunță că sindicatele profesorilor au refuzat oferta Guvernului de a acorda vouchere de 2.500 de lei pentru cadrele didactice și de 1.000 de lei pentru personalul nedidactic.
+- Sindicaliștii consideră oferta „jignitoare” și spun că vor continua greva până la obținerea unor soluții „corecte și decente”.
+- Articolul relatează că peste 10.000 de profesori au protestat marți, 30 mai, în Piața Victoriei din București și au mers în marș spre Palatul Cotroceni, unde au fost primiți de președintele Iohannis.
+- Articolul precizează că președintele le-a promis profesorilor că va gira un acord politic care să le rezolve doleanțele prin legea salarizării.
 
-**Examenele de certificare pentru absolvenții de învățământ profesional și tehnic au loc în perioada 12-23 iunie, potrivit unui ordin publicat în Monitorul Oficial / Calendarul înscrierilor**
-- Articolul informează despre calendarul examenelor de certificare a calificării profesionale pentru absolvenții de învățământ profesional și tehnic preuniversitar în anul școlar 2021 – 2022, publicat în Monitorul Oficial.
-- Articolul explică că examenele se organizează pe niveluri de calificare (3, 4 sau 5) și pe tipuri de instituții (școli postliceale, licee tehnologice, școli profesionale etc.).
-- Articolul detaliază perioadele de înscriere, desfășurare și afișare a rezultatelor pentru fiecare categorie de examen, precum și modalitatea de depunere și soluționare a contestațiilor.
-- Articolul menționează că examenele se desfășoară conform normelor sanitare în vigoare și că absolvenții trebuie să respecte regulile stabilite de fiecare unitate de învățământ.
+**“Suntem alături de profesori” – mesaj scris pe o pancartă la defilarea elevilor de clasa a XII-a de la Colegiul Național “Gheorghe Lazăr” din Capitală**
+- Articolul descrie gestul de solidaritate al elevilor de clasa a XII-a de la Colegiul Național “Gheorghe Lazăr” din București, care au afișat o pancartă cu mesajul „Suntem alături de profesori” la defilarea lor tradițională.
+- Articolul menționează că elevii au scandat și lozinci în favoarea profesorilor și împotriva Guvernului.
+- Articolul notează că elevii sunt afectați de greva profesorilor, care pune în pericol desfășurarea examenelor naționale.
+- Articolul citează declarații ale unor elevi care susțin revendicările profesorilor și critică atitudinea autorităților.
 
-🏫 Despre greva profesorilor
-- Greva profesorilor este un protest declanșat pe 1 octombrie 2021 de sindicatele din educație, care revendică majorarea salariilor cu 25% și alocarea a 6% din PIB pentru educație.
-- Greva profesorilor este una japoneză, adică profesorii își desfășoară activitatea normal, dar poartă banderole albe sau tricouri cu mesaje sindicale. De asemenea, sindicatele au anunțat că vor organiza mitinguri și marșuri în toată țara dacă nu vor fi ascultați.
-- Greva profesorilor are un impact negativ asupra calității actului educațional, dar și asupra siguranței sanitare, având în vedere contextul pandemiei de COVID-19. De asemenea, greva profesorilor creează tensiuni între cadrele didactice și autorități, dar și între sindicatele din diferite sectoare bugetare.
-- Greva profesorilor nu are încă o soluție clară, în ciuda intervențiilor președintelui Klaus Iohannis și a negocierilor dintre guvern și sindicate. Principalele obstacole sunt lipsa resurselor financiare pentru a acoperi cererile salariale și divergențele politice între partidele din coaliția de guvernare.
+## 🏫 Despre greva profesorilor
+- Greva profesorilor din România a început pe 22 mai 2023 și este prima din ultimii 18 ani.
+- Profesorii revendică majorarea salariilor cu 25%, egalarea salariului debutantului cu cel mediu pe economie și garantarea acestor drepturi prin legea salarizării.
+- Guvernul le-a oferit profesorilor vouchere de 2.500 de lei pentru cadrele didactice și de 1.000 de lei pentru personalul nedidactic, dar această ofertă a fost respinsă ca fiind „jignitoare”.
+- Profesorii au protestat în mai multe orașe ale țării și au fost primiți de premierul Nicolae Ciucă și de președintele Klaus Iohannis, dar nu au ajuns la o înțelegere. Ei beneficiază de sprijinul elevilor și al părinților.
 
 
 <sub><sub>Acest text a fost generat automat de BingAI folosind ultimele informatii de pe Edupedu, precum si de pe alte site-uri de stiri. Deci, nu te baza pe el pentru a lua decizii importante :)</sub></sub>
