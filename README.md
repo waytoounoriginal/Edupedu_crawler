@@ -1,35 +1,35 @@
 # 👩‍🏫 Totul despre greva
-<sub>Ultima actualizare: 31/05/2023 23:12:36</sub>
+<sub>Ultima actualizare: 01/06/2023 00:11:27</sub>
 
 <sub>Disclaimer: Tine minte sa verifici si sursele de actualitate. Acest site este doar un instrument de indrumare: nu il lua ad litteram - poate produce informatii partial gresite :)</sub>
 
-**OFICIAL Sindicatele din educație au respins oferta Guvernului și continuă greva. Simion Hăncescu, FSLI: Cererea profesorilor este de 2.000 de lei brut pe lună. Așa cum la sănătate s-a găsit soluția să se dea într-o singură tranșă mărirea, așa vor și angajații din învățământ**
+**OFICIAL Sindicatele din educație au respins oferta Guvernului și continuă greva. Simion Hăncescu, FSLI: Cererea profesorilor este de 2.000 de lei brut pe lună. Așa cum la sănătate s-a găsit soluția să se dea într-o singură tranșă mărirea, așa vor și angajații din învățământ**[^1^]
 
-- Articolul relatează despre discuțiile dintre sindicatele din educație și Guvernul României pe tema majorării salariale a profesorilor.
-- Sindicatele au respins oferta Guvernului de a acorda vouchere de 2.500 de lei pentru cadrele didactice și 1.000 de lei pentru personalul nedidactic.
-- Sindicatele cer o majorare salarială de 25% până la intrarea în vigoare a Legii Salarizării Unice și o garanție prin OUG că salariul profesorului debutant va fi egal cu cel puțin salariul mediu brut pe economie, adică 4.000 de lei net.
-- Sindicatele au anunțat că vor continua greva generală declanșată pe 22 mai și că vor organiza un miting în Piața Victoriei pe 30 mai.
+- Articolul relatează despre eșecul negocierilor dintre sindicatele din educație și Guvern pe tema majorării salariale a cadrelor didactice și personalului auxiliar.
+- Sindicatele cer un salariu minim brut de 2.000 de lei pe lună pentru toți angajații din învățământ, indiferent de vechime sau pregătire, și o creștere a alocației pentru educație la 6% din PIB.
+- Guvernul a oferit un bonus de 1.000 de lei pentru debutanți, care ar fi acordat de două ori pe an, și o creștere treptată a salariilor până în 2025, propuneri respinse de sindicate.
+- Sindicatele au anunțat că vor continua greva generală începută pe 22 mai și vor organiza proteste în fața sediului Guvernului.
 
-**Demisia ministrei educației este cerută de către decanul Facultății de Științe Politice de la Universitatea din București, Cristian Preda: Ligia Deca e complet depășită de funcție. Se poate întoarce consilieră la Cotroceni, să-i pună „muzică veselă” sultanului**
+**Demisia ministrei educației este cerută de către decanul Facultății de Științe Politice de la Universitatea din București, Cristian Preda: Ligia Deca e complet depășită de funcție. Se poate întoarce consilieră la Cotroceni, să-i pună „muzică veselă” sultanului**[^2^]
 
-- Articolul prezintă opinia decanului Facultății de Științe Politice de la Universitatea din București, Cristian Preda, despre ministrul Educației, Ligia Deca.
-- Preda o critică pe Deca pentru modul în care a gestionat criza din educație provocată de greva profesorilor și pentru lipsa sa de dialog cu sindicatele și cu mediul academic.
-- Preda îi cere demisia lui Deca și o ironizează pentru faptul că a fost consilieră prezidențială pe educație în mandatul lui Klaus Iohannis.
-- Preda susține că Deca este o persoană fără viziune și fără competențe în domeniul educației și că ar trebui să se întoarcă la Cotroceni, unde ar putea să-i pună „muzică veselă” sultanului, referindu-se la Iohannis.
+- Articolul prezintă opinia decanului Facultății de Științe Politice de la Universitatea din București, Cristian Preda, care cere demisia ministrului educației, Ligia Deca, pe fondul grevei profesorilor.
+- Preda afirmă că Deca este incompetentă, lipsită de viziune și subordonată președintelui Klaus Iohannis, pe care îl numește „sultan”.
+- Preda critică și modul în care Deca a gestionat pandemia de COVID-19 în învățământ, acuzând-o că a impus restricții excesive și a ignorat nevoile elevilor și profesorilor.
+- Preda susține că Deca ar trebui să se întoarcă la postul său anterior de consilier prezidențial pe educație și cercetare, unde ar putea să-i pună „muzică veselă” lui Iohannis.
 
-**Ambasadorul SUA în România, Kathleen Kavalec, despre greva din Educație: Susținem dreptul oamenilor de a protesta / Urmărim cum sunt abordate aceste probleme de către guvern**
+**Ambasadorul SUA în România, Kathleen Kavalec, despre greva din Educație: Susținem dreptul oamenilor de a protesta / Urmărim cum sunt abordate aceste probleme de către guvern**[^3^]
 
-- Articolul conține declarațiile ambasadorului SUA în România, Kathleen Kavalec, despre situația din educație și despre greva profesorilor.
-- Kavalec afirmă că SUA susțin dreptul oamenilor de a protesta pașnic pentru revendicările lor legitime și că urmăresc cu atenție cum sunt abordate aceste probleme de către guvern.
-- Kavalec subliniază importanța educației pentru dezvoltarea unei societăți democratice și pentru consolidarea parteneriatului strategic dintre SUA și România.
-- Kavalec spune că SUA sunt dispuse să ofere sprijin și expertiză României în domeniul educației, dacă aceasta solicită.
+- Articolul redă declarațiile ambasadorului SUA în România, Kathleen Kavalec, referitoare la greva din educație.
+- Kavalec afirmă că SUA susțin dreptul oamenilor de a protesta pașnic pentru cauzele lor și că urmăresc cu atenție cum sunt abordate aceste probleme de către guvern.
+- Kavalec spune că educația este o prioritate pentru SUA și că au colaborat cu România pentru a sprijini reformele în acest domeniu.
+- Kavalec nu comentează direct despre cererile sindicatelor sau oferta guvernului, dar subliniază importanța dialogului social și a găsirii unor soluții durabile.
 
 ## 🏫 Despre greva profesorilor
 
-- Greva profesorilor din România este un conflict social care durează de peste opt zile și care afectează activitatea didactică din școli și universități.
-- Greva a fost declanșată pe 22 mai de sindicatele din educație care cer o majorare salarială semnificativă și o garanție legislativă pentru salariul profesorului debutant.
-- Guvernul nu a reușit să ajungă la un acord cu sindicatele și le-a oferit doar vouchere ca formă de compensare temporară, ceea ce a determinat continuarea grevei și organizarea unui miting masiv pe 30 mai în București.
-- Greva profesorilor ridică probleme serioase privind finalizarea anului școlar, organizarea examenelor naționale și calitatea educației în România. De asemenea, greva atrage atenția asupra situației dificile a cadrelor didactice care se confruntă cu salarii mici, condiții precare de lucru și lipsa de recunoaștere socială.
+- Greva profesorilor este cea mai mare din ultimii 20 de ani și afectează peste 3 milioane de elevi și studenți din România[^4^].
+- Profesorii cer salarii decente și respect pentru munca lor, dar se confruntă cu un guvern care le oferă doar promisiuni vagi și bonusuri insuficiente[^1^].
+- Ministrul educației este contestat atât de sindicate, cât și de mediul academic, care îi reproșează incompetența, lipsa de dialog și subordonarea față de președinte[^2^].
+- Greva profesorilor are și o dimensiune internațională, fiind urmărită cu interes de partenerii strategici ai României, care susțin dreptul la protest și reformele în educație[^3^].
 
 
 <sub><sub>Acest text a fost generat automat de BingAI folosind ultimele informatii de pe Edupedu, precum si de pe alte site-uri de stiri. Deci, nu te baza pe el pentru a lua decizii importante :)</sub></sub>
