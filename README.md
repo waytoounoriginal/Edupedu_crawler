@@ -1,35 +1,31 @@
 # 👩‍🏫 Totul despre greva
-<sub>Ultima actualizare: 01/06/2023 13:15:56</sub>
+<sub>Ultima actualizare: 01/06/2023 14:10:34</sub>
 
 <sub>Disclaimer: Tine minte sa verifici si sursele de actualitate. Acest site este doar un instrument de indrumare: nu il lua ad litteram - poate produce informatii partial gresite :)</sub>
 
+**LIVE VIDEO Ministrul Educației, care inițial a declarat că este de partea profesorilor: Creșterile salariale pe noua grilă vor fi etapizate până în 2026. Prin OUG-ul adoptat astăzi reușim să acoperim solicitările publice ale cadrelor didactice / Ministrul Muncii: Marți urmează ca în fiecare unitate ...**
+- Articolul relatează declarațiile ministrului Educației, Ligia Deca, și ministrului Muncii, Marius Budăi, despre ordonanța de urgență adoptată de Guvern pentru majorarea salariilor profesorilor și personalului nedidactic.
+- Ministrul Educației a spus că prin OUG se acoperă solicitările publice ale cadrelor didactice și că majorările salariale vor fi etapizate până în 2026, pe noua grilă de salarizare.
+- Ministrul Muncii a anunțat că marți urmează ca în fiecare unitate de învățământ să se facă o analiză a situației salariale și să se comunice cât va fi salariul net al fiecărui angajat din sistemul de educație.
+- Articolul conține și un video cu declarațiile celor doi miniștri.
+
+**BREAKING Guvernul Ciucă, abuz de putere la adresa profesorilor: a adoptat prin OUG majorarea cu 585 de lei pentru profesori și 250 lei pentru nedidactic a salariilor respinsă aseară, după care le-a chemat pe sindicate la discuții / Simion Hăncescu, FSLI: „Oamenii au semnat pentru grevă generală, oam...**
+- Articolul critică decizia Guvernului Ciucă de a adopta prin OUG o majorare salarială pentru profesori și personalul nedidactic care fusese respinsă anterior de sindicate.
+- Articolul citează liderul Federației Sindicatelor Libere din Învățământ (FSLI), Simion Hăncescu, care a declarat că oamenii au semnat pentru grevă generală și nu cedează la presiunile guvernamentale.
+- Articolul menționează că sindicatele au fost chemate la discuții după adoptarea OUG și că acestea au cerut o creștere salarială de 25% până la intrarea în vigoare a Legii Salarizării Unice și o garanție că salariul profesorului debutant va fi egal cu cel puțin salariul mediu brut pe economie.
+- Articolul prezintă și un tabel comparativ cu salariile profesorilor din România și din alte țări europene.
+
 **Simion Hăncescu, FSLI: Oamenii au semnat pentru grevă generală, oamenii nu cedează**
-
-- Liderul Federației Sindicatelor Libere din Învățământ (FSLI), Simion Hăncescu, a anunțat la intrarea la discuții cu premierul Ciucă că profesorii nu renunță la greva generală programată pentru marți, 1 iunie 2023.
-- Hăncescu a declarat că profesorii nu acceptă majorările salariale de 585 de lei impuse prin OUG de Guvern, ci cer aplicarea grilei de salarizare stabilită cu Ministerul Educației în 2022, care prevede creșteri de până la 1.500 de lei.
-- Hăncescu a spus că greva este a oamenilor, nu a liderilor sindicali, și că aceștia au semnat pentru grevă generală în peste 90% din unitățile de învățământ.
-- Hăncescu a mai spus că profesorii sunt dispuși să negocieze cu Guvernul, dar nu sub limita grilei de salarizare convenite cu Ministerul Educației.
-
-**Profesorii cer aplicarea de luna aceasta a grilei de salarizare aprobată cu Ministerul Educației. „Sub această limită nu avem ce discuta” – anunță liderul sindical Marius Nistor, la intrarea la discuții cu premierul care tocmai a adoptat OUG-ul cu majorări salariale respinse de profesori**
-
-- Liderul Federației Sindicatelor din Educație „Spiru Haret”, Marius Nistor, a declarat la intrarea la discuții cu premierul Ciucă că profesorii resping OUG-ul care majorează salariile cu 585 de lei și cer aplicarea grilei de salarizare stabilită cu Ministerul Educației în 2022.
-- Nistor a spus că grila de salarizare prevede creșteri salariale cuprinse între 800 și 1.500 de lei pentru diferite categorii de personal didactic și că aceasta este singura soluție acceptabilă pentru profesori.
-- Nistor a spus că OUG-ul adoptat de Guvern este neconstituțional și ilegal și că încalcă principiul negocierii colective și al egalității între angajați.
-- Nistor a spus că profesorii vor declanșa greva generală pe 1 iunie 2023 dacă nu se va ajunge la un acord cu Guvernul.
-
-**Consiliul Legislativ desființează proiectul de Ordonanță de Urgență prin care Guvernul îi forțează pe profesori să accepte majorări salariale cu 585 de lei, constantând că OUG-ul Guvernului Ciucă este neconstituțional**
-
-- Consiliul Legislativ a emis un aviz negativ asupra proiectului de OUG prin care Guvernul Ciucă a decis să majoreze salariile personalului didactic din învățământul preuniversitar cu 585 de lei începând cu luna mai 2023.
-- Consiliul Legislativ a constatat că proiectul de OUG este neconstituțional, întrucât încalcă articolul 115 alineatul (6) din Constituție, care interzice adoptarea ordonanțelor de urgență în domeniul legilor constituționale și al drepturilor electorale.
-- Consiliul Legislativ a mai constatat că proiectul de OUG este ilegal, întrucât încalcă Legea educației naționale nr. 1/2011, care prevede grila de salarizare pentru personalul didactic și care nu poate fi modificată decât prin lege organică.
-- Consiliul Legislativ a recomandat retragerea proiectului de OUG și reglementarea situației salariale a personalului didactic prin lege organică.
+- Articolul redă declarațiile liderului FSLI, Simion Hăncescu, despre situația grevei profesorilor din România.
+- Hăncescu a spus că oamenii au semnat pentru grevă generală și nu cedează la ofertele Guvernului care nu le satisfac revendicările.
+- Hăncescu a afirmat că sindicatele nu acceptă niciun fel de vouchere sau prime și că vor doar o creștere reală a salariilor.
+- Hăncescu a anunțat că sindicatele vor organiza un miting național pe 30 mai în Piața Victoriei și vor merge apoi la Palatul Cotroceni pentru a discuta cu președintele Klaus Iohannis.
 
 ## 🏫 Despre greva profesorilor
-
-- Greva profesorilor este un protest față de politica salarială a Guvernului Ciucă, care le-a impus o majorare salarială de 585 de lei prin OUG, fără să respecte grila de salarizare stabilită cu Ministerul Educației în 2022.
-- Greva profesorilor este susținută de cele mai mari federații sindicale din învățământ: FSLI, „Spiru Haret”, Alma Mater și Federația Educația Național.
-- Greva profesorilor este programată pentru marți, 1 iunie 2023 și va afecta peste 90% din unitățile de învățământ preuniversitar din România.
-- Greva profesorilor are ca revendicare principală aplicarea grilei de salarizare convenite cu Ministerul Educației în 2022, care prevede creșteri salariale cuprinse între 800 și 1.500 de lei pentru diferite categorii de personal didactic.
+- Greva profesorilor din România a început pe 22 mai 2023 și este prima din ultimii 18 ani. Peste 150.000 de cadre didactice și alți angajați din învățământ participă la grevă.
+- Profesorii cer o majorare salarială de 25% până la intrarea în vigoare a Legii Salarizării Unice și o garanție că salariul profesorului debutant va fi egal cu cel puțin salariul mediu brut pe economie, care este 6.789 de lei (4.000 de lei net).
+- Guvernul Ciucă a adoptat prin OUG o majorare salarială cu 585 de lei pentru profesori și 250 lei pentru personalul nedidactic, dar aceasta a fost respinsă de sindicate ca fiind insuficientă și discriminatorie.
+- Greva profesorilor afectează desfășurarea anului școlar și examenelor naționale. Ministerul Educației a prelungit înscrierea la Bacalaureat până pe 9 iunie și a anunțat că va prelungi anul școlar dacă greva se prelungește. Sindicaliștii au discutat cu premierul Ciucă și președintele Iohannis, dar nu au ajuns la un acord.
 
 
 <sub><sub>Acest text a fost generat automat de BingAI folosind ultimele informatii de pe Edupedu, precum si de pe alte site-uri de stiri. Deci, nu te baza pe el pentru a lua decizii importante :)</sub></sub>
