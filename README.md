@@ -1,35 +1,35 @@
 # 👩‍🏫 Totul despre greva
-<sub>Ultima actualizare: 01/06/2023 23:12:50</sub>
+<sub>Ultima actualizare: 02/06/2023 00:10:33</sub>
 
 <sub>Disclaimer: Tine minte sa verifici si sursele de actualitate. Acest site este doar un instrument de indrumare: nu il lua ad litteram - poate produce informatii partial gresite :)</sub>
 
 **Scriitorul Radu Vancu: De 1 iunie, Ciucă & Iohannis au dat o ordonanță împotriva profesorilor – care e, de fapt, o ordonanță împotriva copiilor. Și care arată ce e “România educată”: cea mai sistematică distrugere a educației**
 
-- Articolul este o scrisoare deschisă a scriitorului Radu Vancu, profesor la Universitatea „Lucian Blaga” din Sibiu, adresată premierului Nicolae-Ionel Ciucă și președintelui Klaus Iohannis.
-- Scriitorul critică ordonanța de urgență adoptată de Guvern pe 1 iunie 2023, care prevede reducerea salariilor profesorilor cu 25% și eliminarea sporurilor și indemnizațiilor pentru activități didactice suplimentare.
-- Scriitorul susține că ordonanța este o lovitură dată educației și copiilor din România, care vor avea de suferit de pe urma lipsei de motivație și de respect a cadrelor didactice.
-- Scriitorul cere retragerea ordonanței și demisia celor responsabili de adoptarea ei, acuzându-i de ipocrizie și de trădare a intereselor naționale.
+- Articolul este o opinie a scriitorului și profesorului Radu Vancu, care critică dur ordonanța de urgență adoptată de guvern pe 1 iunie 2023, prin care se stabilește o nouă grilă de salarizare pentru personalul din învățământ.
+- Autorul susține că ordonanța este o lovitură dată profesorilor și copiilor, deoarece nu le asigură un salariu decent și nu ține cont de nevoile reale ale sistemului educațional.
+- Autorul acuză guvernul de ipocrizie și cinism, deoarece a adoptat ordonanța în ziua în care se sărbătorește Ziua Copilului și în timp ce președintele Iohannis promovează proiectul său "România educată".
+- Autorul afirmă că ordonanța face parte dintr-un plan mai amplu de distrugere a educației și a culturii în România, care are ca scop crearea unei societăți obediente și ignorante.
 
 **Președintele Klaus Iohannis îi ceartă pe profesori: Cum îndrăznește cineva să puna în dificultate examenele naționale? După ce Guvernul le-a dat tot ce au cerut, acum în ce temei mai continuă greva?**
 
-- Articolul relatează declarațiile președintelui Klaus Iohannis despre greva profesorilor, făcute în cadrul unei conferințe de presă la Palatul Cotroceni pe 2 iunie 2023.
-- Președintele îi critică pe profesori pentru că au intrat în grevă generală și au perturbat desfășurarea examenelor naționale, spunând că este inacceptabil să se pună în pericol viitorul elevilor.
-- Președintele afirmă că Guvernul le-a oferit profesorilor tot ce au cerut, adică majorarea salariilor cu 25% în două tranșe și acordarea unor prime de 2.000 de lei pentru fiecare semestru al anului școlar 2023-2024.
-- Președintele îi îndeamnă pe profesori să renunțe la grevă și să revină la catedră, spunând că este singura soluție responsabilă și că nu va tolera niciun fel de șantaj sau presiune.
+- Articolul relatează declarațiile președintelui Klaus Iohannis, făcute la Chișinău pe 1 iunie 2023, în contextul grevei generale a profesorilor din România.
+- Președintele s-a arătat indignat de faptul că profesorii continuă greva, chiar dacă guvernul le-a acordat o creștere salarială de 1.000 de lei brut pe lună și le-a garantat o nouă grilă de salarizare bazată pe salariul mediu pe economie.
+- Președintele i-a acuzat pe profesorii care boicotează examenele naționale că pun în pericol viitorul unei generații întregi de elevi și că nu au niciun temei legal sau moral să facă acest lucru.
+- Președintele a susținut că el este cel care a pus educația pe primul plan prin proiectul său "România educată" și că liderii sindicali nu reprezintă interesele reale ale dascălilor.
 
 **BREAKING Profesorii continuă greva marți, 6 iunie, când se încheie mini-vacanța. Liderii sindicali din educație: De marți încolo vor continua acțiunile de protest / Sănătatea a fost declarată prioritară în 2018 și medicilor li s-a acordat integral mărirea. Au trecut 5 ani, oamenii doresc ca și pentr...**
 
-- Articolul anunță că profesorii vor continua greva generală și după mini-vacanța de Rusalii, care se încheie pe 6 iunie 2023.
-- Articolul citează declarațiile liderilor sindicali din educație, care spun că nu sunt mulțumiți de oferta Guvernului și că vor intensifica acțiunile de protest până când vor obține satisfacția revendicărilor lor.
-- Liderii sindicali cer majorarea salariilor cu 25% retroactiv de la 1 ianuarie 2023 și restituirea sporurilor și indemnizațiilor eliminate prin ordonanța de urgență din 1 iunie 2023.
-- Liderii sindicali compară situația profesorilor cu cea a medicilor, care au beneficiat de o mărire salarială integrală în 2018, după ce sănătatea a fost declarată domeniu prioritar.
+- Articolul anunță că profesorii vor continua greva generală după mini-vacanța de Rusalii, care se termină pe 6 iunie 2023.
+- Liderii sindicali din educație au declarat că nu sunt mulțumiți de ordonanța de urgență adoptată de guvern pe 1 iunie 2023 și că vor cere dublarea sumei acordate ca majorare salarială.
+- Liderii sindicali au comparat situația profesorilor cu cea a medicilor, care au beneficiat de o creștere salarială integrală în 2018, după ce domeniul sănătății a fost declarat prioritar.
+- Liderii sindicali au precizat că vor organiza pichetarea sediilor partidelor politice din coaliția de guvernare și că vor decide dacă vor participa sau nu la examenele naționale.
 
 ## 🏫 Despre greva profesorilor
 
-- Greva profesorilor este prima grevă generală din ultimii 18 ani în România și afectează peste 150.000 de cadre didactice și peste 3 milioane de elevi.
-- Greva profesorilor a fost declanșată ca reacție la ordonanța de urgență adoptată de Guvern pe 1 iunie 2023, care reduce salariile profesorilor cu 25% și elimină sporurile și indemnizațiile pentru activități didactice suplimentare.
-- Greva profesorilor a perturbat desfășurarea examenelor naționale (Bacalaureat și Evaluare Națională), care au fost amânate sau anulate în unele unități de învățământ. Ministerul Educației a prelungit perioada de înscriere la Bacalaureat până pe 9 iunie 2023.
-- Greva profesorilor nu s-a încheiat nici după oferta Guvernului de majorare salarială cu 25% în două tranșe și acordare unor prime de 2.000 de lei pentru fiecare semestru al anului școlar 2023-2024. Sindicatele cer majorarea salarială retroactiv de la 1 ianuarie 2023 și restituirea sporurilor și indemnizațiilor eliminate prin ordonanța de urgență.
+- Greva profesorilor este un conflict social major între personalul din învățământ și autorități, care durează de peste două săptămâni și afectează peste 3 milioane de elevi.
+- Motivul principal al grevei este nemulțumirea față de nivelul salariilor din educație, care sunt printre cele mai mici din Uniunea Europeană și nu asigură un trai decent pentru dascăli.
+- Guvernul a încercat să rezolve situația prin adoptarea unei ordonanțe de urgență pe 1 iunie 2023, prin care le oferă profesorilor o creștere salarială de 1.000 de lei brut pe lună și o nouă grilă de salarizare bazată pe salariul mediu pe economie.
+- Sindicatele au respins oferta guvernului și au cerut dublarea sumei acordate ca majorare salarială. De asemenea, au amenințat că vor boicota examenele naționale dacă nu li se vor îndeplini revendicările.
 
 
 <sub><sub>Acest text a fost generat automat de BingAI folosind ultimele informatii de pe Edupedu, precum si de pe alte site-uri de stiri. Deci, nu te baza pe el pentru a lua decizii importante :)</sub></sub>
