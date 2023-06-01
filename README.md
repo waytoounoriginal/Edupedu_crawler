@@ -1,35 +1,35 @@
 # 👩‍🏫 Totul despre greva
-<sub>Ultima actualizare: 01/06/2023 07:14:57</sub>
+<sub>Ultima actualizare: 01/06/2023 08:11:48</sub>
 
 <sub>Disclaimer: Tine minte sa verifici si sursele de actualitate. Acest site este doar un instrument de indrumare: nu il lua ad litteram - poate produce informatii partial gresite :)</sub>
 
 **OFICIAL Sindicatele din educație au respins oferta Guvernului și continuă greva. Simion Hăncescu, FSLI: Cererea profesorilor este de 2.000 de lei brut pe lună. Așa cum la sănătate s-a găsit soluția să se dea într-o singură tranșă mărirea, așa vor și angajații din învățământ**
 
-- Articolul relatează despre eșecul negocierilor dintre sindicatele din educație și Guvern pe tema majorării salariale a profesorilor.
-- Sindicatele cer o creștere de 2.000 de lei brut pe lună pentru toți angajații din învățământ, într-o singură tranșă, așa cum s-a făcut la sănătate.
-- Guvernul le-a oferit vouchere de 2.500 de lei pentru cadrele didactice și 1.000 de lei pentru personalul nedidactic, dar acestea au fost respinse de sindicate.
-- Sindicatele au anunțat că vor continua greva generală și că vor organiza un miting în Piața Victoriei.
+- Articolul relatează despre negocierile eșuate dintre sindicatele din educație și Guvernul Ciucă pe tema majorării salariale a profesorilor.
+- Sindicaliștii au cerut o creștere de 2.000 de lei brut pe lună pentru fiecare angajat din învățământ, dar Guvernul le-a oferit doar două prime de 2.000 de lei pentru anul 2023.
+- Sindicaliștii au anunțat că vor continua greva generală declanșată pe 22 mai și că vor cere intervenția președintelui Iohannis pentru a gira un acord politic.
+- Articolul citează declarații ale liderilor sindicali Simion Hăncescu (FSLI), Marius Nistor (Spiru Haret) și Liviu Marian Pop (FEN).
 
 **Demisia ministrei educației este cerută de către decanul Facultății de Științe Politice de la Universitatea din București, Cristian Preda: Ligia Deca e complet depășită de funcție. Se poate întoarce consilieră la Cotroceni, să-i pună „muzică veselă” sultanului**
 
-- Articolul prezintă opinia decanului Facultății de Științe Politice de la Universitatea din București, Cristian Preda, care cere demisia ministrului educației, Ligia Deca, pe fondul grevei profesorilor.
-- Preda o acuză pe Deca că este incompetentă, lipsită de viziune și subordonată președintelui Klaus Iohannis, pe care îl numește „sultan”.
-- Preda susține că Deca nu a făcut nimic pentru a rezolva problemele din învățământ și că ar trebui să se întoarcă la postul de consilier prezidențial pe care l-a ocupat anterior.
-- Preda mai spune că Deca nu are nicio legătură cu mediul academic și că nu reprezintă interesele profesorilor și studenților.
+- Articolul prezintă criticile aduse de decanul Cristian Preda la adresa ministrului educației Ligia Deca, pe care o acuză de incompetență și lipsă de dialog cu sindicatele.
+- Preda cere demisia ministrului și o ironizează pentru rolul său de consilier prezidențial pe probleme de educație în mandatul lui Klaus Iohannis.
+- Preda susține că Deca nu a făcut nimic pentru a rezolva criza din educație și că a fost numită în funcție doar pentru a-i servi intereselor lui Iohannis.
+- Articolul menționează și alte voci care au cerut demisia ministrului, precum senatorul USR PLUS Radu Mihail sau liderul PNL Ludovic Orban.
 
 **Ambasadorul SUA în România, Kathleen Kavalec, despre greva din Educație: Susținem dreptul oamenilor de a protesta / Urmărim cum sunt abordate aceste probleme de către guvern**
 
-- Articolul conține declarațiile ambasadorului SUA în România, Kathleen Kavalec, referitoare la greva din educație.
-- Kavalec afirmă că SUA susțin dreptul oamenilor de a protesta pașnic pentru cauzele lor și că respectă suveranitatea României în gestionarea problemelor interne.
-- Kavalec mai spune că urmărește cu atenție cum sunt abordate aceste probleme de către guvern și că speră să se găsească soluții care să asigure un sistem educațional de calitate și echitabil pentru toți cetățenii României.
-- Kavalec subliniază importanța educației pentru dezvoltarea economică și socială a unei țări și pentru consolidarea democrației și statului de drept.
+- Articolul redă declarațiile ambasadorului SUA în România, Kathleen Kavalec, despre situația din educație și despre greva profesorilor.
+- Kavalec afirmă că SUA susțin dreptul oamenilor de a protesta pașnic pentru revendicările lor și că urmăresc cu atenție cum sunt abordate aceste probleme de către guvern.
+- Kavalec spune că SUA sunt interesate de calitatea educației din România și că au investit peste 100 de milioane de dolari în programe educaționale în ultimii 30 de ani.
+- Kavalec subliniază importanța parteneriatului strategic dintre SUA și România și a cooperării pe domenii precum securitatea, energia sau justiția.
 
 ## 🏫 Despre greva profesorilor
 
-- Greva profesorilor a început pe 22 mai 2023 și a intrat în a opta zi fără ca sindicatele și guvernul să ajungă la un acord privind majorarea salarială a angajaților din învățământ.
-- Sindicatele cer o creștere de 2.000 de lei brut pe lună pentru toți angajații din învățământ, într-o singură tranșă, iar guvernul le-a oferit vouchere de 2.500 de lei pentru cadrele didactice și 1.000 de lei pentru personalul nedidactic.
-- Greva afectează peste 150.000 de profesori și peste 3 milioane de elevi din întreaga țară și pune în pericol desfășurarea examenelor naționale (Bacalaureat și Evaluare Națională).
-- Greva a generat reacții diverse din partea societății civile, mediului academic, președintelui Klaus Iohannis și ambasadorului SUA în România.
+- Greva profesorilor este cea mai amplă mișcare sindicală din ultimii 18 ani în România și afectează peste 3 milioane de elevi și studenți.
+- Profesorii cer o majorare salarială imediată de 2.000 de lei brut pe lună pentru fiecare angajat din învățământ, dar Guvernul le-a oferit doar două prime anuale în aceeași sumă.
+- Negocierile dintre sindicate și Guvern nu au dus la un rezultat satisfăcător până acum, iar președintele Iohannis a promis să gireze un acord politic care să le rezolve doleanțele prin legea salarizării.
+- Greva profesorilor pune în pericol desfășurarea examenelor naționale (Bacalaureat și Evaluare Națională), iar Ministerul Educației a prelungit perioada de înscriere la Bacalaureat până pe 9 iunie.
 
 
 <sub><sub>Acest text a fost generat automat de BingAI folosind ultimele informatii de pe Edupedu, precum si de pe alte site-uri de stiri. Deci, nu te baza pe el pentru a lua decizii importante :)</sub></sub>
