@@ -1,41 +1,38 @@
 # 👩‍🏫 Totul despre greva
-<sub>Ultima actualizare: 02/06/2023 12:13:14</sub>
+<sub>Ultima actualizare: 02/06/2023 13:13:39</sub>
 
 <sub>Disclaimer: Tine minte sa verifici si sursele de actualitate. Acest site este doar un instrument de indrumare: nu il lua ad litteram - poate produce informatii partial gresite :)</sub>
 
-**LIVE TEXT LIGIA DECA în conferință de presă: Ultimele săptămâni – un semnal de alarmă pe care l-am înțeles. Toate salariile din educație vor crește**
+**Ligia Deca: Dacă nu ne vom întoarce cu toții la clasă săptămâna viitoare va trebui să ne gândim la prelungirea perioadei de cursuri și a examenelor naționale**
 
-- Ministrul Educației, Ligia Deca, a susținut o conferință de presă pe 2 iunie 2023 pentru a clarifica aspectele referitoare la aplicarea ordonanței de urgență a Guvernului care prevede creșterea cu 1.000 de lei brut a salariilor profesorilor[^2^] [^4^] [^5^].
-- Deca a spus că ordonanța este o măsură necesară și echitabilă pentru a recunoaște eforturile și meritele cadrelor didactice, care au fost afectate de pandemie și de lipsa unui cadru legal stabil[^2^] [^4^] [^5^].
-- Deca a precizat că majorarea salarială se va aplica tuturor categoriilor de personal din educație, indiferent de grad sau vechime, și că nu va afecta grila de salarizare negociată anterior cu sindicatele[^2^] [^4^] [^5^].
-- Deca a afirmat că ordonanța este în concordanță cu obiectivele strategice ale Ministerului Educației, care vizează creșterea calității și accesului la educație, precum și atragerea și retenția celor mai buni profesori[^2^] [^4^] [^5^].
-- Deca a făcut un apel la dialog și colaborare cu sindicatele din educație, care au declanșat o grevă generală pe 22 mai 2023 și au respins oferta Guvernului, cerând aplicarea integrală a grilei de salarizare negociate anterior[^2^] [^4^] [^5^].
-- Deca a exprimat speranța că greva se va încheia cât mai curând posibil, pentru a nu afecta procesul educațional și examenele naționale ale elevilor[^2^] [^4^] [^5^].
+- Articolul este publicat pe site-ul www.edupedu.ro, la data de 28 mai 2023.
+- Articolul prezintă declarațiile ministrului Educației, Ligia Deca, despre situația grevei profesorilor și impactul ei asupra anului școlar.
+- Ministrul spune că speră ca profesorii să revină la catedră și să se ajungă la o soluție negociată pentru majorarea salarială.
+- Ministrul avertizează că dacă greva se va prelungi, va fi nevoie de prelungirea perioadei de cursuri și de reprogramarea examenelor naționale (Evaluarea Națională și Bacalaureatul).
+- Ministrul asigură că niciun elev nu va rămâne cu situația școlară neîncheiată sau fără posibilitatea de a susține examenele.
 
-**Klaus Iohannis în cartea „Pas cu pas”: Consider că este profund în neregulă dacă președintele țării vorbește de rău despre dascăli, despre elevi sau despre părinți, ori dacă îi răzvrătește pe unii împotriva celorlalți. Este greu să aștepți de la un profesor de liceu să aibă performanțe excepționale ...**
+**Exemple de calcul. Salariile pe care le vor avea profesorii după majorarea prevăzută în ordonanța de urgență adoptată ieri de Guvern**
 
-- Cartea „Pas cu pas“ de Klaus Iohannis este o carte autobiografică și motivațională, în care autorul își prezintă traseul profesional de la catedra de fizică la președinția României[^7^] [^8^].
-- Cartea include și aspecte personale din viața lui Iohannis, precum copilăria, educația, familia, valorile și principiile care l-au ghidat[^7^] [^8^].
-- Cartea are un mesaj optimist și încurajează cetățenii să redescopere valorile performanței, stabilității, bunăstării și certitudinii[^7^] [^8^].
-- În cartea sa, Iohannis se declară un susținător al sistemului educațional și al cadrelor didactice, pe care le consideră esențiale pentru dezvoltarea României[^9^].
-- Iohannis critică atitudinea unor politicieni care vorbesc de rău despre dascăli, elevi sau părinți, sau care îi răzvrătesc pe unii împotriva celorlalți[^9^].
-- Iohannis afirmă că este greu să aștepți de la un profesor de liceu să aibă performanțe excepționale dacă nu are condiții decente de muncă și dacă nu este respectat și apreciat[^9^].
+- Articolul este publicat pe site-ul www.edupedu.ro, la data de 2 iunie 2023.
+- Articolul prezintă exemple de calcul pentru salariile profesorilor după majorarea prevăzută în ordonanța de urgență adoptată de Guvern la 1 iunie 2023.
+- Majorarea salarială este de 10% față de nivelul acordat pentru luna decembrie 2022, cu încadrarea în grila reglementată de Legea cadru nr. 153/2017 privind salarizarea personalului plătit din fonduri publice.
+- Articolul oferă simulări pentru profesori cu studii superioare de lungă durată și diferite grade didactice (I, II sau debutant), precum și pentru învățători sau educatoare cu studii de nivel liceal și diferite grade didactice (I sau debutant).
+- Articolul arată că salariile profesorilor vor crește între 4.098 lei net (pentru un debutant cu studii superioare) și 7.576 lei net (pentru un profesor cu grad I, studii superioare și toate sporurile).
 
-**CLASAMENT Universitatea din București, Universitatea Babeș-Bolyai, ASE București și Universitatea Lucian Blaga – primele dintre cele 17 universități românești incluse în Times Higher Education Impact Ranking 2023**
+**LIVE VIDEO TEXT Ligia Deca: În ultimele săptămâni am observat un semnal de alarmă dinspre profesori, pe care l-am înțeles. Toate salariile din educație vor crește, niciun salariu nu va scădea. Salariul debutantului crește aproape cu 25%**
 
-- Times Higher Education Impact Ranking 2023 este un clasament internațional care evaluează universitățile din lume în funcție de implicarea lor în activități specifice dezvoltării durabile[^10^] [^12^].
-- Clasamentul se bazează pe cele 17 Obiective de Dezvoltare Durabilă ale Organizației Națiunilor Unite (ONU) incluse în Agenda 2030[^10^] [^12^].
-- În clasamentul din acest an au fost incluse 1.591 de instituții de învățământ superior din lume, dintre care 17 sunt din România[^10^] [^12^].
-- Universitatea din București este universitatea din România cu cea mai mare implicare în activități specifice dezvoltarii durabile, fiind poziționată în primele 201 – 300 universitati din lume[^10^] [^12^].
-- Universitatea din București a obținut cele mai bune rezultate la „Obiectivul 4 – Educaţie de calitate”, „Obiectivul 5 – Egalitate de gen” şi „Obiectivul 16 – Pace, justiţie şi instituţii eficiente”[^10^] [^12^].
-- Celelalte universitati româneşti care au intrat în top 600 sunt Universitatea Babeş-Bolyai din Cluj-Napoca, Academia de Studii Economice din Bucureşti şi Universitatea Lucian Blaga din Sibiu[^10 ^][ ^13 ^].
+- Articolul este publicat pe site-ul www.edupedu.ro, la data de 1 iunie 2023.
+- Articolul transmite în format live video text conferința de presă a ministrului Educației, Ligia Deca, pe tema ordonanței de urgență pentru majorarea salarială respinsă de profesori.
+- Ministrul explică motivele pentru care Guvernul a adoptat ordonanța de urgență și prezintă cifrele care arată creșterea salariilor din educație.
+- Ministrul spune că toate salariile din educație vor crește, niciun salariu nu va scădea și că salariul debutantului crește aproape cu 25% față de nivelul actual.
+- Ministrul invită sindicatele la dialog și spune că este deschis la propuneri pentru îmbunătățirea sistemului educațional.
 
 ## 🏫 Despre greva profesorilor
 
-- Greva profesorilor a început pe 22 mai 2023 și continuă până în prezent, afectând procesul educaţional şi examenele naţionale ale elevilor.
-- Profesorii cer aplicarea integralǎ a grilei de salarizare negociată anterior cu Ministerul Educaţiei şi resping ordonanţa de urgenţǎ a Guvernului care prevede creşterea cu 1.000 de lei brut a salariilor lor.
-- Sindicatele din educaţie au refuzat oferta Guvernului şi au anunţat că vor continua acţiunile de protest pânǎ când vor obţine satisfacţie.
-- Ministrul Educaţiei, Ligia Deca, a fǎcut un apel la dialog şi colaborare cu sindicatele şi a sperat cǎ greva se va încheia cât mai curând posibil.
+- Greva profesorilor a început pe 24 mai 2023 și a fost declanșată de nemulțumirea față de nivelul salarial din educație și față de lipsa unui dialog real cu autoritățile.
+- Greva a afectat peste 80% dintre unitățile de învățământ din țară și a pus în pericol finalizarea anului școlar și desfășurarea examenelor naționale.
+- Guvernul a adoptat pe 1 iunie 2023 o ordonanță de urgență care prevede o majorare salarială de 10% pentru personalul din educație, dar sindicatele au respins-o ca fiind insuficientă și au cerut o creștere de cel puțin 25%.
+- Ministrul Educației, Ligia Deca, a încercat să negocieze cu sindicatele și să le convingă să renunțe la grevă, promițând că va continua demersurile pentru îmbunătățirea condițiilor din educație.
 
 
 <sub><sub>Acest text a fost generat automat de BingAI folosind ultimele informatii de pe Edupedu, precum si de pe alte site-uri de stiri. Deci, nu te baza pe el pentru a lua decizii importante :)</sub></sub>
