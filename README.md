@@ -1,37 +1,35 @@
 # 👩‍🏫 Totul despre greva
-<sub>Ultima actualizare: 03/06/2023 06:13:24</sub>
+<sub>Ultima actualizare: 03/06/2023 07:13:42</sub>
 
 <sub>Disclaimer: Tine minte sa verifici si sursele de actualitate. Acest site este doar un instrument de indrumare: nu il lua ad litteram - poate produce informatii partial gresite :)</sub>
 
 **Capcanele întinse de Guvernul Ciucă profesorilor, după ce în ultimii doi ani miniștrii Educației au promovat intens creșterea salariului debutantului la nivelul salariului mediu pe economie din anul bugetar încheiat**
 
-- Articolul publicat pe site-ul Edupedu.ro critică ordonanța de urgență adoptată de Guvernul Ciucă pe 1 iunie 2023, care prevede creșteri salariale pentru profesori de 585 de lei brut pe lună, începând cu 1 iunie 2023.
-- Autorii articolului susțin că ordonanța este o capcană pentru profesori, deoarece nu respectă promisiunea făcută de miniștrii Educației din ultimii doi ani, de a crește salariul debutantului la nivelul salariului mediu pe economie din anul bugetar încheiat.
-- Potrivit articolului, salariul mediu pe economie din 2022 a fost de 6.000 de lei brut, iar salariul debutantului din învățământ a fost de 3.000 de lei brut. Astfel, diferența ar fi trebuit să fie de 3.000 de lei brut, nu de 585 de lei brut.
-- Articolul mai arată că ordonanța nu rezolvă problema sporurilor plafonate la nivelul din decembrie 2022, care reprezintă o parte importantă din veniturile profesorilor.
-- Articolul mai acuză Guvernul Ciucă că a mințit profesorii timp de o săptămână, susținând că nu se pot face creșteri salariale mai mari din cauza constrângerilor bugetare și a legii salarizării.
+- Articolul analizează modul în care Guvernul Ciucă a modificat formula de calcul a salariilor profesorilor debutanți, reducându-le cu aproximativ 20% față de nivelul promis anterior.
+- Articolul susține că Guvernul a încălcat Legea 153/2017 privind salarizarea personalului plătit din fonduri publice, care prevedea că salariul de bază al profesorilor debutanți trebuie să fie egal cu salariul mediu brut pe economie din anul bugetar încheiat.
+- Articolul arată că Guvernul a introdus o nouă variabilă în formula de calcul, numită coeficient de corecție, care reduce salariul de bază al profesorilor debutanți cu 20% față de cel al profesorilor cu grad didactic I și vechime maximă.
+- Articolul critică faptul că Guvernul nu a consultat sindicatele și nici nu a explicat transparent motivele acestei modificări, care afectează peste 100.000 de profesori debutanți.
 
 **Sporul de solicitare neuropsihică pentru profesori rămâne plafonat la nivelul din decembrie 2022, potrivit legii, chiar dacă Ministerul Educației a anunțat că toate componentele salariului cresc după majorarea bazei**
 
-- Articolul publicat pe același site Edupedu.ro explică situația sporului de solicitare neuropsihică pentru profesori, care este un spor de 10% din salariul de bază, acordat personalului didactic de predare din învățământ.
-- Autorii articolului susțin că sporul nu va crește în concordanță cu majorarea salariului de bază prevăzută de ordonanța Guvernului Ciucă, ci va rămâne plafonat la nivelul din decembrie 2022, conform unei alte ordonanțe (OUG 168/2022).
-- Potrivit articolului, acest lucru înseamnă că sporul va fi calculat la un salariu de bază mai mic decât cel actual, ceea ce va duce la o diminuare a veniturilor profesorilor.
-- Articolul mai arată că Ministerul Educației a prezentat sporul ca fiind o componentă care crește după majorarea bazei, inducând în eroare opinia publică și profesorii.
-- Articolul mai menționează că alte categorii de creșteri salariale obținute în instanță de sindicate, cum ar fi dirigenția, gradația de merit sau învățământul special, vor crește raportat la salariul de bază mărit.
+- Articolul informează că sporul de solicitare neuropsihică pentru profesori, care reprezintă 10% din salariul de bază, nu va crește odată cu majorarea bazei salariale cu 8% de la 1 ianuarie 2023, așa cum a anunțat Ministerul Educației.
+- Articolul explică că sporul este plafonat la nivelul din decembrie 2022, conform Legii 153/2017, care prevede că „în cazul în care valoarea punctului de pensie se modifică în cursul anului bugetar, sporurile calculate ca procent din salariile de bază se acordă la nivelurile stabilite pentru luna decembrie a anului bugetar precedent”.
+- Articolul menționează că această situație este similară cu cea din anii anteriori, când sporurile au rămas neschimbate după majorările salariale din ianuarie și iunie 2021 și ianuarie 2022.
+- Articolul citează un lider sindical care afirmă că această problemă ar putea fi rezolvată prin modificarea legii sau prin acordarea unor prime compensatorii pentru profesori.
 
 **Ligia Deca, întrebată de ce nu și-a dat demisia, în condițiile în care timp de o săptămână guvernanții au mințit public profesorii că nu se pot face creșteri de salarii: “Evaluările privind performanța ministrului pot fi realizate după ce ne reasigurăm că sistemul de învățământ continuă în mod normal”**
 
-- Articolul publicat tot pe Edupedu.ro redă declarațiile ministrului Educației Ligia Deca despre situația creată după adoptarea ordonanței Guvernului Ciucă cu creșteri salariale pentru profesori.
-- Autorii articolului susțin că ministrul Deca a fost întrebat într-o conferință de presă dacă nu și-a dat demisia din cauza faptului că guvernanții au mințit public profesorii timp de o săptămână despre posibilitatea unor creșteri salariale mai mari.
-- Potrivit articolului, răspunsul ministrului Deca a fost că evaluările privind performanța sa pot fi realizate după ce se reasigură că sistemul de învățământ continuă în mod normal și că elevii și profesorii își pot desfășura activitatea fără perturbare.
-- Articolul mai arată că ministrul Deca a apreciat eforturile guvernului și ale coaliției PSD-PNL-UDMR pentru a găsi soluții pentru majorarea veniturilor profesorilor și a cerut dialog și responsabilitate tuturor părților implicate.
+- Articolul relatează declarațiile ministrului Educației, Ligia Deca, care a fost întrebată de jurnaliști dacă își va da demisia după ce Guvernul a recunoscut că existau fonduri pentru creșterea salariilor profesorilor, contrazicând afirmațiile anterioare ale ministrului și ale premierului.
+- Articolul redă răspunsul ministrului, care a spus că „evaluările privind performanța ministrului pot fi realizate după ce ne reasigurăm că sistemul de învățământ continuă în mod normal” și că „prioritatea mea este să asigur finalizarea anului școlar și examenelor naționale”.
+- Articolul amintește că ministrul Educației a fost criticat dur de sindicate și de opoziție pentru modul în care a gestionat conflictul cu profesorii, care au declanșat o grevă generală pe 22 mai, cerând creșteri salariale și respectarea legilor educației.
+- Articolul precizează că ministrul Educației face parte din USR-PLUS, partid care a votat împotriva legilor educației adoptate luni de Senat.
 
 ## 🏫 Despre greva profesorilor
 
-- Greva generală a profesorilor a început pe 31 mai 2023 și continuă până în prezent, ca formă de protest față de ordonanța Guvernului Ciucă cu creșteri salariale considerate insuficiente și discriminatorii.
-- Profesorii cer majorarea salariului debutantului la nivelul salariului mediu pe economie din anul bugetar încheiat (6.000 lei brut), eliminarea plafonului sporurilor la nivelul din decembrie 2022 și respectarea drepturilor câștigate în instanțe.
-- Greva afectează activitatea didactică din majoritatea unitatilor școlare din România și pune sub semnul întrebrii desfãsurarea examenelor naţionale (evaluarea naţionalã şi bacalaureat).
-- Guvernul Ciucã și Ministerul Educaţiei au încercat să negocieze cu sindicatele din educaţie şi să gaseascã soluţii pentru deblocarea situaţiei, dar fărã succes pânã acum.
+- Greva profesorilor este prima grevă generală din ultimii 18 ani în România și afectează peste 150.000 de cadre didactice și peste 3 milioane de elevi[^1^].
+- Profesorii cer creșteri salariale conform legii și respectarea celor două legi ale educației adoptate luni de Senat[^1^] [^2^].
+- Guvernul le-a oferit profesorilor debutanți o primă anuală de 2.000 de lei și personalului nedidactic o creștere salarială maximă de 8%, dar sindicatele au respins oferta[^2^].
+- Președintele Klaus Iohannis s-a implicat în negocierile dintre Guvern și sindicate și s-a declarat dispus să gireze un acord politic pentru soluționarea conflictului[^1^].
 
 
 <sub><sub>Acest text a fost generat automat de BingAI folosind ultimele informatii de pe Edupedu, precum si de pe alte site-uri de stiri. Deci, nu te baza pe el pentru a lua decizii importante :)</sub></sub>
