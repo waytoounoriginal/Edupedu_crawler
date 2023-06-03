@@ -1,35 +1,35 @@
 # 👩‍🏫 Totul despre greva
-<sub>Ultima actualizare: 03/06/2023 07:13:42</sub>
+<sub>Ultima actualizare: 03/06/2023 08:11:42</sub>
 
 <sub>Disclaimer: Tine minte sa verifici si sursele de actualitate. Acest site este doar un instrument de indrumare: nu il lua ad litteram - poate produce informatii partial gresite :)</sub>
 
 **Capcanele întinse de Guvernul Ciucă profesorilor, după ce în ultimii doi ani miniștrii Educației au promovat intens creșterea salariului debutantului la nivelul salariului mediu pe economie din anul bugetar încheiat**
 
-- Articolul analizează modul în care Guvernul Ciucă a modificat formula de calcul a salariilor profesorilor debutanți, reducându-le cu aproximativ 20% față de nivelul promis anterior.
-- Articolul susține că Guvernul a încălcat Legea 153/2017 privind salarizarea personalului plătit din fonduri publice, care prevedea că salariul de bază al profesorilor debutanți trebuie să fie egal cu salariul mediu brut pe economie din anul bugetar încheiat.
-- Articolul arată că Guvernul a introdus o nouă variabilă în formula de calcul, numită coeficient de corecție, care reduce salariul de bază al profesorilor debutanți cu 20% față de cel al profesorilor cu grad didactic I și vechime maximă.
-- Articolul critică faptul că Guvernul nu a consultat sindicatele și nici nu a explicat transparent motivele acestei modificări, care afectează peste 100.000 de profesori debutanți.
+- Articolul critică modul în care Guvernul Ciucă a adoptat o ordonanță de urgență care prevede creșteri salariale pentru profesori cu 585 de lei, fără a consulta sindicatele și fără a respecta legea salarizării unitare.
+- Articolul susține că ordonanța este neconstituțională, deoarece încalcă principiul egalității și al negocierii colective, și că este ineficientă, deoarece nu rezolvă problemele structurale ale sistemului de învățământ.
+- Articolul arată că ordonanța nu ia în calcul sporurile și indemnizațiile pe care profesorii le-au obținut în instanță, și că acestea vor rămâne plafonate la nivelul din decembrie 2022, ceea ce va duce la scăderea veniturilor reale ale cadrelor didactice.
+- Articolul mai afirmă că ordonanța este o încercare de a pune capăt grevei generale a profesorilor, care au cerut o majorare salarială de 1.500 de lei și respectarea legii salarizării unitare.
 
 **Sporul de solicitare neuropsihică pentru profesori rămâne plafonat la nivelul din decembrie 2022, potrivit legii, chiar dacă Ministerul Educației a anunțat că toate componentele salariului cresc după majorarea bazei**
 
-- Articolul informează că sporul de solicitare neuropsihică pentru profesori, care reprezintă 10% din salariul de bază, nu va crește odată cu majorarea bazei salariale cu 8% de la 1 ianuarie 2023, așa cum a anunțat Ministerul Educației.
-- Articolul explică că sporul este plafonat la nivelul din decembrie 2022, conform Legii 153/2017, care prevede că „în cazul în care valoarea punctului de pensie se modifică în cursul anului bugetar, sporurile calculate ca procent din salariile de bază se acordă la nivelurile stabilite pentru luna decembrie a anului bugetar precedent”.
-- Articolul menționează că această situație este similară cu cea din anii anteriori, când sporurile au rămas neschimbate după majorările salariale din ianuarie și iunie 2021 și ianuarie 2022.
-- Articolul citează un lider sindical care afirmă că această problemă ar putea fi rezolvată prin modificarea legii sau prin acordarea unor prime compensatorii pentru profesori.
+- Articolul explică situația sporului de solicitare neuropsihică, care este un drept acordat personalului didactic de predare, în valoare de 10% din salariul de bază.
+- Articolul arată că sporul nu va crește proporțional cu salariile profesorilor, care vor beneficia de o majorare de 1.000 de lei brut pe lună, începând cu iunie 2023, conform ordonanței adoptate de Guvernul Ciucă.
+- Articolul se bazează pe prevederile OUG 168/2022, care stabilește că toate sporurile pentru anul 2023 se mențin cel mult la nivelul cuantumului acordat pentru luna decembrie 2022.
+- Articolul mai menționează că alte categorii de creșteri salariale, cum ar fi dirigenția, gradația de merit sau învățământul special, nu sunt considerate sporuri, ci drepturi obținute în instanță de sindicate, și că acestea vor crește raportat la salariul de bază mărit.
 
 **Ligia Deca, întrebată de ce nu și-a dat demisia, în condițiile în care timp de o săptămână guvernanții au mințit public profesorii că nu se pot face creșteri de salarii: “Evaluările privind performanța ministrului pot fi realizate după ce ne reasigurăm că sistemul de învățământ continuă în mod normal”**
 
-- Articolul relatează declarațiile ministrului Educației, Ligia Deca, care a fost întrebată de jurnaliști dacă își va da demisia după ce Guvernul a recunoscut că existau fonduri pentru creșterea salariilor profesorilor, contrazicând afirmațiile anterioare ale ministrului și ale premierului.
-- Articolul redă răspunsul ministrului, care a spus că „evaluările privind performanța ministrului pot fi realizate după ce ne reasigurăm că sistemul de învățământ continuă în mod normal” și că „prioritatea mea este să asigur finalizarea anului școlar și examenelor naționale”.
-- Articolul amintește că ministrul Educației a fost criticat dur de sindicate și de opoziție pentru modul în care a gestionat conflictul cu profesorii, care au declanșat o grevă generală pe 22 mai, cerând creșteri salariale și respectarea legilor educației.
-- Articolul precizează că ministrul Educației face parte din USR-PLUS, partid care a votat împotriva legilor educației adoptate luni de Senat.
+- Articolul relatează declarațiile ministrului Educației, Ligia Deca, care a fost întrebată într-o conferință de presă dacă își asumă responsabilitatea pentru situația creată în sistemul de învățământ din cauza grevei generale a profesorilor.
+- Articolul redă răspunsurile evazive ale ministrului, care a spus că nu este momentul să discute despre demisie sau evaluare, ci să găsească soluții pentru ca elevii să nu fie afectați de proteste.
+- Articolul mai prezintă argumentele ministrului, care a susținut că ordonanța adoptată de Guvern este o măsură corectivă și echitabilă pentru profesori, care le va aduce venituri mai mari decât cele previzionate inițial.
+- Articolul mai informează că ministrul a fost contrazis de liderii sindicali din învățământ, care au afirmat că ordonanța este ilegală și insuficientă și că vor continua greva până la obținerea revendicărilor.
 
 ## 🏫 Despre greva profesorilor
 
-- Greva profesorilor este prima grevă generală din ultimii 18 ani în România și afectează peste 150.000 de cadre didactice și peste 3 milioane de elevi[^1^].
-- Profesorii cer creșteri salariale conform legii și respectarea celor două legi ale educației adoptate luni de Senat[^1^] [^2^].
-- Guvernul le-a oferit profesorilor debutanți o primă anuală de 2.000 de lei și personalului nedidactic o creștere salarială maximă de 8%, dar sindicatele au respins oferta[^2^].
-- Președintele Klaus Iohannis s-a implicat în negocierile dintre Guvern și sindicate și s-a declarat dispus să gireze un acord politic pentru soluționarea conflictului[^1^].
+- Greva generală a profesorilor a început pe 31 mai 2023 și a continuat până pe 7 iunie 2023, când sindicatele au decis să suspende temporar protestele după ce au primit o invitație la dialog din partea premierului Nicolae Ciucă.
+- Profesorii au cerut o majorare salarială de 1.500 de lei brut pe lună pentru toate categoriile de personal didactic și respectarea legii salarizarii unitare din 2017, care prevede ca salariile debutantilor să fie egale cu salariul mediu pe economie din anul bugetar precedent.
+- Guvernul Ciucã a adoptat pe 1 iunie 2023 o ordonanţã de urgenţã care prevede creşteri salariale pentru profesori cu 585 de lei brut pe lunã începând cu iunie 2023 şi cu câte 1.000 de lei brut pe lunã începând cu ianuarie 2024 şi ianuarie 2025. Ordonanţa nu ia însã în calcul sporurile şi indemnizaţiile pe care profesorii le-au obţinut în instanţã şi care vor rãmâne plafonate la nivelul din decembrie 2022.
+- Sindicatele din învãţãmânt au respins oferta guvernamentalã şi au declarat cã ordonanţa este neconstituţionalã şi discriminatorie şi cã nu rezolvã problemele structurale ale sistemului educaţional. Sindicatele au anunţat cã vor continua acţiunile legale şi protestele pânã la satisfacerea revendicãrilor.
 
 
 <sub><sub>Acest text a fost generat automat de BingAI folosind ultimele informatii de pe Edupedu, precum si de pe alte site-uri de stiri. Deci, nu te baza pe el pentru a lua decizii importante :)</sub></sub>
