@@ -1,36 +1,35 @@
 # 👩‍🏫 Totul despre greva
-<sub>Ultima actualizare: 03/06/2023 14:11:04</sub>
+<sub>Ultima actualizare: 03/06/2023 15:20:21</sub>
 
 <sub>Disclaimer: Tine minte sa verifici si sursele de actualitate. Acest site este doar un instrument de indrumare: nu il lua ad litteram - poate produce informatii partial gresite :)</sub>
 
+**BREAKING Sindicatele acuză purtătorul de cuvânt al Guvernului că a dat informații incorecte într-un comunicat oficial: Sindicatele nu au fost de acord cu eșalonarea creșterilor salariale pe 3 ani, prin noua lege a salarizării**
+
+- Articolul relatează despre oferta Guvernului pentru profesori, care constă în prime și stimulente financiare, dar nu în majorarea salariilor cu 25%, așa cum cer sindicatele[^1^] [^2^].
+- Sindicatele au respins oferta Guvernului și au organizat cel mai mare miting din Educație din ultimii 18 ani, cu participarea a 15.000 de profesori și angajați din școli[^2^].
+- Purtătorul de cuvânt al Guvernului, Dan Cărbunaru, a declarat că oferta este un efort bugetar care depășește suma de 700 de milioane de lei și că nu se poate negocia altceva[^1^] [^2^] [^3^].
+- Sindicatele au anunțat că vor continua greva generală pe termen nelimitat până când vor obține creșterea salariilor cu 25% până la noua lege a salarizării[^2^].
+
 **UPDATE Site-ul Olimpiadei Internaționale de Engleză 2023, care va avea loc la București, lansat cu secțiuni inaccesibile și greșeli / România găzduiește competiția în premieră, pentru elevi din zeci de țări / Site-ul era virusat, susțin administratorii**
 
-- Articolul relatează despre lansarea site-ului oficial al Olimpiadei Internaționale de Engleză 2023, care va fi organizată de România la București, în premieră pentru țara noastră.
-- Site-ul a prezentat mai multe probleme tehnice, cum ar fi secțiuni inaccesibile, greșeli de ortografie și virusare, care au fost remediate ulterior de către administratori.
-- Articolul citează declarații ale reprezentanților Ministerului Educației și ale Comisiei Naționale de Limba Engleză despre importanța evenimentului și pregătirea acestuia.
-- Articolul menționează că Olimpiada Internațională de Engleză este cea mai prestigioasă competiție școlară de limba engleză din lume și că la ediția din 2023 vor participa elevi din peste 50 de țări.
+- Articolul prezintă site-ul oficial al Olimpiadei Internaționale de Engleză (IOE) 2023, care va avea loc la București între 23 și 29 iulie 2023[^4^] [^6^] [^7^].
+- Site-ul a fost lansat cu mai multe probleme tehnice, cum ar fi secțiuni inaccesibile, greșeli gramaticale și ortografice, link-uri nefuncționale și virusuri[^4^] [^7^].
+- Administratorii site-ului au recunoscut problemele și au promis să le rezolve cât mai curând posibil[^4^] [^7^].
+- România găzduiește pentru prima dată IOE, o competiție prestigioasă la care participă elevi din zeci de țări[^4^] [^6^] [^7^].
 
 **FOTO Junior Bike Race Ciugud: Aproape 300 de copii, la startul celei mai mari competiții cicliste din România destinată exclusiv micuților**
 
-- Articolul prezintă imagini și rezultate de la concursul Junior Bike Race Ciugud, care a avut loc sâmbătă, 3 iunie 2023, în comuna Ciugud din județul Alba.
-- Concursul este cea mai mare competiție ciclistă destinată exclusiv copiilor din România și a ajuns la a șasea ediție.
-- Înscrierile au fost gratuite și s-au epuizat rapid, iar organizatorii au suplimentat numerele de concurs pentru a răspunde cererii mari.
-- Copiii au concurat pe două trasee diferite, în funcție de vârstă, și au fost premiați cu medalii și diplome.
-- La eveniment au participat și un grup de copii ucraineni refugiați, cărora le-a fost oferit un prilej de bucurie.
-
-**Piesa de teatru despre condiția profesorului în mediul rural, “Acrobații”, jucată gratuit marți, 6 iunie, la Centrul de teatru educațional Replika din București**
-
-- Articolul anunță reprezentația piesei de teatru "Acrobații - 7 zile din viaţa unor profesori de ţară", care va avea loc marți, 6 iunie 2023, la ora 19:00, la Centrul de teatru educațional Replika din București.
-- Intrarea este liberă, în limita locurilor disponibile, și se face pe baza unui formular online.
-- Piesa este regizată de David Schwartz și este rezultatul unei documentări ample despre condiţia de profesor în mediul rural, realizate pe parcursul anului 2022.
-- Piesa spune povestea a cinci profesori și profesoare la o școală gimnazială dintr-o comună fictivă din România, care vor să schimbe lumea de la catedră, și construiește radiografia unei comunități, cu toate tensiunile și contradicțiile specifice procesului de învățământ în mediul rural.
+- Articolul descrie concursul Junior Bike Race Ciugud, cea mai mare competiție ciclistă destinată exclusiv copiilor între 3 și 14 ani[^5^] [^10^].
+- Concursul a avut loc sâmbătă, 3 iunie 2023, la Ciugud, un sat din județul Alba[^5^] [^10^].
+- Copiii au pedalat pe două trasee diferite în funcție de vârstă și au primit diplome și medalii[^5^] [^10^].
+- La eveniment a fost prezent și un grup de copii ucraineni refugiați, cărora le-a fost oferit un prilej de bucurie[^5^] [^10^].
 
 ## 🏫 Despre greva profesorilor
 
-- Greva profesorilor a început pe 1 iunie 2023, după ce negocierile cu guvernul privind majorarea salariilor și alocarea a 6% din PIB pentru educație au eșuat.
-- Greva este susținută de Federația Sindicatelor Libere din Învățământ (FSLI), Federația Sindicatelor din Educație "Spiru Haret" (FSE-SH) și Federația Națională Sindicală "Alma Mater" (FNSAM).
-- Profesorii au organizat mai multe proteste în fața sediului guvernului și a ministerelor de resort, cerând demisia ministrului educației și a premierului.
-- Greva afectează peste 3 milioane de elevi și studenți din toate ciclurile de învățământ, care nu beneficiază de cursuri online sau față în față.
+- Greva profesorilor este o formă de protest împotriva ofertei Guvernului de a le acorda prime și stimulente financiare, în loc de majorarea salariilor cu 25%, așa cum prevăd legea și contractul colectiv de muncă[^1^] [^2^].
+- Greva a început pe 22 mai 2023 și a continuat pe termen nelimitat, afectând desfășurarea examenelor naționale și a altor activități școlare[^2^].
+- Sindicatele au organizat cel mai mare miting din Educație din ultimii 18 ani, cu participarea a 15.000 de profesori și angajați din școli, pe 25 mai 2023, în fața Palatului Cotroceni[^2^].
+- Guvernul nu a cedat revendicărilor sindicale și a anunțat că va aplica oferta sa inițială, care presupune un efort bugetar de peste 700 de milioane de lei, din care 410 milioane de lei provin din fonduri europene[^1^] [^2^] [^3^].
 
 
 <sub><sub>Acest text a fost generat automat de BingAI folosind ultimele informatii de pe Edupedu, precum si de pe alte site-uri de stiri. Deci, nu te baza pe el pentru a lua decizii importante :)</sub></sub>
