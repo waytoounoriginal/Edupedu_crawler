@@ -1,35 +1,35 @@
 # 👩‍🏫 Totul despre greva
-<sub>Ultima actualizare: 04/06/2023 13:12:06</sub>
+<sub>Ultima actualizare: 04/06/2023 14:10:04</sub>
 
 <sub>Disclaimer: Tine minte sa verifici si sursele de actualitate. Acest site este doar un instrument de indrumare: nu il lua ad litteram - poate produce informatii partial gresite :)</sub>
 
 **BREAKING Greva profesorilor continuă – anunță cele două sindicate din preuniversitar: „Această grevă nu este doar pentru salarii” / „Nu ne mai certați, nu ne mai trimiteți la clase! Schimbați-vă discursul și asumați-vă că educația va fi, începând de astăzi, prioritate națională”**
 
-- Sindicatele din educație cer Guvernului să-și asume printr-un act normativ ca salariul profesorului debutant să fie cel puțin egal cu salariul mediu brut pe economie și să scurteze perioada de aplicare a noii grile de salarizare[^2^].
-- Sindicatele resping oferta Guvernului de a acorda două prime de 1000 de lei în iunie și 1500 de lei în octombrie pentru personalul didactic și de 500 de lei pentru personalul nedidactic[^3^].
-- Sindicatele anunță că greva generală din educație continuă și organizează un marș și un miting pentru ziua de marți, 30 mai 2023, spre Palatul Cotroceni[^3^] [^4^].
-- Sindicatele spun că protestul este și despre viitorul educației și despre percepția societății asupra meseriei de dascăl[^2^].
+- Articolul publicat pe 4 iunie 2023 pe site-ul edupedu.ro relatează despre continuarea grevei generale a profesorilor din România, care a început pe 22 mai 2023.
+- Cele două sindicate din preuniversitar, Federația Sindicatelor Libere din Învățământ (FSLI) și Federația Sindicatelor din Educație „Spiru Haret” (FSE-SH), au transmis un comunicat comun în care afirmă că greva nu este doar pentru salarii, ci și pentru respectarea legii educației naționale și a statutului personalului didactic.
+- Sindicaliștii cer guvernului Ciucă să își schimbe discursul și să asume că educația va fi prioritate națională, să aloce 6% din PIB pentru educație și să crească salariul profesorului debutant la nivelul salariului mediu brut pe economie.
+- Sindicaliștii spun că sunt deschiși dialogului, dar nu acceptă promisiuni fără acoperire sau soluții temporare.
 
 **Sindicatele din Educație cer Guvernului Ciucă să introducă într-un act normativ prevederea promisă de Deca potrivit căreia salariul profesorului debutant este cel puțin egal cu salariul mediu brut pe economie**
 
-- Sindicatele reiterează solicitarea ca salariul profesorului debutant să fie cel puțin egal cu salariul mediu brut pe economie, care este de 4000 de lei[^5^].
-- Sindicatele acuză Guvernul Ciucă că nu a inclus această prevedere în textul OUG 53/2023, ci doar în nota de fundamentare a ordonanței[^5^].
-- Sindicatele susțin că această atitudine a Guvernului este o neasumare a principiului respectiv în noua lege a salarizării[^5^].
-- Sindicatele mai cer ca grila de salarizare să fie constituită ținând cont de acest principiu și să se realizeze în mod progresiv, în raport de funcție, studii, vechime și grad didactic[^5^].
+- Articolul publicat pe 3 iunie 2023 pe site-ul edupedu.ro informează despre solicitarea sindicatelor din educație adresată guvernului Ciucă de a introduce într-un act normativ prevederea promisă de ministrul educației, Sorin Deca, referitoare la salariul profesorului debutant.
+- Sindicatele spun că această prevedere ar trebui să fie aplicabilă începând cu 1 ianuarie 2024 și ar trebui să fie cuprinsă în legea bugetului de stat pentru anul viitor sau într-o ordonanță de urgență.
+- Sindicatele susțin că această măsură ar reprezenta un pas important pentru recunoașterea valorii profesiei didactice și pentru atragerea tinerilor absolvenți în sistemul de învățământ.
+- Sindicatele mai cer guvernului să respecte legea educației naționale și să aloce 6% din PIB pentru educație.
 
-**Scrisoare de susținere pentru profesori a unui elev de clasa a XII-a: Faptul că s-a ajuns în această situație, este vina noastră, a tuturor. Noi ne alegem conducătorii și consider că toată țara ar trebui să fie în aceste momente solidară cu cadrele didactice**
+**Scrisoare de susținere pentru profesori a unui elev de clasa a XII-a: Faptul că s-a ajuns în această situație este vina noastră, a tuturor. Noi ne alegem conducătorii și consider că toată țara ar trebui să fie în aceste momente solidară cu cadrele didactice**
 
-- Un elev de clasa a XII-a de la Colegiul Național „Mihai Viteazul” din București își exprimă solidaritatea cu profesorii aflați în grevă printr-o scrisoare publicată pe Facebook[^6^].
-- Elevul afirmă că situația actuală este vina tuturor cetățenilor care își aleg conducătorii care nu investesc în educație[^6^].
-- Elevul critică atitudinea Guvernului față de profesori și spune că aceștia merită respect și recunoaștere pentru munca lor[^6^].
-- Elevul îndeamnă toată țara să fie solidară cu cadrele didactice și să le susțină revendicările[^6^].
+- Articolul publicat pe 2 iunie 2023 pe site-ul edupedu.ro prezintă scrisoarea de susținere pentru profesori a unui elev de clasa a XII-a de la Colegiul Național „Mihai Viteazul” din București.
+- Elevul, care se numește Andrei, spune că este revoltat de modul în care sunt tratați profesorii de către guvern și de societate și că este conștient de sacrificiile pe care le fac aceștia pentru a-și desfășura activitatea.
+- Elevul afirmă că faptul că s-a ajuns în această situație este vina noastră, a tuturor, pentru că noi ne alegem conducătorii și nu le cerem socoteală pentru modul în care gestionează educația.
+- Elevul consideră că toată țara ar trebui să fie în aceste momente solidară cu cadrele didactice și să le susțină revendicările, pentru că educația este singura cale spre progres și dezvoltare.
 
 ## 🏫 Despre greva profesorilor
 
-- Greva profesorilor a început pe 22 mai 2023 și este cea mai amplă acțiune de protest din educație din ultimii 18 ani[^4^].
-- Greva profesorilor are ca principală revendicare creșterea salariilor, astfel încât salariul profesorului debutant să fie cel puțin egal cu salariul mediu brut pe economie[^2^] [^5^].
-- Greva profesorilor are și un caracter simbolic, fiind o expresie a nemulțumirii față de lipsa de investiții în educație și față de percepția societății asupra meseriei de dascăl[^2^] [^6^].
-- Greva profesorilor nu s-a încheiat, în ciuda ofertelor Guvernului de a acorda prime sau de a aplica o nouă grilă de salarizare în trei ani, iar sindicatele au anunțat noi acțiuni de protest pentru săptămâna viitoare[^3^] [^4^].
+- Greva profesorilor este cea mai amplă mișcare de protest din educație din ultimii 18 ani și are ca scop obținerea unor salarii mai mari și a respectării legii educației naționale.
+- Greva a început pe 22 mai 2023 și a continuat și în săptămâna 29 mai - 4 iunie 2023, afectând activitatea din școli și grădinițe, precum și examenele naționale.
+- Guvernul Ciucă a oferit sindicatelor două prime de 2.000 de lei pentru profesori, dar acestea au respins propunerea, considerând-o insuficientă și temporară.
+- Președintele Klaus Iohannis s-a implicat în rezolvarea conflictului și a primit la Palatul Cotroceni liderii sindicali, promițând să gireze un acord politic între părți.
 
 
 <sub><sub>Acest text a fost generat automat de BingAI folosind ultimele informatii de pe Edupedu, precum si de pe alte site-uri de stiri. Deci, nu te baza pe el pentru a lua decizii importante :)</sub></sub>
