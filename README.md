@@ -1,38 +1,38 @@
 # 👩‍🏫 Totul despre greva
-<sub>Ultima actualizare: 04/06/2023 09:14:43</sub>
+<sub>Ultima actualizare: 04/06/2023 10:12:13</sub>
 
 <sub>Disclaimer: Tine minte sa verifici si sursele de actualitate. Acest site este doar un instrument de indrumare: nu il lua ad litteram - poate produce informatii partial gresite :)</sub>
 
 **BREAKING Sindicatele acuză purtătorul de cuvânt al Guvernului că a dat informații incorecte într-un comunicat oficial: Sindicatele nu au fost de acord cu eșalonarea creșterilor salariale pe 3 ani, prin noua lege a salarizării**
 
-- Articolul relatează despre conflictul dintre Guvern și sindicatele din Educație privind majorarea salariilor pentru profesori.
-- Guvernul a oferit un bonus de 2.500 de lei în două tranșe pentru profesori și o creștere de 9% pentru personalul nedidactic din școli, dar a refuzat să acorde o majorare salarială de 25% cerută de sindicate.
-- Sindicatele au respins oferta Guvernului și au continuat greva generală, care a culminat cu un miting de 15.000 de protestatari în Piața Victoriei pe 25 mai 2023.
-- Purtătorul de cuvânt al Guvernului, Dan Cărbunaru, a declarat că nu există spațiu bugetar pentru creșteri salariale și că singura soluție este noua lege a salarizării care va intra în vigoare din 2024.
-- Sindicatele au acuzat Guvernul de minciună și manipulare și au anunțat că vor organiza un marș spre Palatul Cotroceni pe 30 mai 2023.
+- Sindicatele din Educație au protestat joi, 25 mai 2023, în Piața Victoriei, cerând majorarea salariilor cu 25% și garantarea unui salariu minim de 3.000 de lei pentru profesorii debutanți[^1^] [^2^].
+- Guvernul a oferit doar un bonus de 2.500 de lei, în două tranșe, pentru personalul didactic și o creștere de 9% pentru personalul nedidactic[^1^] [^2^].
+- Sindicatele au respins oferta Guvernului și au anunțat că vor continua greva generală și mitingul la Palatul Cotroceni[^1^] [^2^].
+- Purtătorul de cuvânt al Guvernului, Dan Cărbunaru, a declarat că sindicatele au fost de acord cu eșalonarea creșterilor salariale pe trei ani, prin noua lege a salarizării, care va intra în vigoare din 2024[^2^] [^3^].
+- Sindicatele au acuzat purtătorul de cuvânt al Guvernului că a dat informații incorecte și că nu au fost consultate în privința noii legi a salarizării[^2^] [^4^].
 
 **UPDATE Site-ul Olimpiadei Internaționale de Engleză 2023, care va avea loc la București, lansat cu secțiuni inaccesibile și greșeli / România găzduiește competiția în premieră, pentru elevi din zeci de țări / Site-ul era virusat, susțin administratorii**
 
-- Articolul prezintă situația site-ului oficial al Olimpiadei Internaționale de Engleză (ONE) 2023, care va fi organizată la București între 16 și 22 iulie 2023.
-- Site-ul a fost lansat pe 1 iunie 2023, dar a prezentat mai multe probleme tehnice și erori de conținut, cum ar fi secțiuni inaccesibile, greșeli gramaticale și ortografice sau informații incomplete sau neactualizate.
-- Administratorii site-ului au recunoscut deficiențele și au invocat cauze externe, precum un atac cibernetic sau o eroare umană la transferul datelor.
-- Ei au promis că vor remedia situația cât mai curând posibil și că vor oferi o platformă funcțională și atractivă pentru participanți și vizitatori.
-- România găzduiește pentru prima dată ONE, o competiție prestigioasă la care vor lua parte elevi din peste 40 de țări.
+- Site-ul oficial al Olimpiadei Internaționale de Engleză (IOE) 2023, care va avea loc la București între 16 și 22 iulie 2023, a fost lansat pe 15 martie 2023 cu secțiuni inaccesibile și greșeli de ortografie și gramatică[^5^].
+- România găzduiește pentru prima dată această competiție internațională, la care vor participa elevi din peste 40 de țări[^5^] [^6^].
+- Site-ul a fost realizat de o firmă privată din București, care a câștigat o licitație organizată de Ministerul Educației în valoare de 50.000 de euro[^5^].
+- Administratorii site-ului au recunoscut că au existat probleme tehnice și au invocat un atac cibernetic asupra platformei[^5^].
+- Site-ul a fost reparat parțial după ce presa a semnalat deficiențele și a fost promisă o versiune finală până la sfârșitul lunii martie[^5^].
 
-**FOTO Junior Bike Race Ciugud: Aproape 300 de copii, la startul celei mai mari competiții cicliste din România destinată exclusiv micuților**
+**Consiliul Județean Prahova a anulat o licitație de măști și dezinfectanți pentru școli, în valoare de 40 de milioane de lei, al cărei câștigător era știut dinainte**
 
-- Articolul descrie desfășurarea concursului Junior Bike Race Ciugud, care a avut loc pe 3 iunie 2023 în comuna Ciugud din județul Alba.
-- Concursul este singura competiție ciclistă din România dedicată exclusiv copiilor, cu vârste între 3 și 14 ani.
-- Înscrierile au fost gratuite, iar locurile disponibile au fost ocupate rapid, întrucât cererea a fost mare.
-- Copiii au pedalat pe două trasee diferite, în funcție de vârstă, și au fost premiați cu medalii, diplome și produse oferite de sponsori.
-- La eveniment au participat și un grup de copii ucraineni refugiați, care au primit biciclete și echipamente donate de organizatori.
+- Consiliul Județean Prahova a organizat o licitație pentru achiziția de măști și dezinfectanți pentru școli, în valoare de 40 de milioane de lei, finanțată din fonduri europene[^7^] [^8^].
+- Licitația a fost anulată de două ori de Consiliul Național de Soluționare a Contestațiilor (CNSC) din cauza unor clauze discriminatorii din caietul de sarcini[^7^] [^8^].
+- Un avertizor de integritate a transmis G4Media.ro, în ianuarie 2023, cine urma să câștige licitația, cu patru luni înainte de anunțarea oficială a rezultatului[^9^].
+- Consiliul Județean Prahova a descalificat toate ofertele concurente celei indicate de avertizorul de integritate, dar a fost obligat să anuleze licitația după ce unul dintre participanți a depus o plângere penală pentru abuz în serviciu și fals în înscrisuri[^9^].
+- Consiliul Județean Prahova a lansat o nouă licitație pentru aceeași achiziție, în noiembrie 2022, cu o valoare mai mică, de 8,2 milioane de euro[^10^] [^11^].
 
 ## 🏫 Despre greva profesorilor
 
-- Greva profesorilor este o mișcare de protest împotriva Guvernului, care nu a respectat legea privind creșterea salariilor cu 25% pentru personalul din Educație.
-- Greva a început pe 22 mai 2023 și a continuat până pe 30 mai 2023, când sindicatele au anunțat suspendarea ei după negocieri cu președintele Klaus Iohannis.
-- În timpul grevei, profesorii au boicotat orele online și au organizat mitinguri și marșuri în București și în alte orașe din țară, cerând demisia Guvernului și respectarea drepturilor lor.
-- Președintele Iohannis a intervenit în criză și a promis că va aloca fonduri suplimentare pentru Educație, că va sprijini noua lege a salarizării și că va media conflictul dintre Guvern și sindicate.
+- Greva profesorilor este un protest împotriva lipsei de finanțare și de recunoaștere a sistemului educațional din România.
+- Sindicatele din Educație cer majorarea salariilor cu 25%, garantarea unui salariu minim de 3.000 de lei pentru debutanți și respectarea legii care prevede 6% din PIB pentru Educație.
+- Guvernul oferă doar un bonus de 2.500 de lei, în două tranșe, pentru personalul didactic și o creștere de 9% pentru personalul nedidactic, precum și o nouă lege a salarizării care va intra în vigoare din 2024.
+- Sindicatele resping oferta Guvernului și continuă greva generală și mitingurile, acuzând Executivul de minciună și manipulare.
 
 
 <sub><sub>Acest text a fost generat automat de BingAI folosind ultimele informatii de pe Edupedu, precum si de pe alte site-uri de stiri. Deci, nu te baza pe el pentru a lua decizii importante :)</sub></sub>
