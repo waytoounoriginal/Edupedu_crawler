@@ -1,39 +1,37 @@
 # 👩‍🏫 Totul despre greva
-<sub>Ultima actualizare: 05/06/2023 10:13:55</sub>
+<sub>Ultima actualizare: 05/06/2023 11:16:45</sub>
 
 <sub>Disclaimer: Tine minte sa verifici si sursele de actualitate. Acest site este doar un instrument de indrumare: nu il lua ad litteram - poate produce informatii partial gresite :)</sub>
 
 **Mesaj al premierul lui Ciucă, de Ziua Învățătorului, după ce a aprobat cu forța OUG fără un acord al cadrelor didactice și după o serie de minciuni: Am arătat respect și deschidere la consultările cu reprezentanții sistemului de învățământ / Greva profesorilor continuă**
 
-- Premierul Nicolae Ciucă a transmis un mesaj de apreciere pentru învățători, cu ocazia Zilei Învățătorului, pe 5 iunie[^1^] [^2^] [^3^].
-- Ciucă a subliniat rolul esențial al dascălilor în formarea generațiilor și în adaptarea la schimbările sociale și tehnologice[^1^] [^2^] [^3^].
-- Ciucă a menționat provocările generate de criza sanitară și de criza umanitară din Ucraina, lăudând mobilizarea și generozitatea sistemului de învățământ pentru a oferi sprijin copiilor și tinerilor ucraineni[^1^] [^2^] [^3^].
-- Ciucă a afirmat că educația este baza solidă pentru aplicarea proiectului de țară „România educată”[^1^] [^2^] [^3^].
-- Mesajul premierului a fost transmis după ce a aprobat cu forța o ordonanță de urgență privind salarizarea personalului din învățământ, fără un acord al cadrelor didactice și după o serie de minciuni[^4^].
-- Sindicatele din educație au respins oferta guvernului și au anunțat că greva generală continuă[^4^].
+- Premierul Nicolae Ciucă a transmis un mesaj de apreciere și recunoștință pentru învățători, cu ocazia Zilei Învățătorului, care se sărbătorește pe 5 iunie[^1^] [^2^] [^3^].
+- Ciucă a subliniat rolul esențial al dascălilor în formarea generațiilor și în adaptarea la schimbările sociale, economice și tehnologice[^1^] [^2^] [^3^].
+- Ciucă a menționat provocările generate de criza sanitară și de criza umanitară din Ucraina, care au impus deschiderea școlilor românești pentru copiii și tinerii refugiați[^1^] [^2^] [^3^].
+- Ciucă a afirmat că începe aplicarea proiectului de țară „România educată”, proces deschis tuturor celor care vor să contribuie, cu responsabilitate[^1^] [^2^] [^3^].
+- Mesajul premierului vine în contextul în care sindicatele din educație au declanșat o grevă generală începând din 22 mai, cerând creșterea salariilor și respectarea legii salarizării[^4^] [^5^].
+
+**Imaginea lui Carmen Iohannis, folosită pentru promovarea unui magazin de bijuterii. Prima doamnă apare cu un inel și un colier cu diamante purtate la o ceremonie din Germania**
+
+- Compania Malvensky Corporation SRL, care operează brandul de bijuterii Malvensky, a postat pe Facebook un mesaj promoțional și trei fotografii cu Carmen Iohannis, soția președintelui Klaus Iohannis[^6^] [^7^].
+- Mesajul spune că prima doamnă a României a ales să își completeze ținuta elegantă cu o selecție excepțională de bijuterii din colecția Malvensky Grace Diamonds[^6^] [^7^].
+- Fotografiile o arată pe Carmen Iohannis la ceremonia desfășurată sâmbătă în Germania, unde președintelui Klaus Iohannis i s-a decernat Premiul Civic German, conferit de Fundația Civică Bad Harzburg[^6^] [^7^].
+- Bijuteriile purtate de Carmen Iohannis sunt un inel Monte Carlo, din aur alb de 18 kt, cu diamante albe, de 12.500 lei, și un colier Monaco, din aur alb de 18 kt, cu diamante albe, de 48.000 lei[^6^].
 
 **BREAKING Greva profesorilor continuă – anunță cele două sindicate din preuniversitar: „Această grevă nu este doar pentru salarii” / „Nu ne mai certați, nu ne mai trimiteți la clase! Schimbați-vă discursul și asumați-vă că educația va fi, începând de astăzi, prioritate națională”**
 
-- Federația Sindicatelor Libere din Învățământ (FSLI) și Federația Sindicatelor din Educație „Spiru Haret” (FSE) au anunțat pe 4 iunie că protestul extrem din educație nu se oprește[^5^] [^6^] [^7^].
-- Sindicatele au cerut guvernului să-și asume printr-un act normativ ca salariul profesorului debutant să fie cel puțin egal cu salariul mediu brut pe economie și să crească progresiv salariile întregului personal didactic[^5^] [^6^] [^7^].
-- Sindicatele au respins propunerile guvernului privind acordarea unor prime pe carduri sau aplicarea unei grile de salarizare în trei etape[^5^] [^6^] [^7^].
-- Sindicatele au declarat că greva este și despre viitorul educației, despre percepția societății asupra meseriei de dascăl și despre investițiile în sistemul de învățământ[^5^] [^6^] [^7^].
-- Sindicatele au anunțat un marș și un miting pentru ziua de marți, 30 mai, de la Piața Victoriei la Palatul Cotroceni[^5^] [^6^] [^7^].
-- Greva generală în educație a început pe 22 mai și a afectat cursurile din sute de școli și licee[^8^].
-
-**Profesorii contrazic guvernanții. Regula salarizării debutantului cu salariul mediu pe economie sau chiar grila de salarizare negociată cu Ministerul Educației pot fi într-o ordonanţă de urgenţă, spune Marius Nistor, FSE: “S-au dus vremurile când Guvernul negocia strict cu liderii de sindicat, negoc...”**
-
-- Marius Nistor, președintele Federației Sindicatelor din Educație „Spiru Haret”, a contrazis afirmațiile guvernanților că nu pot include în ordonanța de urgență privind salarizarea personalului din învățământ principiul salariului debutantului egal cu salariul mediu brut pe economie sau grila de salarizare negociată cu Ministerul Educației[^9^].
-- Nistor a susținut că aceste prevederi pot fi introduse în ordonanță, dacă există voință politică, și că sindicatele nu acceptă să fie amânate pentru o lege a salarizării care nu se știe când va fi adoptată[^9^].
-- Nistor a criticat atitudinea Guvernului de a negocia doar cu liderii de sindicat, fără a consulta baza, și a spus că sindicatele au organizat referendumuri interne pentru a decide dacă acceptă sau nu oferta guvernamentală[^9^].
-- Nistor a afirmat că sindicatele vor continua protestele până când vor obține o soluție acceptabilă pentru salariații din învățământ[^9^].
+- Federația Sindicatelor Libere din Învățământ și Federația Sindicatelor din Educație „Spiru Haret” au anunțat că greva generală din educație continuă, după ce nu au ajuns la un acord cu Guvernul[^8^] [^9^] [^10^].
+- Sindicatele solicită Guvernului o garanție pentru ca salariul profesorului debutant să fie cel puțin egal cu salariul mediu brut pe economie și o grilă de salarizare care să țină cont de acest principiu[^8^] [^9^] [^10^].
+- Sindicatele resping oferta Guvernului de a acorda două prime de 1.000 de lei în iunie și 1.500 de lei în octombrie pentru personalul didactic și de 500 de lei în iunie și octombrie pentru personalul nedidactic, prin intermediul unor carduri[^8^] [^9^] [^10^].
+- Sindicatele spun că protestul nu este doar pentru salarii, ci și pentru viitorul educației și pentru respectarea dascălilor, pe care îi acuză pe guvernanți că îi certă și îi trimite la clase[^8^] [^9^] [^10^].
+- Sindicatele anunță un marș și un miting pentru marți, 6 iunie, când se vor deplasa către Palatul Cotroceni[^8^] [^9^].
 
 ## 🏫 Despre greva profesorilor
 
-- Greva profesorilor este cea mai amplă acțiune de protest din educație din ultimii 18 ani, care exprimă nemulțumirea față de nivelul scăzut al salariilor și față de lipsa investițiilor în sistemul de învățământ.
-- Greva profesorilor a început pe 22 mai și continuă până în prezent, afectând cursurile din sute de școli și licee, precum și examenele naționale.
-- Greva profesorilor are ca principale revendicări ca salariul profesorului debutant să fie cel puțin egal cu salariul mediu brut pe economie și ca grila de salarizare să fie corelată cu funcția, studiile, vechimea și gradul didactic al personalului din învățământ.
-- Greva profesorilor nu a fost rezolvată prin negocieri cu Guvernul, care a propus doar acordarea unor prime pe carduri sau aplicarea unei grile de salarizare în trei etape, considerate inacceptabile de sindicate.
+- Greva profesorilor este cea mai amplă acțiune de protest din educație din ultimii 18 ani, afectând peste 60% dintre angajații din învățământ[^4^] [^11^].
+- Greva profesorilor a început pe 22 mai și a continuat până pe 6 iunie, cu o pauză în perioada vacanței de Rusalii[^4^] [^5^] [^8^] [^9^] [^10^].
+- Greva profesorilor a fost declanșată de nemulțumirea față de nivelul salariilor, care nu respectă legea salarizării, și de lipsa dialogului social cu Guvernul[^4^] [^5^] [^8^] [^9^] [^10^].
+- Greva profesorilor a fost însoțită de mitinguri, marșuri și pichetări ale sediilor Guvernului, Parlamentului și Președinției, unde sindicaliștii au cerut demisia premierului Nicolae Ciucă și a ministrului Educației Sorin Cîmpeanu[^4^] [^5^] [^8^] [^9^] [^10^].
 
 
 <sub><sub>Acest text a fost generat automat de BingAI folosind ultimele informatii de pe Edupedu, precum si de pe alte site-uri de stiri. Deci, nu te baza pe el pentru a lua decizii importante :)</sub></sub>
