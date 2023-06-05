@@ -1,35 +1,33 @@
 # 👩‍🏫 Totul despre greva
-<sub>Ultima actualizare: 05/06/2023 21:14:23</sub>
+<sub>Ultima actualizare: 05/06/2023 22:11:36</sub>
 
 <sub>Disclaimer: Tine minte sa verifici si sursele de actualitate. Acest site este doar un instrument de indrumare: nu il lua ad litteram - poate produce informatii partial gresite :)</sub>
 
-**Marius Nistor: Revolta este maximă în momentul de față. Noi suntem informați că Parlamentul României nu are de gând să voteze acordarea a 15% din bugetul general consolidat, spune liderul sindical**
+**Administrația Prezidențială, reacție la bijuteriile de aproape 50.000 de lei purtate de Carmen Iohannis în Germania: ”Promovează creatorii români, a purtat bijuterii inspirate din Brâncuși/ Au fost returnate creatorului la revenirea în țară”**
+- Prima doamnă Carmen Iohannis a purtat la o ceremonie publică în Germania un inel și un colier cu diamante de la compania Malvensky Corporation SRL[^1^] [^2^].
+- Compania a postat pe Facebook un mesaj promoțional cu fotografiile primei doamne, spunând că a ales să își completeze ținuta elegantă cu o selecție excepțională de bijuterii din colecția Malvensky Grace Diamonds[^1^] [^2^].
+- Valoarea inelului Monte Carlo este de 12.500 lei, iar cea a colierului Monaco este de 48.000 lei, conform site-ului oficial al companiei[^1^] [^2^].
+- Administrația Prezidențială a transmis că prima doamnă promovează creatorii români și a purtat bijuterii inspirate din opera lui Constantin Brâncuși[^1^] [^2^].
+- Administrația Prezidențială a mai precizat că bijuteriile au fost returnate creatorului la revenirea în țară și nu a existat niciun contract care să implice câștiguri financiare în urma promovării lor[^1^] [^2^].
 
-- Articolul prezintă declarațiile lui Marius Nistor, președintele Federației Sindicatelor din Educație „Spiru Haret”, care anunță că greva profesorilor va continua și marți, 22 mai.
-- Nistor susține că profesorii sunt revoltați de faptul că Parlamentul nu intenționează să respecte legea care prevede alocarea a 15% din bugetul general consolidat pentru învățământ, începând cu 1 ianuarie 2024.
-- El afirmă că profesorii nu vor renunța la protest până când nu vor primi garanții scrise de la autorități că vor beneficia de creșterea salarială promisă și că vor fi respectate drepturile lor.
-- El mai spune că profesorii sunt solidari cu elevii și părinții și că nu vor afecta examenele naționale, dar că nu pot accepta să fie tratați cu dispreț și minciună de către clasa politică.
+**Marius Nistor: Revolta este maximă în momentul de față. Noi suntem informați că Parlamentul României nu are de gând să voteze acordarea a 15% din bugetul general consolidat, spune liderul sindical**
+- Marius Nistor este președintele Federației Sindicatelor din Educație „Spiru Haret” și unul dintre liderii grevei generale din educație[^4^] [^6^] [^7^] [^8^].
+- El a declarat că profesorii sunt revoltați pentru că Parlamentul nu are de gând să voteze acordarea a 15% din bugetul general consolidat pentru educație, conform Legii 1/2011[^4^] [^6^] [^7^].
+- El a spus că guvernul nu și-a imaginat că se poate ajunge la o astfel de acțiune de protest fără precedent și nu înțelege că profesorii nu pot accepta niște firimituri sub formă de vouchere sau carduri[^4^] [^6^].
+- El a afirmat că Ministerul Educației a înaintat o propunere privind noile grile de salarizare pentru personalul didactic, didactic auxiliar și nedidactic, dar aceasta nu a fost aprobată de Ministerul Muncii și Ministerul de Finanțe[^4^] [^6^].
+- El a apelat la înțelegerea părinților ca luni să țină copiii acasă, pentru că toți colegii lui nu vor presta niciun fel de activitate[^4^] [^6^].
 
 **VIDEO “Elevii sunt cu voi!” / “Nu vă opriți, oricâte amenințări primiți” – Mesaj de sprijin pentru profesori, din partea mai multor asociații de elevi din țară**
-
-- Articolul prezintă un video în care mai multe asociații de elevi din țară transmit un mesaj de solidaritate cu profesorii care se află în grevă generală.
-- Elevii spun că înțeleg motivele pentru care profesorii protestează și că le sunt recunoscători pentru eforturile pe care le fac pentru a le oferi o educație de calitate.
-- Ei îi încurajează pe profesori să nu se lase intimidați de amenințările sau presiunile venite din partea autorităților sau a unor părinți și să continue lupta pentru drepturile lor.
-- Ei mai spun că speră ca situația să se rezolve cât mai curând și că vor fi alături de profesori până la capăt.
-
-**Simion Hăncescu, FSLI: În ultimii ani, dascălii au fost “răsplătiţi” cu umilinţă şi batjocură de toţi cei care au condus destinele acestei țări**
-
-- Articolul prezintă declarațiile lui Simion Hăncescu, președintele Federației Sindicatelor Libere din Învățământ (FSLI), care critică dur atitudinea clasei politice față de angajații din învățământ.
-- Hăncescu afirmă că în ultimii ani, dascălii au fost „răsplătiți” cu umilință și batjocură de toți cei care au condus destinele acestei țări și că au fost ignorați sau mințiți în legătură cu salarizarea și finanțarea educației.
-- El spune că profesorii nu mai au încredere în promisiunile fără acoperire ale Guvernului și că vor continua greva generală până când vor obține ceea ce le este cuvenit prin lege.
-- El mai spune că profesorii nu vor accepta să fie șantajați sau amenințați cu sancțiuni și că vor apăra demnitatea și respectul pentru profesia lor.
+- Mai multe asociații de elevi din țară au transmis un mesaj video de sprijin pentru profesorii care au intrat în grevă generală, cerând demisia ministrului educației și alocarea a 6% din PIB pentru educație[^9^] [^10^].
+- Asociațiile de elevi care au semnat mesajul sunt: Asociaţia Elevilor din Constanţa, Asociaţia Elevilor din Bucureşti şi Ilfov, Asociaţia Elevilor din Bacău, Asociaţia Vâlceană a Elevilor, Asociaţia Elevilor din Maramureş și Asociaţia Elevilor din Timiş[^9^] [^10^].
+- În mesajul video, elevii spun că greva nu mai este doar bătălia profesorilor, ci și a elevilor, care vor o educație de calitate și o finanțare adecvată a sistemului[^9^] [^10^].
+- Ei îi încurajează pe profesori să nu se oprească, oricâte amenințări sau presiuni primesc, și le mulțumesc pentru eforturile pe care le fac pentru a le asigura un viitor mai bun[^9^] [^10^].
 
 ## 🏫 Despre greva profesorilor
-
-- Greva profesorilor este prima din ultimii 18 ani și a început pe 22 mai, ca urmare a nemulțumirilor legate de salarizare și finanțare.
-- Profesorii cer ca salariul unui debutant să fie egal cu salariul mediu brut pe economie și ca bugetul pentru învățământ să fie de minimum 15% din bugetul general consolidat, conform legii.
-- Guvernul a aprobat o ordonanță de urgență prin care a majorat salariile profesorilor cu 1.000 de lei brut și a promis o creștere etapizată în următorii trei ani, dar sindicatele nu au fost mulțumite și au continuat protestul.
-- Greva profesorilor a stârnit reacții diverse din partea elevilor, părinților, președintelui și societății civile, între susținere, critică și îngrijorare.
+- Greva generală în educație a început pe 22 mai 2023 și a fost declanșată de două federații sindicale: Federaţia Sindicatelor Libere din Învăţământ și Federaţia Sindicatelor din Educaţie „Spiru Haret”[^4^] [^6^] [^7^] [^8^].
+- Principala revendicare a profesorilor este acordarea a 15% din bugetul general consolidat pentru educație, conform Legii 1/2011, care nu a fost respectată de niciun guvern până acum[^4^] [^6^] [^7^] [^8^].
+- Profesorii mai cer și creșterea salariilor conform grilelor negociate cu Ministerul Educației, dar blocate de Ministerul Muncii și Ministerul de Finanțe, precum și renunțarea la proiectul România Educată inițiat de președintele Klaus Iohannis[^4^] [^6^] [^7^] [^8^] [^9^].
+- Profesorii au primit sprijinul mai multor asociații de elevi, care au cerut demisia ministrului educației Ligia Deca și au transmis un mesaj video de solidaritate cu dascălii[^9^] [^10^].
 
 
 <sub><sub>Acest text a fost generat automat de BingAI folosind ultimele informatii de pe Edupedu, precum si de pe alte site-uri de stiri. Deci, nu te baza pe el pentru a lua decizii importante :)</sub></sub>
