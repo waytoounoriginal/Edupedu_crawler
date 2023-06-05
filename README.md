@@ -1,31 +1,35 @@
 # 👩‍🏫 Totul despre greva
-<sub>Ultima actualizare: 05/06/2023 19:15:54</sub>
+<sub>Ultima actualizare: 05/06/2023 20:11:07</sub>
 
 <sub>Disclaimer: Tine minte sa verifici si sursele de actualitate. Acest site este doar un instrument de indrumare: nu il lua ad litteram - poate produce informatii partial gresite :)</sub>
 
 **Marius Nistor: Revolta este maximă în momentul de față. Noi suntem informați că Parlamentul României nu are de gând să voteze acordarea a 15% din bugetul general consolidat, spune liderul sindical**
-- Marius Nistor este președintele Federației Sindicatelor din Educație „Spiru Haret” și unul dintre liderii grevei generale din sistemul de învățământ preuniversitar[^1^] [^2^].
-- El susține că profesorii sunt revoltați și nemulțumiți de lipsa de respect și de finanțare din partea guvernului și a parlamentului[^1^] [^2^].
-- El cere ca salariul debutantului cu studii superioare de lungă durată să fie egal cu salariul mediu brut pe economie și ca bugetul pentru educație să fie de 15% din bugetul general consolidat[^2^] [^3^].
-- El spune că greva generală poate duce la amânarea examenelor naționale și cere înțelegere și solidaritate din partea elevilor, părinților și societății civile[^2^] [^4^].
+
+- Articolul prezintă declarațiile lui Marius Nistor, președintele Federației Sindicatelor Libere din Învățământ (FSLI), care anunță că profesorii vor continua greva generală până când vor obține 15% din bugetul general consolidat pentru educație.
+- Nistor susține că profesorii sunt revoltați de faptul că Parlamentul nu a votat încă proiectul de lege care prevede această alocare și că Guvernul nu a venit cu nicio propunere concretă pentru a rezolva situația.
+- Nistor afirmă că profesorii nu acceptă bonusurile oferite de Guvern pentru debutanți sau pentru cei care lucrează în zone defavorizate și că vor salarii decente pentru toți angajații din învățământ.
+- Nistor mai spune că profesorii au susținerea elevilor, părinților și a societății civile și că nu se vor lăsa intimidați de amenințările sau sancțiunile primite de la inspectoratele școlare.
 
 **VIDEO “Elevii sunt cu voi!” / “Nu vă opriți, oricâte amenințări primiți” – Mesaj de sprijin pentru profesori, din partea mai multor asociații de elevi din țară**
-- Mai multe asociații de elevi din țară au transmis un mesaj video de sprijin pentru profesorii aflați în grevă generală[^5^].
-- Ei au afirmat că înțeleg motivele grevei și că sunt alături de dascăli în lupta lor pentru o educație mai bună[^5^].
-- Ei au îndemnat profesorii să nu se oprească și să nu se lase intimidați de amenințările primite din partea autorităților sau a unor părinți[^5^].
-- Ei au cerut guvernului să rezolve cât mai repede conflictul și să aloce fondurile necesare pentru sistemul de învățământ[^5^].
+
+- Articolul prezintă un video realizat de mai multe asociații de elevi din țară, care transmit un mesaj de solidaritate cu profesorii aflați în grevă generală.
+- Elevii spun că înțeleg motivele pentru care profesorii protestează și că le sunt recunoscători pentru eforturile pe care le fac pentru a le oferi o educație de calitate.
+- Elevii cer Guvernului să aloce 15% din bugetul general consolidat pentru educație și să respecte drepturile salariale ale profesorilor.
+- Elevii îi încurajează pe profesori să nu renunțe la lupta lor și să nu se lase intimidați de amenințările sau sancțiunile primite de la inspectoratele școlare.
 
 **Simion Hăncescu, FSLI: În ultimii ani, dascălii au fost “răsplătiţi” cu umilinţă şi batjocură de toţi cei care au condus destinele acestei țări**
-- Simion Hăncescu este președintele Federației Sindicatelor Libere din Învățământ (FSLI) și un alt lider al grevei generale din educație[^6^] [^7^].
-- El a declarat că în ultimii ani profesorii au fost tratați cu umilință și batjocură de politicienii care au condus țara[^6^] [^7^].
-- El a spus că profesorii merită respect și apreciere pentru munca lor și pentru rolul lor în formarea viitorilor adulți[^6^] [^7^].
-- El a criticat guvernul pentru că nu a venit cu soluții concrete la cererile sindicatelor și pentru că a propus doar niște prime sau vouchere inacceptabile[^6^] [^8^].
+
+- Articolul prezintă declarațiile lui Simion Hăncescu, liderul Federației Sindicatelor Libere din Învățământ (FSLI), care critică atitudinea autorităților față de profesori și față de sistemul educațional.
+- Hăncescu spune că în ultimii ani, dascălii au fost tratați cu umilință și batjocură de toți cei care au condus destinele acestei țări și că au fost nevoiți să lucreze în condiții precare, fără dotări adecvate sau fonduri suficiente.
+- Hăncescu afirmă că profesorii nu cer decât respectarea legii care prevede alocarea a 15% din bugetul general consolidat pentru educație și că nu vor accepta nicio altă soluție de compromis.
+- Hăncescu mai spune că profesorii au susținerea elevilor, părinților și a societății civile și că nu se vor lăsa intimidați de amenințările sau sancțiunile primite de la inspectoratele școlare.
 
 ## 🏫 Despre greva profesorilor
-- Greva generală din educație a început pe 22 mai 2023 și a continuat până în prezent, cu participarea a zeci de mii de cadre didactice din toată țara[^6^] [^9^].
-- Principalele revendicări ale sindicatelor sunt creșterea salariilor cu 25%, egalarea salariului debutantului cu studii superioare de lungă durată cu salariul mediu brut pe economie și alocarea a 15% din bugetul general consolidat pentru educație[^2^] [^3^] [^6^].
-- Guvernul nu a venit cu o ofertă satisfăcătoare pentru sindicate și a declarat că negocierile s-au încheiat, propunând doar niște prime sau vouchere care au fost refuzate de profesori[^6^] [^8^].
-- Greva generală a afectat desfășurarea examenelor naționale și a generat nemulțumiri din partea unor părinți și elevi, dar și sprijin din partea altora, precum și a societății civile[^2^] [^4^] [^5^].
+
+- Greva profesorilor este cea mai mare din istoria învățământului românesc și a început pe 22 mai 2023, după ce negocierile cu Guvernul au eșuat.
+- Profesorii cer alocarea a 15% din bugetul general consolidat pentru educație, conform legii, și majorarea salariilor pentru toți angajații din învățământ, nu doar pentru debutanți sau pentru cei care lucrează în zone defavorizate.
+- Profesorii au susținerea elevilor, părinților și a societății civile, care le transmit mesaje de solidaritate și le cer autorităților să rezolve situația cât mai repede.
+- Profesorii se confruntă cu amenințări și sancțiuni din partea inspectoratelor școlare, care încearcă să îi determine să renunțe la protest sau să îi înlocuiască cu personal necalificat.
 
 
 <sub><sub>Acest text a fost generat automat de BingAI folosind ultimele informatii de pe Edupedu, precum si de pe alte site-uri de stiri. Deci, nu te baza pe el pentru a lua decizii importante :)</sub></sub>
