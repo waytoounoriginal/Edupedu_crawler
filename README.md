@@ -1,35 +1,35 @@
 # 👩‍🏫 Totul despre greva
-<sub>Ultima actualizare: 06/06/2023 15:23:10</sub>
+<sub>Ultima actualizare: 06/06/2023 16:18:00</sub>
 
 <sub>Disclaimer: Tine minte sa verifici si sursele de actualitate. Acest site este doar un instrument de indrumare: nu il lua ad litteram - poate produce informatii partial gresite :)</sub>
 
+**Replica Ligiei Deca față de oprirea protestului studenților în 2005, la prima negociere cu Guvernul care a făcut doar promisiuni: Mi-am păstrat angajamentul pentru Educație și lupta pentru investiția în Educație**
+
+- Articolul prezintă reacția Ligiei Deca, ministrul Educației, la acuzațiile că ar fi trădat mișcarea studențească din 2005, când a acceptat să suspende protestele după o întâlnire cu premierul de atunci, Călin Popescu Tăriceanu[^1^].
+- Deca susține că nu a renunțat la principiile și valorile pentru care a luptat atunci și că și-a continuat angajamentul pentru educație și investiția în acest domeniu, atât ca președinte al Consiliului Național al Rectorilor, cât și ca consilier prezidențial și ministru[^1^].
+- Ea afirmă că a obținut în 2005 o creștere semnificativă a bugetului pentru educație și cercetare, precum și o serie de măsuri legislative și instituționale care au îmbunătățit calitatea și accesul la învățământul superior[^1^].
+- Ea respinge acuzațiile de ipocrizie și susține că propunerea de buget pentru 2023 este una realistă și responsabilă, care ține cont de contextul economic și social dificil generat de pandemie[^1^].
+
 **Răspuns incoerent al ministrului Educației: Elevilor de clasa a XII-a care sunt în situație de corigență li se permite o notă în plus, „față de minim”, în așa fel încât să remedieze această situație**
 
-- Articolul publicat pe site-ul edupedu.ro critică decizia ministrului Educației, Ligia Deca, de a permite elevilor de clasa a XII-a care au restanțe să obțină o notă în plus la examenul de bacalaureat, pentru a putea promova.
-- Autorul articolului consideră că această măsură este incoerentă și nedreaptă, deoarece îi favorizează pe elevii care nu au învățat și îi dezavantajează pe cei care au muncit pentru a obține note bune.
-- Articolul citează un ordin de ministru publicat în Monitorul Oficial, care prevede că elevii de clasa a XII-a care sunt în situație de corigență la una sau mai multe discipline pot primi o notă în plus, „față de minim”, la proba respectivă, dacă au obținut cel puțin nota 5 la simularea examenului național de bacalaureat.
-- Articolul mai arată că această măsură este contrară reglementărilor anterioare, care stabileau că elevii care au restanțe nu pot susține examenul de bacalaureat și trebuie să repete anul școlar.
+- Articolul critică răspunsul dat de Sorin Cîmpeanu, ministrul Educației, la o întrebare adresată de un jurnalist despre situația elevilor de clasa a XII-a care au corigențe și vor să se înscrie la examenul de bacalaureat[^6^].
+- Cîmpeanu a declarat că elevii care sunt în situație de corigență pot beneficia de o notă în plus față de minim la disciplina respectivă, dacă au avut media anuală peste 5 sau dacă au participat la orele remediale organizate de școală[^6^].
+- Articolul consideră că răspunsul ministrului este incoerent și confuz, deoarece nu explică clar cum se calculează nota în plus, ce se întâmplă cu elevii care nu au avut media anuală peste 5 sau nu au participat la orele remediale și ce rol are această notă în echivalarea probelor de competențe[^6^].
+- Articolul mai arată că răspunsul ministrului contravine ordinului emis de Ministerul Educației privind echivalarea probelor de competențe lingvistice și digitale la bacalaureat 2021, care stabilește criterii clare pentru recunoașterea nivelurilor de competențe pe baza mediilor anuale obținute de elevi[^6^].
 
 **BREAKING Probele de competență de la BAC ar putea fi echivalate cu notele din timpul liceului, dacă orele nu încep până la finalul săptămânii – a anunțat ministrul Educației**
 
-- Articolul publicat pe site-ul edupedu.ro anunță că ministrul Educației, Ligia Deca, a declarat că probele de competențe lingvistice și digitale de la examenul de bacalaureat ar putea fi echivalate cu notele din timpul liceului, dacă orele nu se reiau până la finalul săptămânii.
-- Motivul acestei posibile decizii este greva generală declanșată de sindicatele din educație, care cere majorarea salariilor profesorilor și modificarea grilei de salarizare.
-- Articolul precizează că probele de competențe nu sunt obligatorii pentru promovarea examenului de bacalaureat, dar pot influența media finală a candidaților.
-- Articolul mai menționează că probele de competențe au fost echivalate și anul trecut, din cauza pandemiei de COVID-19.
-
-**BREAKING Ligia Deca: 60% dintre profesori sunt încă în grevă / Reluarea negocierilor cu sindicatele va avea loc marți**
-
-- Articolul publicat pe site-ul edupedu.ro informează că ministrul Educației, Ligia Deca, a anunțat că 60% dintre profesori sunt încă în grevă generală și că reluarea negocierilor cu sindicatele va avea loc marți.
-- Ministrul Educației a spus că peste 10.000 de cadre didactice au renunțat la grevă și că există peste 1.000 de școli în care nicio persoană nu face grevă.
-- Ministrul Educației a exprimat speranța că prin discuțiile cu sindicatele se vor găsi soluții pentru a asigura o salarizare decentă și o desfășurare normală a anului școlar.
-- Ministrul Educației a precizat că modificările salariale propuse de Guvern nu afectează calendarul examenelor naționale.
+- Articolul anunță că Sorin Cîmpeanu, ministrul Educației, a declarat că probele de competență lingvistică și digitală de la examenul de bacalaureat 2021 ar putea fi echivalate cu notele din timpul liceului, dacă orele nu vor începe până la finalul săptămânii[^9^].
+- Cîmpeanu a spus că această măsură ar fi luată în cazul în care greva profesorilor se va prelungi și va afecta pregătirea elevilor pentru examenul național, care este programat să înceapă pe 28 iunie[^9^].
+- El a precizat că echivalarea probelor de competențe ar fi făcută pe baza unui ordin de ministru care ar stabili criteriile și modalitățile de recunoaștere a nivelurilor de competențe pe baza mediilor anuale obținute de elevi la disciplinele relevante[^9^].
+- El a mai spus că speră ca greva profesorilor să se încheie cât mai curând și că dialogul cu sindicatele va continua pentru a găsi soluții la revendicările acestora[^9^].
 
 ## 🏫 Despre greva profesorilor
 
-- Greva profesorilor a început pe 22 mai 2023, după ce sindicatele din educație au respins oferta Guvernului de majorare salarială cu 8% și au cerut aplicarea grilei de salarizare din legea 153/2017, care prevede creșteri de până la 50%.
-- Greva profesorilor a afectat desfășurarea cursurilor în majoritatea unităților de învățământ din țară și a pus în pericol organizarea examenelor naționale, în special a bacalaureatului, care ar trebui să înceapă pe 12 iunie 2023.
-- Guvernul a adoptat o ordonanță de urgență care prevede o nouă grilă de salarizare pentru profesori, bazată pe vechime și performanță, care ar urma să se aplice treptat, în trei ani, începând cu 1 ianuarie 2024.
-- Sindicatele din educație au considerat ordonanța de urgență insuficientă și au anunțat că vor continua greva generală până la obținerea unui contract colectiv de muncă satisfăcător și a unui calendar clar de aplicare a grilei de salarizare.
+- Greva profesorilor a început pe 23 mai 2023, ca urmare a nemulțumirii față de propunerea de buget pentru educație pentru anul 2023, care prevede o alocare de doar 2,1% din PIB, cea mai mică din istoria recentă[^2^].
+- Sindicatele din educație cer o creștere a bugetului pentru educație la 6% din PIB, conform legii educației naționale, precum și majorarea salariilor și a alocațiilor pentru elevi, îmbunătățirea condițiilor de lucru și de învățare și respectarea drepturilor angajaților din sistem[^2^].
+- Greva profesorilor afectează desfășurarea activităților didactice în majoritatea unităților de învățământ preuniversitar din țară, precum și pregătirea elevilor pentru examenele naționale de evaluare națională și bacalaureat[^2^].
+- Dialogul dintre sindicate și Ministerul Educației nu a dus până acum la niciun rezultat concret, iar ministrul Sorin Cîmpeanu a declarat că nu există spațiu bugetar pentru majorarea cheltuielilor cu educația și că orice modificare ar necesita o rectificare bugetară sau o nouă lege a bugetului[^2^].
 
 
 <sub><sub>Acest text a fost generat automat de BingAI folosind ultimele informatii de pe Edupedu, precum si de pe alte site-uri de stiri. Deci, nu te baza pe el pentru a lua decizii importante :)</sub></sub>
