@@ -1,35 +1,32 @@
 # 👩‍🏫 Totul despre greva
-<sub>Ultima actualizare: 07/06/2023 11:16:23</sub>
+<sub>Ultima actualizare: 07/06/2023 12:12:36</sub>
 
 <sub>Disclaimer: Tine minte sa verifici si sursele de actualitate. Acest site este doar un instrument de indrumare: nu il lua ad litteram - poate produce informatii partial gresite :)</sub>
 
+**Marius Budăi: Legea salarizării ar urma să treacă de Guvern și să fie depusă în Parlament la 1 septembrie. Pentru debutant se va pleca de la salariul mediu brut**
+
+- Articolul prezintă declarațiile ministrului Muncii, Marius Budăi, despre proiectul de lege privind salarizarea personalului din sectorul public, care ar urma să fie adoptat de Guvern și trimis Parlamentului la 1 septembrie.
+- Ministrul a spus că legea va prevedea o creștere graduală a salariilor pentru toate categoriile de personal, inclusiv pentru cei din educație, care vor ajunge la salariul mediu brut pe economie până în 2026.
+- Ministrul a mai spus că legea va fi transparentă și echitabilă și că va elimina inechitățile și discreționalitățile din sistemul actual de salarizare.
+
+**Materiale de dezinformare împotriva grevei profesorilor au fost promovate în campanii plătite, pe Facebook, la începutul acțiunilor de protest, pe cel puțin 3 pagini folosite în trecut în campanii politice – anchetă Misreport**
+
+- Articolul prezintă rezultatele unei anchete realizate de platforma Misreport, care a identificat trei pagini de Facebook care au difuzat materiale de dezinformare împotriva grevei profesorilor, în perioada 22-24 mai.
+- Paginile respective au fost folosite în trecut pentru a promova diverse partide sau candidați politici și au cheltuit peste 10.000 de lei pentru a amplifica mesajele anti-grevă, care prezentau profesorii ca fiind leneși, răsfățați sau manipulați de sindicate.
+- Ancheta arată că materialele de dezinformare au avut un impact semnificativ asupra opiniei publice, generând peste 100.000 de reacții, comentarii și distribuiri pe Facebook.
+
 **Profesorul Cătălin Ciupală, către președintele Iohannis: Cum îndrăznește cineva să pună în pericol viitorul unei țări, punând oameni incompetenți în fruntea țării? / M-am simțit jignit**
 
-- Articolul prezintă scrisoarea deschisă a profesorului Cătălin Ciupală, care îl critică pe președintele Klaus Iohannis pentru declarațiile sale despre greva profesorilor.
-- Profesorul Ciupală îl acuză pe Iohannis de lipsă de respect, de manipulare și de ipocrizie, afirmând că președintele nu a făcut nimic pentru a îmbunătăți situația educației în România.
-- Profesorul Ciupală susține că greva profesorilor este legitimă și necesară, deoarece salariile și condițiile de muncă din învățământ sunt inacceptabile.
-- Profesorul Ciupală își exprimă solidaritatea cu colegii săi și cere guvernului să respecte promisiunile făcute privind majorarea salariilor și alocarea a 6% din PIB pentru educație.
-
-**Prima trupă de teatru care se solidarizează cu profesorii: Stagiunea de Teatru Politic își suspendă spectacolele. Mihaela Michailov, dramaturgă: Viitorul copiilor noștri este dependent de viitorul decent și stabil al celor care îi educă. Actuala grevă e un motor de conștientizare politică**
-
-- Articolul anunță decizia trupei de teatru politic „Replika” de a suspenda spectacolele programate pentru luna iunie, în semn de susținere pentru greva profesorilor.
-- Mihaela Michailov, dramaturga trupei, declară că gestul lor este unul simbolic și politic, menit să atragă atenția asupra importanței educației pentru societate și democrație.
-- Mihaela Michailov spune că greva profesorilor este o formă de rezistență civică și o oportunitate de a genera dialog și schimbare în sistemul educațional.
-- Mihaela Michailov îndeamnă publicul să se implice în susținerea profesorilor și să participe la protestele organizate de sindicate.
-
-**BREAKING Nou protest al profesorilor, cu 20.000 de participanți, în București, programat pentru joi sau vineri, anunțat de liderul sindical Marius Nistor: Vrem garanții de la guvern pe noua grilă de salarizare și salariul debutanților**
-
-- Articolul informează despre planurile sindicatelor din educație de a organiza un nou protest masiv în București, la sfârșitul acestei săptămâni, în contextul continuării grevei generale.
-- Liderul sindical Marius Nistor declară că profesorii nu sunt mulțumiți de ordonanța de urgență adoptată de guvern pentru majorarea salariilor, considerând-o insuficientă și nesigură.
-- Marius Nistor cere guvernului să ofere garanții scrise că noua grilă de salarizare va fi respectată și că salariul debutanților va ajunge la nivelul salariului mediu brut pe economie până în 2026.
-- Marius Nistor spune că protestul va fi unul pașnic și civilizat, dar ferm și hotărât, și că va fi urmat de alte acțiuni de protest dacă revendicările nu vor fi soluționate.
+- Articolul prezintă scrisoarea deschisă adresată de profesorul Cătălin Ciupală președintelui Klaus Iohannis, în care își exprimă nemulțumirea față de modul în care acesta a tratat problema grevei profesorilor.
+- Profesorul îl acuză pe președinte că a ignorat revendicările legitime ale cadrelor didactice și că a făcut declarații jignitoare la adresa lor, spunând că greva este o formă de șantaj și că ar trebui să se concentreze pe pregătirea examenelor naționale.
+- Profesorul îl întreabă pe președinte cum îndrăznește să pună în pericol viitorul unei țări, punând oameni incompetenți în fruntea țării și cum poate să ignore faptul că sistemul educațional este subfinanțat și subevaluat.
 
 ## 🏫 Despre greva profesorilor
 
-- Greva profesorilor este cea mai amplă mișcare de protest din învățământul românesc din ultimii 18 ani, începută pe 22 mai și continuată până în prezent.
-- Greva profesorilor are ca principale revendicări majorarea salariilor la nivelul salariului mediu brut pe economie pentru debutanți sau asistenți universitari și alocarea a 6% din PIB pentru educație.
-- Greva profesorilor a determinat guvernul să adopte o ordonanță de urgență pentru creșterea salariilor cu 1.000 de lei brut pe lună pentru personalul didactic și didactic auxiliar și cu 400 de lei brut pe lună pentru personalul nedidactic, începând cu 1 iunie.
-- Greva profesorilor nu a fost oprită de ordonanța de urgență, deoarece sindicatele consideră că aceasta nu oferă garanții suficiente și nu respectă termenele stabilite. Sindicatele au anunțat un nou protest în București, cu 20.000 de participanți, pentru joi sau vineri.
+- Greva profesorilor a început pe 22 mai și continuă până când se va obține salariul mediu brut pe economie pentru debutanți sau asistenți universitari, care este de aproximativ 4.000 de lei net.
+- Guvernul a aprobat o ordonanță de urgență care prevede o majorare salarială de 1.000 de lei brut pe lună pentru personalul didactic și didactic auxiliar și de 400 de lei brut pe lună pentru personalul nedidactic, începând cu 1 iunie, dar sindicatele consideră că este insuficientă și că nu garantează atingerea grilei dorite până în 2026.
+- Președintele Klaus Iohannis a criticat greva profesorilor, spunând că este o formă de șantaj și că ar trebui să se concentreze pe pregătirea examenelor naționale, care au fost afectate de proteste. Profesorii i-au răspuns printr-o scrisoare deschisă, în care îl acuză de lipsă de respect și de responsabilitate.
+- Greva profesorilor a fost însoțită și de campanii de dezinformare pe rețelele sociale, care au încercat să le discrediteze revendicările și să le inducă opiniei publice o imagine negativă. Platforma Misreport a identificat trei pagini de Facebook care au difuzat materiale false sau tendențioase împotriva grevei, folosind fonduri plătite pentru a le amplifica.
 
 
 <sub><sub>Acest text a fost generat automat de BingAI folosind ultimele informatii de pe Edupedu, precum si de pe alte site-uri de stiri. Deci, nu te baza pe el pentru a lua decizii importante :)</sub></sub>
