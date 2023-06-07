@@ -1,38 +1,32 @@
 # 👩‍🏫 Totul despre greva
-<sub>Ultima actualizare: 07/06/2023 15:23:49</sub>
+<sub>Ultima actualizare: 07/06/2023 16:17:23</sub>
 
 <sub>Disclaimer: Tine minte sa verifici si sursele de actualitate. Acest site este doar un instrument de indrumare: nu il lua ad litteram - poate produce informatii partial gresite :)</sub>
 
-**George Purcaru, FSLI, reacție la Memorandumul guvernului: E clar, dacă nu vom avea în Monitorul Oficial specificat ce am cerut noi, lucrurile nu vor sta așa cum își doresc guvernanții, ci așa cum își doresc oamenii**
+**OFICIAL Pilotarea corectării digitalizate pentru Evaluarea Națională și BAC 2023 se face în județele Alba, Călărași, Covasna, Dâmbovița, Gorj, Satu Mare. Profesorii care scanează lucrările primesc 160 de lei pe zi**
+- Ministerul Educației pregătește extinderea corectării digitalizate a lucrărilor scrise la examenele naționale din 2023, după proiectele-pilot din trei județe din 2022[^2^] [^3^].
+- Elevii vor susține examenele în format clasic, dar lucrările vor fi scanate și introduse pe o platformă online, unde vor fi corectate de doi profesori din alte județe[^2^] [^3^].
+- Platforma va calcula automat nota, diferențele de notare și eventualele reevaluări[^3^].
+- Profesorii care scanează lucrările vor primi 160 de lei pe zi[^1^].
+- Ministerul intenționează să elimine subiectivitatea și birocrația din procesul de evaluare și să asigure transparența și echitatea[^2^] [^3^].
 
-- George Purcaru este prim-vicepreședinte al Federației Sindicatelor Libere din Învățământ (FSLI) [^1^]
-- El a declarat că memorandumul adoptat de Guvern pentru creșterile salariale din Educație nu este suficient și că sindicatele vor continua greva generală până când vor obține un act normativ care să le garanteze revendicările [^2^]
-- El a spus că memorandumul este un document intern al Guvernului, fără nicio valoare sau impact pentru populație, potrivit legii [^2^]
-- El a criticat faptul că memorandumul nu prevede o dată clară pentru intrarea în vigoare a noii legi a salarizării și nici un procentaj de majorare salarială pentru personalul din Educație [^2^]
-- El a anunțat că sindicatele vor organiza un miting de protest joi, 25 mai, și că vor cere demisia ministrului Educației, Ligia Deca [^2^]
+**George Purcaru, FSLI, reacție la memorandumul guvernului: E clar, dacă nu vom avea în Monitorul Oficial specificat ce am cerut noi, lucrurile nu vor sta așa cum își doresc guvernanții, ci așa cum își doresc oamenii**
+- George Purcaru este prim vicepreședinte al Federației Sindicatelor Libere din Învățământ (FSLI) și președinte al Sindicatului Liber din Învățământ Bacău[^4^].
+- El a reacționat la memorandumul adoptat de Guvern pe 24 mai 2023, prin care se angajează să aloce 6% din PIB pentru educație și să majoreze salariile cadrelor didactice în funcție de legea salarizării unitare[^5^].
+- El a declarat că memorandumul nu este suficient și că sindicatele vor continua greva generală până când revendicările lor vor fi transpuse în acte normative publicate în Monitorul Oficial[^5^].
+- El a criticat lipsa de dialog și de respect a Guvernului față de profesori și a cerut o creștere salarială imediată de 15%, un spor de risc epidemiologic de 50% și plata orelor suplimentare[^5^].
 
 **Ministrul Ligia Deca, în plină grevă generală în Învățământ: Toată lumea va avea mediile încheiate**
-
-- Ligia Deca este ministrul Educației din Guvernul Ciucă [^3^]
-- Ea a afirmat că situațiile școlare și examenele elevilor nu vor fi afectate de greva generală din învățământ și că toți elevii vor avea mediile încheiate [^3^] [^4^]
-- Ea a spus că Guvernul a venit cu o garanție suplimentară prin memorandumul adoptat pentru majorările salariale din Educație și că speră să adauge încredere în procesul de negociere cu sindicatele [^3^]
-- Ea a precizat că memorandumul include angajamentul ca salariul mediu brut al debutantului/asistentului universitar să fie stabilit la nivelul salariului mediu brut pe economie și ca intrarea în plată a noii grile de salarizare să se facă etapizat, pe o perioadă de trei ani [^5^]
-- Ea a invitat sindicatele să continue dialogul cu Guvernul și cu liderii coaliției de guvernare pentru a găsi soluții acceptabile pentru ambele părți [^3^]
-
-**BREAKING Guvernul anunță că va adopta un memorandum pentru creșterile salariale din Educație / Memorandumul este un document intern al Guvernului, fără nicio valoare sau impact pentru populație, potrivit legii**
-
-- Guvernul Ciucă a anunțat că va adopta un memorandum privind majorările salariale acordate personalului din Educație prin noua lege a salarizării [^6^]
-- Memorandumul este un document intern al Guvernului, fără nicio valoare sau impact pentru populație, potrivit legii [^6^]
-- Memorandumul va fi adoptat în ședința de Guvern de joi, 8 iunie, și va fi publicat în Monitorul Oficial al României [^6^]
-- Memorandumul include garanțiile guvernamentale privind prioritizarea Educației în viitoarea grilă de salarizare și utilizarea ca sistem de referință a salariului mediu brut pe economie pentru salariul debutantului/asistentului universitar [^6^]
-- Memorandumul a fost propus după o discuție telefonică a premierului Ciucă cu reprezentanții sindicatelor din învățământ, care au cerut un act normativ pentru o majorare salarială până la intrarea în vigoare a legii salarizării [^6^]
+- Ligia Deca este ministrul Educației din România din decembrie 2022[^6^].
+- Ea a declarat pe 7 iunie 2023, la Euronews România, că situațiile școlare și examenele elevilor nu vor fi afectate de greva generală declanșată de sindicatele din educație pe 6 iunie 2023[^7^] [^9^].
+- Ea a spus că Guvernul a făcut un pas către sindicate prin adoptarea memorandumului care garantează finanțarea educației și salarizarea cadrelor didactice și că speră să se ajungă la o înțelegere[^7^] [^9^].
+- Ea a anunțat că Ministerul Educației a publicat un proiect de modificare a regulamentului de organizare și funcționare a unităților de învățământ preuniversitar, prin care mediile elevilor vor putea fi încheiate cu doar două note pe disciplină, în situații excepționale[^7^] [^10^].
 
 ## 🏫 Despre greva profesorilor
-
-- Greva generală a profesorilor a început pe 22 mai și este susținută de trei federații sindicale: FSLI, „Spiru Haret” și „Alma Mater” [^2^]
-- Revendicările sindicatelor sunt: majorarea salariilor cu 1.000 de lei brut/lună pentru personalul didactic și didactic auxiliar și cu 400 de lei brut/lună pentru personalul nedidactic, precum și stabilirea salariului mediu brut al debutantului/asistentului universitar la nivelul salariului mediu brut pe economie [^2^] [^6^]
-- Guvernul a răspuns prin adoptarea unei ordonanțe de urgență care acordă majorările salariale solicitate începând cu 1 iunie, dar nu prevede o dată clară pentru aplicarea noii legi a salarizării, nici un procentaj de creștere salarială pentru personalul din Educație [^5^] [^6^]
-- Guvernul a propus și un memorandum care să consolideze garanțiile privind prioritizarea Educației în viitoarea grilă de salarizare și utilizarea ca sistem de referință a salariului mediu brut pe economie pentru salariul debutantului/asistentului universitar, dar sindicatele au respins acest document ca fiind insuficient și fără valoare juridică [^2^] [^6^]
+- Greva generală a profesorilor din România a început pe 6 iunie 2023, după ce negocierile cu Guvernul au eșuat[^5^] [^9^].
+- Sindicatelor din educație au revendicat o creștere salarială imediată de 15%, un spor de risc epidemiologic de 50%, plata orelor suplimentare, debirocratizarea sistemului și respectarea legii privind alocația de 6% din PIB pentru educație[^5^] [^9^].
+- Guvernul a adoptat pe 24 mai 2023 un memorandum prin care s-a angajat să aloce 6% din PIB pentru educație și să majoreze salariile cadrelor didactice în funcție de legea salarizării unitare, dar sindicatele au considerat că acesta nu este suficient și nu oferă garanții concrete[^5^] [^9^].
+- Greva generală a afectat activitatea didactică în multe unități de învățământ, dar Ministerul Educației a luat măsuri pentru ca situațiile școlare și examenele elevilor să nu fie compromise, prin modificarea regulamentului de funcționare a unităților de învățământ preuniversitar și prin asigurarea unui dialog permanent cu sindicatele[^7^] [^9^] [^10^].
 
 
 <sub><sub>Acest text a fost generat automat de BingAI folosind ultimele informatii de pe Edupedu, precum si de pe alte site-uri de stiri. Deci, nu te baza pe el pentru a lua decizii importante :)</sub></sub>
