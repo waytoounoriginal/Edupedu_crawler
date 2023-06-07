@@ -1,32 +1,35 @@
 # 👩‍🏫 Totul despre greva
-<sub>Ultima actualizare: 07/06/2023 12:12:36</sub>
+<sub>Ultima actualizare: 07/06/2023 13:13:51</sub>
 
 <sub>Disclaimer: Tine minte sa verifici si sursele de actualitate. Acest site este doar un instrument de indrumare: nu il lua ad litteram - poate produce informatii partial gresite :)</sub>
 
-**Marius Budăi: Legea salarizării ar urma să treacă de Guvern și să fie depusă în Parlament la 1 septembrie. Pentru debutant se va pleca de la salariul mediu brut**
+**ULTIMA ORĂ Listele copiilor înscriși la clasa pregătitoare 2023 vor fi afișate până pe 12 iunie, deși ar fi trebuit să fie publicate pe 6, anunță Ministerului Educației. Este a doua modificare a calendarului în ultimele două săptămâni**
 
-- Articolul prezintă declarațiile ministrului Muncii, Marius Budăi, despre proiectul de lege privind salarizarea personalului din sectorul public, care ar urma să fie adoptat de Guvern și trimis Parlamentului la 1 septembrie.
-- Ministrul a spus că legea va prevedea o creștere graduală a salariilor pentru toate categoriile de personal, inclusiv pentru cei din educație, care vor ajunge la salariul mediu brut pe economie până în 2026.
-- Ministrul a mai spus că legea va fi transparentă și echitabilă și că va elimina inechitățile și discreționalitățile din sistemul actual de salarizare.
+- Ministerul Educației a anunțat că listele copiilor înscriși la clasa pregătitoare pentru anul școlar 2023-2024 vor fi afișate până pe 12 iunie, cu o săptămână mai târziu decât data inițială[^1^].
+- Aceasta este a doua modificare a calendarului de înscriere în clasa pregătitoare, după ce prima etapă a fost prelungită cu două zile, până pe 18 mai[^1^].
+- Motivul invocat de minister este acela că unitățile de învățământ au avut dificultăți în procesarea cererilor de înscriere online și în verificarea documentelor depuse de părinți[^1^].
+- În clasa pregătitoare pot fi înscriși copiii care împlinesc vârsta de 6 ani până la 31 august 2023, inclusiv, sau cei care împlinesc vârsta de 6 ani în perioada 1 septembrie - 31 decembrie 2023, cu recomandare pentru înscrierea în învățământul primar[^2^].
 
-**Materiale de dezinformare împotriva grevei profesorilor au fost promovate în campanii plătite, pe Facebook, la începutul acțiunilor de protest, pe cel puțin 3 pagini folosite în trecut în campanii politice – anchetă Misreport**
+**BREAKING Nou protest al profesorilor, cu 20.000 de participanți, în București, programat pentru joi sau vineri, anunțat de liderul sindical Marius Nistor: Vrem garanții de la guvern pe noua grilă de salarizare și salariul debutanților**
 
-- Articolul prezintă rezultatele unei anchete realizate de platforma Misreport, care a identificat trei pagini de Facebook care au difuzat materiale de dezinformare împotriva grevei profesorilor, în perioada 22-24 mai.
-- Paginile respective au fost folosite în trecut pentru a promova diverse partide sau candidați politici și au cheltuit peste 10.000 de lei pentru a amplifica mesajele anti-grevă, care prezentau profesorii ca fiind leneși, răsfățați sau manipulați de sindicate.
-- Ancheta arată că materialele de dezinformare au avut un impact semnificativ asupra opiniei publice, generând peste 100.000 de reacții, comentarii și distribuiri pe Facebook.
+- Liderul Federației Sindicatelor Libere din Învățământ (FSLI), Marius Nistor, a anunțat că profesorii vor organiza un nou protest în București, joi sau vineri, cu aproximativ 20.000 de participanți[^3^].
+- Scopul protestului este de a cere guvernului garanții scrise pe noua grilă de salarizare și pe salariul debutanților, care ar urma să fie majorate de la 1 septembrie[^3^].
+- Nistor a declarat că sindicatele nu au primit niciun răspuns concret din partea ministrului Educației, Sorin Cîmpeanu, sau a premierului Florin Cîțu, după mitingul din 19 mai[^3^].
+- El a criticat și intenția ministerului de a schimba regulamentul de funcționare a școlilor pentru a permite încheierea mediilor elevilor cu doar două note, pentru întreg anul școlar actual și diluarea procedurii prin care acest lucru are loc[^3^].
 
-**Profesorul Cătălin Ciupală, către președintele Iohannis: Cum îndrăznește cineva să pună în pericol viitorul unei țări, punând oameni incompetenți în fruntea țării? / M-am simțit jignit**
+**George Purcaru, FSLI, despre intenția Ministerului Educației de a schimba regulamentul de funcționare a școlilor pentru a permite încheierea mediilor elevilor cu doar doua note, pentru întreg anul școlar actual și diluarea procedurii prin care acest lucru are loc: Este revoltator**
 
-- Articolul prezintă scrisoarea deschisă adresată de profesorul Cătălin Ciupală președintelui Klaus Iohannis, în care își exprimă nemulțumirea față de modul în care acesta a tratat problema grevei profesorilor.
-- Profesorul îl acuză pe președinte că a ignorat revendicările legitime ale cadrelor didactice și că a făcut declarații jignitoare la adresa lor, spunând că greva este o formă de șantaj și că ar trebui să se concentreze pe pregătirea examenelor naționale.
-- Profesorul îl întreabă pe președinte cum îndrăznește să pună în pericol viitorul unei țări, punând oameni incompetenți în fruntea țării și cum poate să ignore faptul că sistemul educațional este subfinanțat și subevaluat.
+- George Purcaru, vicepreședintele FSLI, a declarat că sindicatul se opune modificării regulamentului de funcționare a școlilor propusă de minister, care ar permite încheierea mediilor elevilor cu doar două note, pentru întreg anul școlar actual[^4^].
+- El a spus că această măsură este revoltătoare și nedreaptă, deoarece ar afecta calitatea actului educațional și ar discrimina elevii care au învățat și au participat la toate activitățile școlare[^4^].
+- Purcaru a susținut că sindicatul nu a fost consultat în privința acestei modificări și că nu există niciun argument pedagogic sau legal care să o justifice[^4^].
+- El a cerut ministerului să renunțe la această intenție și să respecte regulamentul în vigoare, care prevede că mediile elevilor se calculează pe baza a cel puțin trei note la fiecare disciplină, pentru fiecare semestru[^4^].
 
 ## 🏫 Despre greva profesorilor
 
-- Greva profesorilor a început pe 22 mai și continuă până când se va obține salariul mediu brut pe economie pentru debutanți sau asistenți universitari, care este de aproximativ 4.000 de lei net.
-- Guvernul a aprobat o ordonanță de urgență care prevede o majorare salarială de 1.000 de lei brut pe lună pentru personalul didactic și didactic auxiliar și de 400 de lei brut pe lună pentru personalul nedidactic, începând cu 1 iunie, dar sindicatele consideră că este insuficientă și că nu garantează atingerea grilei dorite până în 2026.
-- Președintele Klaus Iohannis a criticat greva profesorilor, spunând că este o formă de șantaj și că ar trebui să se concentreze pe pregătirea examenelor naționale, care au fost afectate de proteste. Profesorii i-au răspuns printr-o scrisoare deschisă, în care îl acuză de lipsă de respect și de responsabilitate.
-- Greva profesorilor a fost însoțită și de campanii de dezinformare pe rețelele sociale, care au încercat să le discrediteze revendicările și să le inducă opiniei publice o imagine negativă. Platforma Misreport a identificat trei pagini de Facebook care au difuzat materiale false sau tendențioase împotriva grevei, folosind fonduri plătite pentru a le amplifica.
+- Greva profesorilor este un conflict social care durează de mai multe luni, provocat de nemulțumirile legate de salarizarea și condițiile de muncă din învățământ.
+- Profesorii cer majorarea salariului minim pentru debutanți de la 1.900 de lei la 3.000 de lei, aplicarea noii grile de salarizare care ar aduce creșteri între 10% și 30%, precum și respectarea drepturilor bănești prevăzute de lege.
+- Profesorii au organizat mai multe forme de protest, cum ar fi pichetarea sediului guvernului, mitinguri în București și în alte orașe, grevă japoneză, boicotarea simulărilor examenelor naționale sau refuzul de a preda online.
+- Profesorii nu au obținut până acum nicio garanție scrisă din partea autorităților, ci doar promisiuni verbale, ceea ce i-a determinat să anunțe noi acțiuni de protest pentru zilele următoare.
 
 
 <sub><sub>Acest text a fost generat automat de BingAI folosind ultimele informatii de pe Edupedu, precum si de pe alte site-uri de stiri. Deci, nu te baza pe el pentru a lua decizii importante :)</sub></sub>
