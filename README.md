@@ -1,31 +1,35 @@
 # 👩‍🏫 Totul despre greva
-<sub>Ultima actualizare: 07/06/2023 10:13:04</sub>
+<sub>Ultima actualizare: 07/06/2023 11:16:23</sub>
 
 <sub>Disclaimer: Tine minte sa verifici si sursele de actualitate. Acest site este doar un instrument de indrumare: nu il lua ad litteram - poate produce informatii partial gresite :)</sub>
 
-**Daniel Funeriu: Ce e de făcut? Toți în stradă, să preluăm ștafeta de la profesori care astfel s-ar putea întoarce la clasă, fără însă a ierta mizerabilul binom președinte-guvern. Apoi identificat viitorul președinte al României care să fie un adevărat reformist al educației**
-- Articolul este o opinie a fostului ministru al Educației Daniel Funeriu, publicată pe site-ul Edupedu.ro[^1^].
-- Funeriu îi îndeamnă pe cetățeni să iasă în stradă și să susțină profesorii care protestează pentru salarii mai mari și condiții mai bune de muncă.
-- El critică dur actualul președinte Klaus Iohannis și guvernul condus de Nicolae Ciucă, pe care îi consideră responsabili de situația precară a educației din România.
-- El susține că România are nevoie de un președinte care să fie un reformist al educației și să pună accent pe calitatea cadrelor didactice, pe exigență și autoritate.
+**Profesorul Cătălin Ciupală, către președintele Iohannis: Cum îndrăznește cineva să pună în pericol viitorul unei țări, punând oameni incompetenți în fruntea țării? / M-am simțit jignit**
 
-**Proiectul de lege privind înființarea Universităţii Naţionale de Ştiinţă şi Tehnologie Politehnica Bucureşti – adoptat de Senat**
-- Articolul este o știre despre adoptarea unui proiect de lege inițiat de Guvern, care prevede înființarea unei noi universități prin fuziunea dintre Universitatea Politehnica din Bucureşti și Universitatea din Piteşti[^2^].
-- Noua universitate se va numi Universitatea Naţională de Ştiinţă şi Tehnologie Politehnica Bucureşti (UNSTPB) și va avea ca obiectiv dezvoltarea cercetării și inovării în domeniile științei și tehnologiei.
-- Proiectul de lege a fost votat cu majoritate de voturi în Senat, prima cameră sesizată, și urmează să fie trimis la Camera Deputaților pentru dezbatere și vot final.
-- Proiectul de lege a fost susținut de parlamentarii PSD și PNL, dar contestat de senatorul USR Ștefan Pălărie, care a acuzat că nu au fost respectate procedurile de acreditare și că se urmărește prelungirea mandatului rectorului prin schimbarea denumirii universității.
+- Articolul prezintă scrisoarea deschisă a profesorului Cătălin Ciupală, care îl critică pe președintele Klaus Iohannis pentru declarațiile sale despre greva profesorilor.
+- Profesorul Ciupală îl acuză pe Iohannis de lipsă de respect, de manipulare și de ipocrizie, afirmând că președintele nu a făcut nimic pentru a îmbunătăți situația educației în România.
+- Profesorul Ciupală susține că greva profesorilor este legitimă și necesară, deoarece salariile și condițiile de muncă din învățământ sunt inacceptabile.
+- Profesorul Ciupală își exprimă solidaritatea cu colegii săi și cere guvernului să respecte promisiunile făcute privind majorarea salariilor și alocarea a 6% din PIB pentru educație.
 
-**Negocieri pe contractul colectiv de muncă, între Ministerul Educației și sindicatele profesorilor, în a zecea zi de grevă generală în școli**
-- Articolul este o știre despre întâlnirea dintre ministrul Educației Ligia Deca și liderii federațiilor sindicale din învățământul preuniversitar, care au declanșat o grevă generală începând din 22 mai[^3^].
-- Scopul întâlnirii a fost discutarea revendicărilor sindicale privind salarizarea, condițiile de muncă și drepturile angajaților din sistemul educațional.
-- În urma discuțiilor, s-a convenit asupra constituirii unei comisii de negociere a unui nou contract colectiv de muncă, care urma să se întrunească pentru prima dată pe 18 mai.
-- Ministerul Educației a precizat că a înaintat către Ministerul Muncii și Solidarității Sociale o serie de propuneri privind noile grile de salarizare pentru personalul didactic, didactic auxiliar și nedidactic, asumate de toate federațiile sindicale.
+**Prima trupă de teatru care se solidarizează cu profesorii: Stagiunea de Teatru Politic își suspendă spectacolele. Mihaela Michailov, dramaturgă: Viitorul copiilor noștri este dependent de viitorul decent și stabil al celor care îi educă. Actuala grevă e un motor de conștientizare politică**
+
+- Articolul anunță decizia trupei de teatru politic „Replika” de a suspenda spectacolele programate pentru luna iunie, în semn de susținere pentru greva profesorilor.
+- Mihaela Michailov, dramaturga trupei, declară că gestul lor este unul simbolic și politic, menit să atragă atenția asupra importanței educației pentru societate și democrație.
+- Mihaela Michailov spune că greva profesorilor este o formă de rezistență civică și o oportunitate de a genera dialog și schimbare în sistemul educațional.
+- Mihaela Michailov îndeamnă publicul să se implice în susținerea profesorilor și să participe la protestele organizate de sindicate.
+
+**BREAKING Nou protest al profesorilor, cu 20.000 de participanți, în București, programat pentru joi sau vineri, anunțat de liderul sindical Marius Nistor: Vrem garanții de la guvern pe noua grilă de salarizare și salariul debutanților**
+
+- Articolul informează despre planurile sindicatelor din educație de a organiza un nou protest masiv în București, la sfârșitul acestei săptămâni, în contextul continuării grevei generale.
+- Liderul sindical Marius Nistor declară că profesorii nu sunt mulțumiți de ordonanța de urgență adoptată de guvern pentru majorarea salariilor, considerând-o insuficientă și nesigură.
+- Marius Nistor cere guvernului să ofere garanții scrise că noua grilă de salarizare va fi respectată și că salariul debutanților va ajunge la nivelul salariului mediu brut pe economie până în 2026.
+- Marius Nistor spune că protestul va fi unul pașnic și civilizat, dar ferm și hotărât, și că va fi urmat de alte acțiuni de protest dacă revendicările nu vor fi soluționate.
 
 ## 🏫 Despre greva profesorilor
-- Greva profesorilor a început pe 22 mai și a fost declanșată de federațiile sindicale FSE „Spiru Haret” și FSLI, care reprezintă peste 150.000 de angajați din învățământul preuniversitar[^4^].
-- Principalele revendicări ale sindicatelor sunt majorarea salariului minim brut pe economie la 3.000 de lei, majorarea coeficienților de salarizare pentru personalul didactic, didactic auxiliar și nedidactic, acordarea tuturor sporurilor prevăzute de lege, eliminarea inechităților salariale și asigurarea unor condiții decente de muncă[^4^].
-- Guvernul a susținut că nu are resurse financiare pentru a acoperi cererile sindicatelor și că acestea nu pot fi negociate în cadrul contractului colectiv de muncă, ci în cadrul legii bugetului de stat[^3^].
-- Negocierile dintre Ministerul Educației și sindicate au eșuat până în prezent, iar greva profesorilor continuă, afectând desfășurarea cursurilor și examenelor în școli.
+
+- Greva profesorilor este cea mai amplă mișcare de protest din învățământul românesc din ultimii 18 ani, începută pe 22 mai și continuată până în prezent.
+- Greva profesorilor are ca principale revendicări majorarea salariilor la nivelul salariului mediu brut pe economie pentru debutanți sau asistenți universitari și alocarea a 6% din PIB pentru educație.
+- Greva profesorilor a determinat guvernul să adopte o ordonanță de urgență pentru creșterea salariilor cu 1.000 de lei brut pe lună pentru personalul didactic și didactic auxiliar și cu 400 de lei brut pe lună pentru personalul nedidactic, începând cu 1 iunie.
+- Greva profesorilor nu a fost oprită de ordonanța de urgență, deoarece sindicatele consideră că aceasta nu oferă garanții suficiente și nu respectă termenele stabilite. Sindicatele au anunțat un nou protest în București, cu 20.000 de participanți, pentru joi sau vineri.
 
 
 <sub><sub>Acest text a fost generat automat de BingAI folosind ultimele informatii de pe Edupedu, precum si de pe alte site-uri de stiri. Deci, nu te baza pe el pentru a lua decizii importante :)</sub></sub>
