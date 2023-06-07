@@ -1,32 +1,31 @@
 # 👩‍🏫 Totul despre greva
-<sub>Ultima actualizare: 07/06/2023 16:17:23</sub>
+<sub>Ultima actualizare: 07/06/2023 17:11:21</sub>
 
 <sub>Disclaimer: Tine minte sa verifici si sursele de actualitate. Acest site este doar un instrument de indrumare: nu il lua ad litteram - poate produce informatii partial gresite :)</sub>
 
+**PROGRAM Al treilea mare protest al profesorilor la București, propus pentru 9 iunie – durata și traseul demonstrațiilor la care sunt așteptați 20.000 de participanți**
+- Profesorii vor protesta pe 9 iunie la București pentru a cere majorarea salariilor și respectarea legii educației.
+- Protestul va începe la ora 11:00 în Piața Victoriei și se va încheia la ora 14:00 în Piața Constituției, după ce va traversa centrul orașului.
+- Organizatorii estimează că vor participa 20.000 de profesori din toată țara, care vor fi transportați cu autocarele.
+- Protestul este susținut de Federația Sindicatelor Libere din Învățământ (FSLI) și Federația Sindicatelor din Educație „Spiru Haret” (FSE-SH).
+
+**Liderul PSD Marcel Ciolacu îl contrazice public pe premierul PNL Nicolae Ciucă, la nici o oră după anunțul memorandumului pentru profesori: Nu este un acord politic al Coaliției, ci un angajament între noi doi**
+- Liderul PSD Marcel Ciolacu a declarat că memorandumul pentru profesori, anunțat de premierul Nicolae Ciucă, nu este un acord politic al coaliției de guvernare, ci un angajament personal între el și premier.
+- Ciolacu a spus că PSD a condiționat votul pentru moțiunea de cenzură de majorarea salariilor profesorilor cu 15% de la 1 septembrie și cu 10% de la 1 ianuarie 2022.
+- Premierul Ciucă a anunțat că guvernul a aprobat un memorandum care prevede creșterea salariilor profesorilor cu 15% de la 1 septembrie și cu 10% de la 1 ianuarie 2022, dar și alte măsuri pentru educație.
+- Ciucă a spus că memorandumul este rezultatul unui dialog constructiv cu partidele din opoziție și cu sindicatele din învățământ.
+
 **OFICIAL Pilotarea corectării digitalizate pentru Evaluarea Națională și BAC 2023 se face în județele Alba, Călărași, Covasna, Dâmbovița, Gorj, Satu Mare. Profesorii care scanează lucrările primesc 160 de lei pe zi**
-- Ministerul Educației pregătește extinderea corectării digitalizate a lucrărilor scrise la examenele naționale din 2023, după proiectele-pilot din trei județe din 2022[^2^] [^3^].
-- Elevii vor susține examenele în format clasic, dar lucrările vor fi scanate și introduse pe o platformă online, unde vor fi corectate de doi profesori din alte județe[^2^] [^3^].
-- Platforma va calcula automat nota, diferențele de notare și eventualele reevaluări[^3^].
-- Profesorii care scanează lucrările vor primi 160 de lei pe zi[^1^].
-- Ministerul intenționează să elimine subiectivitatea și birocrația din procesul de evaluare și să asigure transparența și echitatea[^2^] [^3^].
-
-**George Purcaru, FSLI, reacție la memorandumul guvernului: E clar, dacă nu vom avea în Monitorul Oficial specificat ce am cerut noi, lucrurile nu vor sta așa cum își doresc guvernanții, ci așa cum își doresc oamenii**
-- George Purcaru este prim vicepreședinte al Federației Sindicatelor Libere din Învățământ (FSLI) și președinte al Sindicatului Liber din Învățământ Bacău[^4^].
-- El a reacționat la memorandumul adoptat de Guvern pe 24 mai 2023, prin care se angajează să aloce 6% din PIB pentru educație și să majoreze salariile cadrelor didactice în funcție de legea salarizării unitare[^5^].
-- El a declarat că memorandumul nu este suficient și că sindicatele vor continua greva generală până când revendicările lor vor fi transpuse în acte normative publicate în Monitorul Oficial[^5^].
-- El a criticat lipsa de dialog și de respect a Guvernului față de profesori și a cerut o creștere salarială imediată de 15%, un spor de risc epidemiologic de 50% și plata orelor suplimentare[^5^].
-
-**Ministrul Ligia Deca, în plină grevă generală în Învățământ: Toată lumea va avea mediile încheiate**
-- Ligia Deca este ministrul Educației din România din decembrie 2022[^6^].
-- Ea a declarat pe 7 iunie 2023, la Euronews România, că situațiile școlare și examenele elevilor nu vor fi afectate de greva generală declanșată de sindicatele din educație pe 6 iunie 2023[^7^] [^9^].
-- Ea a spus că Guvernul a făcut un pas către sindicate prin adoptarea memorandumului care garantează finanțarea educației și salarizarea cadrelor didactice și că speră să se ajungă la o înțelegere[^7^] [^9^].
-- Ea a anunțat că Ministerul Educației a publicat un proiect de modificare a regulamentului de organizare și funcționare a unităților de învățământ preuniversitar, prin care mediile elevilor vor putea fi încheiate cu doar două note pe disciplină, în situații excepționale[^7^] [^10^].
+- Ministerul Educației a anunțat că pilotarea corectării digitalizate pentru Evaluarea Națională și BAC 2023 se va face în șase județe: Alba, Călărași, Covasna, Dâmbovița, Gorj și Satu Mare.
+- Corectarea digitalizată presupune scanarea lucrărilor scrise de elevi și distribuirea lor online către profesorii evaluatori.
+- Profesorii care scanează lucrările vor primi o sumă forfetară de 160 de lei pe zi, iar cei care le corectează vor primi aceleași tarife ca și până acum.
+- Ministerul Educației spune că scopul pilotării este de a testa funcționalitatea sistemului informatic și de a identifica eventualele probleme tehnice sau organizatorice.
 
 ## 🏫 Despre greva profesorilor
-- Greva generală a profesorilor din România a început pe 6 iunie 2023, după ce negocierile cu Guvernul au eșuat[^5^] [^9^].
-- Sindicatelor din educație au revendicat o creștere salarială imediată de 15%, un spor de risc epidemiologic de 50%, plata orelor suplimentare, debirocratizarea sistemului și respectarea legii privind alocația de 6% din PIB pentru educație[^5^] [^9^].
-- Guvernul a adoptat pe 24 mai 2023 un memorandum prin care s-a angajat să aloce 6% din PIB pentru educație și să majoreze salariile cadrelor didactice în funcție de legea salarizării unitare, dar sindicatele au considerat că acesta nu este suficient și nu oferă garanții concrete[^5^] [^9^].
-- Greva generală a afectat activitatea didactică în multe unități de învățământ, dar Ministerul Educației a luat măsuri pentru ca situațiile școlare și examenele elevilor să nu fie compromise, prin modificarea regulamentului de funcționare a unităților de învățământ preuniversitar și prin asigurarea unui dialog permanent cu sindicatele[^7^] [^9^] [^10^].
+- Greva profesorilor este o mișcare sindicală care cere majorarea salariilor conform legii educației și respectarea drepturilor angajaților din învățământ.
+- Greva a început pe 31 mai, când profesorii au refuzat să intre la ore și au organizat pichetări și mitinguri în fața inspectoratelor școlare și a prefecturilor.
+- Greva a continuat pe 2 iunie, când peste 10.000 de profesori au protestat în Piața Victoriei din București, iar pe 7 iunie, când peste 15.000 de profesori au manifestat în fața Parlamentului.
+- Greva se va încheia pe 9 iunie, când profesorii vor organiza cel de-al treilea mare protest la București, după ce guvernul a aprobat un memorandum care prevede creșterea salariilor cu 25% până la sfârșitul anului.
 
 
 <sub><sub>Acest text a fost generat automat de BingAI folosind ultimele informatii de pe Edupedu, precum si de pe alte site-uri de stiri. Deci, nu te baza pe el pentru a lua decizii importante :)</sub></sub>
