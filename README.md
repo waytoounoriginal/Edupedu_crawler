@@ -1,35 +1,35 @@
 # 👩‍🏫 Totul despre greva
-<sub>Ultima actualizare: 08/06/2023 15:22:13</sub>
+<sub>Ultima actualizare: 08/06/2023 16:16:24</sub>
 
 <sub>Disclaimer: Tine minte sa verifici si sursele de actualitate. Acest site este doar un instrument de indrumare: nu il lua ad litteram - poate produce informatii partial gresite :)</sub>
 
+**Augustin Zegrean, fost președinte al Curții Constituționale: Declarația adoptată de Guvern pentru profesori ”are valoarea unei declarații făcute de patru politicieni, care s-ar putea ca de săptămâna viitoare să nu mai fie niciunul dintre ei în funcție” / Nu are valoare juridică, ci doar politică**
+
+- Articolul prezintă opinia lui Augustin Zegrean, fost președinte al Curții Constituționale, despre declarația adoptată de Guvern pentru a majora salariile profesorilor.
+- Zegrean susține că declarația nu are valoare juridică, ci doar politică, și că nu obligă Guvernul să respecte promisiunile făcute.
+- Zegrean afirmă că declarația este o încercare de a calma spiritele înainte de alegerile parlamentare și că nu există garanții că viitorul Guvern va continua să susțină creșterile salariale din învățământ.
+- Zegrean critică atitudinea Guvernului față de profesori și spune că aceștia au dreptate să protesteze pentru a-și apăra drepturile.
+
+**Calendarul modificat al examenului de Bacalaureat 2023, sesiunea iunie – iulie. Ministerul Educației a publicat noi date pentru probele de competențe /Înscrierea se face până pe 13 iunie**
+
+- Articolul anunță modificările aduse calendarului examenului de Bacalaureat 2023, sesiunea iunie – iulie, din cauza grevei profesorilor.
+- Ministerul Educației a publicat noi date pentru probele de competențe lingvistice și digitale, care vor avea loc între 19 și 30 iunie.
+- Probele scrise se vor desfășura între 3 și 7 iulie, iar afișarea rezultatelor finale va avea loc pe 14 iulie.
+- Înscrierea candidaților se face până pe 13 iunie, la unitatea de învățământ absolvită sau la cea la care se susține examenul.
+
 **DOCUMENT Ce prevede „declarația” pentru salarizarea profesorilor, aprobată de Guvern și publicată urgent în Monitorul Oficial, deși documentul nu are nicio valoare normativă sau juridică**
 
-- Documentul este o declarație privind politica sectorială de salarizare a personalului din sistemul național de învățământ și stabilirea unor principii generale în vederea îmbunătățirii statutului personalului didactic, didactic auxiliar și nedidactic din sistemul național de învățământ și valorizarea carierei didactice[^2^].
-- Documentul nu are nicio valoare de act normativ sau juridic, care să creeze vreo altă obligație pentru vreo instituție sau persoană[^2^].
-- Documentul a fost adoptat de Guvern pe 8 iunie 2023, ca răspuns la cerințele sindicatelor din învățământ care au declanșat o grevă generală[^2^].
-- Documentul conține mai multe măsuri luate de Guvern în ultimii doi ani pentru creșterile salariale din acest sector, precum și două referiri la grila de salarizare din familia ocupațională subsecventă și la creșterea salariului minim brut pe economie[^2^].
-
-**Marius Nistor, FSE, replică pentru Ligia Deca, după adoptarea în Guvern a deciziei care ar „răspunde cerinței sindicatelor”: Nu poate stabili niciun ministru ce este acceptabil pentru profesori. O țară care nu găsește bani pentru a-și plăti dascălii, nu are niciun fel de viitor**
-
-- Marius Nistor este președintele Federației Sindicatelor din Educație „Spiru Haret”[^4^].
-- Marius Nistor a declarat că nu poate stabili niciun ministru sau premier ce este acceptabil pentru profesori și că este dreptul colegilor săi să nu aibă încredere în documentul adoptat de Guvern[^4^].
-- Marius Nistor a cerut ca ministrul Justiției să explice de ce nu se poate adopta o ordonanță de urgență care să reglementeze problemele legate de grila de salarizare[^4^].
-- Marius Nistor a afirmat că o țară care nu găsește bani pentru a-și plăti dascălii nu are niciun fel de viitor și a solicitat intervenția președintelui Klaus Iohannis[^4^].
-
-**Adrian Câciu, ministrul Finanțelor, spune că impactul bugetar al creșterilor de salarii aprobate de Guvern în ultima lună e de 4 miliarde de lei. Asta înseamnă că Guvernul Ciucă a angajat cheltuieli duble față de cele pentru salariile din Învățământ, iar pe „surse” susține că nu mai are bani să dea celor din școli**
-
-- Adrian Câciu este ministrul Finanțelor din Guvernul Ciucă[^10^].
-- Adrian Câciu a declarat la briefingul de presă de după ședința de Guvern de pe 8 iunie 2023, că impactul tuturor creșterilor salariale din ultima lună este de 4 miliarde de lei[^10^].
-- Adrian Câciu a spus că economia României nu este într-o stare extraordinar de bună și a amintit că România este în procedură de deficit excesiv[^10^].
-- Conform unor surse guvernamentale citate de Economedia.ro, Adrian Câciu ar fi susținut că nu mai are bani să dea mai mult la educație[^10^].
+- Articolul prezintă conținutul declarației pentru salarizarea profesorilor, aprobată de Guvern pe 31 mai și publicată în Monitorul Oficial pe 1 iunie.
+- Declarația exprimă angajamentul Guvernului de a majora salariile personalului didactic și nedidactic din învățământ cu sume cuprinse între 400 și 1000 lei brut pe lună, începând cu 1 iunie.
+- Declarația stabilește și un calendar pentru creșteri salariale etapizate până în anul 2026, când salariul profesorului debutant ar urma să fie egal cu salariul mediu brut pe economie.
+- Declarația nu are nicio valoare normativă sau juridică, fiind doar un act politic, care nu modifică Legea-cadru privind salarizarea personalului plătit din fonduri publice.
 
 ## 🏫 Despre greva profesorilor
 
-- Greva profesorilor a început pe 22 mai 2023 și a durat până pe 9 iunie 2023, când sindicatele au decis să suspende protestul după ce au primit o ofertă din partea Guvernului.
-- Greva profesorilor a avut ca principale revendicări majorarea salariilor cu 25% din diferența prevăzută în Legea salarizării pentru anul 2022, respectiv cu 1.000 de lei brut pentru personalul didactic și auxiliar și cu 400 de lei brut pentru personalul nedidactic, precum și stabilirea unei grile de salarizare distincte pentru familia ocupațională din învățământ.
-- Greva profesorilor a afectat desfășurarea examenelor naționale pentru clasele a II-a, a IV-a și a VI-a, care au fost amânate de două ori, precum și pregătirea elevilor pentru Evaluarea Națională și Bacalaureat, care au fost însă menținute la datele inițiale.
-- Greva profesorilor a determinat Guvernul să adopte o ordonanță de urgență care să majoreze salariile din învățământ cu sumele solicitate de sindicate, începând cu data de 1 iunie 2023, precum și o declarație privind politica sectorială de salarizare a personalului din sistemul național de învățământ, care să cuprindă principiile generale pentru îmbunătățirea statutului personalului didactic și valorizarea carierei didactice.
+- Greva profesorilor a început pe 22 mai și continuă pe termen nedeterminat, cu o participare de peste 75% din personalul didactic și nedidactic[^3^] [^4^].
+- Profesorii revendică respectarea Legii Învățământului Preuniversitar, care prevede că salariul profesorului debutant să fie cel puțin egal cu salariul mediu brut pe economie, și resping declarația Guvernului, care nu garantează acest principiu[^1^] [^2^].
+- Guvernul a aprobat o Ordonanță de Urgență pentru a majora salariile profesorilor cu sume cuprinse între 400 și 1000 lei brut pe lună, începând cu 1 iunie, și a promis creșteri etapizate până în 2026[^2^] [^3^].
+- Greva profesorilor a afectat calendarul examenului de Bacalaureat 2023, sesiunea iunie – iulie, care a fost modificat de Ministerul Educației, prelungind perioada de desfășurare a probelor[^2^].
 
 
 <sub><sub>Acest text a fost generat automat de BingAI folosind ultimele informatii de pe Edupedu, precum si de pe alte site-uri de stiri. Deci, nu te baza pe el pentru a lua decizii importante :)</sub></sub>
