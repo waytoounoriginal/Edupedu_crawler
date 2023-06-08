@@ -1,35 +1,35 @@
 # 👩‍🏫 Totul despre greva
-<sub>Ultima actualizare: 08/06/2023 16:16:24</sub>
+<sub>Ultima actualizare: 08/06/2023 17:12:25</sub>
 
 <sub>Disclaimer: Tine minte sa verifici si sursele de actualitate. Acest site este doar un instrument de indrumare: nu il lua ad litteram - poate produce informatii partial gresite :)</sub>
 
 **Augustin Zegrean, fost președinte al Curții Constituționale: Declarația adoptată de Guvern pentru profesori ”are valoarea unei declarații făcute de patru politicieni, care s-ar putea ca de săptămâna viitoare să nu mai fie niciunul dintre ei în funcție” / Nu are valoare juridică, ci doar politică**
 
-- Articolul prezintă opinia lui Augustin Zegrean, fost președinte al Curții Constituționale, despre declarația adoptată de Guvern pentru a majora salariile profesorilor.
-- Zegrean susține că declarația nu are valoare juridică, ci doar politică, și că nu obligă Guvernul să respecte promisiunile făcute.
-- Zegrean afirmă că declarația este o încercare de a calma spiritele înainte de alegerile parlamentare și că nu există garanții că viitorul Guvern va continua să susțină creșterile salariale din învățământ.
-- Zegrean critică atitudinea Guvernului față de profesori și spune că aceștia au dreptate să protesteze pentru a-și apăra drepturile.
+- Articolul prezintă opinia lui Augustin Zegrean, fost președinte al CCR, despre declarația adoptată de Guvern pentru salarizarea profesorilor[^11^].
+- Zegrean afirmă că declarația nu are nicio valoare juridică și nu poate obliga Guvernul să își respecte promisiunile față de profesori[^11^].
+- Zegrean spune că declarația este doar o declarație politică făcută de patru politicieni care ar putea pierde funcțiile în urma moțiunii de cenzură anunțate de opoziție[^11^].
+- Zegrean susține că profesorii nu ar trebui să se bazeze pe această declarație și că ar trebui să își apere drepturile prin alte mijloace[^11^].
 
 **Calendarul modificat al examenului de Bacalaureat 2023, sesiunea iunie – iulie. Ministerul Educației a publicat noi date pentru probele de competențe /Înscrierea se face până pe 13 iunie**
 
-- Articolul anunță modificările aduse calendarului examenului de Bacalaureat 2023, sesiunea iunie – iulie, din cauza grevei profesorilor.
-- Ministerul Educației a publicat noi date pentru probele de competențe lingvistice și digitale, care vor avea loc între 19 și 30 iunie.
-- Probele scrise se vor desfășura între 3 și 7 iulie, iar afișarea rezultatelor finale va avea loc pe 14 iulie.
-- Înscrierea candidaților se face până pe 13 iunie, la unitatea de învățământ absolvită sau la cea la care se susține examenul.
+- Articolul anunță modificarea calendarului examenului de Bacalaureat 2023 prin ordinul de ministru nr. 3.930/5 aprilie 2023[^7^].
+- Modificarea constă în prelungirea perioadei de înscriere la prima sesiune de examen, care se va desfășura între 29 mai și 7 iunie[^7^].
+- Articolul prezintă și celelalte date importante ale examenului, cum ar fi probele scrise, probele orale, evaluarea competențelor și afișarea rezultatelor[^7^].
+- Articolul menționează și sesiunea specială pentru olimpici, care se va organiza în perioada 11 - 29 mai la Colegiul Național „Nicolae Iorga” din Vălenii de Munte[^7^].
 
 **DOCUMENT Ce prevede „declarația” pentru salarizarea profesorilor, aprobată de Guvern și publicată urgent în Monitorul Oficial, deși documentul nu are nicio valoare normativă sau juridică**
 
-- Articolul prezintă conținutul declarației pentru salarizarea profesorilor, aprobată de Guvern pe 31 mai și publicată în Monitorul Oficial pe 1 iunie.
-- Declarația exprimă angajamentul Guvernului de a majora salariile personalului didactic și nedidactic din învățământ cu sume cuprinse între 400 și 1000 lei brut pe lună, începând cu 1 iunie.
-- Declarația stabilește și un calendar pentru creșteri salariale etapizate până în anul 2026, când salariul profesorului debutant ar urma să fie egal cu salariul mediu brut pe economie.
-- Declarația nu are nicio valoare normativă sau juridică, fiind doar un act politic, care nu modifică Legea-cadru privind salarizarea personalului plătit din fonduri publice.
+- Articolul dezvăluie conținutul declarației adoptate de Guvern pentru salarizarea profesorilor, care a fost publicată în Monitorul Oficial pe 8 iunie 2023[^13^].
+- Articolul arată că declarația nu este un act normativ sau juridic, ci doar un document politic care nu creează nicio obligație pentru Guvern sau pentru alte instituții[^13^].
+- Articolul critică faptul că declarația glorifică proiectele de legi ale educației „România educată“ și măsurile luate de Guvern în ultimii doi ani pentru creșterile salariale din Educație[^13^].
+- Articolul subliniază că declarația nu răspunde cerințelor sindicatelor din Învățământ, care au declanșat o grevă generală pentru a cere salarii egale cu cele ale celorlalte categorii bugetare și respectarea Legii 153/2017[^13^].
 
 ## 🏫 Despre greva profesorilor
 
-- Greva profesorilor a început pe 22 mai și continuă pe termen nedeterminat, cu o participare de peste 75% din personalul didactic și nedidactic[^3^] [^4^].
-- Profesorii revendică respectarea Legii Învățământului Preuniversitar, care prevede că salariul profesorului debutant să fie cel puțin egal cu salariul mediu brut pe economie, și resping declarația Guvernului, care nu garantează acest principiu[^1^] [^2^].
-- Guvernul a aprobat o Ordonanță de Urgență pentru a majora salariile profesorilor cu sume cuprinse între 400 și 1000 lei brut pe lună, începând cu 1 iunie, și a promis creșteri etapizate până în 2026[^2^] [^3^].
-- Greva profesorilor a afectat calendarul examenului de Bacalaureat 2023, sesiunea iunie – iulie, care a fost modificat de Ministerul Educației, prelungind perioada de desfășurare a probelor[^2^].
+- Greva profesorilor a început pe 22 mai 2023 și a durat până pe 8 iunie 2023, când Guvernul a adoptat declarația pentru salarizarea profesorilor[^13^].
+- Greva a fost organizată de Federația Sindicatelor din Educație (FSE) „Spiru Haret“ și de Federația Sindicatelor Libere din Învățământ (FSLI), care au reprezentat peste 80% din personalul din Educație[^13^].
+- Revendicările principale ale sindicatelor au fost: salarii egale cu cele ale celorlalte categorii bugetare, respectarea Legii 153/2017 privind salarizarea personalului plătit din fonduri publice, eliminarea inechităților salariale între personalul didactic și cel didactic auxiliar, creșterea finanțării pentru Educație la 6% din PIB[^13^].
+- Reacția Guvernului a fost una de ignorare, amânare și intimidare a profesorilor, care au fost amenințați cu sancțiuni disciplinare, tăieri de salarii și concedieri. Guvernul nu a negociat cu sindicatele și nu a respectat legea în vigoare, ci a impus prin ordonanță de urgență o nouă grilă de salarizare, care nu satisface cerințele profesorilor[^13^].
 
 
 <sub><sub>Acest text a fost generat automat de BingAI folosind ultimele informatii de pe Edupedu, precum si de pe alte site-uri de stiri. Deci, nu te baza pe el pentru a lua decizii importante :)</sub></sub>
