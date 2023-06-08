@@ -1,35 +1,41 @@
 # 👩‍🏫 Totul despre greva
-<sub>Ultima actualizare: 08/06/2023 12:13:18</sub>
+<sub>Ultima actualizare: 08/06/2023 13:15:05</sub>
 
 <sub>Disclaimer: Tine minte sa verifici si sursele de actualitate. Acest site este doar un instrument de indrumare: nu il lua ad litteram - poate produce informatii partial gresite :)</sub>
 
+**Ligia Deca, ministrul Educației: A fost adoptată declarația privind politica de salarizare a personalului din învățământ. Aceasta răspunde cerinței sindicatelor de a avea un act normativ publicat în Monitorul Oficial / Declarația adoptată de Guvern nu este act normativ**
+
+- Ministrul Educației, Ligia Deca, a susținut o declarație de presă în care a anunțat că Guvernul a adoptat o ordonanță de urgență care majorează salariile profesorilor cu 1.000 de lei brut și ale personalului nedidactic cu 400 de lei brut[^1^] [^2^].
+- Deca a afirmat că ordonanța răspunde cererii sindicatelor de a avea un act normativ publicat în Monitorul Oficial și că toate salariile din învățământ cresc[^1^] [^2^].
+- Ea a dezmințit informațiile conform cărora avizul Consiliului Legislativ ar fi fost negativ și a spus că acesta a fost pozitiv cu unele observații[^1^].
+- Ea a făcut apel la profesori să înceteze greva și să revină la ore, spunând că munca lor este esențială pentru societate și că ministerul este deschis dialogului[^1^] [^2^].
+- Liderii sindicali nu au fost mulțumiți de ordonanță și au spus că nu reflectă un acord între părți și că nu garantează creșterile salariale promise prin lege[^2^] [^3^].
+- Ei au anunțat că vor consulta baza sindicală pentru a decide dacă vor continua sau suspenda greva[^2^] [^3^].
+
 **Modificarea considerată abuzivă de profesori, prin care Ministerul Educației a schimbat felul în care pot fi încheiate mediile elevilor în acest an școlar, a fost aprobată prin ordin de ministrul Ligia Deca**
 
-- Articolul relatează despre o ordonanță de urgență adoptată de Guvern pe 19 august 2020, care instituie unele măsuri pentru buna funcționare a sistemului de învățământ și modifică Legea educației naționale nr. 1/2011[^1^].
-- Una dintre măsurile controversate este aceea că mediile elevilor pot fi încheiate pe baza notelor obținute la tezele semestriale sau la evaluările naționale, fără a mai fi necesar să se susțină examenele finale[^1^].
-- Profesorii consideră că această modificare este abuzivă și lezează dreptul elevilor la o evaluare corectă și echitabilă[^1^].
-- Ministrul Educației, Ligia Deca, susține că ordonanța de urgență este necesară pentru a asigura continuitatea în desfășurarea activităților didactice în contextul pandemiei de COVID-19[^1^].
+- Ministrul Educației, Ligia Deca, a aprobat prin ordin o modificare a metodologiei de evaluare a elevilor la finalul clasei a VIII-a, care prevede că mediile se pot încheia și pe baza notelor din semestrul I sau din anii anteriori[^4^] [^5^].
+- Modificarea este considerată abuzivă de profesori, care susțin că încalcă principiul egalității de șanse și afectează calitatea educației[^4^] [^5^].
+- Ei spun că modificarea este o formă de presiune pentru a-i determina să renunțe la grevă și să intre la ore, în condițiile în care examenul național ar urma să se desfășoare normal[^4^] [^5^].
+- Ei cer abrogarea ordinului și respectarea metodologiei inițiale, care prevede că mediile se încheie pe baza notelor din semestrul II[^4^] [^5^].
+- Ministerul Educației susține că modificarea are rolul de a proteja elevii de eventualele consecințe negative ale grevei și de a le oferi mai multe opțiuni de evaluare[^5^] [^6^].
+- Ministerul spune că ordinul este legal și că nu afectează dreptul la învățătură al elevilor, ci dimpotrivă, le asigură continuitatea în desfășurarea activităților didactice[^5^] [^6^].
 
 **Măriuca Talpeș: Noi susținem greva profesorilor și e bine că se întâmplă, e o grevă a noastră, ca societate / Mingea este la puterea politică, clar. Și are soluții. Numai să dorească și să înțeleagă că educația este un pilon al societății, nu o Cenușăreasă, nu o masă de profesori care ne deranjază ș...**
 
-- Articolul prezintă opinia lui Măriuca Talpeș, cofondatoarea companiei Bitdefender și coordonatoarea grupului de acțiune în educație al Romanian Business Leaders[^2^].
-- Măriuca Talpeș afirmă că susține greva profesorilor și că aceasta este o manifestare a nemulțumirii societății față de situația precară a sistemului de învățământ[^2^].
-- Ea critică lipsa de interes a puterii politice pentru educație și lipsa de dialog cu sindicatele și cu mediul de afaceri[^2^].
-- Ea propune ca soluții creșterea statutului profesorilor, recunoașterea meritelor lor, dezvoltarea profesională continuă și implementarea unor proiecte inovatoare în domeniul educației[^2^].
-
-**Ministrul Educației, Ligia Deca, anunță că ministerul pe care-l conduce lucrează de o săptămână la un program prin care profesorii care au fost în grevă vor recupera zilele în care nu au lucrat**
-
-- Articolul informează despre declarațiile ministrului Educației, Ligia Deca, referitoare la situația profesorilor care au participat la greva generalizată din 25 mai 2023[^3^].
-- Ministrul Educației spune că ministerul pe care-l conduce lucrează de o săptămână la un program prin care profesorii care au fost în grevă vor recupera zilele în care nu au lucrat, astfel încât să nu fie afectați elevii[^3^].
-- Ea precizează că programul va fi discutat cu sindicatele și cu inspectoratele școlare și că va ține cont de specificul fiecărei unități de învățământ[^3^].
-- Ea mai spune că ministerul este deschis la dialog cu partenerii sociali și că așteaptă propuneri concrete pentru îmbunătățirea condițiilor de muncă și de salarizare ale personalului didactic[^3^].
+- Măriuca Talpeș este cofondatoarea companiei Bitdefender și o antreprenoare implicată în domeniul educației, prin proiecte care vizează dezvoltarea profesională a profesorilor și modernizarea sistemului de învățământ[^7^] [^8^].
+- Ea a declarat că susține greva profesorilor și că aceasta este o grevă a societății, care arată că educația este o prioritate națională și că profesorii au nevoie de salarii decente și de respect[^8^].
+- Ea a criticat atitudinea guvernului față de revendicările profesorilor și a spus că mingea este la puterea politică, care are soluții, dar nu dorește și nu înțelege că educația este un pilon al societății, nu o Cenușăreasă, nu o masă de profesori care ne deranjază și ne fac probleme[^8^].
+- Ea a subliniat că profesorii sunt cei mai importanți în societate, pentru că își formează viitoarea generație și că trebuie să li se ofere condiții optime de lucru și de dezvoltare[^7^] [^8^].
+- Ea a prezentat proiectul Merito, inițiat de asociația Romanian Business Leaders, care recompensează profesorii merituoși și le oferă ateliere și module de lucru în care să învețe metode moderne de educație[^7^] [^8^].
+- Ea a spus că proiectul are ca scop să crească statutul meseriei de profesor, să încurajeze bunele practici și să creeze o comunitate de profesori care să se sprijine reciproc[^7^] [^8^].
 
 ## 🏫 Despre greva profesorilor
 
-- Greva profesorilor a început pe 25 mai 2023 și a fost declanșată de Federația Sindicatelor Libere din Învățământ (FSLI), care reprezintă peste 80% din personalul didactic din România[^4^].
-- Principalele revendicări ale profesorilor sunt creșterea salariilor cu 25% până la finalul anului 2023, eliminarea inechităților salariale între diferite categorii de personal didactic, acordarea tuturor sporurilor prevăzute de lege și respectarea drepturilor sindicale[^4^].
-- Guvernul a oferit o majorare salarială de 10% pentru personalul didactic și nedidactic din învățământ, începând cu 1 iunie 2023, dar sindicatele au respins oferta, considerând-o insuficientă și discriminatorie[^4^].
-- Greva profesorilor a afectat peste 3 milioane de elevi din toate nivelurile de învățământ, care nu au beneficiat de ore online sau față în față, și a generat tensiuni între sindicate, ministerul Educației și autoritățile locale[^4^].
+- Greva profesorilor a început pe 17 mai 2023 și a fost declanșată de nemulțumirea față de nivelul salariilor din învățământ, care nu au fost majorate conform legii[^9^] [^10^].
+- Profesorii au cerut creșterea veniturilor cu 25% până la finalul anului 2023, ceea ce ar însemna ca salariul debutanților să crească de la 2400 de lei la 3000 de lei[^9^] [^10^].
+- Guvernul a răspuns cu o ordonanță de urgență care prevede o majorare salarială de 1.000 de lei brut pentru personalul didactic și didactic auxiliar și de 400 de lei brut pentru personalul nedidactic, începând cu 1 iunie 2023[^1^] [^2^].
+- Sindicatele nu au fost de acord cu ordonanța și au spus că nu asigură creșterile promise prin lege și că nu este rezultatul unui dialog social real. Ei au anunțat că vor consulta baza sindicală pentru a decide dacă vor continua sau suspenda greva[^2^] [^3^].
 
 
 <sub><sub>Acest text a fost generat automat de BingAI folosind ultimele informatii de pe Edupedu, precum si de pe alte site-uri de stiri. Deci, nu te baza pe el pentru a lua decizii importante :)</sub></sub>
