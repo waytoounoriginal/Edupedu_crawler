@@ -1,36 +1,35 @@
 # 👩‍🏫 Totul despre greva
-<sub>Ultima actualizare: 09/06/2023 11:15:39</sub>
+<sub>Ultima actualizare: 09/06/2023 12:12:50</sub>
 
 <sub>Disclaimer: Tine minte sa verifici si sursele de actualitate. Acest site este doar un instrument de indrumare: nu il lua ad litteram - poate produce informatii partial gresite :)</sub>
 
-**UPDATE Profesorii și angajații din Învățământ vor protesta vineri, 9 iunie, în București / Traseul mitingului la care sunt așteptați 20.000 de participanți. Sindicatele au fost invitate la Palatul Victoria, de la ora 12**
+**LIVE VIDEO FOTO Profesorii și angajații din Învățământ au început să se adune în Piața Victoriei  / S-au strâns deja circa 5.000 de participanți / Studenți și copii s-au alăturat profesorilor cu mesaje de susținere / Sindicatele au fost invitate la Palatul Victoria, de la ora 12**
 
-- Articolul relatează despre protestul masiv al angajaților din învățământ în București, care a avut loc pe 30 mai 2023, față de refuzul guvernului de a crește salariile din domeniu.
-- Reprezentanții protestatarilor s-au întâlnit cu premierul Nicolae Ciucă la ora 12:00, dar nu au primit o ofertă satisfăcătoare și au plecat în marș spre Palatul Cotroceni, unde au avut o întrevedere cu președintele Klaus Iohannis.
-- Guvernul le-a oferit prime de 4.000 de lei la personalul didactic și de 1.500 de lei la cel nedidactic, dar sindicaliștii au cerut un act normativ care să stabilească o grilă de salarizare până la legea salarizării.
-- Președintele Iohannis a promis că se va implica în rezolvarea conflictului și că va gira un eventual acord între părți.
-- Protestul a început la ora 11:00 și s-a încheiat în jurul orei 16:00, după ce liderii sindicali au anunțat că vor lua o decizie după consultarea membrilor lor.
+- Articolul relatează despre protestul organizat de profesorii și angajații din sistemul de învățământ pe 9 iunie 2023 în București, pentru a cere majorarea salariilor și finanțarea educației[^1^].
+- Articolul prezintă imagini și video cu manifestanții care au pornit din Piața Victoriei și au ajuns la Palatul Cotroceni, unde au strigat lozinci precum "Nu cedăm" și "Grevă, grevă!"[^1^].
+- Articolul menționează că liderii sindicali au avut o întâlnire cu președintele Klaus Iohannis la Cotroceni, dar nu au ajuns la un acord satisfăcător[^1^].
+- Articolul citează mesaje de pe pancartele protestatarilor, cum ar fi "O lume minunată, România educată, sticlă", "Ligia Decât atât s-a putut" sau "4 la purtare pentru guvernare"[^1^].
 
-**Cererea unei mame să fie declarată ilegală greva din educație a fost respinsă de Tribunalul București**
+**FOTO “Dacă nu obosim cu 30 de copii în clasă, e clar că nu vom obosi nici cu ei” – mesajul pentru guvernanți al unei profesoare participante la protest**
 
-- Articolul informează despre decizia Tribunalului București de a respinge cererea depusă de o femeie, care solicita să fie declarată ilegală greva din educație.
-- Instanța a considerat că femeia nu avea calitate procesuală activă pentru a introduce acțiunea și a obligat-o să plătească cheltuieli de judecată de 1.760 lei către Federația Națională Sindicală "Alma Mater".
-- Hotărârea nu este definitivă și poate fi atacată cu apel.
-- Acțiunea fusese îndreptată împotriva a patru sindicate din educație: Federația Sindicatelor Libere din Învățământ; Federația Sindicatelor din Educație "Spiru Haret"; Uniunea Sindicatelor Europene din Educație; Federația Națională Sindicală "Alma Mater".
+- Articolul prezintă declarațiile unei profesoare care a participat la protestul din Piața Victoriei pe 9 iunie 2023[^5^].
+- Articolul transmite mesajul profesoarei pentru guvernanți: "Dacă nu obosim cu 30 de copii în clasă - 30 de copii, 60 de părinți și bunici nu mai spun - e clar că nu vom obosi nici cu ei"[^5^].
+- Articolul explică motivele profesoarei pentru a protesta: "Speranța moare ultima. Dacă nu acum, în ultimul moment, când credem că într-adevăr se poate, atunci când? Am tot lăsat pe alții înaintea noastră."[^5^].
+- Articolul arată că profesoara consideră că este vorba despre "un război al dreptății și al bunului simț" și că guvernanții sunt depășiți de situație și caută artificii pentru a-i determina pe profesori să renunțe[^5^].
 
-**FOTO Profesorii din țară au pornit spre al treilea miting organizat astăzi în București, în a 12-a zi de proteste**
+**FOTO Elevii și studenții au venit la protestul profesorilor din Piața Victoriei**
 
-- Articolul prezintă imagini cu profesorii din diferite județe ale țării care au venit la București pentru al treilea miting organizat pe 9 iunie 2023, în a 12-a zi de grevă generală.
-- Profesorii au afișat pancarte și bannere cu mesaje precum: "Vrem la catedră, nu în piață", "România, trezește-te, Fără educație moare orice nație", "O lume minunată, România educată, sticlă", "Ligia Decât atât s-a putut".
-- Mitingul a avut loc în fața Palatului Parlamentului, unde sindicaliștii au cerut respectarea legii care prevede alocarea a 6% din PIB pentru educație, creșterea salariilor și sporul pentru condiții de muncă.
-- Protestul a fost organizat între orele 12:00 și 13:00 și a reunit aproximativ 600 de persoane, reprezentând personalul nedidactic din unitățile de învățământ.
+- Articolul informează despre prezența elevilor și studenților la protestul profesorilor din Piața Victoriei pe 9 iunie 2023[^8^].
+- Articolul arată imagini cu elevii care au afișat pancarte cu mesaje de susținere pentru cadrele didactice, cum ar fi "Elevii sunt cu voi!" sau "Fără educație moare orice nație"[^8^].
+- Articolul menționează că studenții de la Alianța Națională a Organizațiilor Studențești din România (ANOSR) sunt și ei prezenți în Piața Victoriei[^8^].
+- Articolul oferă informații de context despre declarația privind politica de salarizare a personalului din învățământ adoptată de guvern și despre reacțiile sindicatelor și ale fostului președinte al Curții Constituționale[^8^].
 
 ## 🏫 Despre greva profesorilor
 
-- Greva generală din educație a început pe 22 mai 2023 și a continuat până pe 9 iunie 2023, când sindicatele au anunțat suspendarea ei după discuțiile cu președintele Iohannis.
-- Principala revendicare a profesorilor a fost majorarea salariilor conform Legii nr.153/2017, care prevede un salariu minim de 3.000 de lei pentru un profesor debutant și o creștere progresivă până în 2028.
-- Guvernul a propus o creștere salarială de 1.000 de lei brut lunar pentru personalul didactic și de 400 de lei pentru personalul nedidactic, dar sindicatele au respins oferta și au cerut un act normativ care să garanteze aplicarea legii salarizării.
-- Președintele Iohannis a intervenit în conflict și a promis că va susține un acord între părți, care să prevadă o creștere salarială graduală, începând cu septembrie 2023, și o finanțare adecvată a educației.
+- Greva profesorilor a început pe 22 mai 2023 și a durat 12 zile, fiind cea mai lungă acțiune de protest din sistemul de învățământ din ultimii ani[^1^] [^5^] [^8^].
+- Profesorii au cerut majorarea salariilor cu 25% începând cu 1 ianuarie 2023, respectarea legii care prevede alocarea a 6% din PIB pentru educație și îmbunătățirea condițiilor de lucru în școli[^1^] [^5^] [^8^].
+- Guvernul a oferit o declarație privind politica de salarizare a personalului din învățământ, care prevede creșteri salariale etapizate până în 2026 și acordarea unor vouchere pentru formare profesională, dar aceasta a fost respinsă de sindicate ca fiind inacceptabilă și neconformă cu legea[^1^] [^8^].
+- Protestul profesorilor a fost susținut de elevi și studenți, care au participat la mitingul din Piața Victoriei și au afișat mesaje de solidaritate cu dascălii lor. Ei au cerut o educație de calitate și respect pentru meseria de profesor[^5^] [^8^].
 
 
 <sub><sub>Acest text a fost generat automat de BingAI folosind ultimele informatii de pe Edupedu, precum si de pe alte site-uri de stiri. Deci, nu te baza pe el pentru a lua decizii importante :)</sub></sub>
