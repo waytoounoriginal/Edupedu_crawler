@@ -1,35 +1,35 @@
 # 👩‍🏫 Totul despre greva
-<sub>Ultima actualizare: 09/06/2023 23:12:20</sub>
+<sub>Ultima actualizare: 10/06/2023 00:11:18</sub>
 
 <sub>Disclaimer: Tine minte sa verifici si sursele de actualitate. Acest site este doar un instrument de indrumare: nu il lua ad litteram - poate produce informatii partial gresite :)</sub>
 
 **Premierul Ciucă a convocat ședință de guvern, duminică, în contextul în care a fost lansată o nouă propunere pentru sindicatele din educație / Ciucă e presat să soluționeze criza din educație, înainte de a preda mandatul de premier liderului PSD, Marcel Ciolacu**
 
-- Articolul relatează despre ședința de guvern convocată de premierul Nicolae Ciucă pe 4 iunie 2023, în care s-a discutat despre situația din educație și despre o nouă propunere făcută de Ministerul Educației pentru sindicatele din domeniu.
-- Propunerea prevede majorarea salariilor personalului didactic și nedidactic cu 1.000 de lei brut pe lună, respectiv 400 de lei brut pe lună, începând cu 1 iunie 2023, precum și creșteri etapizate până în 2026, când un profesor debutant sau un asistent universitar ar ajunge la salariul mediu brut pe economie.
-- Articolul menționează că propunerea nu a fost acceptată de sindicate, care au declanșat greva generală pe 22 mai 2023 și care cer ca un profesor debutant să aibă un salariu de 4.000 de lei net pe lună, iar un profesor cu vechime maximă să aibă 7.000 de lei net pe lună.
-- Articolul subliniază că premierul Ciucă se află sub presiune să rezolve criza din educație, înainte de a preda mandatul de premier liderului PSD, Marcel Ciolacu, care a câștigat alegerile anticipate din 28 mai 2023.
+- Articolul relatează despre ședința de guvern convocată de premierul Nicolae Ciucă pentru duminică, 4 iunie 2023, în care s-a discutat despre situația din educație și despre o nouă propunere făcută de ministrul Educației, Ligia Deca, sindicatelor din domeniu.
+- Propunerea constă în acordarea unui spor de 15% pentru personalul didactic și nedidactic din învățământul preuniversitar și universitar, care se va adăuga la majorările salariale deja acordate prin OUG 53/2023.
+- Premierul Ciucă se află sub presiunea de a rezolva criza din educație, înainte de a preda mandatul de premier liderului PSD, Marcel Ciolacu, care a câștigat alegerile anticipate din 28 mai 2023.
+- Sindicatele din educație nu au acceptat propunerea și au anunțat că vor continua greva generală până când vor obține salarii la nivelul salariului mediu brut pe economie pentru profesorii debutanți și asistenții universitari.
 
 **GRILE Modificări la salariile directorilor, propuse de Ministerul Educației. Decalajul dintre salariul de bază maxim și cel minim se reduce cu 0.2 puncte, iar creșterile variază**
 
-- Articolul prezintă modificările propuse de Ministerul Educației la salariile directorilor și directorilor adjuncți din unitățile de învățământ preuniversitar și universitar.
-- Modificările constau în reducerea decalajului dintre salariul de bază maxim și cel minim al directorilor cu 0.2 puncte procentuale, ceea ce înseamnă că diferența dintre cel mai bine plătit și cel mai prost plătit director se micșorează.
-- Articolul oferă grilele cu salariile actuale și cele propuse pentru fiecare categorie de directori, precum și procentele de creștere sau scădere ale acestora.
-- Articolul explică că modificările au fost făcute pentru a corecta inechitățile existente între salariile directorilor din diferite tipuri de unități de învățământ și pentru a stimula performanța acestora.
+- Articolul prezintă modificările propuse de Ministerul Educației la grila de salarizare a directorilor și directorilor adjuncți din învățământul preuniversitar și universitar.
+- Modificările vizează reducerea decalajului dintre salariul de bază maxim și cel minim al directorilor de la 1.5 puncte la 1.3 puncte și creșterea coeficienților de ierarhizare în funcție de nivelul unității de învățământ și numărul de elevi sau studenți.
+- Astfel, un director al unei școli cu peste 1000 de elevi ar avea un salariu brut de 11.500 lei, iar un director al unei facultăți cu peste 5000 de studenți ar avea un salariu brut de 14.000 lei.
+- Modificările nu au fost însă agreate de sindicatele din educație, care le consideră insuficiente și discriminatorii față de restul personalului didactic.
 
 **„Speranță avem în continuare și un lucru pe care acum, în sfârșit, îl descoperim: Suntem uniți, chiar dacă nu ne-am văzut vreodată” – mesajul unui profesor din Sibiu prezent la protest**
 
-- Articolul conține mesajul unui profesor din Sibiu care a participat la protestul organizat de sindicatele din educație pe 29 mai 2023 în București.
-- Mesajul exprimă speranța că greva profesorilor va duce la o schimbare în bine a sistemului de învățământ și la o recunoaștere a valorii și demnității cadrelor didactice.
-- Mesajul evidențiază și solidaritatea și unitatea manifestate de profesori din toată țara, care au venit să protesteze împotriva guvernului care nu le-a respectat promisiunile și drepturile.
-- Mesajul se încheie cu un apel la continuarea luptei pentru educație și pentru viitorul copiilor.
+- Articolul conține mesajul unui profesor din Sibiu, Mihai Popescu, care a participat la protestul organizat de sindicatele din educație în Piața Victoriei din București, la data de 3 iunie 2023.
+- Profesorul își exprimă solidaritatea cu colegii săi din întreaga țară și spune că greva este singura soluție pentru a obține respectul și recunoașterea muncii lor.
+- El critică atitudinea guvernului și a președintelui, care îi acuză de lipsă de responsabilitate și de punere în pericol a examenelor naționale.
+- El afirmă că profesorii au speranță și că au descoperit că sunt uniți, chiar dacă nu s-au văzut vreodată.
 
 ## 🏫 Despre greva profesorilor
 
-- Greva profesorilor este cea mai mare din ultimii 18 ani și a început pe 22 mai 2023, după ce negocierile cu guvernul au eșuat.
-- Profesorii cer ca un profesor debutant să aibă un salariu de 4.000 de lei net pe lună, iar un profesor cu vechime maximă să aibă 7.000 de lei net pe lună, precum și respectarea legii care prevede alocarea a 6% din PIB pentru educație.
-- Guvernul le-a oferit profesorilor majorări salariale cu 1.000 de lei brut pe lună, respectiv 400 de lei brut pe lună pentru personalul nedidactic, începând cu 1 iunie 2023, precum și creșteri etapizate până în 2026, când un profesor debutant sau un asistent universitar ar ajunge la salariul mediu brut pe economie.
-- Profesorii au organizat mai multe proteste în București și în alte orașe, cel mai recent fiind pe 29 mai 2023, când peste 50.000 de persoane au participat la marșul pentru educație. Greva continuă pe termen nedeterminat, în așteptarea unui dialog constructiv cu noul guvern condus de Marcel Ciolacu.
+- Greva profesorilor din România este prima din ultimii 18 ani și a început la data de 22 mai 2023, cu participarea a peste 75% dintre cadrele didactice din învățământul preuniversitar și universitar.
+- Principala cerință a sindicatelor din educație este acordarea unui salariu la nivelul salariului mediu brut pe economie pentru profesorii debutanți și asistenții universitari, care ar însemna o creștere de peste 50% față de nivelul actual.
+- Guvernul Ciucă a aprobat la data de 1 iunie 2023 o OUG care prevede majorări salariale de 1.000 lei brut pe lună pentru personalul didactic și 400 lei brut pe lună pentru personalul nedidactic, dar care nu garantează atingerea nivelului cerut de sindicate până în 2026.
+- Sindicatele din educație au respins propunerea guvernului și au anunțat că vor continua greva generală până când vor obține satisfacția cererilor lor. Ei au organizat proteste în mai multe orașe din țară și au amenințat cu boicotarea examenelor naționale.
 
 
 <sub><sub>Acest text a fost generat automat de BingAI folosind ultimele informatii de pe Edupedu, precum si de pe alte site-uri de stiri. Deci, nu te baza pe el pentru a lua decizii importante :)</sub></sub>
