@@ -1,35 +1,34 @@
 # 👩‍🏫 Totul despre greva
-<sub>Ultima actualizare: 11/06/2023 04:08:39</sub>
+<sub>Ultima actualizare: 11/06/2023 06:00:39</sub>
 
 <sub>Disclaimer: Tine minte sa verifici si sursele de actualitate. Acest site este doar un instrument de indrumare: nu il lua ad litteram - poate produce informatii partial gresite :)</sub>
 
 **Sindicatele îi întreabă pe profesori și angajații din școli dacă acceptă să închidă greva generală din Învățământ pentru voucherele anuale și pentru promisiunea de creștere salarială în anul viitor, solicitări făcute de sindicate și acceptate de Guvern / Condiția impusă de Executivul Ciucă – duminic...**
 
-- Articolul relatează despre consultarea sindicală a profesorilor și angajaților din școli privind oferta Guvernului de a pune capăt grevei generale din Învățământ.
-- Oferta include acordarea de vouchere anuale de 1.500 de lei pentru personalul didactic și 500 de lei pentru cel nedidactic, precum și o creștere salarială cu 50% din diferența dintre salariul actual și cel din viitoarea grilă, începând cu 1 ianuarie 2023.
-- Condiția impusă de Executiv este ca sindicatele să semneze un acord până duminică dimineața la ora 9:00, altfel oferta va fi retrasă.
-- Sindicatele au cerut timp pentru a consulta baza și au anunțat că vor comunica rezultatul luni dimineața.
+- Articolul relatează despre propunerea făcută de sindicatele din educație către profesori și angajați din școli, de a încheia greva generală în schimbul unor vouchere anuale și a unei promisiuni de creștere salarială în 2024.
+- Sindicatele au cerut ca personalul didactic să primească vouchere de 1.500 de lei pe an, iar cel nedidactic de 500 de lei pe an, precum și o creștere salarială de 50% din diferența dintre salariul actual și cel din viitoarea grilă, începând cu 1 ianuarie 2024.
+- Guvernul a acceptat aceste solicitări, dar cu condiția ca sindicatele să renunțe la acțiunile în instanță privind plata diferențelor salariale din perioada 2017-2020.
+- Sindicatele au lansat un sondaj online pentru a consulta membrii lor dacă sunt de acord cu această propunere sau dacă vor să continue greva.
 
 **ULTIMA ORĂ Guvernul acceptă propunerea sindicatelor din educație ca salariile să crească de la 1 ianuarie cu 50% din diferența dintre salariul actual și cel din viitoarea grilă / Au fost acceptate și vouchere de 1.500 de lei pentru profesori și 500 de lei pentru nedidactic**
 
-- Articolul anunță că Guvernul a acceptat propunerea sindicatelor din educație de a majora salariile cu 50% din diferența dintre salariul actual și cel din viitoarea grilă, începând cu 1 ianuarie 2023.
-- Aceasta este o îmbunătățire față de oferta anterioară a Guvernului, care prevedea o creștere salarială cu 45% din diferența respectivă.
-- De asemenea, Guvernul a acceptat să acorde vouchere anuale de 1.500 de lei pentru personalul didactic și 500 de lei pentru cel nedidactic, care vor fi plătite în octombrie.
-- Oferta este condiționată de semnarea unui acord între părți până duminică dimineața la ora 9:00.
+- Articolul anunță că Guvernul a făcut o nouă ofertă pentru sindicatele din educație, sâmbătă seara, după ce acestea au respins oferta anterioară de primă de 1.500 lei net în octombrie și creștere salarială cu 45% din diferența dintre salariul actual și cel din viitoarea grilă.
+- Noua ofertă prevede ca salariile să crească de la 1 ianuarie 2024 cu 50% din diferența dintre salariul actual și cel din viitoarea grilă, care ar urma să fie atinsă în 2026.
+- De asemenea, Guvernul a acceptat să acorde vouchere anuale pentru personalul didactic și nedidactic, în valoare de 1.500 lei, respectiv 500 lei.
+- Sindicatele au primit un termen până duminică dimineața la ora 9 pentru a răspunde la această ofertă.
 
 **Profesorii și angajații din Educație au respins oferta Guvernului de primă de 1.500 lei net în octombrie și creștere salarială cu 45% din diferența de salariu actual și cel din viitoarea grilă / Greva din școli continuă**
 
-- Articolul informează că profesorii și angajații din Educație au respins oferta Guvernului de a pune capăt grevei generale din Învățământ.
-- Oferta consta în acordarea unei prime de 1.500 lei net în octombrie pentru personalul didactic și 500 de lei pentru cel nedidactic, precum și o creștere salarială cu 45% din diferența dintre salariul actual și cel din viitoarea grilă, începând cu 1 ianuarie 2023.
-- Sindicatele au considerat oferta insuficientă și au cerut o creștere salarială cu 50% din diferența respectivă, precum și plata voucherelor în fiecare an.
-- Greva din școli continuă, afectând peste 3 milioane de elevi și peste 200.000 de angajați din Educație.
+- Articolul informează că profesorii și angajații din educație au respins oferta Guvernului de primă de 1.500 lei net în octombrie și creștere salarială cu 45% din diferența dintre salariul actual și cel din viitoarea grilă, care ar fi urmat să fie aplicată începând cu ianuarie 2024.
+- Sindicatele au considerat că oferta este insuficientă și că nu garantează respectarea legii care prevede ca salariul de bază al unui profesor debutant sau al unui asistent universitar să fie egal cu salariul mediu brut pe economie.
+- Sindicatele au anunțat că greva generală din școli continuă și că vor organiza un marș de protest pe 25 mai, în București, pentru a cere respectarea drepturilor salariale ale personalului din educație.
 
 ## 🏫 Despre greva profesorilor
 
-- Greva profesorilor și angajaților din Educație a început pe 1 octombrie 2022, ca protest față de salarizarea inechitabilă și condițiile precare de muncă din sistemul de învățământ.
-- Sindicatele au revendicat o creștere salarială cu 50% din diferența dintre salariul actual și cel din viitoarea grilă, care ar trebui să fie aplicată din 2022, conform Legii salarizării unitare.
-- Guvernul a oferit inițial o creștere salarială cu 45% din diferența respectivă, începând cu 1 ianuarie 2023, precum și o primă de 1.500 lei net pentru personalul didactic și 500 de lei pentru cel nedidactic, care ar fi fost plătită în octombrie 2022.
-- Oferta a fost respinsă de sindicate, care au cerut plata voucherelor în fiecare an, nu doar o dată. Guvernul a acceptat apoi propunerea sindicală de a majora salariile cu 50% din diferența dintre salariul actual și cel din viitoarea grilă, începând cu 1 ianuarie 2023, dar a condiționat semnarea unui acord până duminică dimineața la ora 9:00. Sindicatele au cerut timp pentru a consulta baza și au anunțat că vor comunica rezultatul luni dimineața.
+- Greva profesorilor este o mișcare sindicală care a început pe 22 mai 2023 și care vizează îmbunătățirea condițiilor salariale ale personalului din educație, în conformitate cu legea care prevede ca salariul de bază al unui profesor debutant sau al unui asistent universitar să fie egal cu salariul mediu brut pe economie.
+- Greva a fost declanșată după ce Guvernul a emis o ordonanță de urgență care acorda majorări salariale de 1.000 lei brut pe lună pentru personalul didactic și 400 de lei brut pe lună pentru personalul nedidactic, dar care nu garanta atingerea grilei salariale dorite de sindicate până în 2026.
+- Guvernul a făcut mai multe oferte pentru a încerca să oprească greva, inclusiv acordarea unor vouchere anuale și a unor creșteri salariale etapizate, dar cu condiția ca sindicatele să renunțe la acțiunile în instanță privind plata diferențelor salariale din perioada 2017-2020.
+- Sindicatele au consultat membrii lor prin sondaje online și au decis să continue greva și să organizeze un marș de protest pe 25 mai, în București, pentru a cere respectarea legii și a drepturilor salariale ale personalului din educație.
 
 
 <sub><sub>Acest text a fost generat automat de BingAI folosind ultimele informatii de pe Edupedu, precum si de pe alte site-uri de stiri. Deci, nu te baza pe el pentru a lua decizii importante :)</sub></sub>
