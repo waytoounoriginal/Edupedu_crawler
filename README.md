@@ -1,30 +1,34 @@
 # 👩‍🏫 Totul despre greva
-<sub>Ultima actualizare: 11/06/2023 12:11:00</sub>
+<sub>Ultima actualizare: 11/06/2023 13:13:00</sub>
 
 <sub>Disclaimer: Tine minte sa verifici si sursele de actualitate. Acest site este doar un instrument de indrumare: nu il lua ad litteram - poate produce informatii partial gresite :)</sub>
 
 **BREAKING Calendarul școlar nu se prelungește, după 3 săptămâni de grevă a profesorilor cauzată de refuzul Guvernului Ciucă de a majora salariile. Deca argumentează decizia prin disconfortul resimțit de elevi în școlile în care autoritățile nu au cumpărat aer condiționat – VIDEO**
-- Articolul relatează despre decizia ministrului Educației, Ligia Deca, de a nu prelungi anul școlar după greva profesorilor, care durează de trei săptămâni și care cere majorarea salariilor cu 50%.
-- Deca susține că prelungirea anului școlar ar afecta elevii care ar trebui să învețe în condiții de caniculă, având în vedere că multe școli nu au aer condiționat.
-- Articolul prezintă și reacțiile liderilor sindicali, care acuză guvernul de lipsă de dialog și de încălcarea legii privind salarizarea personalului din învățământ.
-- Articolul conține și un video cu declarațiile ministrului Educației.
 
-**ULTIMA ORĂ Înscrierile la BAC 2023 se prelungesc până pe 16 iunie, anunță Ligia Deca, în contextul grevei profesorilor**
-- Articolul anunță că ministrul Educației, Ligia Deca, a decis să prelungească termenul de înscriere la examenul de bacalaureat din acest an până pe 16 iunie, pentru a le oferi elevilor mai mult timp să se pregătească.
-- Decizia vine în contextul grevei profesorilor, care a perturbat activitatea didactică din ultimele trei săptămâni și care a determinat echivalarea probelor de competențe cu mediile din liceu.
-- Articolul menționează și alte măsuri luate de minister pentru a asigura buna desfășurare a examenului de bacalaureat, cum ar fi distribuirea subiectelor prin sistem electronic și supravegherea video a sălilor de examen.
+- Articolul relatează despre decizia ministrului Educației, Ligia Deca, de a nu prelungi anul școlar după trei săptămâni de grevă a profesorilor, care cer majorarea salariilor conform legii.
+- Deca susține că prelungirea anului școlar ar afecta elevii care ar trebui să învețe în condiții de caniculă, în școli care nu au aer condiționat sau ventilație adecvată.
+- Articolul prezintă și reacțiile liderilor sindicali, care acuză guvernul de lipsă de dialog și de încălcarea drepturilor profesorilor, precum și ale unor părinți și elevi, care sunt nemulțumiți de situația din învățământ.
 
-**Oficial, probele de competențe de la Bacalaureat 2023 vor fi echivalate cu mediile din liceu. Ministrul Educației: Ordonanța de Urgență a fost adoptată**
-- Articolul informează că guvernul a adoptat o ordonanță de urgență prin care probele de competențe lingvistice și digitale de la bacalaureat vor fi echivalate cu mediile obținute de elevi la aceste discipline pe parcursul celor patru ani de liceu.
-- Măsura a fost luată ca urmare a grevei profesorilor, care a împiedicat desfășurarea normală a acestor probe în perioada 23 mai - 4 iunie.
-- Ministrul Educației, Ligia Deca, a declarat că ordonanța este o soluție temporară și excepțională, care nu afectează calitatea examenului de bacalaureat și care nu creează discriminare între elevi.
-- Articolul precizează că probele scrise de la bacalaureat vor avea loc conform calendarului stabilit anterior, între 20 și 23 iunie.
+**DOCUMENT Sindicatele transmit profesorilor și angajaților din Educație că Guvernul a fost de acord cu creșterea în două tranșe pe noua grilă a salarizării și ca prevederea să fie inclusă în Ordonanța de urgență**
+
+- Articolul prezintă un document semnat de liderii celor patru federații sindicale din educație, care anunță că guvernul a acceptat o parte din revendicările lor privind salarizarea personalului didactic și nedidactic.
+- Documentul precizează că guvernul a fost de acord cu creșterea salariilor în două tranșe: una de la 1 iunie 2023 și alta de la 1 ianuarie 2024, pe baza unei noi grile de salarizare, care va fi inclusă într-o ordonanță de urgență.
+- Documentul mai menționează că guvernul s-a angajat să aloce 6% din PIB pentru educație în 2024 și să respecte legea privind statutul personalului didactic.
+- Documentul îndeamnă profesorii și angajații din educație să continue greva până la adoptarea ordonanței de urgență și să participe la un marș național pe 15 iunie.
+
+**Ministrul Educației: Aproximativ 60% dintre inspecțiile anunțate pentru Titularizare nu se pot efectua. Înțelegem nemulțumirea celor care au susținut inspecția la clasă**
+
+- Articolul relatează despre declarațiile ministrului Educației, Sorin Cîmpeanu, referitoare la situația inspecțiilor la clasă pentru examenul de Titularizare, care au fost afectate de greva profesorilor.
+- Cîmpeanu spune că aproximativ 60% dintre inspecțiile anunțate nu se pot efectua din cauza lipsei cadrelor didactice din comisii sau a elevilor din clase.
+- Ministrul afirmă că înțelege nemulțumirea celor care au susținut inspecția la clasă și că va propune o soluție echitabilă pentru toți candidații la Titularizare, care va fi discutată cu sindicatele și cu inspectoratele școlare.
+- Cîmpeanu mai spune că examenul de Titularizare va avea loc conform calendarului stabilit, pe 6 iulie, și că speră ca greva profesorilor să se încheie cât mai curând.
 
 ## 🏫 Despre greva profesorilor
-- Greva profesorilor a început pe 22 mai și a fost declanșată de nemulțumirea față de salariile mici și de nerespectarea legii privind majorarea salarială cu 50%.
-- Guvernul a oferit o majorare salarială de 1.000 lei brut pe lună pentru personalul didactic și de 400 de lei brut pe lună pentru personalul nedidactic, dar sindicatele au respins oferta, considerând-o insuficientă și neconformă cu legea.
-- Greva profesorilor a afectat activitatea didactică din ultimele trei săptămâni, determinând echivalarea probelor de competențe de la bacalaureat cu mediile din liceu și prelungirea termenului de înscriere la examen până pe 16 iunie.
-- Greva profesorilor continuă și se pregătește un marș de protest, în timp ce dialogul cu guvernul este blocat și există riscul ca parlamentul să respingă banii promiși Educației prin bugetul consolidat.
+
+- Greva profesorilor este prima din ultimii 18 ani și a început pe 22 mai 2023, cu scopul de a obține majorarea salariilor conform legii și alocarea a 6% din PIB pentru educație.
+- Greva este susținută de patru federații sindicale din educație, care reprezintă aproximativ 75% dintre cadrele didactice din România, și afectează peste 3 milioane de elevi și studenți.
+- Guvernul a încercat să rezolve conflictul prin emiterea unei ordonanțe de urgență, care prevede creșteri salariale în două tranșe, dar sindicatele au respins soluția ca fiind insuficientă și nesigură.
+- Greva continuă pe termen nedeterminat și se anunță un marș național al profesorilor pe 15 iunie, care ar putea coincide cu examenul de Evaluare Națională pentru clasa a VIII-a.
 
 
 <sub><sub>Acest text a fost generat automat de BingAI folosind ultimele informatii de pe Edupedu, precum si de pe alte site-uri de stiri. Deci, nu te baza pe el pentru a lua decizii importante :)</sub></sub>
