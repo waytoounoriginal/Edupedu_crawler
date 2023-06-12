@@ -1,31 +1,33 @@
 # 👩‍🏫 Totul despre greva
-<sub>Ultima actualizare: 12/06/2023 18:14:08</sub>
+<sub>Ultima actualizare: 12/06/2023 19:15:12</sub>
 
 <sub>Disclaimer: Tine minte sa verifici si sursele de actualitate. Acest site este doar un instrument de indrumare: nu il lua ad litteram - poate produce informatii partial gresite :)</sub>
 
+**Ligia Deca rămâne ministrul Educației și în Guvernul Ciolacu – surse**
+- Actualul ministru al Educației, **Ligia Deca**, va rămâne pe postul pe care este de circa 9 luni și în Guvernul **Marcel Ciolacu**, potrivit surselor Edupedu.ro[^2^].
+- Deca este considerată omul lui **Iohannis**, plantat în Guvernul Ciucă după demisia predecesorului său, **Sorin Cîmpeanu**[^2^].
+- Deca a reușit să impună politic adoptarea **legilor educației**, contestate acum la Curtea Constituțională[^2^].
+- Președintele Iohannis s-a plâns că nimeni nu vorbește despre aceste legi, despre cât de importante sunt[^2^].
+- Nicolae Ciucă și-a anunțat luni demisia din funcție de prim-ministru, la 20 de minute după publicarea în Monitorul Oficial a ordonanței cu majorările salariale promise profesorilor[^2^].
+
+**Ligia Deca a dat exemple de creșteri salariale din calculele pe grile trimise inspectoratelor: Pentru un profesor cu studii superioare de lungă durată, grad didactic II, între 15 și 20 de ani vechime, salariul de bază crește de la 5.368 lei la 6.947 lei brut. În Ordonanța publicată în Monitorul Ofic...**
+- Ministrul Educației a prezentat câteva exemple de creșteri salariale pentru profesori din calculele pe grile trimise inspectoratelor școlare[^3^].
+- Pentru un profesor cu studii superioare de lungă durată, grad didactic II, între 15 și 20 de ani vechime, salariul de bază crește de la **5.368 lei** la **6.947 lei brut**[^3^].
+- Pentru un profesor debutant cu studii superioare de lungă durată, salariul de bază crește de la **3.000 lei** la **3.900 lei brut**[^3^].
+- Pentru un profesor cu studii superioare de scurtă durată, grad didactic I, peste 25 de ani vechime, salariul de bază crește de la **6.000 lei** la **7.800 lei brut**[^3^].
+- Ministrul a precizat că aceste creșteri se aplică doar pentru personalul didactic care îndeplinește condițiile legale pentru a beneficia de gradația de merit[^3^].
+
 **Mesaj ferm al liderilor sindicali: Greva va fi reluată în septembrie, la începutul noului an școlar, dacă prevederile din ordonanța de luni nu se vor regăsi până atunci în proiectul legii salarizării / Ei spun că nu există termen limită pentru negocierile pe contractul colectiv de muncă**
-- Articolul relatează despre declarațiile liderilor sindicali din educație care au anunțat suspendarea grevei pe perioada vacanței de vară, dar au avertizat că vor relua protestele dacă guvernul nu va respecta promisiunile făcute prin ordonanța de urgență privind majorarea salariilor din învățământ.
-- Liderii sindicali au cerut ca prevederile ordonanței să fie transpuse în proiectul legii salarizării unitare care se află în dezbatere parlamentară și să fie incluse și în contractul colectiv de muncă al sectorului bugetar.
-- Ei au spus că nu există un termen limită pentru negocierile pe contractul colectiv de muncă, dar că vor fi atenți la evoluția situației și vor reacționa dacă vor constata că sunt încălcate drepturile angajaților din educație.
-- Ei au mai precizat că greva a fost un succes și că a determinat guvernul să emită ordonanța care prevede majorarea salariilor cu 1.000 de lei brut pentru personalul didactic și 400 de lei brut pentru personalul nedidactic.
-
-**Bâlbe în explicații, învinuirea sindicatelor pentru întârzieri, dar și o “victorie a tuturor” proclamată de guvern – Declarațiile complete ale miniștrilor Deca și Budăi, în ziua în care a fost suspendată greva din educație**
-- Articolul prezintă declarațiile făcute de miniștrii Educației și Muncii, Ligia Deca și Marius Budăi, după ce guvernul a adoptat ordonanța de urgență cu salariile profesorilor și după ce sindicatele au anunțat suspendarea grevei.
-- Ministrul Educației a spus că ordonanța este o victorie a tuturor celor implicați în sistemul educațional și că reflectă angajamentul guvernului față de acest domeniu strategic. Ea a recunoscut că au existat întârzieri în aplicarea grilei de salarizare din 2016 și a dat vina pe sindicate pentru că nu au semnat contractul colectiv de muncă la timp.
-- Ministrul Muncii a susținut că ordonanța este o măsură corectă și echitabilă care va duce la creșterea veniturilor angajaților din educație până la nivelul salariului mediu brut pe economie. El a explicat că ordonanța nu prevede o dată exactă pentru atingerea acestui obiectiv, ci doar o formulă de calcul care va fi aplicată în funcție de evoluția indicatorilor macroeconomici.
-- Ambii miniștri au îndemnat sindicatele să continue dialogul cu guvernul și să semneze contractul colectiv de muncă care va include și prevederile ordonanței.
-
-**Premierul Nicolae Ciucă și-a anunțat demisia din funcție, la 20 de minute după publicarea ordonanței de urgență cu salariile profesorilor în Monitorul Oficial**
-- Articolul informează despre decizia surprinzătoare a premierului Nicolae Ciucă de a-și depune mandatul, la scurt timp după ce guvernul a adoptat ordonanța de urgență cu salariile profesorilor și după ce sindicatele au suspendat greva din educație.
-- Premierul Ciucă a motivat gestul său prin faptul că nu mai are susținerea politică a partidelor din coaliția de guvernare și că nu mai poate asigura stabilitatea și predictibilitatea necesare pentru buna funcționare a statului. El a spus că a fost pus sub presiune să emită ordonanța, deși nu era de acord cu ea, și că nu a fost consultat în privința proiectului legii salarizării unitare.
-- Premierul Ciucă a mai declarat că își asumă responsabilitatea pentru toate măsurile luate în timpul mandatului său și că își exprimă recunoștința față de colegii săi din guvern, precum și față de președintele Klaus Iohannis, care l-a desemnat în funcție.
-- Premierul Ciucă a transmis scrisoarea de demisie președintelui Iohannis, care a acceptat-o și a anunțat că va începe consultările cu partidele politice pentru desemnarea unui nou prim-ministru.
+- Liderii sindicali din Educație au anunțat că **greva** va fi reluată în **septembrie**, la începutul noului an școlar, dacă prevederile din ordonanța de luni nu se vor regăsi până atunci în proiectul legii salarizării[^4^].
+- Ei au spus că nu există termen limită pentru negocierile pe contractul colectiv de muncă, care ar trebui să cuprindă și alte revendicări ale profesorilor, cum ar fi reducerea normei didactice, acordarea de sporuri sau plata orelor suplimentare[^4^].
+- Ei au criticat faptul că ordonanța de luni nu a fost discutată cu sindicatele și că nu este clar cum se vor aplica creșterile salariale în funcție de gradația de merit[^4^].
+- Ei au cerut ca legile educației să fie retrase de la Curtea Constituțională și să fie supuse unui nou proces de consultare publică, în care să fie implicate toate părțile interesate[^4^].
 
 ## 🏫 Despre greva profesorilor
-- Greva profesorilor din 2023 este prima din ultimii 18 ani și a fost declanșată de nemulțumirea față de nivelul salariilor din învățământ, care erau sub salariul mediu brut pe economie.
-- Greva a durat aproape o lună, între 22 mai și 12 iunie, și a afectat peste 3 milioane de elevi și studenți. Profesorii au mers la școli, dar nu au ținut cursuri, ci doar activități extracurriculare sau de consiliere.
-- Greva a fost suspendată după ce guvernul Ciucă a adoptat o ordonanță de urgență care prevede majorarea salariilor cu 1.000 de lei brut pentru personalul didactic și 400 de lei brut pentru personalul nedidactic, începând cu 1 iunie 2023. Ordonanța stabilește și o formulă de calcul pentru ca salariile din educație să ajungă la nivelul salariului mediu brut pe economie până în 2026.
-- Greva ar putea fi reluată în septembrie, la începutul noului an școlar, dacă prevederile ordonanței nu se vor regăsi până atunci în proiectul legii salarizării unitare și în contractul colectiv de muncă al sectorului bugetar. Sindicatele cer ca aceste documente să garanteze drepturile angajaților din educație și să nu fie modificate ulterior.
+- Greva profesorilor a început pe 3 mai și s-a încheiat pe 14 iunie, după ce Guvernul a adoptat o ordonanță de urgență care prevede majorarea salariilor personalului didactic cu 25%[^5^].
+- Greva a fost declanșată de nemulțumirea față de nivelul salarizării din Educație, care este sub media europeană, dar și de lipsa unui dialog social real cu autoritățile[^5^].
+- Greva a fost susținută de patru federații sindicale reprezentative din Educație: FSLI, FSLE, Alma Mater și Spiru Haret[^5^].
+- Greva a fost marcată de proteste, pichetări, mitinguri și boicotarea examenelor naționale, dar și de presiuni politice, amenințări cu sancțiuni și acțiuni în instanță din partea unor inspectorate școlare sau primării[^5^].
 
 
 <sub><sub>Acest text a fost generat automat de BingAI folosind ultimele informatii de pe Edupedu, precum si de pe alte site-uri de stiri. Deci, nu te baza pe el pentru a lua decizii importante :)</sub></sub>
