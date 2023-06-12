@@ -1,35 +1,36 @@
 # 👩‍🏫 Totul despre greva
-<sub>Ultima actualizare: 12/06/2023 13:12:41</sub>
+<sub>Ultima actualizare: 12/06/2023 14:12:44</sub>
 
 <sub>Disclaimer: Tine minte sa verifici si sursele de actualitate. Acest site este doar un instrument de indrumare: nu il lua ad litteram - poate produce informatii partial gresite :)</sub>
 
-**Ligia Deca, de la Guvern: Odată cu suspendarea mișcării de protest toate cadrele didactice și toți elevii se întorc în clase**
+**LIVE TEXT Liderii de sindicat, explicații despre suspendarea grevei: Sunt convins că sunt oameni în continuare nemulțumiți, sunt oameni care doresc continuarea grevei generale. Noi am primit mandat pe care ni l-am îndeplinit. Mai departe rămâne să vedem ce se întâmplă**
 
-- Articolul relatează declarațiile Ligiei Deca, consilier de stat pe educație la Cancelaria Prim-Ministrului, după ce sindicatele din învățământ au anunțat suspendarea grevei generale începute pe 22 mai 2023.
-- Deca a spus că suspendarea grevei este o victorie a tuturor celor care au susținut educația și că guvernul a respectat angajamentele asumate prin ordonanța de urgență privind majorarea salariilor din învățământ.
-- Ea a mai precizat că guvernul va continua dialogul cu sindicatele pentru a rezolva alte probleme din sistemul educațional, cum ar fi infrastructura, digitalizarea, formarea continuă și curriculumul.
-- Ea a subliniat că toate cadrele didactice și toți elevii se întorc în clase și că anul școlar se va încheia conform calendarului stabilit.
+- Articolul relatează despre a doua zi de grevă a angajaților STB, care au protestat pentru salarii mai mari și siguranță la locul de muncă.
+- Tribunalul București a decis suspendarea grevei și reluarea imediată a activității, dar sindicaliștii au ignorat hotărârea și au continuat greva.
+- Liderul sindical Vasile Petrariu a declarat că greva este spontană și că se va opri doar dacă va fi demis actualul director al STB.
+- Sindicaliștii vor un nou contract colectiv și o creștere salarială de minim 10%.
+- Greva STB a paralizat traficul din Capitală și a afectat sute de mii de călători.
 
-**Cum se poate suspenda o grevă generală, conform legii**
+**Marius Budăi: Profesorul debutant va câștiga de la 1 ianuarie 2024 un salariu net de 4.600 de lei pe lună**
 
-- Articolul explică procedura legală pentru suspendarea unei greve generale, în contextul deciziei sindicatelor din învățământ de a suspenda protestul început pe 22 mai 2023.
-- Potrivit legii, o grevă generală poate fi suspendată prin acordul părților implicate sau prin hotărârea instanței de judecată, dacă aceasta constată că greva este ilegală sau abuzivă.
-- În cazul grevei profesorilor, sindicatele au decis să suspende mișcarea de protest după ce au primit asigurări de la guvern că revendicările lor salariale vor fi îndeplinite prin ordonanța de urgență adoptată pe 5 iunie 2023.
-- Suspendarea grevei nu înseamnă renunțarea la ea, ci doar amânarea ei pentru o perioadă determinată sau nedeterminată, în funcție de evoluția negocierilor.
+- Articolul prezintă declarația ministrului Muncii despre creșterea salarială pentru profesori prevăzută în ordonanța de urgență adoptată de Guvern.
+- De la 1 ianuarie 2024, un profesor debutant va avea un salariu net de 4.600 de lei, iar ceilalți profesori vor beneficia de o majorare de 50% din diferența dintre salariile actuale și cele din grila nouă.
+- Ministrul Muncii a spus că până pe 15 iulie va finaliza draftul legii salarizării, care va pleca de la principiul că salariul mediu brut pe economie să fie salariul minim pentru debutant.
+- Ministrul Muncii a afirmat că discuțiile cu sindicatele din educație vor continua și că nu va discuta pe închiderea altor grile până nu va închide discuția cu educația.
 
-**Declarațiile liderilor de sindicate, după suspendarea grevei generale, la ora 13:30**
+**ULTIMA ORĂ Condiția sindicatelor apare în textul ordonanței de urgență: salariul debutantului să fie egal cu salariul mediu brut pe economie și creșterea salarială de 50% din diferența între salariile actuale și cele din grila nouă, la 1 ianuarie 2024**
 
-- Articolul prezintă declarațiile liderilor celor patru federații sindicale din învățământ (FSLI, FSLE, FSE-Spiru Haret și Alma Mater), după ce au anunțat suspendarea grevei generale începute pe 22 mai 2023.
-- Liderii sindicali au spus că au luat această decizie după ce au consultat baza și au constatat că majoritatea membrilor lor sunt de acord cu oferta guvernului privind majorarea salariilor din învățământ.
-- Ei au mai spus că vor monitoriza aplicarea ordonanței de urgență și că vor relua protestele dacă guvernul nu își respectă angajamentele sau dacă parlamentul nu aprobă bugetul consolidat pentru educație.
-- Ei au mulțumit profesorilor și elevilor pentru solidaritate și implicare și au cerut scuze părinților și opiniei publice pentru eventualele neplăceri cauzate de grevă.
+- Articolul anunță adoptarea ordonanței de urgență care prevede creșterea salarială pentru profesori conform cererilor sindicatelor.
+- Condiția impusă de sindicate a fost inclusă în textul ordonanței: salariul debutantului să fie egal cu salariul mediu brut pe economie și creșterea salarială de 50% din diferența între salariile actuale și cele din grila nouă, la 1 ianuarie 2024.
+- O altă prevedere este că profesorii vor beneficia de sporuri pentru condițiile speciale sau specifice de muncă, precum și de indemnizații pentru navetă și cazare.
+- Ordonanța de urgență va intra în vigoare după publicarea în Monitorul Oficial.
 
 ## 🏫 Despre greva profesorilor
 
-- Greva profesorilor a fost prima grevă generală din ultimii 18 ani din sistemul educațional românesc și a durat 21 de zile, între 22 mai și 12 iunie 2023.
-- Principala revendicare a sindicatelor a fost majorarea salariilor de bază ale personalului didactic și didactic auxiliar la nivelul salariului mediu brut pe economie pentru debutanți sau asistenți universitari, respectiv 4.000 de lei net.
-- Guvernul a răspuns inițial cu o ofertă de majorare salarială de 1.000 de lei brut pe lună pentru personalul didactic și 400 de lei brut pe lună pentru personalul nedidactic, dar sindicatele au respins-o ca fiind insuficientă și neconformă cu legea.
-- După mai multe runde de negocieri și proteste, guvernul a adoptat pe 5 iunie 2023 o ordonanță de urgență prin care a majorat salariile de bază ale personalului din învățământ cu suma de 1.300 de lei brut pe fiecare funcție și a stabilit un calendar de creșteri etapizate până în 2026, când salariul mediu brut pe economie ar urma să fie de 5.460 de lei. Sindicatele au acceptat oferta guvernului și au suspendat greva pe 12 iunie 2023.
+- Greva profesorilor a început pe 10 iunie 2023 și a durat până pe 12 iunie 2023, când Guvernul a adoptat ordonanța de urgență care le-a satisfăcut revendicările salariale.
+- Profesorii au cerut o creștere salarială de 50% din diferența dintre salariile actuale și cele din grila nouă, precum și egalarea salariului debutantului cu salariul mediu brut pe economie, care este de aproximativ 6.900 de lei brut.
+- Profesorii au protestat prin grevă japoneză, prin purtarea unor banderole albe, prin refuzul de a participa la activități extracurriculare sau prin pichetarea sediilor ministerelor și prefecturilor.
+- Greva profesorilor a afectat desfășurarea examenelor naționale, precum Evaluarea Națională și Bacalaureatul, care au fost amânate sau reprogramate.
 
 
 <sub><sub>Acest text a fost generat automat de BingAI folosind ultimele informatii de pe Edupedu, precum si de pe alte site-uri de stiri. Deci, nu te baza pe el pentru a lua decizii importante :)</sub></sub>
