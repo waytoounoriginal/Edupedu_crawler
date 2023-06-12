@@ -1,35 +1,35 @@
 # 👩‍🏫 Totul despre greva
-<sub>Ultima actualizare: 12/06/2023 12:13:49</sub>
+<sub>Ultima actualizare: 12/06/2023 13:12:41</sub>
 
 <sub>Disclaimer: Tine minte sa verifici si sursele de actualitate. Acest site este doar un instrument de indrumare: nu il lua ad litteram - poate produce informatii partial gresite :)</sub>
 
-**VIDEO Premierul Ciucă: Am decis, la nivelul coaliției și în deplin consens cu liderii de sindicat ca, odată ce avem răspunsul scris din partea dumnealor legat de revenirea la clasă a tuturor dascălilor, vom adopta și ne vom ține de cuvânt – cum am făcut și până acum – prin adoptarea OUG cu elementel...**
+**Ligia Deca, de la Guvern: Odată cu suspendarea mișcării de protest toate cadrele didactice și toți elevii se întorc în clase**
 
-- Articolul relatează declarațiile premierului Nicolae Ciucă după consultările cu sindicatele din educație de duminică, 11 iunie 2023.
-- Premierul a anunțat că guvernul va adopta o ordonanță de urgență care prevede majorarea salariilor personalului didactic și didactic auxiliar cu 1.300 de lei brut pe lună începând cu 1 iunie 2023.
-- Premierul a mai spus că guvernul va respecta angajamentul de a ajunge la grila de salarizare dorită de sindicate până în 2026, prin creșteri etapizate începând cu 1 ianuarie 2024.
-- Premierul a cerut sindicatelor să transmită un răspuns scris privind revenirea la clasă a tuturor dascălilor, care se află în grevă generală de două săptămâni.
+- Articolul relatează declarațiile Ligiei Deca, consilier de stat pe educație la Cancelaria Prim-Ministrului, după ce sindicatele din învățământ au anunțat suspendarea grevei generale începute pe 22 mai 2023.
+- Deca a spus că suspendarea grevei este o victorie a tuturor celor care au susținut educația și că guvernul a respectat angajamentele asumate prin ordonanța de urgență privind majorarea salariilor din învățământ.
+- Ea a mai precizat că guvernul va continua dialogul cu sindicatele pentru a rezolva alte probleme din sistemul educațional, cum ar fi infrastructura, digitalizarea, formarea continuă și curriculumul.
+- Ea a subliniat că toate cadrele didactice și toți elevii se întorc în clase și că anul școlar se va încheia conform calendarului stabilit.
 
-**BREAKING Greva profesorilor nu se încheie, ci se suspendă, anunță sindicatele, cu o condiție: Adoptarea azi a unei ordonanțe de urgență cu salariul debutantului cât cel mediu pe economie și creșterea salarială de 50% din diferența între salariile actuale și cele din grila nouă, la 1 ianuarie 2024**
+**Cum se poate suspenda o grevă generală, conform legii**
 
-- Articolul informează despre decizia sindicatelor din educație de a suspenda greva generală după ce au primit proiectul de ordonanță de urgență propus de guvern.
-- Sindicatele au condiționat suspendarea grevei de adoptarea ordonanței în ședința de guvern de luni, 12 iunie 2023.
-- Sindicatele au mai cerut ca salariul debutantului să fie egal cu salariul mediu brut pe economie începând cu 1 iunie 2023 și ca diferența dintre salariile actuale și cele din grila nouă să fie acoperită în proporție de 50% la 1 ianuarie 2024 și restul la 1 ianuarie 2025.
-- Sindicatele au anunțat că vor relua greva dacă ordonanța nu va fi adoptată sau dacă va fi modificată în parlament.
+- Articolul explică procedura legală pentru suspendarea unei greve generale, în contextul deciziei sindicatelor din învățământ de a suspenda protestul început pe 22 mai 2023.
+- Potrivit legii, o grevă generală poate fi suspendată prin acordul părților implicate sau prin hotărârea instanței de judecată, dacă aceasta constată că greva este ilegală sau abuzivă.
+- În cazul grevei profesorilor, sindicatele au decis să suspende mișcarea de protest după ce au primit asigurări de la guvern că revendicările lor salariale vor fi îndeplinite prin ordonanța de urgență adoptată pe 5 iunie 2023.
+- Suspendarea grevei nu înseamnă renunțarea la ea, ci doar amânarea ei pentru o perioadă determinată sau nedeterminată, în funcție de evoluția negocierilor.
 
-**VIDEO Mii de profesori din Suceava au ieșit în stradă și anunță că rămân în grevă**
+**Declarațiile liderilor de sindicate, după suspendarea grevei generale, la ora 13:30**
 
-- Articolul prezintă imagini și mărturii ale profesorilor din județul Suceava care au protestat luni, 12 iunie 2023, în fața prefecturii și a inspectoratului școlar.
-- Profesorii au scandat lozinci precum "Educația merită respect", "Nu vrem promisiuni, vrem fapte" sau "Vrem salarii decente".
-- Profesorii au declarat că nu sunt mulțumiți de oferta guvernului și că vor continua greva până când vor obține grila de salarizare solicitată.
-- Profesorii au criticat atitudinea autorităților și a unor părinți care îi acuză de lipsă de responsabilitate față de elevi.
+- Articolul prezintă declarațiile liderilor celor patru federații sindicale din învățământ (FSLI, FSLE, FSE-Spiru Haret și Alma Mater), după ce au anunțat suspendarea grevei generale începute pe 22 mai 2023.
+- Liderii sindicali au spus că au luat această decizie după ce au consultat baza și au constatat că majoritatea membrilor lor sunt de acord cu oferta guvernului privind majorarea salariilor din învățământ.
+- Ei au mai spus că vor monitoriza aplicarea ordonanței de urgență și că vor relua protestele dacă guvernul nu își respectă angajamentele sau dacă parlamentul nu aprobă bugetul consolidat pentru educație.
+- Ei au mulțumit profesorilor și elevilor pentru solidaritate și implicare și au cerut scuze părinților și opiniei publice pentru eventualele neplăceri cauzate de grevă.
 
 ## 🏫 Despre greva profesorilor
 
-- Greva profesorilor a început pe 22 mai 2023 și a afectat peste 75% dintre unitățile de învățământ preuniversitar și universitar din țară.
-- Sindicatele din educație au revendicat salarii egale cu salariul mediu brut pe economie pentru debutanți și asistenți universitari, precum și creșterea salariilor tuturor angajaților din sistem cu 50% din diferența dintre grila actuală și cea nouă.
-- Guvernul a propus o ordonanță de urgență care prevede majorarea salariilor cu 1.300 de lei brut pe lună începând cu 1 iunie 2023 și creșteri etapizate până în 2026, dar sindicatele au considerat-o insuficientă și au condiționat suspendarea grevei de adoptarea ei în forma inițială.
-- Greva profesorilor a generat tensiuni și incertitudini în rândul elevilor, părinților, autorităților și opiniei publice, fiind considerată cea mai amplă și mai durabilă mișcare de protest din educație din ultimii ani.
+- Greva profesorilor a fost prima grevă generală din ultimii 18 ani din sistemul educațional românesc și a durat 21 de zile, între 22 mai și 12 iunie 2023.
+- Principala revendicare a sindicatelor a fost majorarea salariilor de bază ale personalului didactic și didactic auxiliar la nivelul salariului mediu brut pe economie pentru debutanți sau asistenți universitari, respectiv 4.000 de lei net.
+- Guvernul a răspuns inițial cu o ofertă de majorare salarială de 1.000 de lei brut pe lună pentru personalul didactic și 400 de lei brut pe lună pentru personalul nedidactic, dar sindicatele au respins-o ca fiind insuficientă și neconformă cu legea.
+- După mai multe runde de negocieri și proteste, guvernul a adoptat pe 5 iunie 2023 o ordonanță de urgență prin care a majorat salariile de bază ale personalului din învățământ cu suma de 1.300 de lei brut pe fiecare funcție și a stabilit un calendar de creșteri etapizate până în 2026, când salariul mediu brut pe economie ar urma să fie de 5.460 de lei. Sindicatele au acceptat oferta guvernului și au suspendat greva pe 12 iunie 2023.
 
 
 <sub><sub>Acest text a fost generat automat de BingAI folosind ultimele informatii de pe Edupedu, precum si de pe alte site-uri de stiri. Deci, nu te baza pe el pentru a lua decizii importante :)</sub></sub>
