@@ -1,33 +1,35 @@
 # 👩‍🏫 Totul despre greva
-<sub>Ultima actualizare: 12/06/2023 11:16:18</sub>
+<sub>Ultima actualizare: 12/06/2023 12:13:49</sub>
 
 <sub>Disclaimer: Tine minte sa verifici si sursele de actualitate. Acest site este doar un instrument de indrumare: nu il lua ad litteram - poate produce informatii partial gresite :)</sub>
 
-**Ședința de guvern, amânată în așteptarea răspunsului de la sindicatele din educație**
-- Guvernul a amânat ședința de luni, 12 iunie 2023, pentru ora 11.30, în loc de ora 10.00[^2^] [^4^].
-- Motivul amânării a fost lipsa unui răspuns din partea sindicatelor din educație privind oferta guvernului de majorare salarială[^2^] [^4^].
-- Profesorii au continuat greva generală în școli, cerând o creștere salarială de la 1 ianuarie 2024[^2^] [^4^].
-- Oferta guvernului nu include această creștere în ordonanța de urgență, ci doar în nota de fundamentare și în preambulul OUG[^2^] [^4^].
-- Majorarea promisă de guvern este de 25%, adică 300 de lei brut pentru toate cadrele didactice și auxiliare[^2^] [^4^].
+**VIDEO Premierul Ciucă: Am decis, la nivelul coaliției și în deplin consens cu liderii de sindicat ca, odată ce avem răspunsul scris din partea dumnealor legat de revenirea la clasă a tuturor dascălilor, vom adopta și ne vom ține de cuvânt – cum am făcut și până acum – prin adoptarea OUG cu elementel...**
 
-**“Îndrăznim” și “Nu cedăm” – vocea profesorilor ajunge în presa internațională / Greva, prezentată de marile agenții de presă: atitudinea guvernului “nu a făcut decât să submineze credibilitatea acestuia”**
-- Protestele profesorilor din România au fost relatate de agențiile internaționale de presă Reuters, Agence France Presse și Bloomberg[^6^].
-- Reuters a descris greva ca fiind prima din 2005 și a citat o profesoară care s-a plâns de salariile mici comparativ cu alte sectoare[^6^].
-- AFP a arătat că protestele au închis cele mai multe școli din țară și a pus situația profesorilor în contextul economiei naționale și europene[^6^].
-- Bloomberg a pus protestul în contextul frământărilor sociale europene și al rotației guvernamentale așteptate la București[^6^].
-- Bloomberg a citat liderul sindical Marius Nistor, care a spus că atitudinea guvernului “nu a făcut decât să submineze credibilitatea acestuia”[^6^].
+- Articolul relatează declarațiile premierului Nicolae Ciucă după consultările cu sindicatele din educație de duminică, 11 iunie 2023.
+- Premierul a anunțat că guvernul va adopta o ordonanță de urgență care prevede majorarea salariilor personalului didactic și didactic auxiliar cu 1.300 de lei brut pe lună începând cu 1 iunie 2023.
+- Premierul a mai spus că guvernul va respecta angajamentul de a ajunge la grila de salarizare dorită de sindicate până în 2026, prin creșteri etapizate începând cu 1 ianuarie 2024.
+- Premierul a cerut sindicatelor să transmită un răspuns scris privind revenirea la clasă a tuturor dascălilor, care se află în grevă generală de două săptămâni.
 
-**Fostul secretar de stat pe fonduri europene în Ministerul Educației: Voucherele de 1500 de lei oferite acum de Guvernul Ciucă sunt prevăzute din oficiu în programul european pe educație, ca sprijin al Comisiei Europene pentru profesori. Nu este nicio promisiune a Guvernului**
-- Fostul secretar de stat pe fonduri europene în Ministerul Educației este Mihaela Popa, care a fost eliberată din funcție în februarie 2021[^8^] [^10^].
-- Popa a declarat că voucherele de 1500 de lei promise de guvern profesorilor sunt prevăzute din oficiu în programul european pe educație Erasmus+, ca sprijin al Comisiei Europene pentru profesori[^10^].
-- Popa a spus că aceste vouchere nu sunt o promisiune a guvernului, ci o obligație asumată prin semnarea contractului de finanțare cu Comisia Europeană[^10^].
-- Popa a criticat lipsa de transparență a Ministerului Educației în privința proiectelor din fonduri europene și a cerut publicarea lor pe pagini web dedicate[^8^].
+**BREAKING Greva profesorilor nu se încheie, ci se suspendă, anunță sindicatele, cu o condiție: Adoptarea azi a unei ordonanțe de urgență cu salariul debutantului cât cel mediu pe economie și creșterea salarială de 50% din diferența între salariile actuale și cele din grila nouă, la 1 ianuarie 2024**
+
+- Articolul informează despre decizia sindicatelor din educație de a suspenda greva generală după ce au primit proiectul de ordonanță de urgență propus de guvern.
+- Sindicatele au condiționat suspendarea grevei de adoptarea ordonanței în ședința de guvern de luni, 12 iunie 2023.
+- Sindicatele au mai cerut ca salariul debutantului să fie egal cu salariul mediu brut pe economie începând cu 1 iunie 2023 și ca diferența dintre salariile actuale și cele din grila nouă să fie acoperită în proporție de 50% la 1 ianuarie 2024 și restul la 1 ianuarie 2025.
+- Sindicatele au anunțat că vor relua greva dacă ordonanța nu va fi adoptată sau dacă va fi modificată în parlament.
+
+**VIDEO Mii de profesori din Suceava au ieșit în stradă și anunță că rămân în grevă**
+
+- Articolul prezintă imagini și mărturii ale profesorilor din județul Suceava care au protestat luni, 12 iunie 2023, în fața prefecturii și a inspectoratului școlar.
+- Profesorii au scandat lozinci precum "Educația merită respect", "Nu vrem promisiuni, vrem fapte" sau "Vrem salarii decente".
+- Profesorii au declarat că nu sunt mulțumiți de oferta guvernului și că vor continua greva până când vor obține grila de salarizare solicitată.
+- Profesorii au criticat atitudinea autorităților și a unor părinți care îi acuză de lipsă de responsabilitate față de elevi.
 
 ## 🏫 Despre greva profesorilor
-- Greva profesorilor a început pe 22 mai 2023 și a durat până pe 13 iunie 2023, când sindicatele au semnat un protocol cu guvernul.
-- Profesorii au cerut o majorare salarială de 25% de la 1 ianuarie 2024, precum și respectarea legii salarizării unitare și a legii educației naționale.
-- Guvernul a oferit o majorare salarială de 25% de la 1 septembrie 2023, precum și vouchere de 1500 de lei pentru achiziționarea de echipamente IT și materiale didactice.
-- Greva profesorilor a fost cea mai mare mișcare de protest din învățământ din ultimii 18 ani și a fost sprijinită de părinți și elevi, dar și de organizații civice și internaționale.
+
+- Greva profesorilor a început pe 22 mai 2023 și a afectat peste 75% dintre unitățile de învățământ preuniversitar și universitar din țară.
+- Sindicatele din educație au revendicat salarii egale cu salariul mediu brut pe economie pentru debutanți și asistenți universitari, precum și creșterea salariilor tuturor angajaților din sistem cu 50% din diferența dintre grila actuală și cea nouă.
+- Guvernul a propus o ordonanță de urgență care prevede majorarea salariilor cu 1.300 de lei brut pe lună începând cu 1 iunie 2023 și creșteri etapizate până în 2026, dar sindicatele au considerat-o insuficientă și au condiționat suspendarea grevei de adoptarea ei în forma inițială.
+- Greva profesorilor a generat tensiuni și incertitudini în rândul elevilor, părinților, autorităților și opiniei publice, fiind considerată cea mai amplă și mai durabilă mișcare de protest din educație din ultimii ani.
 
 
 <sub><sub>Acest text a fost generat automat de BingAI folosind ultimele informatii de pe Edupedu, precum si de pe alte site-uri de stiri. Deci, nu te baza pe el pentru a lua decizii importante :)</sub></sub>
