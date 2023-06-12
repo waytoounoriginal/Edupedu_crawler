@@ -1,36 +1,38 @@
 # 👩‍🏫 Totul despre greva
-<sub>Ultima actualizare: 12/06/2023 08:13:32</sub>
+<sub>Ultima actualizare: 12/06/2023 09:16:32</sub>
 
 <sub>Disclaimer: Tine minte sa verifici si sursele de actualitate. Acest site este doar un instrument de indrumare: nu il lua ad litteram - poate produce informatii partial gresite :)</sub>
 
+**Scrisoarea deschisă a unei profesoare în grevă, care a fost în stradă la proteste: Disprețul față de Educație a adus această țară în starea de acum. I-am scris președintelui României și am aflat că nu acordă audiențe**
+
+- Scrisoarea este semnată de Felicia Vranau, o profesoară de limba franceză de la Colegiul Național “Mihai Eminescu” din Suceava, cu o experiență de 38 de ani în învățământ[^2^] [^3^] [^4^].
+- Profesoara își exprimă nemulțumirea față de situația precară a educației din România, pe care o consideră ignorată și subfinanțată de guvernanți[^2^].
+- Ea susține că profesorii nu luptă doar pentru salariile lor, ci și pentru calitatea învățământului și pentru viitorul copiilor[^2^].
+- Ea afirmă că i-a scris președintelui Klaus Iohannis, care este și el profesor, dar a primit răspunsul că acesta nu acordă audiențe[^2^].
+- Ea critică atitudinea presei și a unor părinți care îi acuză pe profesori de radicalizare și de tulburarea liniștii guvernării[^2^].
+- Ea se declară mândră de profesia ei și de copiii pe care i-a educat, dar și revoltată de disprețul față de educație care a adus țara în starea actuală[^2^].
+
 **Greva profesorilor continuă luni, 12 iunie, în școli. La ora 10, liderii sindicali anunță dacă proiectul ordonanței de urgență al Guvernului este acceptat sau respins de angajații din Învățământ**
 
-- Greva generală din învățământ a început pe 22 mai și a afectat peste 3 milioane de elevi[^1^] [^2^].
-- Profesorii cer majorări salariale de 25% și includerea salariului mediu brut pe economie ca referință pentru debutant sau asistent universitar în noua lege a salarizării[^2^] [^3^].
-- Guvernul a propus o ordonanță de urgență care prevede majorări salariale de 1.000 de lei brut/lună pentru personalul didactic și didactic auxiliar și de 400 de lei brut/lună pentru personalul nedidactic[^4^].
-- Sindicatele au respins oferta guvernului, considerând sumele prea mici și cerând un document oficial care să garanteze creșterea salariului de la 1 ianuarie 2024[^2^] [^4^].
-- Liderii sindicali urmează să anunțe luni, 12 iunie, dacă acceptă sau nu proiectul ordonanței de urgență al guvernului, după consultarea membrilor de sindicat aflați în grevă[^1^].
+- Greva profesorilor a început pe 22 mai și este cea mai lungă din ultimii 20 de ani[^7^].
+- Profesorii cer majorarea salariilor conform legii salarizarii unitare, care prevede o nouă grilă salarială pentru anul 2024[^7^].
+- Guvernul le-a propus o creștere salarială de 25%, echivalentul a 300 de lei brut pentru toate categoriile de personal din educație, începând cu 1 ianuarie 2024[^7^] [^6^].
+- Sindicaliștii au spus că vor consulta proiectul ordonanței de urgență al Guvernului cu membrii lor și vor da un răspuns luni, la ora 10[^7^] [^6^].
+- Premierul Nicolae Ciucă a declarat că are convingerea că profesorii vor avea încredere în promisiunile Guvernului și că conflictul de muncă se va încheia după aprobarea OUG[^6^].
 
 **BREAKING Creșterea salariului de la 1 ianuarie 2024, cerută de profesori, nu este în proiectul de ordonanță de urgență publicat de Guvern, ci tot în nota de fundamentare / Majorarea promisă de 25% reprezintă de fapt 300 de lei brut pentru toate cadrele didactice și auxiliare, față de nivelul din OUG...**
 
-- Proiectul de ordonanță de urgență publicat de Guvern nu include creșterea salariului pentru personalul didactic și didactic auxiliar la nivelul salariului mediu brut pe economie din 2023, ci doar o mențiune în nota de fundamentare[^5^].
-- Această mențiune nu are valoare juridică și nu obligă Guvernul să respecte angajamentul asumat în negocierile cu sindicatele[^5^].
-- Majorarea promisă de 25% reprezintă de fapt o creștere medie de 300 de lei brut/lună pentru toate categoriile de personal din învățământ, față de nivelul stabilit prin OUG 53/2023[^5^].
-- Sindicatele consideră că această majorare este insuficientă și nu acoperă pierderile generate de inflație și înghețarea salariilor din ultimii ani[^5^].
-
-**DOCUMENT Ce sunt primele de carieră didactică, inventate de Guvern pentru voucherele de cărți pentru profesori și ce vor putea cumpăra aceștia cu cardurile pe care vor intra 1.500 de lei în fiecare toamnă, timp de 3 ani, dacă acceptă oferta Guvernului – proiect de OUG / Personalul nedidactic ar prim...**
-
-- Primele de carieră didactică sunt o măsură propusă de Guvern pentru a susține dezvoltarea profesională continuă a personalului didactic și a crește calitatea și echitatea sistemului educațional[^6^] [^7^].
-- Primele au o valoare nominală de 1.500 lei și se decontează din fonduri externe nerambursabile pentru cheltuieli privind cursuri de pregătire profesională, echipamente IT, cărți de specialitate și nevoi personale[^6^] [^7^].
-- Primele se acordă într-o singură tranșă, în luna octombrie a fiecărui an școlar, începând cu 2023 și până în 2025, și se utilizează prin intermediul unor carduri electronice emise de Ministerul Educației[^6^] [^7^].
-- Personalul nedidactic ar primi o primă de compensare salarială de 400 de lei brut/lună, care se acordă în două tranșe, în iunie și septembrie 2023[^6^].
+- Proiectul de ordonanță de urgență publicat de Guvern pe site-ul Ministerului Muncii nu conține nicio prevedere referitoare la creșterea salariului de la 1 ianuarie 2024, cerută de profesori[^7^].
+- Această creștere este menționată doar în nota de fundamentare a OUG, care nu are valoare juridică, și în preambulul OUG, care nu respectă normele de tehnică legislativă[^7^].
+- Majorarea promisă de 25% reprezintă de fapt 300 de lei brut pentru toate cadrele didactice și auxiliare, față de nivelul din OUG nr. 53 din 2023, care a fost respinsă de profesori[^7^].
+- Proiectul de OUG prevede și acordarea unor sume anuale pentru personalul didactic de predare și auxiliar (1.500 lei) și pentru personalul nedidactic (500 lei), până în 2027[^7^].
 
 ## 🏫 Despre greva profesorilor
 
-- Greva profesorilor este cel mai mare protest din învățământ din ultimii 18 ani și exprimă nemulțumirea față de nivelul salariilor și de lipsa unui cadru legal clar pentru noua grilă de salarizare.
-- Guvernul a încercat să rezolve criza prin adoptarea unei ordonanțe de urgență care prevede majorări salariale diferențiate și prime de carieră didactică, finanțate din fonduri externe nerambursabile.
-- Sindicatele au respins oferta guvernului, considerând-o insuficientă și nesigură, și au cerut un document oficial care să garanteze creșterea salariului la nivelul salariului mediu brut pe economie din 2023.
-- Greva continuă până când sindicatele vor primi un răspuns satisfăcător din partea guvernului, punând în pericol desfășurarea examenelor naționale și a anului școlar.
+- Greva profesorilor este un protest legitim al angajaților din educație, care își revendică drepturile salariale prevăzute de lege, dar și respectul și recunoașterea socială a rolului lor în societate.
+- Greva profesorilor este o consecință a lipsei de dialog și de transparență din partea Guvernului, care nu a venit cu soluții concrete și credibile pentru a rezolva problemele sistemului educațional.
+- Greva profesorilor este o manifestare a solidarității și a responsabilității față de generațiile viitoare, care au nevoie de o educație de calitate și de oportunități egale de dezvoltare.
+- Greva profesorilor este o provocare pentru întreaga societate, care trebuie să se implice activ și să susțină demersul celor care formează cetățenii și liderii de mâine.
 
 
 <sub><sub>Acest text a fost generat automat de BingAI folosind ultimele informatii de pe Edupedu, precum si de pe alte site-uri de stiri. Deci, nu te baza pe el pentru a lua decizii importante :)</sub></sub>
