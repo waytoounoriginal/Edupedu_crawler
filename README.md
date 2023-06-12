@@ -1,35 +1,36 @@
 # 👩‍🏫 Totul despre greva
-<sub>Ultima actualizare: 12/06/2023 07:14:39</sub>
+<sub>Ultima actualizare: 12/06/2023 08:13:32</sub>
 
 <sub>Disclaimer: Tine minte sa verifici si sursele de actualitate. Acest site este doar un instrument de indrumare: nu il lua ad litteram - poate produce informatii partial gresite :)</sub>
 
+**Greva profesorilor continuă luni, 12 iunie, în școli. La ora 10, liderii sindicali anunță dacă proiectul ordonanței de urgență al Guvernului este acceptat sau respins de angajații din Învățământ**
+
+- Greva generală din învățământ a început pe 22 mai și a afectat peste 3 milioane de elevi[^1^] [^2^].
+- Profesorii cer majorări salariale de 25% și includerea salariului mediu brut pe economie ca referință pentru debutant sau asistent universitar în noua lege a salarizării[^2^] [^3^].
+- Guvernul a propus o ordonanță de urgență care prevede majorări salariale de 1.000 de lei brut/lună pentru personalul didactic și didactic auxiliar și de 400 de lei brut/lună pentru personalul nedidactic[^4^].
+- Sindicatele au respins oferta guvernului, considerând sumele prea mici și cerând un document oficial care să garanteze creșterea salariului de la 1 ianuarie 2024[^2^] [^4^].
+- Liderii sindicali urmează să anunțe luni, 12 iunie, dacă acceptă sau nu proiectul ordonanței de urgență al guvernului, după consultarea membrilor de sindicat aflați în grevă[^1^].
+
 **BREAKING Creșterea salariului de la 1 ianuarie 2024, cerută de profesori, nu este în proiectul de ordonanță de urgență publicat de Guvern, ci tot în nota de fundamentare / Majorarea promisă de 25% reprezintă de fapt 300 de lei brut pentru toate cadrele didactice și auxiliare, față de nivelul din OUG...**
 
-- Articolul publicat pe 10 iunie 2023 pe site-ul edupedu.ro susține că Guvernul nu a inclus în proiectul de ordonanță de urgență (OUG) publicat pe site-ul său oficial creșterea salariului pentru personalul din învățământ cu 25% de la 1 ianuarie 2024, așa cum ceruseră sindicatele.
-- Această creștere salarială se regăsește doar în nota de fundamentare a OUG, care nu are valoare juridică și poate fi modificată oricând.
-- Articolul afirmă că majorarea promisă de 25% reprezintă de fapt o sumă fixă de 300 de lei brut pentru toate categoriile de personal didactic și auxiliar, față de nivelul din OUG 114/2018, care ar fi trebuit să fie aplicat din 2022.
-- Articolul mai susține că Guvernul a încercat să-i convingă pe profesori să accepte oferta sa prin acordarea unor carduri cu valoare de 1.500 de lei net pe an pentru achiziționarea de cărți și materiale didactice.
+- Proiectul de ordonanță de urgență publicat de Guvern nu include creșterea salariului pentru personalul didactic și didactic auxiliar la nivelul salariului mediu brut pe economie din 2023, ci doar o mențiune în nota de fundamentare[^5^].
+- Această mențiune nu are valoare juridică și nu obligă Guvernul să respecte angajamentul asumat în negocierile cu sindicatele[^5^].
+- Majorarea promisă de 25% reprezintă de fapt o creștere medie de 300 de lei brut/lună pentru toate categoriile de personal din învățământ, față de nivelul stabilit prin OUG 53/2023[^5^].
+- Sindicatele consideră că această majorare este insuficientă și nu acoperă pierderile generate de inflație și înghețarea salariilor din ultimii ani[^5^].
 
 **DOCUMENT Ce sunt primele de carieră didactică, inventate de Guvern pentru voucherele de cărți pentru profesori și ce vor putea cumpăra aceștia cu cardurile pe care vor intra 1.500 de lei în fiecare toamnă, timp de 3 ani, dacă acceptă oferta Guvernului – proiect de OUG / Personalul nedidactic ar prim...**
 
-- Articolul publicat pe 10 iunie 2023 pe site-ul edupedu.ro prezintă detaliile proiectului de OUG prin care Guvernul propune acordarea unor carduri cu valoare de 1.500 de lei net pe an pentru personalul didactic și nedidactic din învățământ, ca o alternativă la creșterea salarială solicitată.
-- Cardurile ar fi denumite "prime de carieră didactică" și ar putea fi folosite doar pentru achiziționarea de cărți și materiale didactice din librării sau edituri autorizate.
-- Cardurile ar fi valabile timp de trei ani și ar fi acordate în luna octombrie a fiecărui an, începând cu anul 2023 și până în anul 2027.
-- Personalul nedidactic ar primi carduri cu valoare mai mică, între 500 și 1.000 de lei net pe an, în funcție de categoria profesională.
-
-**Cum a găsit Guvernul încă 700 de milioane de lei pentru salariile din Educație, după al treilea miting major de protest, în București, deși premierul și toți miniștrii implicați în negocieri mințeau public populația și profesorii spunând că nu sunt bani / Declarațiile integrale de la briefingul de p...**
-
-- Articolul publicat pe 9 iunie 2023 pe site-ul edupedu.ro relatează cum Guvernul a anunțat o nouă ofertă pentru personalul din învățământ, după ce acesta a organizat al treilea miting major de protest în București, pe 8 iunie 2023.
-- Oferta constă în acordarea unei majorări salariale de 1.000 de lei brut pe lună pentru personalul didactic și de 400 de lei brut pe lună pentru personalul nedidactic, începând cu 1 iunie 2023, precum și în asumarea angajamentului de a crește salariile cu 25% de la 1 ianuarie 2024.
-- Articolul afirmă că Guvernul a găsit încă 700 de milioane de lei pentru salariile din Educație, după ce premierul Nicolae Ciucă și miniștrii Educației, Muncii și Finanțelor au susținut anterior că nu există fonduri disponibile pentru această măsură.
-- Articolul mai afirmă că oferta Guvernului nu a fost acceptată de sindicatele din învățământ, care au anunțat că vor continua greva și vor cere demisia premierului și a miniștrilor responsabili.
+- Primele de carieră didactică sunt o măsură propusă de Guvern pentru a susține dezvoltarea profesională continuă a personalului didactic și a crește calitatea și echitatea sistemului educațional[^6^] [^7^].
+- Primele au o valoare nominală de 1.500 lei și se decontează din fonduri externe nerambursabile pentru cheltuieli privind cursuri de pregătire profesională, echipamente IT, cărți de specialitate și nevoi personale[^6^] [^7^].
+- Primele se acordă într-o singură tranșă, în luna octombrie a fiecărui an școlar, începând cu 2023 și până în 2025, și se utilizează prin intermediul unor carduri electronice emise de Ministerul Educației[^6^] [^7^].
+- Personalul nedidactic ar primi o primă de compensare salarială de 400 de lei brut/lună, care se acordă în două tranșe, în iunie și septembrie 2023[^6^].
 
 ## 🏫 Despre greva profesorilor
 
-- Greva profesorilor din România a început pe 22 mai 2023 și este susținută de peste 70% dintre cadrele didactice și auxiliare din învățământ.
-- Principala cerere a sindicatelor este acordarea unui salariu la nivelul salariului mediu brut pe economie pentru debutanți sau asistenți universitari, care ar fi de aproximativ 4.000 de lei net pe lună.
-- Guvernul a oferit mai multe variante de majorare salarială, cuprinse între 300 și 1.000 de lei brut pe lună, precum și carduri cu valoare de 1.500 de lei net pe an pentru achiziționarea de cărți și materiale didactice, dar acestea au fost respinse de sindicate ca fiind insuficiente și nesigure.
-- Greva profesorilor este una dintre cele mai mari și mai lungi din istoria învățământului românesc și a generat nemulțumirea părinților, elevilor și studenților afectați de suspendarea cursurilor.
+- Greva profesorilor este cel mai mare protest din învățământ din ultimii 18 ani și exprimă nemulțumirea față de nivelul salariilor și de lipsa unui cadru legal clar pentru noua grilă de salarizare.
+- Guvernul a încercat să rezolve criza prin adoptarea unei ordonanțe de urgență care prevede majorări salariale diferențiate și prime de carieră didactică, finanțate din fonduri externe nerambursabile.
+- Sindicatele au respins oferta guvernului, considerând-o insuficientă și nesigură, și au cerut un document oficial care să garanteze creșterea salariului la nivelul salariului mediu brut pe economie din 2023.
+- Greva continuă până când sindicatele vor primi un răspuns satisfăcător din partea guvernului, punând în pericol desfășurarea examenelor naționale și a anului școlar.
 
 
 <sub><sub>Acest text a fost generat automat de BingAI folosind ultimele informatii de pe Edupedu, precum si de pe alte site-uri de stiri. Deci, nu te baza pe el pentru a lua decizii importante :)</sub></sub>
