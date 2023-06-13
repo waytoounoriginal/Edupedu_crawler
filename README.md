@@ -1,31 +1,39 @@
 # 👩‍🏫 Totul despre greva
-<sub>Ultima actualizare: 13/06/2023 09:16:36</sub>
+<sub>Ultima actualizare: 13/06/2023 10:13:59</sub>
 
 <sub>Disclaimer: Tine minte sa verifici si sursele de actualitate. Acest site este doar un instrument de indrumare: nu il lua ad litteram - poate produce informatii partial gresite :)</sub>
 
-**Noile salarii ale profesorilor și angajaților din școli, pe fiecare funcție, grad didactic și vechime, potrivit ordonanței adoptate luni de Guvern – documente ale sindicatelor**
-- Guvernul a adoptat o ordonanță de urgență (OUG 57/2023) care modifică Legea salarizării (Legea 153/2017) și prevede majorarea salariilor personalului didactic și didactic auxiliar cu 1.300 de lei brut și a celor nedidactic cu 400 de lei brut[^1^].
-- Majorarea salarială a fost condiția pentru suspendarea grevei generale declanșate de sindicatele din educație, care au cerut ca salariul debutantului să fie cât cel mediu pe economie și creșterea salarială de 50% din diferența între salariile actuale și cele din grila nouă, la 1 ianuarie 2024[^1^].
-- Grila de salarizare aplicabilă sistemului național de învățământ începând cu 1 ianuarie 2024 se stabilește pornind de la salariul mediu brut pe economie pentru profesori debutanți/asistenți universitari, iar personalul didactic, didactic auxiliar și nedidactic va beneficia de 50% din diferența stabilită între salariul de bază aflat în plată și salariul de bază stabilit prin grila de salarizare în vigoare la 1 ianuarie 2024[^1^].
-- Sindicatele profesorilor au trimis în teritoriu machete de salarii, conform prevederilor din OUG, care arată creșteri diferite în funcție de funcție, grad didactic și vechime[^1^].
+**BAC 2023 Regulile de echivalare a probelor de competențe cu mediile din liceu la Limba română, limbi străine și Tehnologia Informației, publicate de Ministerul Educației**
+
+- Ministerul Educației a publicat în Monitorul Oficial regulile după care probele de competențe de la Bacalaureat 2023 se echivalează cu mediile din liceu de la Limba și literatura română, limbi moderne și Tehnologia Informației și a Comunicării (TIC) [^1^].
+- Echivalarea are loc pe 12-21 iunie pentru sesiunea iunie-iulie 2023 și pe 7-11 august pentru sesiunea august-septembrie 2023 [^1^].
+- Procesul este coordonat de o comisie formată din directorul sau directorul adjunct al școlii, un profesor care să știe să opereze pe calculator, între 2 și 4 profesori evaluatori pentru fiecare specialitate și 1-2 secretari de școală [^1^].
+- Pentru nivelul de competență digitală, echivalarea se face în baza mediei aritmetice obținute la disciplina TIC sau la o disciplină echivalentă în clasele a IX-a și a X-a [^1^] [^2^].
+- Pentru nivelul de competență lingvistică în limba română sau în limba maternă, echivalarea se face în baza mediei aritmetice a mediilor anuale obținute pe parcursul învățământului liceal la disciplina limba și literatura română sau limba și literatura maternă [^3^].
+- Pentru nivelul de competență lingvistică într-o limbă străină, echivalarea se face în baza mediei aritmetice a mediilor anuale obținute pe parcursul învățământului liceal la disciplina limba modernă studiată [^3^].
+- Echivalarea se poate face și cu certificate obținute la examene cu recunoaștere internațională sau europeană pentru certificarea competențelor lingvistice sau digitale [^1^] [^2^].
 
 **Profesorii și elevii revin la școală marți, după 13 zile de grevă generală / Calendarele examenelor naționale**
-- După ce Guvernul a adoptat OUG 57/2023 privind majorarea salariilor din educație, sindicatele au anunțat suspendarea grevei generale începută pe 31 mai[^2^].
-- Profesorii și elevii revin la cursuri marți, 13 iunie, după ce luni a fost zi liberă legală[^2^].
-- Ministerul Educației a anunțat că nu se vor recupera orele pierdute în timpul grevei și că examenele naționale vor avea loc conform calendarului stabilit anterior[^2^].
-- Evaluarea Națională pentru clasa a VIII-a începe pe 14 iunie cu proba scrisă la Limba și literatura română, iar Bacalaureatul începe pe 21 iunie cu proba scrisă la Limba și literatura română[^2^].
+
+- Profesorii și elevii au revenit la școală marți, 13 iunie, după ce sindicatele din Educație au anunțat suspendarea grevei generale care a început pe 22 mai [^4^] [^5^].
+- Greva a fost declanșată de nemulțumirea față de salarizarea angajaților din Educație și a fost suspendată după ce Guvernul a adoptat o ordonanță de urgență care prevede majorarea salariului debutantului la nivelul salariului mediu pe economie și creșterea salarială de 50% din diferența între salariile actuale și cele din grila nouă, la 1 ianuarie 2024 [^4^] [^5^].
+- Greva a afectat calendarul anului școlar și al examenelor naționale, determinând modificarea unor termene pentru încheierea mediilor, înscrierea candidaților, echivalarea probelor de competențe și afișarea rezultatelor [^4^] [^5^].
+- Probele scrise la Evaluarea Națională 2023 au început pe 19 iunie cu Limba și literatura română și se vor încheia pe 22 iunie cu Limba și literatura maternă [^4^] [^5^].
+- Probele scrise la Bacalaureat 2023 au început pe 26 iunie cu Limba și literatura română și se vor încheia pe 28 iunie cu Proba la alegere a profilului și specializării [^4^] [^5^].
 
 **Ligia Deca, întrebată de ce Guvernul nu a făcut această ofertă sindicatelor din Educație din momentul în care au cerut-o, de acum două săptămâni: Nu a fost o tergiversare. Întotdeauna atunci când există un dialog sub presiune, capacitatea de a identifica resurse crește**
-- Ministrul Educației, Ligia Deca, a declarat că Guvernul nu a tergiversat oferirea unei soluții pentru majorarea salariilor din educație, ci a căutat să identifice resursele necesare în contextul unui dialog sub presiune cu sindicatele[^3^].
-- Deca a spus că OUG 57/2023 este o măsură de echitate și de recunoaștere a rolului esențial al educației, care va duce la creșteri salariale de până la 24% pentru personalul din școli în 2024[^3^].
-- Deca a precizat că OUG 57/2023 nu afectează Legea salarizării, ci o completează și o adaptează la realitățile din sistemul de învățământ, care are nevoie de o grilă de salarizare specifică și de o creștere a atractivității profesiei didactice[^3^].
-- Deca a mulțumit sindicatelor pentru dialogul constructiv și pentru înțelegerea situației dificile generate de pandemie și de constrângerile bugetare, și a cerut tuturor actorilor implicați să se concentreze pe finalizarea anului școlar și pe organizarea examenelor naționale[^3^].
+
+- Ministrul Educației, Ligia Deca, a fost întrebată de Edupedu.ro de ce Guvernul nu a făcut această ofertă sindicatelor din Educație din momentul în care au cerut-o, de acum două săptămâni, când protestau în stradă [^6^].
+- Deca a răspuns că nu a fost o tergiversare, ci o negociere dificilă în contextul constrângerilor bugetare și al impactului pandemiei asupra economiei [^6^].
+- Deca a mai spus că atunci când există un dialog sub presiune, capacitatea de a identifica resurse crește și că Guvernul a făcut un efort financiar important pentru a răspunde solicitărilor sindicatelor [^6^].
+- Deca a adăugat că rolul unui ministru în situație de criză este să gestioneze situația și să sprijine oamenii din sistem și că evaluările privind performanța ministrului pot fi realizate după ce se reasigură funcționarea normală a sistemului de învățământ [^6^].
 
 ## 🏫 Despre greva profesorilor
-- Greva profesorilor a fost declanșată pe 31 mai de către sindicatele din educație, care au cerut majorarea salariilor conform Legii salarizării, respectiv ca salariul debutantului să fie cât cel mediu pe economie și creșterea salarială de 50% din diferența între salariile actuale și cele din grila nouă, la 1 ianuarie 2024[^1^] [^2^].
-- Greva a durat 13 zile și a afectat peste 2 milioane de elevi și peste 200.000 de profesori, care au rămas acasă sau au protestat în fața sediilor guvernamentale locale sau centrale[^2^].
-- Greva s-a suspendat pe 12 iunie, după ce Guvernul a adoptat OUG 57/2023, care prevede majorarea salariilor personalului didactic și didactic auxiliar cu 1.300 de lei brut și a celor nedidactic cu 400 de lei brut, precum și stabilirea grilei de salarizare pentru 2024 pornind de la salariul mediu brut pe economie pentru profesori debutanți/asistenți universitari și acordarea a 50% din diferența dintre salariul actual și cel din grila nouă[^1^] [^2^] [^3^].
-- Greva s-a încheiat fără să se recupereze orele pierdute, iar examenele naționale vor avea loc conform calendarului stabilit anterior, ceea ce ridică probleme privind pregătirea elevilor și calitatea evaluării[^2^].
+
+- Greva profesorilor a fost cea mai amplă acțiune de protest din ultimii ani în domeniul educației, implicând peste 80% dintre angajați și afectând peste 2 milioane de elevi [^7^] [^8^].
+- Greva a avut ca principal motiv nemulțumirea față de salarizarea inechitabilă și insuficientă a personalului didactic, care se situează sub media europeană și sub media pe economie în România [^7^] [^8^].
+- Greva a fost suspendată după ce Guvernul a adoptat o ordonanță de urgență care prevede majorarea salariului debutantului la nivelul salariului mediu pe economie (5.380 lei brut) și creșterea salarială de 50% din diferența între salariile actuale și cele din grila nouă, la 1 ianuarie 2024 [^4^] [^5^].
+- Greva a determinat modificarea calendarului anului școlar și al examenelor naționale, prelungind termenele pentru încheierea mediilor, înscrierea candidaților, echivalarea probelor de competențe și afișarea rezultatelor [^4^] [^5^].
 
 
 <sub><sub>Acest text a fost generat automat de BingAI folosind ultimele informatii de pe Edupedu, precum si de pe alte site-uri de stiri. Deci, nu te baza pe el pentru a lua decizii importante :)</sub></sub>
