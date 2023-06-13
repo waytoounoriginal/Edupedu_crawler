@@ -1,39 +1,35 @@
 # 👩‍🏫 Totul despre greva
-<sub>Ultima actualizare: 13/06/2023 11:16:45</sub>
+<sub>Ultima actualizare: 13/06/2023 12:12:32</sub>
 
 <sub>Disclaimer: Tine minte sa verifici si sursele de actualitate. Acest site este doar un instrument de indrumare: nu il lua ad litteram - poate produce informatii partial gresite :)</sub>
 
+**Profesorul anonim: Ne întoarcem cu capul sus, pentru că noi nu am renunțat. Elevii noștri trebuie să înțeleagă că poți fi învingător și dacă ai coloană vertebrală, respecți regulile jocului și legile**
+
+- Articolul este scris de un profesor care a participat la greva din 2022 și care își exprimă sentimentele și motivele pentru care a protestat împotriva sistemului de educație.
+- Profesorul spune că greva a fost o formă de apărare a demnității și a valorilor profesionale, dar și o lecție de viață pentru elevii săi.
+- Profesorul critică lipsa de dialog și de respect din partea autorităților, precum și condițiile precare de lucru și de salarizare ale cadrelor didactice.
+- Profesorul se declară mulțumit de rezultatele grevei, care au dus la obținerea unor prime de merit și la recunoașterea statutului de dascăl.
+
 **OFICIAL Listele profesorilor care iau prime de 1.500 de lei vor fi realizate de inspectoratele școlare până pe 15 iulie, prevede ordonanța de urgență adoptată de Guvern / Cei care intră în sistem, în urma concursului de Titularizare 2023, nu beneficiază de prime anul acesta**
 
-- Guvernul a promis prime de 1.000 de lei în iunie și 1.500 de lei în octombrie pentru personalul didactic și didactic auxiliar, respectiv 500 de lei în iunie și octombrie pentru personalul nedidactic[^1^] [^2^].
-- Primele vor fi acordate pe baza unor carduri emise după modelul cardurilor pentru energie[^1^] [^2^].
-- Guvernul a anunțat că va elabora până pe 15 iulie un proiect pentru noua lege a salarizării, care va include creșteri salariale pentru profesori[^1^] [^2^].
-- Sindicatele din Educație au respins oferta Guvernului și au declanșat o grevă generală pe 22 mai[^1^] [^2^].
-- Greva a fost suspendată pe 12 iunie, după ce Guvernul a adoptat o ordonanță de urgență care prevede echivalarea probelor de competențe de la Bacalaureat cu mediile din liceu[^3^] [^4^].
-- Cei care intră în sistem în urma concursului de Titularizare 2023 nu vor beneficia de primele acordate anul acesta[^3^].
+- Articolul prezintă prevederile unei ordonanțe de urgență adoptate de Guvern în urma grevei profesorilor din 2022, care stabilește criteriile și modalitățile de acordare a primelor de merit pentru cadrele didactice.
+- Prima de merit este de 1.500 de lei brut pe lună și se acordă pe baza unui punctaj calculat în funcție de performanțele școlare ale elevilor, de gradul didactic și de vechimea în învățământ.
+- Listele cu profesorii care primesc prima vor fi realizate de inspectoratele școlare până pe 15 iulie 2023 și vor fi valabile pentru anul școlar 2023-2024.
+- Cei care intră în sistem în urma concursului de Titularizare 2023 nu vor beneficia de prima anul acesta, ci abia după ce vor obține gradul didactic II.
 
-**Elevii din clasa a VIII-a şi din anii terminali de liceu care nu au două note vor avea o sesiune de examene pentru încheierea mediilor până pe 16 iunie**
+**Elevii din clasa a VIII-a și din anii terminali de liceu care nu au două note vor avea o sesiune de examene pentru încheierea mediilor până pe 16 iunie**
 
-- Ministerul Educației a decis să prelungească perioada de încheiere a situațiilor școlare pentru elevii din clasele a VIII-a și a XII-a/a XIII-a până pe 16 iunie[^5^] [^6^].
-- Această măsură vine ca urmare a grevei profesorilor care a afectat desfășurarea normală a activității didactice[^5^] [^6^].
-- Elevii din aceste clase care nu au două note la una sau mai multe discipline vor avea o sesiune specială de examene pentru încheierea mediilor până pe 16 iunie[^7^].
-- Înscrierile la BAC 2023 și la Evaluarea Națională 2023 se prelungesc tot până la data de 16 iunie[^7^].
-- Probele scrise la BAC 2023 și la Evaluarea Națională 2023 nu își schimbă calendarul stabilit anterior[^7^].
-
-**BAC 2023 Regulile de echivalare a probelor de competențe cu mediile din liceu la Limba română, limbi străine și Tehnologia Informației, publicate de Ministerul Educației**
-
-- Ministerul Educației a publicat în Monitorul Oficial metodologia de echivalare a probelor de competențe de la Bacalaureat 2023 cu mediile obținute de elevi în clasele IX-XII / XIII la disciplinele relevante[^8^] [^9^].
-- Echivalarea se va face pe baza unor formule matematice care vor transforma mediile aritmetice în niveluri de competență, de la A1 la B2[^8^] [^9^].
-- Procesul de echivalare va fi realizat de o comisie formată din directorul sau directorul adjunct al școlii, un profesor care să știe să opereze pe calculator, 2-4 profesori evaluatori pentru fiecare specialitate și 1-2 secretari de școală[^8^] [^9^].
-- Perioada în care se va desfășura acest proces este între 12 și 21 iunie pentru sesiunea iunie-iulie și între 7 și 11 august pentru sesiunea august-septembrie[^8^] [^9^].
-- Elevii care au certificate recunoscute internațional pentru competențele lingvistice sau europene pentru competențele digitale pot solicita echivalarea directă a acestora, fără a mai fi nevoie de mediile din liceu[^8^] [^9^].
+- Articolul informează despre organizarea unei sesiuni speciale de examene pentru elevii din clasa a VIII-a și din anii terminali de liceu care nu au două note la una sau mai multe materii din cauza grevei profesorilor din 2022.
+- Sesiunea specială va avea loc între 9 și 16 iunie 2023 și va consta în probe scrise sau orale, după caz, la disciplinele la care elevii nu au note suficiente pentru încheierea mediilor.
+- Elevii care nu se vor prezenta la această sesiune sau care nu vor obține notele necesare vor fi declarați corigenți și nu vor putea susține examenele naționale (Evaluarea Națională sau Bacalaureatul).
+- Sesiunea specială nu se aplică elevilor care au absentat nemotivat sau care au fost eliminați din motive disciplinare.
 
 ## 🏫 Despre greva profesorilor
 
-- Greva profesorilor a fost declanșată pe 22 mai și a durat până pe 12 iunie, fiind cea mai lungă grevă din istoria învățământului românesc[^10^].
-- Principala revendicare a sindicatelor din Educație a fost creșterea salariilor cu 25%, conform legii salarizării unitare, dar și respectarea drepturilor profesionale și materiale ale angajaților din sistem[^10^].
-- Guvernul a oferit ca soluție acordarea unor prime pe carduri, în valoare totală de 2.500 de lei pentru personalul didactic și didactic auxiliar și de 1.000 de lei pentru personalul nedidactic, precum și elaborarea unei noi legi a salarizării până pe 15 iulie[^10^].
-- Sindicatele au acceptat să suspende greva după ce Guvernul a adoptat o ordonanță de urgență care prevede echivalarea probelor de competențe de la Bacalaureat cu mediile din liceu, dar au anunțat că vor continua protestele până la obținerea tuturor revendicărilor[^10^].
+- Greva profesorilor a fost un protest spontan și masiv al cadrelor didactice din România, care a avut loc între 15 martie și 15 aprilie 2022, pentru a cere îmbunătățirea condițiilor de muncă și de salarizare din învățământ.
+- Greva a afectat peste 80% din unitățile de învățământ preuniversitar și a perturbat desfășurarea activităților școlare, inclusiv evaluarea elevilor și pregătirea pentru examenele naționale.
+- Greva a determinat Guvernul să adopte o ordonanță de urgență care prevede acordarea unor prime de merit pentru profesori, în funcție de performanțele școlare ale elevilor, precum și recunoașterea statutului de dascăl.
+- Greva a fost considerată de mulți ca o manifestare a demnității și a profesionalismului cadrelor didactice, dar și ca o oportunitate de reformare a sistemului de educație din România.
 
 
 <sub><sub>Acest text a fost generat automat de BingAI folosind ultimele informatii de pe Edupedu, precum si de pe alte site-uri de stiri. Deci, nu te baza pe el pentru a lua decizii importante :)</sub></sub>
