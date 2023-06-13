@@ -1,35 +1,28 @@
 # 👩‍🏫 Totul despre greva
-<sub>Ultima actualizare: 13/06/2023 18:13:00</sub>
+<sub>Ultima actualizare: 13/06/2023 19:15:21</sub>
 
 <sub>Disclaimer: Tine minte sa verifici si sursele de actualitate. Acest site este doar un instrument de indrumare: nu il lua ad litteram - poate produce informatii partial gresite :)</sub>
 
-**Ministrul Ligia Deca anunța pe 8 iunie că de o săptămână lucrează la un program de recuperare a orelor pierdute, pentru elevi. Cinci zile mai târziu ministerul anunță marele „program“: directorii „au obligația“ să adapteze orarul în cele trei zile de școală rămase**
+**Directorii de grădinițe cu program normal vor fi degrevați parțial de norma de predare, urmând să mai aibă doar 2-4 ore – proiect de ordin al Ministerului Educației / Toți directorii și directorii adjuncți vor putea folosi orele din norma obligatorie pentru a fi metodiști sau formatori**
+- Proiectul de ordin prevede că directorii de grădinițe cu program normal vor avea o normă didactică de 2 ore pe săptămână dacă au până la 10 grupe și de 4 ore pe săptămână dacă au peste 10 grupe[^1^].
+- Directorii și directorii adjuncți din învățământul preuniversitar vor putea folosi orele din norma obligatorie pentru a desfășura activități de metodist sau formator, în limita a 6 ore pe săptămână[^1^].
+- Proiectul de ordin are ca scop îmbunătățirea managementului educațional și creșterea calității actului didactic[^1^].
 
-- Articolul critică modul în care Ministerul Educației a gestionat problema recuperării orelor pierdute în timpul grevei profesorilor, care a durat aproape o lună.
-- Autorul susține că ministrul Ligia Deca a promis un program de recuperare elaborat și eficient, dar a anunțat doar că directorii școlilor au obligația să adapteze orarul în ultimele trei zile de școală rămase până la vacanța de vară.
-- Articolul citează reacțiile unor lideri sindicali și ai asociațiilor de părinți, care consideră că soluția ministerului este nerealistă, inechitabilă și lipsită de viziune.
-- Articolul mai arată că ministrul Deca nu a oferit nicio explicație pentru întârzierea anunțului și nici nu a prezentat un plan concret pentru anul școlar viitor.
+**Ministrul Ligia Deca anunța pe 8 iunie că de o săptămână lucrează la un program de recuperare a orelor pierdute, pentru elevi. Cinci zile mai târziu ministerul anunță marele „program“: directorii „au obligația“ să adapteze orarul în cele trei zile de școală rămase**
+- Ministrul Educației, Ligia Deca, a declarat pe 8 iunie că lucrează la un program de recuperare a orelor pierdute în timpul grevei profesorilor, care va fi gata în câteva zile[^2^].
+- Pe 13 iunie, ministerul a emis un comunicat în care anunță că directorii unităților de învățământ au obligația să adapteze orarul pentru cele trei zile rămase din anul școlar, astfel încât elevii să recupereze cât mai multe ore[^2^].
+- Comunicatul nu precizează niciun criteriu sau metodologie pentru recuperarea orelor pierdute și lasă la latitudinea directorilor modul de organizare a activităților didactice[^2^].
 
 **Recuperarea orelor pierdute în timpul grevei se face până pe 16 iunie pentru elevi și profesori, cu excepția claselor terminale / Cei din învățământul tehnologic pot recupera până pe 23 iunie, transmite Ministerul Educației**
-
-- Articolul informează despre calendarul stabilit de Ministerul Educației pentru recuperarea orelor pierdute în timpul grevei profesorilor, care s-a încheiat pe 12 iunie.
-- Potrivit articolului, elevii și profesorii au la dispoziție patru zile (14-17 iunie) pentru a recupera orele pierdute, cu excepția claselor terminale (a VIII-a, a XII-a și a XIII-a), care au finalizat deja anul școlar.
-- Articolul mai precizează că cei din învățământul tehnologic pot recupera orele pierdute până pe 23 iunie, dat fiind faptul că au avut mai multe zile libere decât ceilalți elevi.
-- Articolul mai menționează că recuperarea orelor pierdute se va face cu respectarea normelor sanitare și a programului individualizat al fiecărui elev.
-
-**Ioana Lazăr, secretarul general al Ministerului Educației, a primit o prelungire de mandat pentru încă 6 luni – decizie publicată în Monitorul Oficial**
-
-- Articolul anunță că Ioana Lazăr, secretarul general al Ministerului Educației, a primit o prelungire de mandat pentru încă 6 luni, prin decizia premierului Nicolae Ciucă.
-- Articolul explică că Ioana Lazăr este secretar general al ministerului din octombrie 2020 și că mandatul ei inițial era valabil până pe 10 iunie 2021.
-- Articolul mai spune că Ioana Lazăr este un apropiat al ministrului Ligia Deca și că a fost implicată în negocierile cu sindicatele din educație pentru soluționarea conflictului privind salarizarea personalului didactic.
-- Articolul mai precizează că Ioana Lazăr este profesor universitar la Facultatea de Drept a Universității din București și că a ocupat și alte funcții publice în trecut.
+- Ministerul Educației a stabilit că recuperarea orelor pierdute în timpul grevei se va face până pe 16 iunie pentru elevii și profesorii din învățământul preșcolar, primar, gimnazial și liceal, cu excepția claselor terminale[^3^].
+- Pentru elevii și profesorii din învățământul tehnologic (profesional și postliceal), termenul limită pentru recuperarea orelor pierdute este 23 iunie[^3^].
+- Ministerul Educației recomandă ca recuperarea orelor pierdute să se facă prin prelungirea programului zilnic sau prin organizarea unor activități didactice suplimentare în zilele nelucratoare[^3^].
 
 ## 🏫 Despre greva profesorilor
-
-- Greva profesorilor a fost declanșată pe 22 mai 2023 și a durat până pe 12 iunie 2023, fiind prima grevă din ultimii 18 ani din învățământul românesc.
-- Principala revendicare a profesorilor a fost majorarea salariului debutantului la nivelul salariului mediu brut pe economie, care ar fi trebuit să fie de 4.000 de lei net în 2023, potrivit Legii salarizării unitare.
-- Guvernul a propus o creștere salarială de 1.000 de lei brut pe lună pentru personalul didactic și de 400 de lei brut pe lună pentru personalul nedidactic, dar nu a garantat respectarea grilei de salarizare în viitor, ci doar a promis o creștere etapizată până în 2026.
-- Greva profesorilor a generat nemulțumirea elevilor și părinților, care au reclamat pierderea orelor de curs și lipsa unui plan clar de recuperare a materiei.
+- Greva profesorilor este prima din ultimii 18 ani și a început pe 22 mai, după ce negocierile cu guvernul au eșuat[^4^].
+- Principala cerință a profesorilor este majorarea salariilor la nivelul salariului mediu brut pe economie pentru debutanți sau asistenți universitari, care ar fi de aproximativ 4.000 de lei net[^5^].
+- Guvernul a emis o ordonanță de urgență prin care a acordat majorări salariale de 1.000 de lei brut pe lună pentru personalul didactic și de 400 de lei brut pe lună pentru personalul nedidactic, dar sindicatele au considerat că acestea sunt insuficiente și nu respectă angajamentele asumate[^5^].
+- Greva profesorilor a generat nemulțumiri și în alte domenii, cum ar fi sănătatea, poliția, penitenciarele, transporturile sau justiția, care au anunțat și ele proteste și greve în perioada următoare[^2^].
 
 
 <sub><sub>Acest text a fost generat automat de BingAI folosind ultimele informatii de pe Edupedu, precum si de pe alte site-uri de stiri. Deci, nu te baza pe el pentru a lua decizii importante :)</sub></sub>
