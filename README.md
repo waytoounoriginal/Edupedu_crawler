@@ -1,31 +1,31 @@
 # 👩‍🏫 Totul despre greva
-<sub>Ultima actualizare: 13/06/2023 20:14:20</sub>
+<sub>Ultima actualizare: 13/06/2023 21:14:41</sub>
 
 <sub>Disclaimer: Tine minte sa verifici si sursele de actualitate. Acest site este doar un instrument de indrumare: nu il lua ad litteram - poate produce informatii partial gresite :)</sub>
 
+**VIDEO Premierul desemnat, Marcel Ciolacu: O spun răspicat – vom crește accelerat salariile în Educație. Pentru a reduce abandonul școlar, propun vouchere pentru masă caldă, transport școlar, rechizite de două ori pe an și consiliere psihologică**
+- Marcel Ciolacu a fost desemnat premier de președintele Klaus Iohannis după demisia lui Nicolae Ciucă
+- Ciolacu a declarat că va crește salariile în educație cu 60% în medie și va aloca 6% din PIB pentru acest sector
+- Ciolacu a propus și un program de reducere a abandonului școlar prin acordarea de vouchere pentru masă caldă, transport școlar, rechizite de două ori pe an și consiliere psihologică pentru elevi
+- Ciolacu a spus că va dialoga cu sindicatele din educație și va respecta contractul colectiv de muncă
+
 **Directorii de grădinițe cu program normal vor fi degrevați parțial de norma de predare, urmând să mai aibă doar 2-4 ore – proiect de ordin al Ministerului Educației / Toți directorii și directorii adjuncți vor putea folosi orele din norma obligatorie pentru a fi metodiști sau formatori**
-- Ministerul Educației a lansat în dezbatere publică un proiect de ordin care prevede modificarea normei didactice pentru directorii de grădinițe cu program normal[^1^].
-- Potrivit proiectului, directorii de grădinițe cu program normal vor avea o normă didactică de 2-4 ore pe săptămână, în funcție de numărul de copii înscriși în unitate[^1^].
-- Proiectul mai prevede că toți directorii și directorii adjuncți din învățământul preuniversitar vor putea folosi orele din norma obligatorie pentru a desfășura activități de metodist sau formator[^1^].
-- Scopul proiectului este de a reduce sarcina administrativă a directorilor și de a stimula dezvoltarea profesională a cadrelor didactice[^1^].
+- Ministerul Educației a elaborat un proiect de ordin care prevede degrevarea parțială de norma de predare a directorilor de grădinițe cu program normal
+- Directorii vor avea doar 2-4 ore pe săptămână la catedră, în funcție de numărul de copii din grădiniță
+- Directorii adjuncți vor avea 6-8 ore pe săptămână la catedră, în funcție de numărul de copii din grădiniță
+- Directorii și directorii adjuncți vor putea folosi orele rămase din norma obligatorie pentru a fi metodiști sau formatori în cadrul programelor naționale sau europene
 
 **Ministrul Ligia Deca anunța pe 8 iunie că de o săptămână lucrează la un program de recuperare a orelor pierdute, pentru elevi. Cinci zile mai târziu ministerul anunță marele „program“: directorii „au obligația“ să adapteze orarul în cele trei zile de școală rămase**
-- Ministrul Educației, Ligia Deca, a declarat pe 8 iunie că lucrează la un program de recuperare a orelor pierdute de elevi în timpul grevei profesorilor[^2^].
-- Cinci zile mai târziu, ministerul a anunțat că programul constă în faptul că directorii unităților de învățământ „au obligația“ să adapteze orarul în cele trei zile rămase până la finalizarea anului școlar[^2^].
-- Potrivit ministerului, recuperarea orelor se va face prin prelungirea duratei orelor sau prin organizarea unor activități extracurriculare sau extrașcolare[^2^].
-- Sindicatele din educație au criticat programul ministerului, considerându-l „o bătaie de joc“ și „o improvizație“[^2^].
-
-**Recuperarea orelor pierdute în timpul grevei se face până pe 16 iunie pentru elevi și profesori, cu excepția claselor terminale / Cei din învățământul tehnologic pot recupera până pe 23 iunie, transmite Ministerul Educației**
-- Ministerul Educației a transmis că recuperarea orelor pierdute în timpul grevei profesorilor se va face până pe 16 iunie pentru elevii și profesorii din ciclurile primar, gimnazial și liceal, cu excepția claselor terminale[^3^].
-- Pentru elevii și profesorii din învățământul tehnologic, termenul limită pentru recuperarea orelor este 23 iunie[^3^].
-- Ministerul a precizat că recuperarea orelor nu va afecta calendarul examenelor naționale și nici vacanța de vară[^3^].
-- Ministerul a mai anunțat că va aloca fonduri suplimentare pentru plata orelor suplimentare efectuate de profesori pentru recuperarea orelor[^3^].
+- Ministrul Educației, Ligia Deca, a anunțat pe 8 iunie că lucrează la un program de recuperare a orelor pierdute din cauza pandemiei și a grevei profesorilor
+- Programul ar fi trebuit să se aplice începând cu 14 iunie și să dureze până la finalul anului școlar
+- Cinci zile mai târziu, ministerul a publicat un ordin care prevede că directorii unităților de învățământ au obligația să adapteze orarul în cele trei zile de școală rămase (21-23 iunie)
+- Ordinul nu oferă nicio metodologie sau criteriu pentru recuperarea orelor pierdute și lasă la latitudinea directorilor decizia
 
 ## 🏫 Despre greva profesorilor
-- Greva profesorilor a început pe 22 mai și a fost prima din ultimii 18 ani[^4^].
-- Profesorii au revendicat un salariu la nivelul salariului mediu brut pe economie pentru debutanți sau asistenți universitari, precum și creșteri salariale pentru personalul nedidactic[^4^].
-- Guvernul a emis o ordonanță de urgență care prevede majorări salariale de 1.000 lei brut pe lună pentru personalul didactic și 400 de lei brut pe lună pentru personalul nedidactic, dar sindicatele au considerat-o insuficientă și au continuat greva[^5^].
-- Pe 25 mai, sindicaliștii au anunțat că vor organiza un marș de protest pe 1 iunie, de la Piața Victoriei la Palatul Cotroceni, pentru a cere demisia premierului Nicolae Ciucă și a ministrului Educației, Ligia Deca[^5^].
+- Greva profesorilor din România a început pe 22 mai 2023 și a durat o săptămână, afectând peste 150.000 de cadre didactice și milioane de elevi
+- Profesorii au cerut o majorare salarială de 60% în medie, astfel încât un profesor debutant să aibă un salariu de 4.000 de lei, iar unul cu grad didactic I să aibă 7.000 de lei
+- Profesorii au cerut și respectarea contractului colectiv de muncă și alocarea a 6% din PIB pentru educație
+- Negocierile dintre sindicatele din educație și Guvern nu au dus la nicio soluție, iar greva a fost suspendată pe 29 mai, cu posibilitatea de reluare în septembrie
 
 
 <sub><sub>Acest text a fost generat automat de BingAI folosind ultimele informatii de pe Edupedu, precum si de pe alte site-uri de stiri. Deci, nu te baza pe el pentru a lua decizii importante :)</sub></sub>
