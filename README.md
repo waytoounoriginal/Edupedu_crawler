@@ -1,35 +1,29 @@
 # 👩‍🏫 Totul despre greva
-<sub>Ultima actualizare: 15/06/2023 01:12:43</sub>
+<sub>Ultima actualizare: 15/06/2023 02:13:29</sub>
 
 <sub>Disclaimer: Tine minte sa verifici si sursele de actualitate. Acest site este doar un instrument de indrumare: nu il lua ad litteram - poate produce informatii partial gresite :)</sub>
 
-**Evaluarea Națională 2023 la Limba română. Sfaturi pentru elevi de la profesorul Cătălin Zaman: Să se întoarcă la texte pentru informații ori de câte ori e nevoie, când se simt nesiguri, pentru că timp este suficient**
-- Articolul prezintă modele de teste rezolvate la Limba română pentru Evaluarea Națională 2023, conform programei de examen în vigoare înainte de debutul pandemiei.
-- Testele sunt extrase din lucrarea Teste rezolvate de limba și literatura română pentru Evaluarea Națională clasa a VIII-a.
-- Testele conțin texte la prima vedere, întrebări de limbă și gramatică și cerințe de literatură.
-- Articolul oferă și un exemplu de test cu un fragment din Dansul ursului de Ion D. Sîrbu și un altul din 30 de ani în șa al lui Felix Țopescu.
-- Articolul încurajează elevii să se pregătească temeinic pentru examen și să se întoarcă la texte pentru informații ori de câte ori e nevoie, când se simt nesiguri, pentru că timp este suficient.
+- **Evaluarea Națională 2023 la Limba română. Sfaturi pentru elevi de la profesorul Cătălin Zaman: Să se întoarcă la texte pentru informații ori de câte ori e nevoie, când se simt nesiguri, pentru că timp este suficient**
+    - Articolul oferă modele de teste rezolvate de limba și literatură română pentru Evaluarea Națională 2023, conform programei de examen în vigoare înainte de debutul pandemiei[^1^].
+    - Articolul prezintă și sfaturi de la profesorul Cătălin Zaman, care îi îndeamnă pe elevi să citească cu atenție textele la prima vedere, să se întoarcă la ele pentru informații și să nu se grăbească să răspundă[^1^].
+    - Articolul menționează că elevii au la dispoziție două ore pentru a rezolva subiectele și că acestea sunt redactate sub forma unei broșuri tipărite față-verso[^1^].
 
-**Joi, 15 iunie, încep înscrierile la grădiniță, creșă și centre de educație timpurie. Modele de cerere-tip**
-- Articolul anunță că joi, 15 iunie, încep înscrierile pentru copiii care nu au mai frecventat creșa sau grădinița până acum și durează până pe 30 iunie.
-- Din septembrie 2023, grupa mijlocie la grădiniță este obligatorie, potrivit articolului 63 din Legea Educației în vigoare.
-- Pe 14 iunie s-au afișat rezultatele după etapa de reînscrieri și numărul de locuri rămase libere.
-- Părinții pot înregistra 3 opțiuni de creșă/grădiniță în cererea-tip de înscriere, iar cererile pot fi depuse prin email, poștă sau la sediul unității de învățământ.
-- Articolul explică procedura și calendarul înscrierilor în etapa I (15-30 iunie) și etapa a II-a (1-7 iulie).
-- Articolul prezintă și ce documente trebuie să conțină dosarul pentru înscrierea la creșă/grădiniță și modele de cerere-tip.
+- **Joi, 15 iunie, încep înscrierile la grădiniță, creșă și centre de educație timpurie. Modele de cerere-tip**
+    - Articolul anunță că înscrierile pentru copiii care nu au mai frecventat creșa sau grădinița până acum vor avea loc între 15 și 30 iunie 2023, potrivit ordinului de ministru publicat în Monitorul Oficial[^2^].
+    - Articolul precizează că din septembrie 2023, grupa mijlocie la grădiniță este obligatorie, potrivit articolului 63 din Legea Educației în vigoare[^2^].
+    - Articolul explică procedura de înscriere, care presupune depunerea unei cereri-tip însoțită de documente justificative, care se poate transmite prin e-mail, prin poștă sau se poate depune la sediul unității de învățământ[^2^].
+    - Articolul oferă modele de cereri-tip pentru înscrierea la creșă și grădiniță și calendarul etapelor de evaluare a cererilor[^2^].
 
-**Majorarea salariilor din Educație nu există în programul guvernului Ciolacu. În replică, Ligia Deca susține că „față de decembrie 2016, salariul brut al unui profesor s-a triplat” / Ministrul nu precizează că brutul a crescut mult mai rapid ca netul, în 2018, prin mutarea contribuțiilor angajatorului**
-- Articolul analizează programul guvernului Ciolacu prezentat pe site-ul PSD și observă că nu există nicio mențiune despre majorarea salariilor din Educație, deși acesta era unul dintre punctele cheie ale moțiunii de cenzură care a dărâmat guvernul Ciucă.
-- Articolul citează declarația ministrului Educației, Ligia Deca, care susține că „față de decembrie 2016, salariul brut al unui profesor s-a triplat” și că „salariile din Educație vor crește în 2023 cu 24%”.
-- Articolul contrazice afirmațiile ministrului și arată că salariul brut al unui profesor debutant a crescut de la 2.100 de lei în decembrie 2016 la 4.000 de lei în ianuarie 2023, adică cu 90%, nu cu 200%.
-- Articolul mai arată că salariul net al unui profesor debutant a crescut de la 1.500 de lei în decembrie 2016 la 2.500 de lei în ianuarie 2023, adică cu 66%, nu cu 90%, din cauza mutării contribuțiilor angajatorului în sarcina angajatului, în 2018.
-- Articolul mai menționează că salariile din Educație au fost înghețate în 2020 și 2021 și că majorarea de 24% promisă pentru 2023 este condiționată de adoptarea unei noi legi a salarizării.
+- **Majorarea salariilor din Educație nu există în programul guvernului Ciolacu. În replică, Ligia Deca susține că „față de decembrie 2016, salariul brut al unui profesor s-a triplat” / Ministrul nu precizează că brutul a crescut mult mai rapid ca netul, în 2018, prin mutarea contribuțiilor angajatorului**
+    - Articolul analizează programul guvernului Ciolacu și constată că acesta nu prevede nicio majorare a salariilor din Educație, ci doar o nouă lege a salarizării care să asigure echitatea între categoriile de personal[^3^].
+    - Articolul citează declarațiile ministrului Educației, Ligia Deca, care susține că salariile din Educație au crescut semnificativ în ultimii ani și că salariul brut al unui profesor s-a triplat față de decembrie 2016[^3^].
+    - Articolul critică afirmațiile ministrului și arată că salariul net al unui profesor a crescut mult mai puțin decât salariul brut, în 2018, prin mutarea contribuțiilor de la angajator la angajat și că salariile din Educație sunt încă sub media europeană[^3^].
 
 🏫 Despre greva profesorilor
-- Greva profesorilor a început pe 30 mai și a continuat până pe 7 iunie, când Guvernul a anunțat o majorare salarială pentru personalul din Educație.
-- Profesorii au cerut o creștere a salariului debutant la nivelul salariului mediu brut pe economie și o grilă de salarizare care să reflecte funcția, studiile, vechimea și gradul didactic.
-- Profesorii au protestat prin grevă japoneză, grevă generală și mitinguri în fața sediilor PSD și PNL.
-- Profesorii au primit sprijin din partea elevilor, părinților, studenților și altor categorii sociale.
+- Greva profesorilor a început pe 30 mai 2023 și a fost declanșată de nemulțumirea față de nivelul salariilor și de lipsa dialogului social cu guvernul[^4^].
+- Profesorii au cerut majorarea salariilor cu 1000 de lei brut lunar pentru personalul didactic și cu 400 de lei brut lunar pentru personalul nedidactic, precum și stabilirea salariului debutantului la nivelul salariului mediu brut pe economie[^4^].
+- Guvernul a reacționat la presiunea sindicatelor și a anunțat pe 7 iunie 2023 că va adopta un memorandum prin care confirmă decizia politică de majorare a salariilor din Educație, în baza noii legi a salarizării, care va fi elaborată în următoarele luni[^5^].
+- Sindicatele au salutat angajamentul guvernamental, dar au menținut greva până la adoptarea efectivă a memorandumului, care urmează să aibă loc pe 8 iunie 2023, în ședința Executivului[^5^].
 
 
 <sub><sub>Acest text a fost generat automat de BingAI folosind ultimele informatii de pe Edupedu, precum si de pe alte site-uri de stiri. Deci, nu te baza pe el pentru a lua decizii importante :)</sub></sub>
