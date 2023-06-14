@@ -1,44 +1,50 @@
 # 👩‍🏫 Totul despre greva
-<sub>Ultima actualizare: 14/06/2023 13:14:17</sub>
+<sub>Ultima actualizare: 14/06/2023 14:11:08</sub>
 
 <sub>Disclaimer: Tine minte sa verifici si sursele de actualitate. Acest site este doar un instrument de indrumare: nu il lua ad litteram - poate produce informatii partial gresite :)</sub>
 
-- Titlul articolului, scris cu bold
-- O listă cu cel mult 5 puncte principale din articol, separate prin punct și virgulă
-- Sursa articolului, indicată prin numărul de referință
+**Admitere liceu 2023. Procedura pentru completarea fișei de înscriere, transmisă de Ministerul Educației. Fișa poate fi completată la școală, în prezența părintelui și a dirigintelui, sau transmisă prin e-mail**
 
-Iată rezumatele pe care le-am obținut:
+- Ministerul Educației a transmis procedura pentru completarea fișei de înscriere la admiterea în clasa a IX-a pentru anul școlar 2023-2024.
+- Fișa de înscriere se completează de către elev și părinte/tutore legal, cu datele personale ale elevului și opțiunile de licee și specializări ordonate după preferințe.
+- Fișa de înscriere se depune la școala unde elevul este înscris în clasa a VIII-a, în perioada 20-30 iunie 2023, în prezența părintelui/tutorelui legal și a dirigintelui clasei.
+- Fișa de înscriere poate fi completată și transmisă prin e-mail la adresa școlii, cu condiția ca părintele/tutorele legal să se prezinte ulterior la școală pentru semnarea fișei originale.
+- Fișa de înscriere este un document oficial care angajează răspunderea elevului și a părintelui/tutorelui legal pentru veridicitatea datelor și opțiunilor exprimate.
 
-**Bogdan Gruia Ivan, propus ministru al Cercetării în Guvernul Ciolacu, aviz favorabil în Parlament: “Prima prioritate” în domeniul cercetării este “adaptarea legislației la vremurile în care trăim” / Zone de interes: inteligența artificială, tehnologii cuantice, energie verde**
+**Ministerul Educației: În anul școlar 2022-2023, situația școlară a elevilor din școlile și liceele de arte poate fi încheiată fără susținerea examenului la disciplina principală de specialitate**
 
-- Bogdan Gruia Ivan este un fizician și profesor universitar care a fost propus de PSD pentru a prelua portofoliul Cercetării în Guvernul Ciolacu;
-- El a fost audiat marți în comisiile parlamentare de specialitate și a primit aviz favorabil cu 18 voturi pentru și 9 împotrivă;
-- El a declarat că prima sa prioritate este adaptarea legislației la vremurile în care trăim, pentru a stimula cercetarea fundamentală și aplicată și pentru a atrage fonduri europene;
-- El a menționat că zonele sale de interes sunt inteligența artificială, tehnologiile cuantice și energia verde, dar și domeniile tradiționale precum medicina, agricultura sau industria;
-- El a promis că va sprijini tinerii cercetători și va încuraja colaborarea între mediul academic și cel privat [^1^].
-
-**Ligia Deca spune că salariul directorului va fi cel mai mare din școală**
-
-- Ligia Deca este ministrul Educației în Guvernul Ciolacu și a fost reconfirmată în funcție după ce a primit aviz favorabil în comisiile parlamentare;
-- Ea a anunțat că salariile directorilor de școli vor fi majorate și vor fi mai mari decât ale tuturor profesorilor din unitatea de învățământ;
-- Ea a spus că această măsură este necesară pentru a evita situația în care un profesor cu vechime și cu un spor să aibă mai mult decât directorul care are responsabilitatea managementului școlii;
-- Ea a precizat că noile grile de salarizare au fost elaborate împreună cu reprezentanții cadrelor didactice și au fost transmise Ministerului Muncii pentru a fi incluse în legea salarizării unitare;
-- Ea a afirmat că grilele prevăd o creștere medie de 60% a salariilor profesorilor, iar salariul minim al unui debutant va fi egal cu salariul mediu pe economie [^4^] [^5^].
+- Ministerul Educației a emis un ordin prin care se stabilește că situația școlară a elevilor din școlile și liceele de arte poate fi încheiată fără susținerea examenului la disciplina principală de specialitate, în anul școlar 2022-2023.
+- Măsura se aplică doar pentru elevii din clasele terminale (a VIII-a și a XII-a) care au fost afectați de pandemia de COVID-19 și nu au putut participa la orele practice din cauza restricțiilor sanitare.
+- Pentru acești elevi, nota finală la disciplina principală de specialitate va fi media aritmetică dintre notele obținute pe parcursul anului școlar la această disciplină.
+- Ordinul mai prevede că elevii din clasele terminale care doresc să susțină examenul la disciplina principală de specialitate pot depune o cerere scrisă în acest sens la secretariatul unității de învățământ până la data de 15 iunie 2023.
 
 **Cum se încheie mediile elevilor în anul școlar 2022-2023? Este nevoie de minimum două note pe disciplină, iar media generală se rotunjește în funcție de a treia zecimală – exemple de calcul pe ROFUIP actualizat**
 
-- Anul școlar 2022-2023 va fi organizat pe module de cursuri și vacanțe scurte, în loc de semestre, iar mediile se vor încheia la final de an;
-- Numărul minim de calificative/note acordate elevului la o disciplină/modul este de două, iar numărul maxim este stabilit de profesor în funcție de numărul de ore și de unități de învățare;
-- Media anuală pe disciplină/modul se calculează prin media aritmetică a notelor obținute pe parcursul perioadelor de învățare, iar media generală se calculează prin media aritmetică a mediilor anuale pe discipline/module;
-- Media generală se rotunjește în funcție de a treia zecimală: dacă aceasta este mai mică sau egală cu 4, se rotunjește în minus, iar dacă este mai mare sau egală cu 5, se rotunjește în plus;
-- Exemple de calcul: un elev are notele 8, 9 și 10 la matematică, media anuală este 9; un elev are notele 7, 8 și 9 la română, media anuală este 8; un elev are notele 6 și 7 la fizică, media anuală este 6,5; un elev are notele 5 și 6 la chimie, media anuală este 5,5; media generală a acestor elevi este (9+8+6,5+5,5)/4=7,25, care se rotunjește la 7 [^7^] [^8^] [^9^] [^10^] [^11^].
+- Ministerul Educației a publicat Regulamentul-cadru privind organizarea și funcționarea unităților de învățământ preuniversitar (ROFUIP) actualizat pentru anul școlar 2022-2023.
+- Potrivit ROFUIP, situația școlară a elevilor se exprimă prin note sau calificative, iar media generală anuală se calculează ca medie ponderată a mediilor anuale la toate disciplinele de studiu.
+- Pentru încheierea mediilor anuale, este nevoie de minimum două note pe disciplină, iar media generală se rotunjește în funcție de a treia zecimală: dacă este mai mică sau egală cu 4, se rotunjește în minus, dacă este mai mare sau egală cu 5, se rotunjește în plus.
+- Exemple de calcul al mediilor anuale și generale:
 
-🏫 Despre greva profesorilor
+| Disciplină | Note | Medie anuală |
+| --- | --- | --- |
+| Limba și literatura română | 8, 9, 10 | 9 |
+| Matematică | 7, 8, 9 | 8 |
+| Limba engleză | 10, 10, 10 | 10 |
+| Istorie | 6, 7, 8 | 7 |
+| Geografie | 5, 6, 7 | 6 |
+| Biologie | 9, 9, 10 | 9 |
+| Educație fizică | A, A, A | A |
 
-- Greva profesorilor a început pe 22 mai și a durat până pe 15 iunie, când sindicatele au semnat un protocol cu Guvernul Ciolacu;
-- Principalele revendicări ale profesorilor au fost creșterea salariilor cu 25%, eliminarea inechităților salariale între diferite categorii de personal didactic și deblocarea posturilor vacante;
-- Greva a afectat procesul de învățare al elevilor, care au rămas fără note și fără evaluări în perioada protestului;
-- Guvernul a adoptat o serie de măsuri pentru a rezolva situația elevilor la final de an școlar, printre care modificarea ROFUIP pentru a permite încheierea mediilor cu două note și amânarea examenelor naționale pentru luna iulie [^12^].
+Media generală anuală = (9 x 4 + 8 x 4 + 10 x 2 + 7 x 2 + 6 x 2 + 9 x 2) / (4 + 4 + 2 + 2 + 2 + 2) = (36 + 32 + 20 + 14 + 12 +18) /16 = (132 /16) = **8.25**
+
+Media generală anuală se rotunjește la **8**.
+
+## 🏫 Despre greva profesorilor
+
+- Greva profesorilor din România a început pe data de **22 mai** și continuă pe termen nedeterminat, fiind prima grevă din ultimii **18 ani** în acest domeniu.
+- Profesorii revendică un salariu la nivelul salariului mediu brut pe economie pentru debutanți sau asistenți universitari și o creștere salarială de **50%** pentru toate categoriile de personal din învățământ.
+- Guvernul le-a oferit profesorilor o majorare salarială de **1.000 lei brut** pe lună pentru personalul didactic și de **400 lei brut** pe lună pentru personalul nedidactic, dar sindicatele au respins propunerea ca fiind insuficientă și nesigură.
+- Greva profesorilor a generat nemulțumire și solidaritate din partea altor categorii de angajați din domenii precum sănătatea, penitenciarele, poliția, transporturile sau justiția, care au anunțat și ele proteste și greve în perioada următoare.
 
 
 <sub><sub>Acest text a fost generat automat de BingAI folosind ultimele informatii de pe Edupedu, precum si de pe alte site-uri de stiri. Deci, nu te baza pe el pentru a lua decizii importante :)</sub></sub>
