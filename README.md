@@ -1,37 +1,35 @@
 # 👩‍🏫 Totul despre greva
-<sub>Ultima actualizare: 14/06/2023 09:15:50</sub>
+<sub>Ultima actualizare: 14/06/2023 10:12:07</sub>
 
 <sub>Disclaimer: Tine minte sa verifici si sursele de actualitate. Acest site este doar un instrument de indrumare: nu il lua ad litteram - poate produce informatii partial gresite :)</sub>
 
+**România educată nu există în programul de guvernare al lui Marcel Ciolacu. Niciun cuvânt despre legile educației. Din contră, programul prevede „crearea cadrului legislativ“ pentru mai multe măsuri cerute de elevi, studenți sau societatea civilă la dezbaterile din Parlament pe legile educației, luna...**
+
+- Articolul critică programul de guvernare propus de Marcel Ciolacu pentru că nu include nicio referire la România educată sau la legile educației care au fost elaborate în ultimii ani.
+- Articolul susține că programul prevede doar „crearea cadrului legislativ“ pentru unele măsuri care au fost deja cerute de elevi, studenți sau societatea civilă la dezbaterile din Parlament pe legile educației, cum ar fi: autonomia universitară, finanțarea pe bază de contracte de performanță, evaluarea periodică a cadrelor didactice sau introducerea educației civice și financiare în curriculă.
+- Articolul afirmă că programul nu oferă nicio soluție pentru problemele majore ale sistemului educațional, cum ar fi: lipsa infrastructurii și a dotărilor școlare, inechitatea și abandonul școlar, calitatea slabă a actului educațional sau salarizarea necorespunzătoare a personalului didactic și nedidactic.
+- Articolul concluzionează că programul de guvernare al lui Marcel Ciolacu este unul „fără viziune și fără ambiție“ pentru educație și că acesta ar trebui să fie respins de parlamentarii care susțin România educată.
+
+**Vouchere de afterschool pentru copiii defavorizați, pachete sociale cu rechizite, îmbrăcăminte, mici reparații, dotări ale locuințelor și „relaxarea” criteriilor pentru burse sociale, printre măsurile programului de guvernare propus de Marcel Ciolacu**
+
+- Articolul prezintă unele dintre măsurile sociale din programul de guvernare propus de Marcel Ciolacu pentru domeniul educației.
+- Articolul menționează că programul prevede acordarea unor vouchere de afterschool pentru copiii defavorizați din mediul rural sau urban marginalizat, care ar putea fi folosite pentru plata serviciilor educaționale complementare oferite de școli sau ONG-uri.
+- Articolul mai spune că programul prevede distribuirea unor pachete sociale cu rechizite școlare, îmbrăcăminte adecvată anotimpului, mici reparații și dotări ale locuințelor pentru copiii aflați în situații vulnerabile sau cu risc crescut de abandon școlar.
+- Articolul mai arată că programul prevede „relaxarea” criteriilor pentru acordarea burselor sociale pentru elevi și studenți, astfel încât să beneficieze de acestea mai mulți tineri cu venituri mici sau cu nevoi speciale.
+
 **Ligia Deca va fi audiată în Parlament, pentru un nou mandat de ministru al Educației, la ora 10**
 
-- Ligia Deca este propunerea PNL pentru funcția de ministru al Educației în cabinetul Ciolacu.
-- Ea va fi audiată miercuri, 14 iunie, de la ora 10.00, în comisiile parlamentare de specialitate.
-- Deca a fost consilier prezidențial pe educație și cercetare și a participat la elaborarea proiectelor de legi ale educației.
-- Ea a avut o atitudine schimbătoare față de greva profesorilor, susținând inițial revendicările acestora, apoi aliniindu-se poziției guvernamentale.[^1^]
-
-**PROIECT Ministerul Educației modifică metodologia pentru mobilitatea profesorilor, cu o lună înainte de proba scrisă a concursului de Titularizare 2023: Repartizarea candidaților pe posturi se face în ordinea descrescătoare a notelor de la proba scrisă / Cine susține probele practice cu „admis” sau ...**
-
-- Ministerul Educației a publicat un proiect de ordin prin care modifică metodologia-cadru privind mobilitatea personalului didactic de predare din învățământul preuniversitar în anul școlar 2021-2022.
-- Printre modificările propuse se numără:
-    - repartizarea candidaților pe posturi se face în ordinea descrescătoare a notelor obținute la proba scrisă;
-    - candidații care au obținut nota „admis” sau „admis cu rezerve” la probele practice pot participa la repartizarea pe posturi;
-    - candidații care au obținut nota „respins” sau „respins cu rezerve” la probele practice nu pot participa la repartizarea pe posturi;
-    - candidații care au obținut nota „respins” sau „respins cu rezerve” la probele practice pot solicita înscrierea pe lista suplinitorilor.[^5^]
-
-**ULTIMA ORĂ Majorare cu până la 25% a sumelor pentru plata profesorilor la Evaluarea Națională și Bacalaureat, propusă de Ministerul Educației ca să atragă cadre didactice – proiect**
-
-- Ministerul Educației a inițiat un proiect de ordin prin care majorează cu până la 25% sumele pentru plata profesorilor care se implică în organizarea și desfășurarea examenelor naționale.
-- Măsura vine după ce greva generală a profesorilor a fost suspendată și are ca scop să atragă mai mulți evaluatori și supraveghetori pentru Evaluarea Națională și Bacalaureat.
-- De exemplu, pentru o lucrare corectată, un profesor evaluator va primi 15 lei la Evaluarea Națională și 18 lei la Bacalaureat, față de 11 lei, respectiv 15 lei cât erau anterior.
-- Proiectul de ordin este supus consultării publice până pe 16 iunie.[^8^]
+- Articolul anunță că Ligia Deca, actualul ministru al Educației, va fi audiată în Parlament, pentru un nou mandat, la ora 10.
+- Articolul precizează că audierea va avea loc în comisiile de specialitate ale Camerei Deputaților și Senatului și că va fi transmisă în direct pe site-ul Parlamentului.
+- Articolul menționează că Ligia Deca este propusă de premierul desemnat Nicolae Ciucă pentru a continua la conducerea ministerului Educației, în contextul în care acesta a prezentat un program de guvernare care preia o parte din măsurile din România educată și din legile educației.
+- Articolul mai spune că Ligia Deca se confruntă cu o grevă a profesorilor care durează de mai bine de o săptămână și care cere majorarea salariilor la nivelul salariului mediu brut pe economie pentru debutanți sau asistenți universitari.
 
 ## 🏫 Despre greva profesorilor
 
-- Greva generală a profesorilor a început pe 23 mai și a fost suspendată pe 12 iunie, după ce Guvernul a oferit o creștere salarială medie de 25% pentru personalul didactic.
-- Revendicările profesorilor au vizat respectarea Legii 152/2016 privind salarizarea personalului plătit din fonduri publice, care prevede o grilă de salarizare mai mare decât cea aplicată în prezent.
-- Greva a afectat desfășurarea cursurilor și a examenelor naționale, precum și pregătirea pentru anul școlar viitor.
-- Sindicatele din educație au anunțat că vor monitoriza respectarea angajamentelor asumate de Guvern și că vor relua protestele dacă acestea nu vor fi îndeplinite.
+- Greva profesorilor a început pe 22 mai 2023 și este prima din ultimii 18 ani. Cadrele didactice merg la școli, dar nu țin cursuri.
+- Profesorii cer majorarea salariilor la nivelul salariului mediu brut pe economie pentru debutanți sau asistenți universitari, precum și respectarea legilor educației care prevăd creșterea finanțării și a calității sistemului educațional.
+- Guvernul le-a oferit profesorilor o majorare salarială de 1.000 lei brut pe lună pentru personalul didactic și de 400 de lei brut pe lună pentru personalul nedidactic, prin intermediul unei ordonanțe de urgență, dar sindicatele au respins oferta ca fiind insuficientă și nesigură.
+- Profesorii continuă greva și pregătesc un marș pentru marți, 6 iunie 2023, prin care să-și demonstreze încă o dată forța. Ei se alătură altor categorii profesionale care protestează împotriva guvernului, cum ar fi: angajații din sănătate, penitenciare, poliție, transporturi sau justiție.
 
 
 <sub><sub>Acest text a fost generat automat de BingAI folosind ultimele informatii de pe Edupedu, precum si de pe alte site-uri de stiri. Deci, nu te baza pe el pentru a lua decizii importante :)</sub></sub>
