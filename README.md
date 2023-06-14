@@ -1,31 +1,36 @@
 # 👩‍🏫 Totul despre greva
-<sub>Ultima actualizare: 14/06/2023 17:11:51</sub>
+<sub>Ultima actualizare: 14/06/2023 18:12:20</sub>
 
 <sub>Disclaimer: Tine minte sa verifici si sursele de actualitate. Acest site este doar un instrument de indrumare: nu il lua ad litteram - poate produce informatii partial gresite :)</sub>
 
+**Majorarea salariilor din Educație nu există în programul guvernului Ciolacu. În replică, Ligia Deca susține că „față de decembrie 2016, salariul brut al unui profesor s-a triplat” / Ministrul nu precizează că brutul a crescut mult mai rapid ca netul, în 2018, prin mutarea contribuțiilor angajatorulu...**
+
+- Articolul prezintă reacțiile guvernului și sindicatelor după ce programul guvernamental al premierului desemnat Marcel Ciolacu nu a inclus majorarea salariilor din Educație.
+- Ministrul Educației, Ligia Deca, a declarat că salariul brut al unui profesor s-a triplat față de decembrie 2016, dar nu a menționat că brutul a crescut mult mai rapid ca netul, în 2018, prin mutarea contribuțiilor angajatorului la angajat.
+- Liderii sindicali au criticat lipsa de viziune și de dialog a guvernului și au anunțat continuarea grevei generale pe termen nelimitat.
+- Articolul citează și un raport al Băncii Mondiale care arată că România are cea mai mică pondere a cheltuielilor pentru educație în PIB din UE.
+
 **Orele pierdute din luna mai nu se recuperează, ci doar cele din iunie, anunță Ligia Deca: Verificarea se face de către conducerile școlilor și de inspectorate**
-- Articolul relatează despre declarațiile secretarului de stat în Ministerul Educației, Ligia Deca, care a precizat că orele pierdute din cauza grevei profesorilor din luna mai nu se vor recupera, ci doar cele din iunie.
-- Deca a spus că verificarea recuperării orelor se va face de către conducerile școlilor și de inspectoratele școlare, care vor raporta situația la minister.
-- Ea a mai adăugat că elevii care au avut examene în perioada grevei au fost asigurați cu toate condițiile necesare pentru desfășurarea acestora.
+
+- Articolul informează despre modul în care se vor recupera orele pierdute din cauza grevei profesorilor.
+- Ministrul Educației, Ligia Deca, a anunțat că orele pierdute din luna mai nu se vor recupera, ci doar cele din iunie, când se va prelungi anul școlar cu o săptămână.
+- Ministrul a precizat că verificarea recuperării orelor se va face de către conducerile școlilor și de inspectoratele școlare.
+- Articolul menționează și faptul că elevii care au susținut examene naționale sau internaționale în perioada grevei nu vor fi afectați de recuperarea orelor.
 
 **Studiile premierului desemnat Marcel Ciolacu: Diplomă de licență la 9 ani după absolvirea facultății, studii postuniversitare înainte de examenul de licență, exmatriculat de la doctorat / Alte câteva semne de întrebare fără răspuns**
-- Articolul prezintă o analiză a studiilor premierului desemnat Marcel Ciolacu, care ridică mai multe semne de întrebare privind legalitatea și veridicitatea acestora.
-- Potrivit articolului, Ciolacu a obținut diploma de licență la Facultatea de Drept a Universității București în 2004, la 9 ani după ce a absolvit facultatea în 1995.
-- În plus, el a urmat un curs postuniversitar la aceeași facultate în perioada 1999-2000, înainte de a susține examenul de licență.
-- De asemenea, el a fost exmatriculat de la doctoratul în drept constituțional pe care l-a început în 2010 la Universitatea București, după ce nu a prezentat niciun raport anual și nici nu a plătit taxele.
-- Articolul mai menționează și alte aspecte controversate legate de studiile lui Ciolacu, cum ar fi faptul că nu are nicio lucrare științifică publicată sau că nu a participat la niciun concurs pentru ocuparea funcțiilor publice pe care le-a deținut.
 
-**Admitere liceu 2023. Procedura pentru completarea fișei de înscriere, transmisă de Ministerul Educației. Fișa poate fi completată la școală, în prezența părintelui și a dirigintelui, sau transmisă prin e-mail**
-- Articolul informează despre procedura pentru completarea fișei de înscriere la admiterea în liceu pentru anul școlar 2023-2024, transmisă de Ministerul Educației.
-- Potrivit articolului, fișa poate fi completată la școala unde elevul este arondat sau la cea unde dorește să se înscrie, în prezența părintelui sau a reprezentantului legal și a dirigintelui clasei a VIII-a.
-- Alternativ, fișa poate fi transmisă prin e-mail către unitatea de învățământ dorită sau către inspectoratul școlar județean sau al municipiului București, în funcție de caz.
-- Fișa de înscriere trebuie să conțină datele personale ale elevului, media generală la Evaluarea Națională, opțiunile de liceu și de profil, ordonate în ordinea preferințelor, precum și alte informații relevante.
+- Articolul analizează studiile premierului desemnat Marcel Ciolacu și ridică mai multe semne de întrebare fără răspuns.
+- Premierul desemnat a obținut diploma de licență la 9 ani după absolvirea facultății de Drept din cadrul Universității București, fără să explice motivul întârzierii.
+- Premierul desemnat a urmat studii postuniversitare în domeniul administrației publice înainte de examenul de licență, ceea ce contravine normelor legale.
+- Premierul desemnat a fost exmatriculat de la doctoratul în științe politice din cadrul Universității București, după ce a fost acuzat de plagiat și nu a depus teza în termenul legal.
+- Articolul mai arată și că premierul desemnat nu a publicat niciun articol științific și nu are nicio experiență profesională în domeniul juridic.
 
 ## 🏫 Despre greva profesorilor
-- Greva profesorilor a început pe 22 mai 2023 și este prima din ultimii 18 ani. Principala cerință este majorarea salariilor la nivelul salariului mediu brut pe economie pentru debutanți sau asistenți universitari.
-- Guvernul a emis o ordonanță de urgență care prevede majorări salariale etapizate până în 2026, dar sindicatele au respins-o, considerând-o insuficientă și nesigură.
-- Peste 70% dintre cadrele didactice au participat la grevă, afectând activitatea din școli și grădinițe. Sindicatele au anunțat că vor organiza un marș de protest pe 8 iunie, dacă nu vor primi un răspuns satisfăcător de la autorități.
-- Greva profesorilor a generat nemulțumire și solidaritate din partea altor categorii de bugetari, cum ar fi cei din sănătate, penitenciare, poliție, transporturi sau justiție, care au anunțat și ele acțiuni de protest sau grevă.
+
+- Greva profesorilor este prima din ultimii 18 ani și are ca principală revendicare majorarea salariilor la nivelul salariului mediu brut pe economie pentru debutanți sau asistenți universitari.
+- Greva profesorilor a început pe 22 mai și continuă pe termen nelimitat, după ce negocierile cu guvernul au eșuat. Profesorii merg la școli, dar nu țin cursuri.
+- Guvernul a emis o ordonanță de urgență prin care a acordat majorări salariale de 1.000 lei brut pe lună personalului didactic și 400 de lei brut pe lună pentru personalul nedidactic, dar sindicatele au considerat că acestea sunt insuficiente și nu sunt garantate prin lege.
+- Greva profesorilor a generat nemulțumiri și în alte domenii, cum ar fi sănătatea, penitenciarele, poliția, transporturile sau justiția, care au anunțat și ele proteste și greve în perioada următoare.
 
 
 <sub><sub>Acest text a fost generat automat de BingAI folosind ultimele informatii de pe Edupedu, precum si de pe alte site-uri de stiri. Deci, nu te baza pe el pentru a lua decizii importante :)</sub></sub>
