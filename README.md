@@ -1,36 +1,35 @@
 # 👩‍🏫 Totul despre greva
-<sub>Ultima actualizare: 14/06/2023 07:14:13</sub>
+<sub>Ultima actualizare: 14/06/2023 08:11:49</sub>
 
 <sub>Disclaimer: Tine minte sa verifici si sursele de actualitate. Acest site este doar un instrument de indrumare: nu il lua ad litteram - poate produce informatii partial gresite :)</sub>
 
+**PROIECT Ministerul Educației modifică metodologia pentru mobilitatea profesorilor, cu o lună înainte de proba scrisă a concursului de Titularizare 2023: Repartizarea candidaților pe posturi se face în ordinea descrescătoare a notelor de la proba scrisă / Cine susține probele practice cu „admis” sau ...**
+
+- Ministerul Educației a publicat un proiect de ordin care modifică metodologia pentru mobilitatea personalului didactic din învățământul preuniversitar în anul școlar 2023-2024.
+- Proiectul prevede că repartizarea candidaților pe posturi se face în ordinea descrescătoare a notelor de la proba scrisă a concursului de Titularizare 2023, fără a mai ține cont de vechimea în învățământ sau de alte criterii.
+- Proiectul mai prevede că probele practice pentru candidații care au obținut nota minim 5 la proba scrisă se vor desfășura după repartizarea pe posturi și vor fi evaluate cu „admis” sau „respins”.
+- Proiectul a fost publicat pe site-ul Ministerului Educației cu o lună înainte de data probelor scrise pentru Titularizare 2023, care sunt programate pentru 13 iulie.
+
 **ULTIMA ORĂ Majorare cu până la 25% a sumelor pentru plata profesorilor la Evaluarea Națională și Bacalaureat, propusă de Ministerul Educației ca să atragă cadre didactice – proiect**
 
-- Ministerul Educației a publicat un proiect de ordin care prevede majorarea cu până la 25% a sumelor pentru plata profesorilor care participă la Evaluarea Națională și Bacalaureat
-- Măsura are ca scop să atragă mai mulți profesori pentru aceste examene naționale, în contextul în care există un deficit de personal didactic
-- Suma pentru supravegherea unei săli de examen ar crește de la 50 de lei pe zi la 62,5 lei pe zi
-- Suma pentru corectarea unei lucrări ar crește de la 10 lei la 12,5 lei pentru Evaluarea Națională și de la 15 lei la 18,75 lei pentru Bacalaureat
-- Proiectul este supus consultării publice până pe 20 iunie
+- Ministerul Educației a propus o majorare cu până la 25% a sumelor pentru plata profesorilor care participă la organizarea și desfășurarea Evaluării Naționale și Bacalaureatului în anul școlar 2022-2023.
+- Majorarea are ca scop să atragă cadre didactice pentru aceste examene naționale, în contextul grevei generale declanșate de sindicatele din educație.
+- Astfel, suma pentru plata unui profesor care face parte din comisia de examen ar crește de la 40 lei pe zi la 50 lei pe zi, iar suma pentru plata unui profesor care corectează lucrările ar crește de la 8 lei pe lucrare la 10 lei pe lucrare.
+- Proiectul este supus consultării publice până pe 10 iunie și urmează să fie aprobat prin ordin al ministrului educației.
 
 **Noul ministru al Educației în Guvernul Ciolacu va fi fostul ministru Ligia Deca /  „Mi-aș dori să pot face parte din echipa care pune în practică legile noi ale educației“, spunea aceasta cu 24 de ore în urmă**
 
-- Ligia Deca, fost ministru al Educației în perioada ianuarie-martie 2020, va reveni pe această funcție în noul Guvern condus de Marcel Ciolacu
-- Deca este considerată o apropiată a lui Ciolacu și a fost propusă de PSD pentru portofoliul Educației
-- Deca a declarat că își dorește să pună în practică legile noi ale educației, adoptate recent de Parlament, care prevăd creșterea finanțării și salarizării în sistemul educațional
-- Deca a mai spus că va continua dialogul cu sindicatele din învățământ și că va susține programele de formare continuă a cadrelor didactice
-
-**VIDEO Premierul desemnat, Marcel Ciolacu: O spun răspicat – vom crește accelerat salariile în Educație. Pentru a reduce abandonul școlar, propun vouchere pentru masă caldă, transport școlar, rechizite de două ori pe an și consiliere psihologică**
-
-- Marcel Ciolacu, premierul desemnat după demisia lui Nicolae Ciucă, a prezentat programul său de guvernare în fața Parlamentului
-- Ciolacu a promis că va crește accelerat salariile în Educație, până la nivelul mediu european
-- Ciolacu a mai propus acordarea unor vouchere pentru masă caldă, transport școlar, rechizite de două ori pe an și consiliere psihologică pentru elevi, pentru a reduce abandonul școlar
-- Ciolacu a mai anunțat că va aloca 6% din PIB pentru Educație și că va investi în digitalizarea sistemului educațional
+- Fostul ministru al educației din perioada guvernului Ponta, Ligia Deca, va reveni la conducerea acestui minister în noul guvern condus de Marcel Ciolacu, după ce PSD a câștigat alegerile parlamentare anticipate din 11 iunie.
+- Ligia Deca este doctor în sociologie și a fost consilier prezidențial pe educație și cercetare între 2016 și 2019. A mai ocupat funcțiile de președinte al Consiliului Național al Rectorilor și de membru al Consiliului Executiv al Asociației Europene a Universităților.
+- Ligia Deca a declarat că își dorește să pună în practică legile noi ale educației, adoptate în 2020, care prevăd creșterea finanțării educației la 6% din PIB, creșterea salariilor profesorilor la nivelul salariului mediu brut pe economie și reformarea curriculei școlare.
+- Ligia Deca va prelua ministerul educației în plină criză provocată de greva generală a profesorilor, care cer respectarea legilor educației și majorarea salariilor.
 
 ## 🏫 Despre greva profesorilor
 
-- Greva profesorilor, care a început pe 17 mai, a fost suspendată pe 12 iunie, după ce Guvernul a publicat un proiect de ordonanță de urgență care prevede majorări salariale pentru personalul din învățământ
-- Majorările salariale sunt de 23-31% pentru personalul didactic și de 15-20% pentru personalul nedidactic, și se aplică de la 1 iunie
-- Guvernul a mai promis că va aplica Legea Salarizării în integralitate, de la 1 ianuarie 2024, sau cel mult în două tranșe acordate în același an
-- Sindicatele au condiționat suspendarea grevei de instituirea, în ordonanța de urgență, a salariului mediu brut la debutant și a sumelor anuale din fonduri europene pentru Educație
+- Greva profesorilor a început pe 22 mai și este prima grevă generală din ultimii 18 ani în domeniul educației.
+- Principala cerință a sindicatelor este majorarea salariilor profesorilor la nivelul salariului mediu brut pe economie, conform legilor educației adoptate în 2020.
+- Guvernul a acordat o majorare salarială de până la 25% pentru profesorii debutanți și asistenții universitari, dar sindicatele consideră că aceasta este insuficientă și nu respectă legea.
+- Greva profesorilor afectează peste 3 milioane de elevi și studenți și pune în pericol desfășurarea examenelor naționale, precum Evaluarea Națională și Bacalaureatul.
 
 
 <sub><sub>Acest text a fost generat automat de BingAI folosind ultimele informatii de pe Edupedu, precum si de pe alte site-uri de stiri. Deci, nu te baza pe el pentru a lua decizii importante :)</sub></sub>
