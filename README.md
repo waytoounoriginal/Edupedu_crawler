@@ -1,30 +1,31 @@
 # 👩‍🏫 Totul despre greva
-<sub>Ultima actualizare: 15/06/2023 07:15:31</sub>
+<sub>Ultima actualizare: 15/06/2023 08:12:23</sub>
 
 <sub>Disclaimer: Tine minte sa verifici si sursele de actualitate. Acest site este doar un instrument de indrumare: nu il lua ad litteram - poate produce informatii partial gresite :)</sub>
 
+**OFICIAL Mediile elevilor din școlile și liceele de arte pot fi încheiate fără susținerea examenului la disciplina principală de specialitate**
+- Ministerul Educației a emis un ordin prin care se permite încheierea mediilor anuale ale elevilor din școlile și liceele de arte fără susținerea examenului la disciplina principală de specialitate, în contextul grevei profesorilor.
+- Ordinul se aplică doar pentru anul școlar 2022-2023 și doar pentru elevii care nu au putut susține examenul din cauza lipsei profesorilor sau a imposibilității organizării acestuia.
+- Media anuală se va calcula pe baza notelor obținute la disciplinele generale și la disciplinele de specialitate, cu excepția disciplinei principale de specialitate.
+- Ordinul prevede și posibilitatea organizării unui examen suplimentar pentru elevii care doresc să își îmbunătățească media anuală sau să își completeze dosarul pentru admiterea în învățământul superior.
+
 **Evaluarea Națională 2023 la Limba română. Sfaturi pentru elevi de la profesorul Cătălin Zaman: Să se întoarcă la texte pentru informații ori de câte ori e nevoie, când se simt nesiguri, pentru că timp este suficient**
-- Articolul oferă sfaturi pentru elevii care susțin examenul de Evaluare Națională 2023 la Limba și literatura română, din partea profesorului Cătălin Zaman, autor al unor manuale și culegeri de limba română.
-- Sfaturile se referă la competențele generale și specifice pe care le vor evalua subiectele, la modul de abordare a textelor la prima vedere și a cerințelor de gramatică și literatură, precum și la gestionarea timpului și a emoțiilor în timpul examenului.
-- Profesorul Zaman recomandă elevilor să citească cu atenție textele și să se întoarcă la ele pentru informații ori de câte ori e nevoie, să nu sară peste nicio cerință și să își verifice răspunsurile înainte de a le trece pe foaia de examen.
+- Profesorul Cătălin Zaman, autor al unor manuale și culegeri de Limba română pentru clasele V-VIII, le oferă elevilor care vor susține Evaluarea Națională 2023 câteva sfaturi pentru a se pregăti mai bine pentru proba scrisă.
+- Zaman recomandă elevilor să citească cu atenție textele și cerințele, să sublinieze cuvintele-cheie și să folosească dicționarul dacă nu înțeleg un termen.
+- De asemenea, Zaman le sugerează elevilor să se întoarcă la textele date pentru a căuta informațiile necesare ori de câte ori se simt nesiguri, pentru că timpul alocat probei este suficient (120 de minute).
+- Zaman mai spune că elevii trebuie să respecte structura cerută pentru fiecare tip de text (narațiune, descriere, argumentare), să folosească un limbaj adecvat și corect din punct de vedere gramatical și ortografic și să verifice răspunsurile înainte de a le preda.
 
 **Joi, 15 iunie, încep înscrierile la grădiniță, creșă și centre de educație timpurie. Modele de cerere-tip**
-- Articolul informează despre calendarul și procedura de înscriere a copiilor care merg pentru prima oară la creșă sau grădiniță în anul școlar 2023-2024.
-- Înscrierile au loc între 15-30 iunie 2023, prin depunerea unei cereri-tip însoțită de documente justificative, care se poate transmite prin e-mail, prin poștă sau se poate depune la sediul unității de învățământ dorite.
-- Părinții pot înregistra trei opțiuni de creșă/grădiniță în cererea-tip de înscriere, iar evaluarea cererilor se face în trei faze, în funcție de opțiunile exprimate și de criteriile generale și specifice de departajare.
-- Articolul oferă modele de cereri-tip pentru înscrierea la creșă/grădiniță și declarația pe proprie răspundere privind veridicitatea informațiilor.
+- Începând de joi, 15 iunie, până pe 30 iunie, părinții pot depune cereri-tip pentru înscrierea copiilor la grădiniță, creșă sau centre de educație timpurie pentru anul școlar 2023-2024.
+- Cererile-tip se pot depune online sau fizic la unitatea de învățământ preșcolar aleasă ca prima opțiune. Părinții trebuie să completeze datele personale ale copilului și ale lor, precum și alte informații relevante (domiciliu, venituri, situații speciale etc.).
+- Pe site-ul Ministerului Educației se găsesc modele de cerere-tip pentru fiecare tip de unitate de învățământ preșcolar. Părinții pot opta pentru maximum trei unități, în ordinea preferințelor.
+- Repartizarea copiilor se va face pe baza unui algoritm informatic, în funcție de criteriile stabilite de fiecare unitate. Rezultatele vor fi afișate pe 15 iulie, iar confirmarea locurilor se va face până pe 22 iulie.
 
-**Majorarea salariilor din Educație nu există în programul guvernului Ciolacu. În replică, Ligia Deca susține că „față de decembrie 2016, salariul brut al unui profesor s-a triplat” / Ministrul nu precizează că brutul a crescut mult mai rapid ca netul, în 2018, prin mutarea contribuțiilor angajatorului**
-- Articolul analizează declarațiile ministrului Educației, Ligia Deca, despre majorarea salariilor din Educație și le compară cu programul guvernului Ciolacu și cu situația reală a veniturilor profesorilor.
-- Ministrul Deca susține că salariile din Educație au crescut semnificativ față de anul 2016 și că vor continua să crească pe baza noii legi a salarizării care va fi adoptată până la sfârșitul anului 2023.
-- Articolul arată că programul guvernului Ciolacu nu prevede nicio majorare salarială pentru personalul din Educație și că salariul brut al unui profesor s-a triplat doar pe hârtie, în 2018, prin mutarea contribuțiilor angajatorului în sarcina angajatului, fără a se reflecta în salariul net.
-- Articolul mai arată că salariile din Educație sunt încă sub media europeană și că profesorii au declanșat o grevă generală pentru a cere creșteri salariale și respectarea legii.
-
-🏫 Despre greva profesorilor
-- Greva profesorilor a început pe 6 iunie 2023 și a fost declanșată de Federația Sindicatelor Libere din Învățământ (FSLI) și de Federația Sindicatelor din Educație „Spiru Haret” (FSE-SH), care reprezintă peste 80% din personalul din Educație.
-- Principalele revendicări ale sindicatelor sunt: majorarea salariilor personalului didactic și nedidactic cu cel puțin 1000 de lei brut lunar, respectiv 400 de lei brut lunar; stabilirea salariului de bază al profesorului debutant la nivelul salariului mediu brut pe economie; asigurarea fondurilor necesare pentru plata drepturilor salariale câștigate în instanță; acordarea voucherelor de vacanță pentru anul 2023; îmbunătățirea condițiilor de muncă și de studiu; respectarea autonomiei universitare și a statutului personalului didactic universitar.
-- Guvernul Ciolacu a anunțat pe 7 iunie 2023 că va adopta o ordonanță de urgență prin care va majora salariile din Educație cu sumele solicitate de sindicate, dar etapizat, în maxim trei ani, și că va stabili salariul debutantului la nivelul salariului mediu brut pe economie în noua lege a salarizării. Guvernul a mai anunțat că va adopta un memorandum prin care confirmă decizia politică de majorare a salariilor din Educație.
-- Sindicatelor nu au acceptat propunerile guvernului și au continuat greva generală, cerând ca majorările salariale să fie aplicate imediat și să fie cuprinse în legea bugetului de stat pe anul 2023. Sindicatelor au mai cerut ca memorandumul să fie semnat și de președintele Klaus Iohannis, de liderii partidelor parlamentare și de reprezentanții societății civile.
+## 🏫 Despre greva profesorilor
+- Greva profesorilor a început pe 22 mai și a continuat până pe 12 iunie, când sindicatele au decis să o suspende după ce au primit un răspuns scris din partea Guvernului privind majorarea salarială[^1^].
+- Profesorii au cerut ca salariul minim brut pe economie să fie echivalent cu salariul de bază al unui profesor debutant sau al unui asistent universitar, precum și creșterea gradelor didactice și a sporurilor[^4^].
+- Guvernul a emis o ordonanță de urgență prin care a acordat majorări salariale de 1.000 lei brut pe lună pentru personalul didactic și 400 de lei brut pe lună pentru personalul nedidactic, începând cu 1 iunie[^4^].
+- Greva profesorilor a afectat desfășurarea examenelor naționale, precum Evaluarea Națională și Bacalaureatul, dar și activitatea din școlile și liceele de arte, unde elevii nu au putut susține examenul la disciplina principală de specialitate[^2^] [^3^].
 
 
 <sub><sub>Acest text a fost generat automat de BingAI folosind ultimele informatii de pe Edupedu, precum si de pe alte site-uri de stiri. Deci, nu te baza pe el pentru a lua decizii importante :)</sub></sub>
