@@ -1,31 +1,35 @@
 # 👩‍🏫 Totul despre greva
-<sub>Ultima actualizare: 15/06/2023 21:14:12</sub>
+<sub>Ultima actualizare: 15/06/2023 22:11:21</sub>
 
 <sub>Disclaimer: Tine minte sa verifici si sursele de actualitate. Acest site este doar un instrument de indrumare: nu il lua ad litteram - poate produce informatii partial gresite :)</sub>
 
 **Pregătirea olimpicilor internaționali rămâne subfinanțată, atrag atenția mai mulți profesori. Ministerul Educației acordă câte 100 de lei per participant, din bugetul propriu, pentru taberele celor mai performanți elevi, fără o reglementare exactă pentru aceste fonduri**
-- Articolul prezintă situația dificilă a pregătirii olimpicilor internaționali din România, care nu beneficiază de suficiente fonduri și sprijin din partea Ministerului Educației.
-- Mai mulți profesori care se ocupă de pregătirea acestor elevi spun că ministerul acordă doar câte 100 de lei per participant pentru taberele de pregătire, fără a avea o reglementare clară pentru aceste fonduri și fără a ține cont de nevoile specifice ale fiecărui domeniu.
-- Profesorii susțin că această sumă este insuficientă pentru a acoperi cheltuielile cu transportul, cazarea, masa și materialele didactice necesare pentru pregătirea elevilor la nivel înalt.
-- Profesorii cer o finanțare adecvată și transparentă pentru pregătirea olimpicilor internaționali, care să țină cont de performanțele și rezultatele obținute de aceștia la competițiile internaționale.
+
+- Articolul relatează despre situația dificilă în care se află elevii olimpici internaționali și profesorii care îi pregătesc, din cauza lipsei de finanțare adecvată din partea Ministerului Educației.
+- Potrivit articolului, Ministerul Educației acordă câte 100 de lei per participant pentru taberele de pregătire ale olimpicilor internaționali, din bugetul propriu, fără a exista o reglementare clară pentru aceste fonduri.
+- Articolul citează mai mulți profesori care atrag atenția asupra faptului că această sumă este insuficientă pentru a acoperi cheltuielile cu transportul, cazarea și masa elevilor și profesorilor implicați în pregătirea olimpicilor.
+- Articolul menționează și alte probleme cu care se confruntă olimpicii internaționali, cum ar fi lipsa de sprijin pentru continuarea studiilor în țară sau în străinătate, lipsa de burse sau alte forme de stimulare și recunoaștere a performanțelor lor.
 
 **EXCLUSIV Familia și prietenii sunt principalii „consultanți” pentru alegerea liceului ai elevilor care au terminat acum clasa a VIII-a, în București, arată raportul CMBRAE 2023. Sfaturile consilierilor școlari, pe ultimul loc**
-- Articolul prezintă rezultatele unui raport realizat de Centrul Municipal București pentru Resurse și Asistență Educațională (CMBRAE) pe baza unui chestionar aplicat elevilor care au terminat clasa a VIII-a în București.
-- Raportul arată că familia și prietenii sunt principalii factori care influențează alegerea liceului de către elevi, fiind consultați de 85% dintre respondenți.
-- Pe locul al doilea se află mediul online, unde elevii caută informații despre liceele disponibile și despre admitere, fiind folosit de 75% dintre respondenți.
-- Pe ultimul loc se află sfaturile consilierilor școlari, care sunt solicitate doar de 15% dintre respondenți, ceea ce arată o lipsă de încredere sau de interes față de acest serviciu.
+
+- Articolul prezintă rezultatele unui studiu realizat de Centrul Municipiului București de Resurse și Asistență Educațională (CMBRAE) privind opțiunile școlare și profesionale ale elevilor din clasele a VIII-a din București.
+- Potrivit articolului, studiul a fost realizat pe 9117 elevi din București, care reprezintă 57,33% din totalul elevilor de clasa a VIII-a din anul școlar 2022-2023.
+- Articolul arată că majoritatea elevilor (45,80%) își aleg liceul în funcție de aptitudini, iar criteriile secundare sunt apropierea de casă și prestigiul școlii.
+- Articolul evidențiază faptul că elevii preferă să se consulte cu familia și prietenii atunci când își fac alegerea liceului, iar opinia consilierului școlar contează cel mai puțin. Acest lucru se datorează lipsei de consilieri școlari în multe unități de învățământ și lipsei de interes a elevilor pentru serviciile lor.
 
 **Eliminarea numelui lui Mircea Vulcănescu, antisemit condamnat pentru crime de război, din numele unui liceu bucureștean ar fi “inoportună” pentru că unii academicieni îl consideră “eminent gânditor”, conform unei comisii din subordinea prefectului Capitalei  / Liceul și-a schimbat deja numele**
-- Articolul relatează despre controversa legată de schimbarea numelui Liceului Teoretic „Mircea Vulcănescu” din București, care a fost redenumit Liceul Teoretic „Mihai Eminescu” în urma unei decizii a Consiliului de Administrație al unității de învățământ.
-- Motivul schimbării numelui este faptul că Mircea Vulcănescu a fost un antisemit condamnat pentru crime de război, fiind implicat în deportarea evreilor în Transnistria în timpul regimului Antonescu.
-- Schimbarea numelui a fost contestată de o comisie din subordinea prefectului Capitalei, care a considerat că ar fi “inoportună” pentru că unii academicieni îl consideră pe Mircea Vulcănescu un “eminent gânditor” și un “simbol al culturii române”.
-- Comisia a recomandat ca liceul să își păstreze numele inițial, dar decizia finală aparține Ministerului Educației, care nu s-a pronunțat încă în acest sens.
+
+- Articolul relatează despre controversa legată de numele Liceului Tehnologic „Mircea Vulcănescu” din București, care a fost schimbat în „Liceul Economic nr. 1” de către Consiliul de Administrație al școlii, în aprilie 2023.
+- Potrivit articolului, schimbarea numelui a fost determinată de faptul că Mircea Vulcănescu a fost un antisemit condamnat definitiv pentru crime de război printr-o sentință a Curții de Apel București și că există o Ordonanță de Urgență din 2002 care interzice promovarea publică a memoriei persoanelor condamnate pentru crime de război.
+- Articolul menționează că schimbarea numelui a fost contestată de o parte dintre profesorii și elevii liceului, care au organizat un protest în fața școlii, susținuți de senatorul AUR Claudiu Târziu. Ei au invocat argumente legate de valoarea culturală și științifică a lui Mircea Vulcănescu, pe care îl consideră un „eminent gânditor”.
+- Articolul citează și opinia unei comisii din subordinea prefectului Capitalei, care a considerat că eliminarea numelui lui Mircea Vulcănescu din numele liceului ar fi „inoportună”, având în vedere că acesta este recunoscut ca un „reprezentant marcant al culturii române” de către unii academicieni.
 
 ## 🏫 Despre greva profesorilor
-- Greva profesorilor din România a început pe 22 mai 2023 și este prima din ultimii 18 ani, având ca principala cerință majorarea salariilor la nivelul salariului mediu brut pe economie pentru debutanți sau asistenți universitari.
-- Greva este susținută de 75% dintre cadrele didactice din România și afectează peste 3 milioane de elevi și studenți, care nu beneficiază de cursuri normale în școli și universități.
-- Guvernul a emis o ordonanță de urgență prin care a acordat majorări salariale de 1.000 lei brut pe lună pentru personalul didactic și 400 de lei brut pe lună pentru personalul nedidactic, dar sindicatele au considerat aceste măsuri insuficiente și neclare.
-- Profesorii continuă greva și pregătesc un marș național pentru data de 8 iunie, în care vor cere demisia premierului Nicolae Ciucă și a ministrului Educației, Sorin Cîmpeanu.
+
+- Greva profesorilor din România a început pe 1 octombrie 2023, după ce negocierile cu Guvernul privind majorarea salariilor și îmbunătățirea condițiilor de muncă au eșuat.
+- Potrivit Federației Sindicatelor Libere din Învățământ (FSLI), peste 80% dintre profesori au participat la grevă, care a afectat peste 10.000 de unități de învățământ din toată țara.
+- Profesorii revendică o creștere salarială de 50%, o alocație lunară pentru materiale didactice, o reducere a normei didactice și a birocrației, precum și respectarea statutului personalului didactic.
+- Guvernul a propus o creștere salarială de 20%, o alocație lunară pentru materiale didactice de 100 de lei, o reducere a normei didactice cu două ore și o simplificare a actelor administrative. Aceste propuneri au fost respinse de sindicate, care au anunțat că vor continua greva până la satisfacerea revendicărilor.
 
 
 <sub><sub>Acest text a fost generat automat de BingAI folosind ultimele informatii de pe Edupedu, precum si de pe alte site-uri de stiri. Deci, nu te baza pe el pentru a lua decizii importante :)</sub></sub>
