@@ -1,35 +1,35 @@
 # 👩‍🏫 Totul despre greva
-<sub>Ultima actualizare: 15/06/2023 15:21:59</sub>
+<sub>Ultima actualizare: 15/06/2023 16:16:36</sub>
 
 <sub>Disclaimer: Tine minte sa verifici si sursele de actualitate. Acest site este doar un instrument de indrumare: nu il lua ad litteram - poate produce informatii partial gresite :)</sub>
 
 **Marcel Ciolacu, despre majorarea salariilor profesorilor: Ca premier, voi livra la milimetru ce am promis. Acest guvern va face dreptate dascălilor. Este nevoie de criterii de performanță. Profesorii care muncesc din greu trebuie răsplătiți, trebuie să câștige mai mult, pentru că așa este normal**
 
-- Articolul prezintă declarațiile liderului PSD Marcel Ciolacu, care a promis că va majora salariile profesorilor dacă va ajunge premier după alegerile din 2024.
-- Ciolacu a criticat actualul guvern pentru că nu a respectat legea salarizării unitare și a acuzat-o de populism și minciună.
-- Ciolacu a susținut că este nevoie de criterii de performanță în sistemul de educație și că profesorii care muncesc din greu trebuie răsplătiți corespunzător.
-- Ciolacu a afirmat că PSD va susține protestele profesorilor și le va oferi soluții concrete pentru a îmbunătăți calitatea învățământului.
+- Articolul prezintă declarațiile lui Marcel Ciolacu, candidatul PSD la funcția de premier, care a promis că va majora salariile profesorilor conform legii și va introduce criterii de performanță în sistemul de educație.
+- Ciolacu a spus că acest guvern a făcut dreptate dascălilor prin ordonanța de urgență care a acordat creșteri salariale de 1.000 de lei brut pe lună pentru personalul didactic și 400 de lei brut pe lună pentru personalul nedidactic.
+- Ciolacu a criticat guvernul anterior pentru că a tăiat fondurile pentru educație și a lăsat școlile fără dotări și infrastructură adecvată.
+- Ciolacu a afirmat că PSD va susține investițiile în educație și va aloca 6% din PIB pentru acest domeniu.
 
 **VIDEO Marcel Ciolacu: România nu trebuie să aibă licee în care niciun elev nu ia bacul și oameni cu 2 și 3 la titularizare**
 
-- Articolul prezintă un fragment video dintr-un interviu acordat de Marcel Ciolacu la Digi24, în care vorbește despre situația din educație.
-- Ciolacu a spus că România nu trebuie să aibă licee în care niciun elev nu ia bacalaureatul și că este inacceptabil să existe profesori cu note de 2 și 3 la examenul de titularizare.
-- Ciolacu a propus ca examenul de titularizare să fie organizat de universități și nu de inspectorate școlare și că profesorii să fie evaluați periodic pe baza unor standarde clare.
-- Ciolacu a mai spus că PSD va aloca 6% din PIB pentru educație și va investi în infrastructura școlară, în dotarea cu tablete și internet și în formarea continuă a cadrelor didactice.
+- Articolul prezintă un fragment din discursul lui Marcel Ciolacu la Congresul PSD, în care a vorbit despre situația gravă a învățământului românesc.
+- Ciolacu a spus că România nu trebuie să aibă licee în care niciun elev nu ia bacalaureatul și profesori cu note foarte mici la examenul de titularizare.
+- Ciolacu a promis că va introduce un sistem de evaluare periodică a profesorilor și va elimina pe cei care nu își fac datoria.
+- Ciolacu a subliniat că educația este prioritatea PSD și că va asigura condiții decente de studiu și de muncă pentru elevi și profesori.
 
 **Înscrierea copiilor la grădiniță și creșă se face la o singură unitate de învățământ, dar părinții pot înregistra 3 opțiuni**
 
 - Articolul informează despre procedura de înscriere a copiilor la grădiniță și creșă pentru anul școlar 2023-2024.
-- Părinții pot depune cererea de înscriere online sau la sediul unității de învățământ preșcolar, dar numai la o singură grădiniță sau creșă.
-- Părinții pot menționa în cerere trei opțiuni de grupe sau programe educaționale, în ordinea preferințelor lor.
-- Repartizarea copiilor se face pe baza unui algoritm informatic, care ține cont de criteriile stabilite de fiecare unitate de învățământ preșcolar.
+- Părinții pot depune cererea de înscriere la o singură unitate de învățământ preșcolar, dar pot menționa trei opțiuni diferite în ordinea preferințelor lor.
+- Cererea se poate depune online sau fizic, în perioada 15 iunie - 15 iulie 2023.
+- Repartizarea copiilor se va face pe baza unor criterii generale și specifice, precum domiciliul, vârsta, frații deja înscriși sau situația socială.
 
 ## 🏫 Despre greva profesorilor
 
-- Greva profesorilor continuă pentru a doua săptămână consecutiv, după ce sindicatele au respins oferta guvernului privind majorarea salariilor.
-- Profesorii cer ca salariul minim brut pe economie să fie punctul de plecare pentru grila de salarizare în educație și să se ajungă la acest nivel până în 2024, nu în 2026, cum propune guvernul.
-- Profesorii protestează și împotriva lipsei de transparență și de consultare a guvernului, care a modificat prin ordonanță de urgență legea salarizării unitare, fără a avea avizul Consiliului Economic și Social.
-- Greva profesorilor afectează desfășurarea cursurilor și pregătirea elevilor pentru examenele naționale, dar și relația dintre dascăli și părinți, care sunt nemulțumiți de situația creată.
+- Greva profesorilor a început pe 22 mai 2023 și continuă până în prezent, cu o participare de peste 75% din personalul didactic din România.
+- Profesorii cer majorarea salariilor la nivelul salariului mediu brut pe economie pentru debutanți sau asistenți universitari, precum și respectarea legii care prevede alocarea a 6% din PIB pentru educație.
+- Guvernul a emis o ordonanță de urgență care acordă creșteri salariale de 1.000 de lei brut pe lună pentru personalul didactic și 400 de lei brut pe lună pentru personalul nedidactic, dar sindicatele nu sunt mulțumite de această ofertă și o consideră insuficientă și nesigură.
+- Negocierile dintre guvern și sindicate sunt în impas, iar profesorii amenință cu un marș de protest în Capitală dacă nu li se vor îndeplini revendicările.
 
 
 <sub><sub>Acest text a fost generat automat de BingAI folosind ultimele informatii de pe Edupedu, precum si de pe alte site-uri de stiri. Deci, nu te baza pe el pentru a lua decizii importante :)</sub></sub>
