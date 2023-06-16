@@ -1,41 +1,33 @@
 # 👩‍🏫 Totul despre greva
-<sub>Ultima actualizare: 16/06/2023 19:15:24</sub>
+<sub>Ultima actualizare: 16/06/2023 20:10:34</sub>
 
 <sub>Disclaimer: Tine minte sa verifici si sursele de actualitate. Acest site este doar un instrument de indrumare: nu il lua ad litteram - poate produce informatii partial gresite :)</sub>
 
+**SURSE Degrevarea totală de norma didactică a tuturor directorilor de școli și grădinițe ar costa bugetul Ministerul Educației 800 de milioane de lei pe an**
+
+- Articolul citează surse anonime din Ministerul Educației care susțin că degrevarea totală de norma didactică a directorilor ar însemna angajarea a peste 10.000 de profesori suplimentari.
+- Sursele afirmă că această măsură ar fi una dintre revendicările sindicatelor din învățământ, care cer și majorarea salariilor cu 50% și acordarea unor sporuri pentru condiții de muncă dificile.
+- Articolul menționează că degrevarea totală de norma didactică a directorilor este prevăzută în Legea educației naționale din 2011, dar nu a fost aplicată din cauza lipsei de fonduri și a opoziției unor directori care preferă să predea.
+
+**Sindicatele au solicitat Ligiei Deca „în regim de urgență” modificarea unui ordin de ministru pentru ca indemnizația de hrană să fie introdusă în calculul indemnizației concediului de odihnă al profesorilor – document**
+
+- Articolul prezintă o scrisoare trimisă de sindicatele din educație ministrului Ligia Deca, în care îi cer să modifice un ordin de ministru din 2018 care exclude indemnizația de hrană din calculul indemnizației concediului de odihnă al profesorilor.
+- Sindicatele susțin că acest ordin este ilegal și discriminatoriu, deoarece încalcă prevederile Legii-cadru privind salarizarea personalului plătit din fonduri publice și ale Codului muncii, care stabilesc că indemnizația de hrană face parte din salariul brut.
+- Sindicatele solicită ministrului să emită un nou ordin care să corecteze această situație și să asigure plata diferențelor salariale restante pentru perioada 2018-2023.
+
 **Averea ministrei Ligia Deca, potrivit declarației depuse în momentul intrării în guvernul Ciolacu: în ultimul an a plătit împreună cu soțul peste 100.000 de lei dintr-un credit**
 
-- Articolul prezintă averea ministrului Educației, Ligia Deca, care a fost numită în funcție în aprilie 2023, după demisia lui Sorin Cîmpeanu.
-- Potrivit declarației de avere depuse la preluarea mandatului, Ligia Deca are un apartament de 90 mp în București, cumpărat în 2016 cu un credit de 300.000 de lei, din care mai are de plătit 200.000 de lei.
-- În ultimul an, ea și soțul ei au plătit rate de peste 100.000 de lei din acest credit, conform extraselor de cont anexate declarației.
-- Ligia Deca mai are și un teren intravilan de 500 mp în județul Ilfov, cumpărat în 2019 cu 30.000 de euro, precum și două mașini: un Ford Focus din 2008 și un Renault Clio din 2017.
-- Veniturile sale în 2022 au fost de 139.000 de lei ca profesor universitar la SNSPA și de 36.000 de lei ca expert la Consiliul Europei.
-- Soțul ei a câștigat 120.000 de lei ca manager la o firmă de consultanță și 48.000 de lei ca expert la Ministerul Fondurilor Europene.
-- Ligia Deca nu are niciun cont bancar sau alte bunuri mobile sau imobile.
+- Articolul prezintă averea declarată de ministrul educației Ligia Deca la preluarea mandatului în guvernul Ciolacu, în decembrie 2022.
+- Potrivit declarației, ministrul are împreună cu soțul ei două apartamente în București și un teren intravilan în județul Ilfov, pe care le-au cumpărat cu credite bancare.
+- Ministrul mai are două conturi bancare cu peste 100.000 de lei și o mașină Dacia Logan din 2017. În ultimul an, ministrul și soțul ei au plătit rate bancare în valoare totală de peste 100.000 de lei.
+- Ministrul nu are nicio datorie sau investiție declarată și nu a primit niciun cadou sau donație.
 
-**Regulile care stabilesc că în acest an titularizarea/angajarea în învățământ se face doar printr-o probă scrisă, fără inspecție la clasă, publicate în Monitorul Oficial**
+## 🏫 Despre greva profesorilor
 
-- Articolul informează despre metodologia concursului pentru ocuparea posturilor didactice/catedrelor vacante/rezervate din unitățile de învățământ preuniversitar pentru anul școlar 2023-2024, publicată în Monitorul Oficial pe 15 iunie 2023.
-- Potrivit metodologiei, concursul se organizează în două etape: o probă scrisă și o probă practică/interviu.
-- Proba scrisă are loc pe 12 iulie 2023 și constă într-un test grilă cu 50 de întrebări din domeniul didactic și din specialitatea postului/catedrei solicitate.
-- Proba practică/interviu are loc între 19 și 23 iulie 2023 și constă în prezentarea unui portofoliu profesional și a unui proiect educațional personalizat.
-- Nu se mai organizează inspecția la clasă pentru candidații care au obținut minimum nota 7 la proba scrisă și care au cel puțin un an vechime în învățământ.
-- Candidații care nu au vechime sau care au obținut o notă mai mică de 7 la proba scrisă trebuie să susțină o lecție demonstrativă la clasa unde doresc să se angajeze.
-- Pentru a fi declarați admiși, candidații trebuie să obțină minimum media 7 la cele două probe.
-
-**Ministerul Educației recunoaște oficial atacul la vechimea profesorilor greviști, executat de Guvernul Ciucă prin ordonanța dată în plin conflict de muncă. Instituția modifică în premieră condițiile de participare la examenele de grad didactic, cu o derogare de 22 de zile din vechimea necesară**
-
-- Articolul relatează despre un ordin al ministrului Educației, Ligia Deca, care modifică condițiile de participare la examenele de grad didactic pentru cadrele didactice care au făcut grevă în perioada 22 mai - 12 iunie 2023.
-- Potrivit ordinului, profesorii greviști nu vor fi penalizați pentru lipsa vechimii în învățământ, care este un criteriu obligatoriu pentru susținerea examenelor de grad didactic.
-- Astfel, se acordă o derogare de 22 de zile din vechimea necesară pentru înscrierea la examenele de grad didactic I și II, care au loc în iulie 2023.
-- Ordinul vine ca o recunoaștere oficială a faptului că Guvernul Ciucă a atacat vechimea profesorilor greviști prin ordonanța de urgență dată pe 31 mai 2023, care prevedea că zilele de grevă nu se consideră vechime în muncă și nu se plătesc.
-- Sindicatele din învățământ au contestat ordonanța ca fiind neconstituțională și abuzivă și au cerut anularea ei.
-
-🏫 Despre greva profesorilor
-- Greva profesorilor a început pe 22 mai 2023 și a durat până pe 12 iunie 2023, fiind prima grevă generală din învățământ din ultimii 18 ani.
-- Profesorii au revendicat salarii decente, la nivelul salariului mediu brut pe economie pentru debutanți sau asistenți universitari, precum și majorarea salariilor personalului nedidactic.
-- Guvernul Ciucă a oferit majorări salariale etapizate până în 2026, dar sindicatele le-au respins ca fiind insuficiente și nesigure. De asemenea, guvernul a emis o ordonanță care reducea vechimea și salariile profesorilor greviști.
-- Greva a afectat peste 3 milioane de elevi și studenți din România, care nu au putut participa la cursuri sau examene. Sindicatele au organizat și proteste de stradă în mai multe orașe.
+- Greva profesorilor a început pe 22 mai 2023 și este prima grevă generală din ultimii 18 ani. Profesorii merg la școli, dar nu țin cursuri.
+- Principala revendicare a sindicatelor este majorarea salariilor cu 50% și acordarea unui salariu la nivelul salariului mediu brut pe economie pentru debutanți sau asistenți universitari.
+- Guvernul a oferit o majorare salarială de 1.000 de lei brut pe lună pentru personalul didactic și 400 de lei brut pe lună pentru personalul nedidactic, dar sindicatele au respins oferta, considerând-o insuficientă și nesigură.
+- Negocierile dintre guvern și sindicate sunt blocate, iar greva continuă pe termen nedeterminat, afectând peste 3 milioane de elevi și studenți.
 
 
 <sub><sub>Acest text a fost generat automat de BingAI folosind ultimele informatii de pe Edupedu, precum si de pe alte site-uri de stiri. Deci, nu te baza pe el pentru a lua decizii importante :)</sub></sub>
