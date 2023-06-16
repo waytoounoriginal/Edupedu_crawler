@@ -1,28 +1,38 @@
 # 👩‍🏫 Totul despre greva
-<sub>Ultima actualizare: 16/06/2023 14:10:47</sub>
+<sub>Ultima actualizare: 16/06/2023 15:21:19</sub>
 
 <sub>Disclaimer: Tine minte sa verifici si sursele de actualitate. Acest site este doar un instrument de indrumare: nu il lua ad litteram - poate produce informatii partial gresite :)</sub>
 
+**Evaluare Națională 2023. La proba de Limba română sunt permise sublinierile pe text cu creion sau stilou de culoare albastră**
+
+- Articolul prezintă regulile pentru proba de Limba română din cadrul Evaluării Naționale 2023, care începe luni, 19 iunie.
+- Elevii pot sublinia pe text cu creion sau stilou/pix de culoare albastră, iar în cazul itemilor care vizează sintaxa frazei pot delimita propozițiile în frază.
+- La proba de Matematică sunt permise marcajele pe figură și completarea figurilor cu creion sau stilou/pix de culoare albastră.
+- Articolul explică și cum se corectează o greșeală pe foaia de examen și ce este interzis elevilor la proba scrisă.[^1^]
+
+**Sfaturi pentru elevii care susțin Evaluarea Națională 2023, de la Ministerul Educației: Alege să începi cu subiectul pe care-l stăpâneşti cel mai bine**
+
+- Articolul oferă câteva sfaturi pentru elevii care vor participa la Evaluarea Națională 2023, bazate pe recomandările Ministerului Educației.
+- Sfaturile sunt următoarele:
+    - Alege să începi cu subiectul pe care-l stăpânești cel mai bine și care îți dă încredere în tine.
+    - Citește cu atenție cerințele și răspunde clar și concis la fiecare item.
+    - Verifică dacă ai răspuns la toate cerințele și dacă ai respectat numărul de cuvinte indicat.
+    - Nu uita să scrii numele și prenumele pe foaia de examen și să semnezi lucrarea.[^6^]
+
 **GHID Evaluarea Națională 2023 – informații de la Ministerul Educației pentru examenul care începe luni: Elevii intră în clase la ora 8:00, iar la 9:00 începe proba – Ce soluții sunt dacă greșesc pe foaia de examen**
-- Articolul prezintă un ghid cu informații despre simulările examenelor naționale pentru elevii clasei a VIII-a și a XII-a, realizate în martie 2023.
-- Ghidul cuprinde date despre calendarul probelor, subiectele, timpul alocat, rezultatele și criteriile de departajare.
-- Articolul oferă și sfaturi pentru elevi și părinți privind pregătirea pentru examene și evitarea greșelilor pe foaia de examen.
 
-**Greva profesorilor – considerată corectă de majoritatea participanților la un sondaj desfășurat în perioada mișcării de protest**
-- Articolul relatează rezultatele unui sondaj realizat de The Center, la comanda USR, pe tema grevei generale din învățământ din mai-iunie 2023.
-- Sondajul a fost efectuat prin interviu telefonic, pe un eșantion de 916 subiecți, cu o marjă de eroare de 3,4%.
-- Potrivit sondajului, 57% dintre respondenți considerau că greva era un lucru corect, 36% o considerau incorectă, iar 7% nu puteau aprecia sau nu au răspuns.
-
-**Media claselor V-VIII nu mai este luată în calcul pentru admiterea la liceu 2023, după ce mai mult de 20 de ani a avut o pondere la media finală**
-- Articolul anunță că media claselor gimnaziale a fost eliminată din calculul mediei de admitere la liceu, prin ordinul ministrului educației din august 2022.
-- Schimbarea a venit după mai mult de două decenii de când media din gimnaziu avea o pondere de 20% în media finală.
-- Articolul explică cum se calculează media de admitere pe baza mediei generale la evaluarea națională și cum se departajează candidații cu medii egale.
+- Articolul prezintă un ghid informativ pentru elevii care vor susține Evaluarea Națională 2023, publicat de Ministerul Educației.
+- Ghidul cuprinde informații despre calendarul examenului, accesul în săli, subiectele, timpul alocat, corectarea greșelilor, rezultatele și contestațiile.
+- Elevii intră în clase la ora 8:00 și primesc subiectele la ora 9:00. Timpul destinat elaborării lucrării este de două ore.
+- Dacă greșesc pe foaia de examen, elevii pot corecta prin tăierea cu o linie orizontală a literei sau marcajului greșit și scrierea sau marcarea răspunsului corect în dreapta sau în jos.
+- Rezultatele vor fi afișate pe 28 iunie până la ora 14:00, iar contestațiile se pot depune între 28 iunie (ora 16:00) și 29 iunie (ora 12:00). Rezultatele finale vor fi afișate pe 4 iulie.[^10^]
 
 ## 🏫 Despre greva profesorilor
-- Greva profesorilor a fost o mișcare de protest declanșată în mai 2023 de federațiile sindicale ale angajaților din sistemul public de educație.
-- Principalele revendicări ale profesorilor au fost creșterea salariilor cu 25%, deblocarea posturilor didactice și asigurarea condițiilor optime de lucru în unitățile de învățământ.
-- Greva a durat peste două săptămâni și a afectat desfășurarea cursurilor și examenelor naționale pentru elevii din clasele terminale.
-- Greva s-a încheiat după ce Guvernul a semnat un protocol cu sindicatele, prin care s-a angajat să aloce fonduri suplimentare pentru educație și să negocieze un nou statut al personalului didactic.
+
+- Greva profesorilor a început pe 1 iunie 2023, după ce negocierile cu Guvernul privind majorarea salariilor și alocarea a 6% din PIB pentru educație au eșuat.
+- Profesorii au protestat în fața sediului Guvernului, a Parlamentului și a Ministerului Educației, cerând demisia ministrului Ligia Deca și a premierului Florin Cîțu.
+- Greva a afectat desfășurarea Evaluării Naționale și a Bacalaureatului, deoarece profesorii nu au participat la corectarea lucrărilor scrise și la susținerea probelor orale.
+- Guvernul a propus o ofertă de majorare salarială cu 10% și de alocare a 5% din PIB pentru educație, dar sindicatele au respins-o și au anunțat că vor continua greva până la satisfacerea revendicărilor.
 
 
 <sub><sub>Acest text a fost generat automat de BingAI folosind ultimele informatii de pe Edupedu, precum si de pe alte site-uri de stiri. Deci, nu te baza pe el pentru a lua decizii importante :)</sub></sub>
