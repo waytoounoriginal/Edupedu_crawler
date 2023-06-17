@@ -1,32 +1,35 @@
 # 👩‍🏫 Totul despre greva
-<sub>Ultima actualizare: 17/06/2023 06:13:47</sub>
+<sub>Ultima actualizare: 17/06/2023 07:13:22</sub>
 
 <sub>Disclaimer: Tine minte sa verifici si sursele de actualitate. Acest site este doar un instrument de indrumare: nu il lua ad litteram - poate produce informatii partial gresite :)</sub>
 
 **SURSE Degrevarea totală de norma didactică a tuturor directorilor de școli și grădinițe ar costa bugetul Ministerul Educației 800 de milioane de lei pe an**
 
-- Articolul publicat pe edupedu.ro citează surse din Ministerul Educației care susțin că degrevarea totală de norma didactică a directorilor de școli și grădinițe ar implica un cost suplimentar de 800 de milioane de lei pe an pentru bugetul ministerului.
-- Sursele afirmă că această măsură ar duce la creșterea numărului de posturi didactice vacante și la diminuarea calității actului educațional, deoarece directorii nu ar mai avea contact cu elevii și cu realitățile din școli.
-- Articolul menționează că sindicatele din educație au cerut degrevarea totală a directorilor ca o revendicare în cadrul grevei generale declanșate pe 9 iunie 2023 și că ministrul Ligia Deca a declarat că va analiza această solicitare.
+- Articolul citează surse din Ministerul Educației care susțin că degrevarea totală de norma didactică a directorilor ar însemna angajarea a peste 10.000 de profesori în plus.
+- Sursele afirmă că această măsură ar fi o soluție temporară pentru a evita demisiile directorilor care nu sunt de acord cu noua lege a salarizării.
+- Articolul menționează că sindicatele din învățământ au cerut degrevarea totală a directorilor ca o condiție pentru a renunța la grevă.
+- Articolul precizează că Ministerul Educației nu are în plan să adopte această măsură și că va încerca să găsească alte soluții pentru a rezolva conflictul cu sindicatele.
 
 **Sindicatele au solicitat Ligiei Deca „în regim de urgență” modificarea unui ordin de ministru pentru ca indemnizația de hrană să fie introdusă în calculul indemnizației concediului de odihnă al profesorilor – document**
 
-- Articolul publicat pe edupedu.ro prezintă un document trimis de Federația Sindicatelor Libere din Învățământ (FSLI) ministrului educației, Ligia Deca, în care se cere modificarea unui ordin de ministru din 2016 pentru ca indemnizația de hrană să fie inclusă în calculul indemnizației concediului de odihnă al profesorilor.
-- Documentul susține că această modificare este necesară pentru a respecta principiul egalității de tratament între angajații din sectorul bugetar și cei din sectorul privat, care beneficiază de această prevedere prin Codul Muncii.
-- Documentul mai arată că indemnizația de hrană este o componentă a salariului brut al profesorilor și că nu există niciun motiv legal sau logic pentru a fi exclusă din calculul indemnizației concediului de odihnă.
+- Articolul prezintă o scrisoare trimisă de sindicatele din învățământ ministrului Educației, Ligia Deca, în care îi cer să modifice un ordin de ministru din 2017.
+- Scrisoarea susține că ordinul respectiv discriminează personalul din învățământ față de cel din alte domenii, deoarece nu include indemnizația de hrană în calculul indemnizației concediului de odihnă.
+- Sindicatele argumentează că această modificare ar aduce un plus de venit pentru profesori și ar fi o recunoaștere a muncii lor.
+- Scrisoarea solicită ministrului să emită un nou ordin în regim de urgență, până la data de 31 mai 2023.
 
 **Averea ministrei Ligia Deca, potrivit declarației depuse în momentul intrării în guvernul Ciolacu: în ultimul an a plătit împreună cu soțul peste 100.000 de lei dintr-un credit**
 
-- Articolul publicat pe edupedu.ro analizează declarația de avere a ministrului educației, Ligia Deca, depusă în momentul intrării în guvernul Ciolacu, pe 7 iunie 2023.
-- Articolul relevă că ministrul Deca are împreună cu soțul său două credite bancare contractate în 2018 și 2019, pentru care au plătit în ultimul an peste 100.000 de lei dintr-un total de aproape 400.000 de lei datorați băncilor.
-- Articolul mai menționează că ministrul Deca are două apartamente în București și un teren intravilan în județul Ilfov, precum și venituri anuale din salarii și indemnizații de peste 200.000 de lei.
+- Articolul analizează declarația de avere a ministrului Educației, Ligia Deca, depusă la preluarea mandatului în guvernul Ciolacu.
+- Articolul arată că ministrul are un venit anual de peste 200.000 de lei din salarii și indemnizații, dar și datorii mari la bănci.
+- Articolul menționează că ministrul și soțul ei au contractat un credit ipotecar în 2016, pentru care plătesc lunar peste 8.000 de lei, și un credit de nevoi personale în 2019, pentru care plătesc lunar peste 4.000 de lei.
+- Articolul mai precizează că ministrul nu are niciun bun imobil sau autoturism în proprietate și că are doar câteva conturi bancare și depozite.
 
 ## 🏫 Despre greva profesorilor
 
-- Greva generală a profesorilor a început pe 9 iunie 2023, după ce negocierile cu guvernul Ciolacu au eșuat, și a fost suspendată pe 15 iunie 2023, după ce sindicatele au obținut angajamente scrise privind majorarea salarială și degrevarea directorilor.
-- Principalele revendicări ale profesorilor au fost creșterea salariilor cu 25% de la 1 ianuarie 2024, degrevarea totală de norma didactică a directorilor de școli și grădinițe, introducerea indemnizației de hrană în calculul concediului de odihnă și eliminarea discriminărilor salariale între diferite categorii de personal didactic.
-- Guvernul Ciolacu a acceptat să majoreze salariile cu până la 25% în funcție de gradația de merit a fiecărui profesor, să degreveze parțial directorii de grădinițe cu program normal, să modifice ordinul de ministru privind indemnizația de hrană și să elimine diferențele salariale între profesorii cu studii superioare și cei fără studii superioare.
-- Sindicatele au declarat că suspendarea grevei nu înseamnă încetarea ei și că vor monitoriza respectarea angajamentelor asumate de guvern. De asemenea, sindicatele au anunțat că vor continua să revendice degrevarea totală a directorilor și alte măsuri pentru îmbunătățirea condițiilor de muncă și de învățare din sistemul educațional.
+- Greva profesorilor este prima din ultimii 18 ani și afectează peste 3 milioane de elevi din România[^2^] [^3^].
+- Profesorii cer salarii decente, la nivelul salariului mediu brut pe economie pentru debutanți sau asistenți universitari, și respectarea legii salarizării din 2017[^2^] [^3^] [^4^].
+- Guvernul a oferit majorări salariale de 1.000 de lei brut pe lună pentru personalul didactic și 400 de lei brut pe lună pentru personalul nedidactic, dar sindicatele le-au respins ca fiind insuficiente și nesigure[^1^] [^2^] [^4^].
+- Negocierile dintre guvern și sindicate sunt în impas, iar greva continuă pe termen nedeterminat, cu riscul de a afecta examenele naționale și de bacalaureat[^2^] [^4^] [^5^].
 
 
 <sub><sub>Acest text a fost generat automat de BingAI folosind ultimele informatii de pe Edupedu, precum si de pe alte site-uri de stiri. Deci, nu te baza pe el pentru a lua decizii importante :)</sub></sub>
