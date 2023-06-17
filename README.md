@@ -1,31 +1,39 @@
 # 👩‍🏫 Totul despre greva
-<sub>Ultima actualizare: 17/06/2023 19:14:19</sub>
+<sub>Ultima actualizare: 17/06/2023 20:10:51</sub>
 
 <sub>Disclaimer: Tine minte sa verifici si sursele de actualitate. Acest site este doar un instrument de indrumare: nu il lua ad litteram - poate produce informatii partial gresite :)</sub>
 
 **Proteste ale profesorilor în Ungaria față de un proiect de lege care le mărește volumul de muncă și evaluează performanțele, considerat o răzbunare a Guvernului pentru criticii din școli**
-- Profesorii unguri au manifestat vineri împotriva unui proiect de lege care le mărește volumul de muncă și introduce evaluarea performanțelor, văzut drept o "răzbunare" după luni de conflict cu guvernul lui Viktor Orban[^2^].
-- Proiectul de lege prevede că profesorii vor lucra până la 12 ore pe zi și vor fi evaluați periodic în funcție de rezultatele elevilor și de satisfacția părinților[^2^].
-- Profesorii cer salarii mai mari și critică naționalizarea școlilor municipale sub egida lui Viktor Orban, care le reduce autonomia și le impune o programă ideologică[^2^].
-- Guvernul susține că proiectul de lege va face posibilă recompensarea celor mai motivați profesori și că majorările salariale promise depind de obținerea fondurilor de la UE[^2^].
+
+- Profesorii ungari au ieșit în stradă pe 15 iunie 2023 pentru a protesta împotriva unui proiect de lege care le-ar impune mai multe ore de lucru și le-ar evalua calitatea predării.
+- Proiectul de lege este văzut ca o tentativă a guvernului condus de Viktor Orban de a controla sistemul educațional și de a reprima vocile critice din școli.
+- Sindicatele din educație au cerut retragerea proiectului de lege și au amenințat cu grevă generală dacă nu sunt ascultate.
+- Proiectul de lege ar crește numărul maxim de ore de predare pe săptămână de la 22 la 26 pentru profesorii din ciclul primar și de la 18 la 22 pentru cei din ciclul secundar.
+- Proiectul de lege ar introduce și un sistem de evaluare a performanțelor profesorilor, care ar lua în considerare rezultatele elevilor la examene, feedback-ul părinților și al directorilor, precum și participarea la activități extracurriculare.
+- Profesorii care ar obține note slabe ar putea fi concediați sau retrogradați, iar cei care ar obține note bune ar putea primi bonusuri salariale.
 
 **SURSE Degrevarea totală de norma didactică a tuturor directorilor de școli și grădinițe ar costa bugetul Ministerul Educației 800 de milioane de lei pe an**
-- Ministerul Educației a calculat că degrevarea totală de norma didactică a tuturor directorilor de școli și grădinițe ar costa bugetul ministerului 800 de milioane de lei pe an[^1^].
-- Această măsură este una dintre revendicările sindicatelor din învățământ, care cer ca directorii să se ocupe exclusiv de managementul unităților școlare și să nu mai predea ore[^1^].
-- În prezent, directorii au o reducere parțială a normei didactice în funcție de numărul de elevi din școală sau grădiniță[^1^].
-- Ministerul Educației susține că nu are fonduri suficiente pentru a acorda degrevarea totală și că aceasta ar duce la o lipsă acută de personal didactic în unele zone[^1^].
+
+- Ministerul Educației analizează posibilitatea de a degreva total de norma didactică pe toți directorii de școli și grădinițe, pentru a le permite să se ocupe exclusiv de managementul unităților de învățământ.
+- Măsura ar presupune angajarea a peste 10.000 de profesori suplimentari, care să preia orele pe care le făceau directorii.
+- Costul estimat al degrevării totale ar fi de aproximativ 800 de milioane de lei pe an, bani care ar trebui alocați din bugetul Ministerului Educației.
+- Măsura este susținută de sindicatele din educație, care consideră că directorii nu pot face față sarcinilor administrative și didactice în același timp.
+- Măsura este contestată însă de unele asociații ale părinților, care se tem că degrevarea totală ar reduce calitatea predării și ar crea un deficit de personal calificat în unele discipline.
 
 **Satelitul înghețat al lui Saturn, Enceladus, conține elemente esențiale vieții – date colectate de sonda Cassini a NASA / Există fosfor într-o concentrație de 100 de ori mai mare ca în oceanele de pe Terra**
-- Sonda Cassini a NASA a colectat date despre satelitul înghețat al lui Saturn, Enceladus, care arată că acesta conține elemente esențiale pentru viață, cum ar fi carbon, hidrogen, azot și oxigen[^3^].
-- Cercetătorii au descoperit pentru prima dată fosfor în oceanul subteran al lui Enceladus, într-o concentrație de 100 de ori mai mare decât cea din oceanele Terrei[^3^].
-- Fosforul este un element-cheie pentru formarea ADN-ului și a altor molecule biologice, ceea ce sugerează că Enceladus ar putea avea condiții favorabile pentru dezvoltarea vieții[^3^].
-- Enceladus este unul dintre cele mai interesante obiecte din sistemul solar, deoarece are o activitate geologică care produce jeturi de apă și particule organice din ghețarii săi[^3^].
+
+- Sonda Cassini a NASA a descoperit că satelitul Enceladus al lui Saturn are un ocean subteran care conține elemente esențiale pentru viață, cum ar fi carbon, hidrogen, azot și oxigen.
+- Cea mai recentă descoperire este prezența fosforului în apa oceanului subteran, într-o concentrație de aproximativ 100 de ori mai mare decât cea din oceanele de pe Pământ.
+- Fosforul este un element vital pentru formarea ADN-ului și a altor molecule organice complexe, care stau la baza vieții așa cum o cunoaștem.
+- Descoperirea fosforului susține ipoteza că Enceladus ar putea găzdui forme de viață extraterestră, care ar putea fi detectate prin analiza jeturilor de apă care ies din suprafața înghețată a satelitului.
+- Sonda Cassini a încheiat misiunea sa în 2017, după 13 ani de explorare a sistemului saturnian, dar datele colectate de ea continuă să fie analizate de cercetători.
 
 ## 🏫 Despre greva profesorilor
-- Greva profesorilor din România a început în mai 2023 și continuă până în prezent, cu o participare de 75% din cadrele didactice[^4^].
-- Profesorii cer salarii la nivelul salariului mediu brut pe economie pentru debutanți sau asistenți universitari, precum și degrevarea totală de norma didactică a directorilor de școli și grădinițe[^1^] [^4^].
-- Guvernul a acordat majorări salariale de 1.000 lei brut pe lună pentru personalul didactic și 400 de lei brut pe lună pentru personalul nedidactic, dar a eliminat din lege garanția că salariile vor ajunge la nivelul cerut până în 2026[^4^].
-- Greva profesorilor din România este luată ca exemplu în Ungaria, unde situația învățământului este și mai dificilă, iar sindicatele se pregătesc de grevă generală din cauza salariilor mici și a proiectului de lege care le mărește volumul de muncă și le evaluează performanțele[^2^] [^5^].
+
+- Greva profesorilor din România este prima din ultimii 18 ani și a început pe 22 mai 2023, după ce negocierile cu guvernul au eșuat.
+- Profesorii cer salarii decente, care să le asigure un nivel de trai decent și să le recunoască munca și rolul în societate.
+- Profesorii solicită ca salariul mediu brut pe economie să fie punctul de plecare pentru grila de salarizare în educație, iar personalul nedidactic să beneficieze de aceleași creșteri salariale ca și cel didactic.
+- Greva profesorilor afectează peste 3 milioane de elevi și copii de grădiniță din toată țara, care nu pot merge la școală sau primesc doar activități recreative.
 
 
 <sub><sub>Acest text a fost generat automat de BingAI folosind ultimele informatii de pe Edupedu, precum si de pe alte site-uri de stiri. Deci, nu te baza pe el pentru a lua decizii importante :)</sub></sub>
