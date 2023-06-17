@@ -1,31 +1,36 @@
 # 👩‍🏫 Totul despre greva
-<sub>Ultima actualizare: 17/06/2023 12:12:22</sub>
+<sub>Ultima actualizare: 17/06/2023 13:12:38</sub>
 
 <sub>Disclaimer: Tine minte sa verifici si sursele de actualitate. Acest site este doar un instrument de indrumare: nu il lua ad litteram - poate produce informatii partial gresite :)</sub>
 
 **Proteste ale profesorilor în Ungaria față de un proiect de lege care le mărește volumul de muncă și evaluează performanțele, considerat o răzbunare a Guvernului pentru criticii din școli**
+
 - Profesori unguri au manifestat vineri împotriva unui proiect de lege care le mărește volumul de muncă și introduce evaluarea performanțelor, văzut drept o "răzbunare" după luni de conflict cu guvernul lui Viktor Orban[^1^] [^2^].
 - Protestatarii au cerut salarii mai mari, condiții de muncă mai bune și respectarea dreptului la grevă, restrâns drastic printr-un decret adoptat în februarie 2022[^1^] [^2^].
-- Profesorii au denunțat și naționalizarea școlilor municipale sub egida lui Viktor Orban, care le reduce autonomia și le impune o programă influențată ideologic pentru a susține linia ultraconservatoare a guvernului[^1^] [^2^] [^3^].
-- Guvernul a promis o creștere salarială pentru cei mai motivați profesori, dar a condiționat-o de obținerea fondurilor de la UE, blocate din cauza preocupărilor legate de corupție și statul de drept[^1^] [^2^].
+- Profesorii sunt plătiți între 455 și 1000 de euro pe lună, în condițiile unei inflații record și a unei penurii de personal[^1^] [^2^].
+- Guvernul a legat creșterea salarială promisă de obținerea fondurilor de la UE, blocate din cauza încălcării statului de drept și a corupției[^1^] [^2^].
+- Profesorii au criticat și naționalizarea școlilor municipale sub egida lui Viktor Orban, care le reduce autonomia și le impune o programă ideologică ultraconservatoare[^1^] [^2^].
 
 **SURSE Degrevarea totală de norma didactică a tuturor directorilor de școli și grădinițe ar costa bugetul Ministerul Educației 800 de milioane de lei pe an**
-- Ministerul Educației a anunțat că va degreva total de norma didactică pe toți directorii și directorii adjuncți din școli și grădinițe începând cu anul școlar 2022-2023[^4^].
-- Măsura ar costa bugetul Ministerului Educației aproximativ 800 de milioane de lei pe an, potrivit unor surse din minister[^4^].
-- Degrevarea totală ar însemna că directorii și directorii adjuncți nu vor mai avea obligația să predea nicio oră la clasă, ci se vor ocupa exclusiv de managementul unității de învățământ[^4^].
-- Măsura ar fi motivată de necesitatea creșterii calității managementului școlar și a eficienței activității administrative[^4^].
+
+- Ministerul Educației a elaborat un proiect de ordin care prevede degrevarea totală de norma didactică a tuturor directorilor și directorilor adjuncți din unitățile de învățământ preuniversitar[^3^].
+- Proiectul vine ca urmare a solicitărilor sindicatelor din educație, care au reclamat că directorii nu pot să își îndeplinească atribuțiile manageriale dacă au și ore de predare[^3^].
+- Surse din minister au declarat că degrevarea totală ar costa bugetul aproximativ 800 de milioane de lei pe an, bani care ar trebui alocați pentru angajarea altor cadre didactice care să preia orele rămase vacante[^3^].
+- Proiectul este în dezbatere publică până pe 18 iunie 2023 și urmează să fie aprobat prin ordin al ministrului educației[^3^].
 
 **Satelitul înghețat al lui Saturn, Enceladus, conține elemente esențiale vieții – date colectate de sonda Cassini a NASA / S-a găsit fosfor pentru prima dată într-un ocean care nu este pe Terra**
-- O echipă internațională de cercetători a descoperit prezența fosforului în oceanul subteran al satelitului Enceladus al lui Saturn, folosind date colectate de sonda Cassini a NASA[^5^].
-- Fosforul este un element esențial pentru viața pe Pământ, deoarece intră în compoziția ADN-ului, ARN-ului și a membranelor celulare[^5^].
-- Aceasta este prima dată când fosforul este detectat într-un ocean care nu este pe Terra, ceea ce ridică posibilitatea existenței unor forme de viață extraterestră pe Enceladus[^5^].
-- Oceanul subteran al satelitului conține și alte elemente necesare vieții, cum ar fi carbon, hidrogen, azot, oxigen și sulf, precum și molecule organice complexe[^5^].
+
+- O echipă internațională de cercetători a descoperit prezența fosforului pe Enceladus, un satelit al lui Saturn care are un ocean subteran sub o crustă înghețată[^4^].
+- Fosforul este un element esențial pentru viață, deoarece intră în compoziția ADN-ului, ARN-ului și a altor molecule biologice[^4^].
+- Descoperirea a fost făcută pe baza datelor colectate de sonda Cassini a NASA, care a zburat prin jeturile de apă și gheață care ies din crăpăturile crustei lui Enceladus[^4^].
+- Studiul sugerează că fosforul provine din reacții hidrotermale care au loc între apa oceanului și rocile nucleului lui Enceladus, un proces care ar putea susține și dezvoltarea unor forme de viață[^4^].
 
 ## 🏫 Despre greva profesorilor
-- Greva profesorilor din Ungaria a început în februarie 2022, ca reacție la un decret care le restrânge dreptul la grevă și la un proiect de lege care le mărește volumul de muncă și le evaluează performanțele[^1^] [^2^].
-- Greva profesorilor din România a început în octombrie 2023, ca reacție la lipsa de dialog social și la nemulțumirile legate de salarizare, condiții de muncă și autonomie profesională[^6^] [^7^].
-- Greva profesorilor din Ungaria s-a confruntat cu represiunea guvernamentală, care a concediat mai mulți dascăli pentru că au încetat lucrul și a impus o programă școlară naționalistă și ultraconservatoare[^1^] [^2^] [^3^].
-- Greva profesorilor din România s-a bucurat de sprijinul societății civile, care a organizat mitinguri și petiții în solidaritate cu dascălii și a cerut respectarea drepturilor lor fundamentale[^6^] [^7^].
+
+- Greva profesorilor din Ungaria este un semn al nemulțumirii față de politicile educaționale ale guvernului Orban, care lezează drepturile și interesele cadrelor didactice și ale elevilor[^1^] [^2^].
+- Greva profesorilor din România este o revendicare pentru degrevarea totală de norma didactică a directorilor și directorilor adjuncți, care ar facilita o mai bună gestionare a unităților de învățământ[^3^].
+- Greva profesorilor din ambele țări este influențată de contextul economic și social dificil, marcat de criza sanitară, inflație, scăderea puterii de cumpărare și lipsa fondurilor europene[^1^] [^2^] [^3^].
+- Greva profesorilor din ambele țări are nevoie de dialog și negociere cu autoritățile competente, pentru a găsi soluții viabile și sustenabile pentru îmbunătățirea calității și eficienței sistemului educațional[^1^] [^2^] [^3^].
 
 
 <sub><sub>Acest text a fost generat automat de BingAI folosind ultimele informatii de pe Edupedu, precum si de pe alte site-uri de stiri. Deci, nu te baza pe el pentru a lua decizii importante :)</sub></sub>
