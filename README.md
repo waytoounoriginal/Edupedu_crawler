@@ -1,35 +1,35 @@
 # 👩‍🏫 Totul despre greva
-<sub>Ultima actualizare: 18/06/2023 16:13:52</sub>
+<sub>Ultima actualizare: 18/06/2023 17:12:39</sub>
 
 <sub>Disclaimer: Tine minte sa verifici si sursele de actualitate. Acest site este doar un instrument de indrumare: nu il lua ad litteram - poate produce informatii partial gresite :)</sub>
 
 **ULTIMA ORĂ Peste 15.000 de elevi care erau în clasa a VIII-a la începutul acestui an școlar nu au fost înscriși la Evaluarea Națională, conform datelor Ministerului Educației**
 
-- Potrivit calculelor făcute de Edupedu.ro pe baza datelor comunicate oficial de Ministerul Educației, peste 17.000 de elevi care au fost anul acesta în clasa a VIII-a nu au mai ajuns să fie înscriși la Evaluarea Națională 2022[^10^].
-- Acești elevi pot fi fără situația școlară încheiată, repetenți sau corigenți, pentru că dacă ar fi fost absolvenți de clasa a VIII-a ar fi fost automat înscriși la Evaluarea Națională[^10^].
-- Diferența este de 17.002 elevi, echivalentul a peste 680 de clase de câte 25 de elevi fiecare, adică mai mult decât toți copiii din București înscriși la Evaluarea Națională 2021[^10^].
-- În anul 2021-2022, erau înscriși în clasa a VIII-a 172.822 de elevi[^10^], iar în anul 2022-2023 sunt doar 147.650 de elevi[^5^], din cauza introducerii clasei pregătitoare în urmă cu opt ani[^5^].
+- Articolul prezintă situația îngrijorătoare a elevilor de clasa a VIII-a care nu s-au înscris la examenul de Evaluare Națională 2023, din cauza absenteismului școlar, a abandonului sau a migrației.
+- Potrivit datelor Ministerului Educației, din cei 177.000 de elevi înscriși în clasa a VIII-a la începutul anului școlar 2022-2023, doar 161.000 s-au înscris la Evaluarea Națională 2023, ceea ce înseamnă că peste 15.000 de elevi au dispărut din sistemul educațional.
+- Cauzele acestei situații sunt multiple și complexe: pandemia de COVID-19, care a afectat accesul la educație online și prezențială; sărăcia și lipsa de sprijin familial; migrația internă sau externă; lipsa de interes sau de motivație pentru studiu; dificultatea materiilor sau a examenelor; violența sau discriminarea în mediul școlar etc.
+- Articolul citează mai mulți experți și reprezentanți ai organizațiilor civice care atrag atenția asupra consecințelor grave ale acestei situații pentru viitorul copiilor și al societății: marginalizare socială, excluziune economică, vulnerabilitate la exploatare sau trafic de persoane, radicalizare sau infracționalitate etc.
+- Articolul propune câteva soluții posibile pentru prevenirea și combaterea absenteismului și abandonului școlar: monitorizarea și consilierea elevilor și familiilor; sprijinirea financiară și materială a celor aflați în dificultate; adaptarea curriculumului și a metodologiilor de evaluare la nevoile și interesele elevilor; dezvoltarea competențelor socio-emoționale și civice ale elevilor; promovarea unui climat școlar sigur și incluziv etc.
 
 **Prognoza meteo în perioada examenelor de la Evaluarea Națională 2023, de la ANM: Vremea va fi instabilă, cu înnorări și posibile averse. Temperaturile urcă până la 32 de grade în București**
 
-- Evaluarea Națională 2023 pentru absolvenții claselor a 8-a va începe în 19 iunie[^5^], cu proba la Limba și literatura română.
-- Potrivit Administrației Naționale de Meteorologie (ANM), vremea va fi instabilă în perioada examenelor, cu înnorări și posibile averse în majoritatea regiunilor[^5^].
-- Temperaturile vor fi ridicate pentru această perioadă a anului, cu maxime ce vor atinge sau depăși frecvent 30 de grade Celsius[^5^].
-- În București, temperaturile vor varia între 18 și 32 de grade Celsius pe parcursul săptămânii examenelor[^5^].
+- Articolul prezintă prognoza meteo pentru perioada examenelor de la Evaluarea Națională 2023, care vor avea loc între 19 și 22 iunie 2023, pe baza informațiilor furnizate de Administrația Națională de Meteorologie (ANM).
+- Potrivit ANM, vremea va fi instabilă în majoritatea regiunilor țării, cu înnorări temporare și posibile averse sau furtuni izolate. Temperaturile maxime vor varia între 22 și 32 de grade Celsius, iar cele minime între 10 și 20 de grade Celsius.
+- În București, vremea va fi în general frumoasă, cu cer variabil și temperaturi maxime de 28-32 de grade Celsius și minime de 14-18 grade Celsius. Sunt posibile însă și câteva ploi de scurtă durată sau descărcări electrice în după-amiezile zilelor de examen.
+- Articolul oferă și câteva sfaturi pentru elevii care vor susține examenele de Evaluare Națională 2023: să se hidrateze corespunzător, să evite expunerea prelungită la soare, să se îmbrace lejer și adecvat condițiilor meteorologice, să se odihnească suficient și să se relaxeze înainte și după probe.
 
 **Proteste ale profesorilor în Ungaria față de un proiect de lege care le mărește volumul de muncă și evaluează performanțele, considerat o răzbunare a Guvernului pentru criticii din școli**
 
-- Mii de profesori unguri au manifestat vineri, 17 iunie 2023[^11^], împotriva unui proiect de lege care le măreşte volumul de muncă şi introduce evaluarea performanţelor[^12^], văzut drept o “răzbunare” după luni de conflict cu guvernul lui Viktor Orban[^9^].
-- Protestul a avut loc în faţa Parlamentului, unde deputaţii erau prezenţi pentru a analiza amendamentele propuse de partidul la putere al premierului naţionalist[^9^].
-- Profesorii se plâng de salarii mici, condiții de muncă proaste, restrângerea dreptului la grevă, lipsa de autonomie și influența ideologică a guvernului asupra programelor școlare[^9^] [^11^] [^12^].
-- Guvernul susține că noua lege va face posibilă recompensarea celor mai motivați profesori, dar leagă marea creștere salarială promisă de obținerea fondurilor de la UE, blocate din cauza preocupărilor legate de corupție și statul de drept[^9^].
+- Articolul relatează despre protestele organizate de profesorii din Ungaria împotriva unui proiect de lege care le-ar modifica statutul profesional, le-ar crește volumul de muncă și le-ar introduce evaluarea performanțelor, considerat o măsură represivă a Guvernului condus de Viktor Orban.
+- Potrivit articolului, aproximativ o mie de profesori și studenți s-au adunat în fața Ministerului de Interne, care are în subordine și Educația, și au scandat lozinci precum „Nu suntem sclavi”, „Nu vrem răzbunare” sau „Demisia”. Protestatarii au afișat și pancarte cu mesaje precum „Nu ne lăsați singuri”, „Nu ne luați drepturile” sau „Nu ne distrugeți viitorul”.
+- Proiectul de lege contestat prevede că profesorii nu vor mai fi funcționari publici, ci angajați ai statului, ceea ce le-ar reduce protecția juridică și socială. De asemenea, proiectul prevede că profesorii vor avea un program de lucru mai lung, cu mai multe ore de predare și activități extracurriculare obligatorii. În plus, proiectul prevede că profesorii vor fi evaluați periodic pe baza unor criterii impuse de minister, care ar putea influența salarizarea și avansarea lor în carieră.
+- Articolul citează mai mulți lideri sindicali și reprezentanți ai organizațiilor civice care denunță proiectul de lege ca fiind o răzbunare a Guvernului pentru criticile aduse politicilor sale educaționale. Aceștia susțin că proiectul de lege va duce la deteriorarea calității învățământului, la demotivarea și demoralizarea cadrelor didactice, la creșterea absenteismului și abandonului școlar, la accentuarea inegalităților sociale și la pierderea autonomiei școlare.
 
 ## 🏫 Despre greva profesorilor
 
-- Greva generală a profesorilor din România a început pe 22 mai 2023 și a durat până pe 6 iunie 2023, când s-a ajuns la un acord cu guvernul[^6^].
-- Profesorii au revendicat creșteri salariale de 50%, condiții de muncă mai bune, respectarea statutului personalului didactic și eliminarea evaluării naționale pentru clasa a VI-a[^6^].
-- Greva a afectat peste 3 milioane de elevi și peste 200.000 de profesori din toate nivelurile de învățământ[^6^].
-- Ca urmare a grevei, Ministerul Educației a prelungit perioada de încheiere a situației școlare și înscrierile pentru Evaluarea Națională și Bacalaureat până pe 13 iunie 2023, dar nu a modificat calendarul probelor scrise[^8^].
+- Greva profesorilor din România a început pe 22 mai 2023 și s-a încheiat pe 12 iunie 2023, după ce Guvernul a acceptat să negocieze revendicările sindicatelor din educație.
+- Principalele revendicări ale profesorilor au fost: creșterea salariilor cu 25%, acordarea tuturor sporurilor prevăzute de lege, eliminarea impozitului pe venit pentru pensiile speciale ale cadrelor didactice, asigurarea condițiilor sanitare și tehnice pentru desfășurarea activității didactice în siguranță etc.
+- Greva profesorilor a afectat desfășurarea anului școlar 2022-2023, în special perioada examenelor naționale. Ministerul Educației a fost nevoit să prel
 
 
 <sub><sub>Acest text a fost generat automat de BingAI folosind ultimele informatii de pe Edupedu, precum si de pe alte site-uri de stiri. Deci, nu te baza pe el pentru a lua decizii importante :)</sub></sub>
