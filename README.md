@@ -1,31 +1,35 @@
 # 👩‍🏫 Totul despre greva
-<sub>Ultima actualizare: 18/06/2023 15:20:59</sub>
+<sub>Ultima actualizare: 18/06/2023 16:13:52</sub>
 
 <sub>Disclaimer: Tine minte sa verifici si sursele de actualitate. Acest site este doar un instrument de indrumare: nu il lua ad litteram - poate produce informatii partial gresite :)</sub>
 
 **ULTIMA ORĂ Peste 15.000 de elevi care erau în clasa a VIII-a la începutul acestui an școlar nu au fost înscriși la Evaluarea Națională, conform datelor Ministerului Educației**
-- Ministerul Educației a anunțat că doar 161.500 de elevi au fost înscriși automat la Evaluarea Națională, de către școlile la care sunt[^1^].
-- Este o diferență de peste 15.500 de elevi între numărul celor care erau înscriși la începutul anului școlar în clasa a VIII-a și numărul celor care acum figurează acum în statistica de examen[^1^].
-- Ministerul Educației nu a prezentat situația acestora, nu a precizat dacă sunt repetenți, dacă au abandonat școala sau dacă sunt elevi care nu au fost înscriși de către școli și ce motive stau în spatele acestor absenți[^1^].
-- Evaluarea Națională pentru elevii clasei a VIII-a se va desfășura în perioada 19 iunie – 4 iulie 2023[^1^].
+
+- Potrivit calculelor făcute de Edupedu.ro pe baza datelor comunicate oficial de Ministerul Educației, peste 17.000 de elevi care au fost anul acesta în clasa a VIII-a nu au mai ajuns să fie înscriși la Evaluarea Națională 2022[^10^].
+- Acești elevi pot fi fără situația școlară încheiată, repetenți sau corigenți, pentru că dacă ar fi fost absolvenți de clasa a VIII-a ar fi fost automat înscriși la Evaluarea Națională[^10^].
+- Diferența este de 17.002 elevi, echivalentul a peste 680 de clase de câte 25 de elevi fiecare, adică mai mult decât toți copiii din București înscriși la Evaluarea Națională 2021[^10^].
+- În anul 2021-2022, erau înscriși în clasa a VIII-a 172.822 de elevi[^10^], iar în anul 2022-2023 sunt doar 147.650 de elevi[^5^], din cauza introducerii clasei pregătitoare în urmă cu opt ani[^5^].
 
 **Prognoza meteo în perioada examenelor de la Evaluarea Națională 2023, de la ANM: Vremea va fi instabilă, cu înnorări și posibile averse. Temperaturile urcă până la 32 de grade în București**
-- Vremea va fi rece, va mai ploua în regiunile sudice, dar și în zonele de munte și de deal[^2^].
-- Vântul va sufla cu peste 40 de km la oră în zonele montane[^2^].
-- Temperaturile maxime se vor încadra între 11 grade Celsius și 20 de grade Celsius, iar cele minime între – 3 grade Celsius și 11 grade Celsius[^2^].
-- În București, vremea va fi instabilă, cu cer înnorat și posibile averse. Temperaturile vor urca până la 32 de grade Celsius[^2^].
+
+- Evaluarea Națională 2023 pentru absolvenții claselor a 8-a va începe în 19 iunie[^5^], cu proba la Limba și literatura română.
+- Potrivit Administrației Naționale de Meteorologie (ANM), vremea va fi instabilă în perioada examenelor, cu înnorări și posibile averse în majoritatea regiunilor[^5^].
+- Temperaturile vor fi ridicate pentru această perioadă a anului, cu maxime ce vor atinge sau depăși frecvent 30 de grade Celsius[^5^].
+- În București, temperaturile vor varia între 18 și 32 de grade Celsius pe parcursul săptămânii examenelor[^5^].
 
 **Proteste ale profesorilor în Ungaria față de un proiect de lege care le mărește volumul de muncă și evaluează performanțele, considerat o răzbunare a Guvernului pentru criticii din școli**
-- Mii de cetăţeni maghiari au protestat vineri la Budapesta împotriva salariilor mici şi a condiţiilor proaste de muncă ale profesorilor pe fondul penuriei de personal didactic[^9^].
-- Protestatarii au cerut condiţii mai bune de muncă pentru cadrele didactice, exprimându-şi solidaritatea cu o manifestaţie organizată de studenţi[^9^].
-- Profesorii se plâng de asemenea că au fost excluşi de la ajutoarele guvernamentale acordate altor grupuri, ca pensionarii şi medicii, înaintea realegerii premierului Viktor Orban pentru al patrulea mandat consecutiv în aprilie[^9^].
-- Guvernul afirmă că nu va putea satisface revendicările profesorilor decât dacă Uniunea Europeană va debloca miliarde de euro din fondurile de redresare în perioada post-pandemie, pentru moment blocate în continuare[^9^].
+
+- Mii de profesori unguri au manifestat vineri, 17 iunie 2023[^11^], împotriva unui proiect de lege care le măreşte volumul de muncă şi introduce evaluarea performanţelor[^12^], văzut drept o “răzbunare” după luni de conflict cu guvernul lui Viktor Orban[^9^].
+- Protestul a avut loc în faţa Parlamentului, unde deputaţii erau prezenţi pentru a analiza amendamentele propuse de partidul la putere al premierului naţionalist[^9^].
+- Profesorii se plâng de salarii mici, condiții de muncă proaste, restrângerea dreptului la grevă, lipsa de autonomie și influența ideologică a guvernului asupra programelor școlare[^9^] [^11^] [^12^].
+- Guvernul susține că noua lege va face posibilă recompensarea celor mai motivați profesori, dar leagă marea creștere salarială promisă de obținerea fondurilor de la UE, blocate din cauza preocupărilor legate de corupție și statul de drept[^9^].
 
 ## 🏫 Despre greva profesorilor
-- Greva profesorilor este un fenomen care apare atunci când cadrele didactice refuză să predea sau să participe la activitățile școlare pentru a protesta față de condițiile de muncă, salariile, politicile educaționale sau alte aspecte legate de învățământ.
-- Greva profesorilor poate avea consecințe negative asupra elevilor, părinților și societății, cum ar fi pierderea orelor de învățare, dificultăți de îngrijire a copiilor, scăderea performanțelor școlare sau creșterea conflictelor sociale.
-- Greva profesorilor poate avea și efecte pozitive, cum ar fi creșterea solidarității și a conștientizării problemelor din educație, îmbunătățirea calității și a echității învățământului, obținerea unor drepturi și beneficii mai bune pentru profesori sau stimularea dialogului și a reformelor în domeniul educațional.
-- Greva profesorilor este un fenomen complex și controversat, care necesită o analiză atentă a cauzelor, a formelor, a scopurilor și a rezultatelor acesteia, precum și o evaluare a impactului asupra tuturor părților implicate.
+
+- Greva generală a profesorilor din România a început pe 22 mai 2023 și a durat până pe 6 iunie 2023, când s-a ajuns la un acord cu guvernul[^6^].
+- Profesorii au revendicat creșteri salariale de 50%, condiții de muncă mai bune, respectarea statutului personalului didactic și eliminarea evaluării naționale pentru clasa a VI-a[^6^].
+- Greva a afectat peste 3 milioane de elevi și peste 200.000 de profesori din toate nivelurile de învățământ[^6^].
+- Ca urmare a grevei, Ministerul Educației a prelungit perioada de încheiere a situației școlare și înscrierile pentru Evaluarea Națională și Bacalaureat până pe 13 iunie 2023, dar nu a modificat calendarul probelor scrise[^8^].
 
 
 <sub><sub>Acest text a fost generat automat de BingAI folosind ultimele informatii de pe Edupedu, precum si de pe alte site-uri de stiri. Deci, nu te baza pe el pentru a lua decizii importante :)</sub></sub>
