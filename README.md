@@ -1,30 +1,49 @@
 # 👩‍🏫 Totul despre greva
-<sub>Ultima actualizare: 19/06/2023 14:12:03</sub>
+<sub>Ultima actualizare: 19/06/2023 15:23:36</sub>
 
 <sub>Disclaimer: Tine minte sa verifici si sursele de actualitate. Acest site este doar un instrument de indrumare: nu il lua ad litteram - poate produce informatii partial gresite :)</sub>
 
-**BAC 2023. Echivalarea competențelor digitale, explicată de Centrul Național de Politici și Evaluare în Educație – document**
-- Articolul prezintă un ordin al ministrului educației care aprobă metodologia pentru echivalarea/recunoașterea nivelurilor de competență digitală la examenul național de bacalaureat 2023[^1^].
-- Metodologia se aplică elevilor care au obținut certificate recunoscute de Ministerul Educației, cum ar fi ECDL START, ECDL COMPLET, ECDL PROFIL START BAC și ECDL PROFIL BAC[^1^].
-- Nivelurile de competență digitală sunt stabilite în funcție de punctajul obținut la examenele ECDL și sunt echivalate cu nivelurile A1, A2, B1, B2 și C1 din Cadrul european comun de referință pentru limbi[^1^].
-- Elevii care solicită echivalarea nu trebuie să depună copii legalizate ale certificatelor ECDL, ci doar o copie simplă și o cerere tip[^2^].
+**Grevă profesori 2023. Cât durează greva din învățământ?**
 
-**Aproape 160 de elevi din Vaslui au chiulit de la proba de Limba română a Evaluării Naționale 2023**
-- Articolul relatează faptul că 156 de absolvenți de clasa a VIII-a din județul Vaslui au absentat la proba de Limba și Literatura Română a Evaluării Naționale 2023[^3^].
-- Din totalul celor 3.624 de elevi înscriși, au fost prezenți 148.891, iar doi au fost eliminați pentru tentativă de fraudă[^4^].
-- Inspectorul școlar general adjunct în cadrul IȘJ Vaslui, Andrei Huiban, a declarat că nu au fost semnalate incidente în sălile de examen și că prima probă a decurs fără probleme[^3^].
-- Elevii vor susține pe data de 21 iunie proba scrisă la Matematică, iar rezultatele vor fi comunicate pe 28 iunie[^3^].
+- Profesorii sunt în continuare nemulțumiți de salariile lor și au declanșat o grevă generală pe termen nedeterminat din data de 22 mai 2023.
+- Elevii nu merg la școală, fapt care îi pune în dificultate pe părinți.
+- Guvernul a încercat să-i întoarcă din drum cu o serie de promisiuni, dar sindicaliștii nu au cedat și au respins "așa-zisa ofertă a Guvernului României".
+- Sindicaliștii cer salarii decente și nu ajutoare sociale și spun că este greva oamenilor școlii, care s-au săturat de nepăsarea guvernanților.
 
-**Greva, punțile și vacanțele, transport defectuos – printre cele “șapte motive pentru care demnitarii ar trebui să tacă” în preajma Evaluării Naționale, afirmă fostul secretar de stat PNL Mihaela Popa, după mesajele premierului PSD Marcel Ciolacu**
-- Articolul prezintă opinia Mihaelei Popa, fost senator PNL și secretar de stat la Ministerul Educației, profesoară la Iași, care critică mesajele demnitarilor care le urează succes elevilor la Evaluarea Națională 2023[^5^].
-- Mihaela Popa enumeră șapte motive pentru care demnitarii ar trebui să tacă: faptul că profesorii și elevii au adus la școală hârtie, cretă etc; săptămâna verde, școala altfel, punțile, simulările, vacanțele care au scurtat timpul de predare; transportul defectuos; mulți elevi nu au primit tot anul laptele și cornul; greva de aproape o lună; prezența profesorilor necalificați sau pensionari; numărul mare de elevi care nu au mai ajuns să dea Evaluarea Națională anul acesta[^5^].
-- Mesajul Mihaelei Popa vine după ce premierul PSD Marcel Ciolacu a fost printre primii care le-au urat succes elevilor la Evaluarea Națională, cu un mesaj politic în care susține că “am luat decizia corectă atunci când am lăsat deoparte discuțiile politice pentru ca elevii să își poată da astăzi examenele la timp”[^5^].
+**Cum s-a desfășurat greva profesorilor în București și în țară**
+
+- Europa Liberă a stat de vorbă cu profesori, elevi și părinți ca să afle cum se vede din perspectiva fiecărei categorii prima zi de grevă în Educație.
+- Negocierile din weekend au eșuat, iar luni Guvernul și sindicatele nu s-au mai întâlnit.
+- Situația examenelor este incertă.
+- Profesorii spun că greva este singura soluție pentru a fi respectați și pentru a avea condiții decente de muncă.
+
+**Intră România în zodia grevelor? Profesorii încep astăzi. Politolog ...**
+
+- Ultima grevă generală a profesorilor din România a fost organizată în urmă cu 18 ani, în 2005, și a durat trei săptămâni.
+- Greva generală a profesorilor este programată să înceapă astăzi și să dureze până când principala cerință, majorarea salariilor, va fi îndeplinită.
+- Situația nu este mai bună nici pentru alte categorii de bugetari, care au anunțat și ei proteste sau greve.
+- Politologul Cristian Pîrvulescu spune că România intră în zodia grevelor din cauza lipsei de dialog social și a incapacității guvernului de a gestiona criza.
+
+**Greva profesorilor din România, prima din ultimii 18 ani. Cadrele ...**
+
+- Greva profesorilor din România este prima din ultimii 18 ani și are loc după ce negocierile cu guvernul au eșuat.
+- Cadrele didactice merg la școli, dar nu țin cursuri și nu participă la activități didactice sau administrative.
+- Profesorii cer majorarea salariilor cu 50% pentru toate categoriile de personal didactic și nedidactic și respectarea legii salarizării unitare.
+- Ministerul Educației spune că va lua măsuri pentru ca examenele naționale să se desfășoare normal.
+
+**Greva profesorilor 2023. Câte zile se poate prelungi greva ... - WOWBiz**
+
+- Greva profesorilor a început luni și are șanse mari să continue pe termen nedeterminat, dacă nu se ajunge la un acord cu guvernul.
+- Liderii Coaliției le-au oferit profesorilor debutanți suma de 2.000 de lei în plus pe an, iar personalului nedidactic o creștere la salariu de maximum 8%, dar sindicaliștii nu au fost mulțumiți de propunerea de la Guvern.
+- Școlile ar putea rămâne închise mai multe zile din săptămâna 22-29 mai 2023, ceea ce ar afecta pregătirea elevilor pentru examenele naționale.
+- Sindicaliștii spun că nu vor renunța la grevă până când nu vor primi salarii decente și echitabile.
 
 ## 🏫 Despre greva profesorilor
-- Greva profesorilor a început pe 19 mai 2023 și s-a încheiat pe 14 iunie 2023, după ce Guvernul Ciucă a adoptat o ordonanță de urgență care prevede creșterea salariilor cu 20% și acordarea de tichete de masă pentru personalul didactic[^6^].
-- Greva a fost declanșată de Federația Sindicatelor Libere din Învățământ (FSLI), care a cerut majorarea salariilor cu 25%, acordarea de tichete de masă și de vacanță, precum și respectarea Legii Educației Naționale și a Legii Salarizării Unitare[^7^].
-- Greva a afectat desfășurarea Evaluării Naționale și a examenului de Bacalaureat, care au fost amânate cu o săptămână față de calendarul inițial[^8^].
-- Greva a fost criticată de liderii politici și oficialii guvernamentali, care au invocat lipsa fondurilor, constrângerile PNRR sau neconstituționalitatea ordonanței de urgență, dar și de părinți și elevi, care s-au plâns de pierderea orelor de curs și de stresul suplimentar generat de examene[^9^].
+
+- Greva profesorilor este cea mai amplă mișcare de protest din învățământul românesc din ultimii 18 ani și are ca principală revendicare majorarea salariilor cu 50% pentru toate categoriile de personal didactic și nedidactic.
+- Greva a început pe 22 mai 2023 și se prelungește pe termen nedeterminat, afectând activitatea didactică și administrativă din majoritatea unităților de învățământ din țară.
+- Negocierile dintre sindicatele din educație și guvern au eșuat, iar părțile nu au ajuns la un consens. Guvernul a oferit doar mici creșteri salariale pentru anumite categorii de personal, dar sindicaliștii le-au respins ca fiind insuficiente și discriminatorii.
+- Situația examenelor naționale este incertă, iar elevii și părinții sunt îngrijorați de posibilele consecințe ale grevei asupra pregătirii și desfășurării acestora. Ministerul Educației spune că va lua măsuri pentru ca examenele să se desfășoare normal, dar sindicaliștii nu garantează participarea lor.
 
 
 <sub><sub>Acest text a fost generat automat de BingAI folosind ultimele informatii de pe Edupedu, precum si de pe alte site-uri de stiri. Deci, nu te baza pe el pentru a lua decizii importante :)</sub></sub>
