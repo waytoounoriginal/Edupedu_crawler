@@ -1,35 +1,36 @@
 # 👩‍🏫 Totul despre greva
-<sub>Ultima actualizare: 19/06/2023 20:11:03</sub>
+<sub>Ultima actualizare: 19/06/2023 21:14:59</sub>
 
 <sub>Disclaimer: Tine minte sa verifici si sursele de actualitate. Acest site este doar un instrument de indrumare: nu il lua ad litteram - poate produce informatii partial gresite :)</sub>
 
 **Ediția nouă a Dicționarului Ortografic, Ortoepic și Morfologic – DOOM 3 este online și va fi lansată oficial într-o lună, spune Adina Dragomirescu, directoarea Institutului de Lingvistică: Lucrăm să fie un instrument mai complex**
 
-- Articolul prezintă noutățile aduse de ediția a treia a DOOM, care este disponibilă online pe site-ul Institutului de Lingvistică „Iorgu Iordan – Al. Rosetti” și care va fi lansată oficial în luna iunie 2023.
-- Ediția nouă a DOOM cuprinde peste 100.000 de cuvinte, dintre care aproximativ 10.000 sunt intrări noi, care reflectă evoluția limbii române în ultimii ani.
-- DOOM 3 include și o secțiune de morfologie, care oferă informații despre structura și flexiunea cuvintelor, precum și o secțiune de ortoepie, care indică pronunția corectă a cuvintelor.
-- Adina Dragomirescu, directoarea Institutului de Lingvistică, spune că DOOM 3 este un instrument mai complex și mai util decât edițiile anterioare și că se lucrează la actualizarea lui permanentă.
+- Articolul prezintă noutățile aduse de ediția a treia a DOOM, care este disponibilă online și va fi publicată în format tipărit în luna iulie 2023.
+- DOOM 3 cuprinde peste 100.000 de cuvinte din limba română actuală, cu informații despre ortografie, pronunție și morfologie.
+- DOOM 3 include și cuvinte noi apărute în ultimii ani, precum *influencer*, *selfie* sau *vegan*.
+- Adina Dragomirescu, directoarea Institutului de Lingvistică „Iorgu Iordan – Al. Rosetti”, explică că DOOM 3 este rezultatul unui efort colectiv al cercetătorilor din institut și al colaboratorilor externi.
+- Dragomirescu spune că DOOM 3 este conceput ca un instrument util pentru toți vorbitorii de limba română, nu doar pentru specialiști sau elevi.
 
 **Baremul de corectare pentru proba de Limba Română de la Evaluarea Națională 2023 a fost publicat**
 
-- Articolul anunță publicarea baremului de corectare pentru proba scrisă de Limba Română din cadrul Evaluării Naționale pentru absolvenții clasei a VIII-a din anul școlar 2022-2023.
-- Baremul de corectare este disponibil pe site-ul Ministerului Educației și pe site-ul evaluare.edu.ro și poate fi consultat de elevi, părinți și profesori.
-- Proba scrisă de Limba Română a avut loc luni, 19 iunie 2023, între orele 9:00 și 11:00, și a constat în două subiecte: unul de redactare a unui text argumentativ pe baza unui fragment dintr-o operă literară studiată la clasă și altul de rezolvare a unor cerințe legate de gramatică și vocabular.
-- Rezultatele finale ale Evaluării Naționale vor fi afișate pe 30 iunie 2023.
+- Articolul anunță că Ministerul Educației a publicat baremul de corectare pentru proba scrisă la Limba și Literatura Română din cadrul Evaluării Naționale pentru absolvenții clasei a VIII-a din anul școlar 2022-2023.
+- Proba s-a desfășurat luni, 19 iunie 2023, între orele 9:00 și 11:00, iar subiectele au fost diferite în funcție de profilul gimnazial urmat de elevi: real sau umanist.
+- Baremul de corectare conține criteriile și punctajele pentru fiecare cerință din subiecte, precum și exemple de răspunsuri corecte sau incorecte.
+- Baremul poate fi consultat pe site-ul Ministerului Educației sau pe site-ul edu.ro.
 
 **Diplomele eliberate de universitățile din Republica Moldova vor fi disponibile și în format digital**
 
-- Articolul informează despre implementarea unui sistem informatic care va permite eliberarea diplomelor universitare în format digital în Republica Moldova.
-- Sistemul informatic se numește Diploma Supplement Label (DSL) și este finanțat de Uniunea Europeană prin programul Erasmus+.
-- DSL va facilita recunoașterea diplomelor moldovenești în spațiul european și va oferi angajatorilor posibilitatea de a verifica autenticitatea diplomelor online.
-- DSL va fi implementat treptat în toate universitățile din Republica Moldova până la sfârșitul anului 2023.
+- Articolul informează că Ministerul Educației, Culturii și Cercetării din Republica Moldova a semnat un acord cu o companie specializată în tehnologii blockchain pentru a implementa un sistem de emitere și verificare a diplomelor universitare în format digital.
+- Sistemul va permite absolvenților să își descarce diplomele pe dispozitivele mobile sau pe calculatoare și să le partajeze cu angajatorii sau alte instituții de învățământ din orice țară.
+- Sistemul va asigura securitatea și autenticitatea diplomelor, eliminând riscul falsificării sau pierderii acestora.
+- Sistemul va fi implementat treptat în toate universitățile din Republica Moldova începând cu anul academic 2023-2024.
 
 ## 🏫 Despre greva profesorilor
 
-- Greva profesorilor din România este prima din ultimii 18 ani și are ca principal motiv nemulțumirea față de salarizarea personalului didactic și nedidactic din învățământ[^1^] [^2^] [^4^].
-- Greva a început pe 22 mai 2023 și se preconizează că va dura până când Guvernul va accepta să majoreze salariile conform Legii-cadru nr. 153/2017[^1^] [^2^] [^4^].
-- Greva afectează desfășurarea cursurilor și a examenelor naționale, precum Evaluarea Națională și Bacalaureatul, și creează dificultăți pentru elevi, părinți și autorități[^1^] [^2^] [^3^] [^4^].
-- Negocierile dintre Guvern și sindicate au eșuat până acum, iar Ministerul Educației a anunțat că lucrează la elaborarea unor acte normative pentru salarizarea personalului nedidactic, fără a menționa situația personalului didactic[^1^] [^5^].
+- Greva profesorilor din România a început pe 22 mai 2023 și este prima grevă generală din ultimii 18 ani.
+- Profesorii revendică majorarea salariilor conform legii, respectiv o creștere cu 50% față de nivelul din 2021, precum și acordarea unor sume anuale din fonduri europene pentru dezvoltarea profesională.
+- Guvernul a propus o majorare salarială în două tranșe, una de la 1 ianuarie 2024 și alta de la 1 ianuarie 2025, precum și acordarea unui bonus de 2.000 de lei pe an pentru profesorii debutanți și o creștere de maximum 8% pentru personalul nedidactic.
+- Sindicatele au respins oferta guvernului și au cerut adoptarea unei ordonanțe de urgență care să concretizeze promisiunile. Guvernul a publicat proiectul de OUG și așteaptă un răspuns din partea sindicatelor până luni, 12 iunie 2023, la ora 10:00.
 
 
 <sub><sub>Acest text a fost generat automat de BingAI folosind ultimele informatii de pe Edupedu, precum si de pe alte site-uri de stiri. Deci, nu te baza pe el pentru a lua decizii importante :)</sub></sub>
