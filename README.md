@@ -1,35 +1,31 @@
 # 👩‍🏫 Totul despre greva
-<sub>Ultima actualizare: 19/06/2023 07:14:15</sub>
+<sub>Ultima actualizare: 19/06/2023 08:12:42</sub>
 
 <sub>Disclaimer: Tine minte sa verifici si sursele de actualitate. Acest site este doar un instrument de indrumare: nu il lua ad litteram - poate produce informatii partial gresite :)</sub>
 
+**Evaluare Națională 2023. Proba scrisă la Limba română începe la ora 9. Elevii intră în clase până la ora 8:30**
+- Articolul prezintă regulile și sfaturile pentru elevii care susțin examenul de Evaluare Națională 2023 la Limba și literatura română.
+- Probele scrise încep la ora 9:00, iar elevii au la dispoziție două ore pentru rezolvarea subiectelor.
+- Accesul în săli este permis de la ora 8:00 până la ora 8:30, iar elevii trebuie să respecte normele de siguranță sanitară și să nu aibă obiecte interzise în sală.
+- Subiectele și baremele de corectare vor fi publicate pe site-ul oficial edu.ro după terminarea probei.
+- Rezultatele finale vor fi afișate pe data de 4 iulie, după soluționarea contestațiilor.
+
+**Contestație pentru gradația de merit 2023 – model de cerere. Profesorii depun cererea în perioada 19-21 iunie**
+- Articolul oferă un model de cerere pentru profesorii care vor să conteste punctajul acordat pentru gradația de merit 2023.
+- Gradația de merit se acordă prin concurs și reprezintă o creștere cu 25% a salariului de bază pentru o perioadă de 5 ani.
+- Numărul maxim de gradații care pot fi acordate se calculează prin aplicarea a 16% din totalul posturilor didactice ocupate în luna februarie 2023, din care se scade numărul de gradații aflate în plată la 1 septembrie 2023.
+- Candidații au dreptul de a contesta punctajul acordat, la inspectoratul școlar, în perioada 19-21 iunie, prin depunerea unei cereri tip, care conține și o declarație pe proprie răspundere.
+
 **ULTIMA ORĂ Peste 15.000 de elevi care erau în clasa a VIII-a la începutul acestui an școlar nu au fost înscriși la Evaluarea Națională, conform datelor Ministerului Educației**
-
-- Articolul prezintă situația alarmantă a abandonului școlar în România, unde peste 15.000 de elevi din clasa a VIII-a nu s-au înscris la examenul de Evaluare Națională din 2023.
-- Potrivit datelor Ministerului Educației, rata de participare la examen a fost de doar 84%, cea mai scăzută din ultimii ani.
-- Cauzele abandonului școlar sunt multiple și complexe, dar printre ele se numără sărăcia, lipsa de sprijin familial, migrația părinților, lipsa de interes pentru învățare sau dificultatea materiilor.
-- Articolul citează și opinia unor experți în educație, care atrag atenția asupra consecințelor negative ale abandonului școlar pe termen lung, atât pentru indivizi, cât și pentru societate.
-
-**Prognoza meteo în perioada examenelor de la Evaluarea Națională 2023, de la ANM: Vremea va fi instabilă, cu înnorări și posibile averse. Temperaturile urcă până la 32 de grade în București**
-
-- Articolul informează despre condițiile meteorologice din perioada examenelor de la Evaluarea Națională 2023, care se desfășoară între 23 și 26 iunie.
-- Potrivit Administrației Naționale de Meteorologie (ANM), vremea va fi instabilă în majoritatea regiunilor țării, cu înnorări temporare și posibile averse sau furtuni izolate.
-- Temperaturile maxime vor varia între 22 și 32 de grade Celsius, iar cele minime între 10 și 20 de grade Celsius.
-- Articolul oferă și prognoza detaliată pentru fiecare zi de examen și pentru principalele orașe din România.
-
-**Proteste ale profesorilor în Ungaria față de un proiect de lege care le mărește volumul de muncă și evaluează performanțele, considerat o răzbunare a Guvernului pentru criticii din școli**
-
-- Articolul relatează despre manifestațiile organizate de profesorii din Ungaria împotriva unui proiect de lege care le-ar impune mai multe sarcini administrative și le-ar evalua periodic performanțele.
-- Profesorii consideră că proiectul de lege este o formă de represiune politică din partea Guvernului condus de Viktor Orban, care vrea să controleze mai strict conținutul și calitatea educației.
-- Protestele au avut loc în mai multe orașe din Ungaria, inclusiv în capitala Budapesta, unde mii de profesori au scandat lozinci precum "Nu suntem roboți" sau "Educația nu este o afacere".
-- Articolul menționează și reacția ministrului ungar al Educației, care a respins acuzațiile profesorilor și a susținut că proiectul de lege are ca scop îmbunătățirea sistemului educațional.
+- Articolul raportează că peste 17.000 de elevi care erau înscriși în clasa a VIII-a în luna aprilie nu au mai ajuns să fie înscriși la examenul de Evaluarea Națională 2022.
+- Acești elevi pot fi fără situația școlară încheiată, repetenți sau corigenți, pentru că dacă ar fi fost absolvenți ar fi fost automat înscriși la examen.
+- Numărul acestor elevi este echivalentul a peste 680 de clase și depășește numărul total al copiilor din București înscriși la Evaluarea Națională 2021.
+- Toți absolvenții clasei a VIII-a au un loc asigurat la liceu sau în învățământul profesional, indiferent dacă participă sau nu la Evaluarea Națională.
 
 ## 🏫 Despre greva profesorilor
-
-- Greva profesorilor din România este prima din ultimii 18 ani și a început pe 22 mai 2023, cu o durată nedeterminată.
-- Principala cerință a profesorilor este majorarea salariilor, care sunt printre cele mai mici din Uniunea Europeană, dar și respectarea legii privind salarizarea personalului plătit din fonduri publice.
-- Greva afectează peste 3 milioane de elevi și studenți din învățământul preuniversitar și universitar, care nu beneficiază de cursuri sau examene în această perioadă.
-- Greva are și implicații politice, fiind considerată de unii analiști un instrument de presiune asupra Guvernului Ciucă, care se confruntă cu o scădere a popularității și cu o opoziție tot mai vocală.
+- Analiza concretă și compactă a evoluției grevei profesorilor cu cele mai actuale date nu poate fi realizată fără a efectua o căutare pe web suplimentară, deoarece articolele trimise nu conțin informații relevante despre acest subiect.
+- Pentru a obține o analiză, vă rog să introduceți un nou mesaj cu unul sau mai multe link-uri către articole care tratează greva profesorilor, în limba română.
+- Vă mulțumesc pentru înțelegere și colaborare. 😊
 
 
 <sub><sub>Acest text a fost generat automat de BingAI folosind ultimele informatii de pe Edupedu, precum si de pe alte site-uri de stiri. Deci, nu te baza pe el pentru a lua decizii importante :)</sub></sub>
