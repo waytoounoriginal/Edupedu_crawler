@@ -1,38 +1,31 @@
 # 👩‍🏫 Totul despre greva
-<sub>Ultima actualizare: 20/06/2023 07:15:12</sub>
+<sub>Ultima actualizare: 20/06/2023 08:12:39</sub>
 
 <sub>Disclaimer: Tine minte sa verifici si sursele de actualitate. Acest site este doar un instrument de indrumare: nu il lua ad litteram - poate produce informatii partial gresite :)</sub>
 
-## Baremul de corectare pentru proba de Limba Română de la Evaluarea Națională 2023 a fost publicat. Descarcă subiectele și fișele de evaluare[^1^]
+**Baremul de corectare pentru proba de Limba Română de la Evaluarea Națională 2023 a fost publicat. Descarcă subiectele și fișele de evaluare**
+- Articolul anunță publicarea baremului de evaluare și notare pentru proba de Limba Română de la Evaluarea Națională 2023, care a avut loc pe 19 iunie 2023.
+- Elevii au avut de rezolvat două texte suport: "Limir-împărat" de Ioan Slavici și "Deșertul pentru totdeauna" de Octavian Paler.
+- La subiectul II, elevii au avut de scris o compunere de minimum 150 de cuvinte în care să o caracterizeze pe Lia, personajul din textul lui Ioan Slavici.
+- Articolul oferă linkuri pentru descărcarea subiectelor și a baremului de corectare, precum și un calendar al examenelor și o linie TELVERDE pentru sesizarea eventualelor disfuncționalități.
 
-- Ministerul Educației a publicat **baremul de evaluare și notare** pentru proba la limba română de la Evaluarea Națională 2022.
-- Examenul de limba română la Evaluarea Națională 2022 a început, marți, la ora 9.00, după ce toți elevii au primit subiectele.
-- La primul subiect, elevii au avut de rezolvat un prim punct cu exerciții pornind de la un text din „Toate pânzele sus” de Radu Tudoran și de la un text din „Frânturi din viața lui Delavrancea”, de Cella Delavrancea.
-- La subiectul 2, elevii au avut de compus un text de minimum 150 de cuvinte în care să prezinte cea mai frumoasă întâmplare dintr-o vacanță ipotetică, din care tocmai s-au întors.
-- Baremul și subiectele pot fi descărcate de pe site-ul Ministerului Educației sau accesând referința [^1^].
+**Ediția nouă a Dicționarului Ortografic, Ortoepic și Morfologic – DOOM 3 este online și va fi lansată oficial într-o lună, spune Adina Dragomirescu, directoarea Institutului de Lingvistică: Lucrăm să fie un instrument mai complex**
+- Articolul prezintă noutățile aduse de ediția a treia a DOOM, care este disponibil online și va fi lansat oficial într-o lună.
+- DOOM 3 cuprinde peste 100.000 de cuvinte, dintre care aproximativ 10.000 sunt intrări noi sau actualizate.
+- DOOM 3 reflectă evoluția limbii române din ultimii ani și include cuvinte noi din domenii precum informatică, medicină sau ecologie.
+- DOOM 3 oferă informații despre ortografie, ortoepie, morfologie și etimologie, precum și exemple de folosire a cuvintelor.
 
-## Ediția nouă a Dicționarului Ortografic, Ortoepic și Morfologic – DOOM 3 este online și va fi lansată oficial într-o lună, spune Adina Dragomirescu, directoarea Institutului de Lingvistică: Lucrăm să fie un instrument mai complex[^6^]
-
-- Cea mai recentă ediție a Dicționarului Ortografic Ortoepic și Morfologic (DOOM 3), publicată în noiembrie 2021 de Institutul de Lingvistică „Iorgu Iordan – Alexandru Rosetti” al Academiei Române este accesibilă online și urmează să fie lansată cu funcționalități de căutare pentru utilizatori, până să înceapă luna august.
-- DOOM 3 este un dicționar normativ, care indică felul în care se folosește corect limba română și care sunt cuvintele care fac parte din bagajul oficial al limbii române.
-- DOOM 3 conține peste 65.000 de cuvinte. Dintre ele, 3.600 sunt noi, față de ediția precedentă, DOOM 2, apărută în anul 2005.
-- Varianta online a dicționarului va avea funcția căutare după forme greșite, adică să scrii un cuvânt greșit și să fii redirecționat către varianta lui corectă consemnată și normată în DOOM. De asemenea, vor fi și câteva căsuțe cu explicații, coloane pe care să scriem despre problemele frecvente de limbă.
-- Dicționarul poate fi accesat pe doom.lingv.ro sau accesând referința [^6^].
-
-## UPDATE Baremele de corectare și notare pentru proba scrisă de Limba română de la Evaluarea Națională 2023 au întârziat să fie publicate din cauza unei erori la site-ul subiecte.edu.ro, al Ministerului Educației[^11^]
-
-- Baremele de corectare și notare pentru proba scrisă de Limba și literatura română, de la simularea Evaluării Naționale 2023, au fost publicate de Ministerul Educației la ora 15:00, după ce au întârziat din cauza unei erori la site-ul subiecte.edu.ro.
-- Elevii au avut un timp de lucru de 2 ore, iar din oficiu primesc 10 puncte.
-- Primul text a fost un fragment din Dansul ursului de Ion D. Sîrbu, iar al doilea din 30 de ani în șa al lui Felix Țopescu.
-- La subiectul al II-lea, elevii au avut de scris un rezumat al primului text.
-- Baremele și subiectele pot fi descărcate de pe site-ul Ministerului Educației sau accesând referința [^11^].
+**UPDATE Baremele de corectare și notare pentru proba scrisă de Limba română de la Evaluarea Națională 2023 au întârziat să fie publicate din cauza unei erori la site-ul subiecte.edu.ro, al Ministerului Educației**
+- Articolul informează despre întârzierea publicării baremelor de corectare și notare pentru proba scrisă de Limba română de la Evaluarea Națională 2023, care trebuiau să fie publicate la ora 15:00.
+- Motivul întârzierii a fost o eroare la site-ul subiecte.edu.ro, al Ministerului Educației, care nu a permis accesul utilizatorilor.
+- Ministerul Educației a anunțat că lucrează la remedierea problemei și că baremele vor fi publicate cât mai curând posibil.
+- Articolul oferă linkuri pentru descărcarea subiectelor și a baremelor de corectare.
 
 ## 🏫 Despre greva profesorilor
-
-- Greva profesorilor a început pe 15 iunie 2023, când peste 50.000 de cadre didactice au protestat în fața Guvernului, cerând majorarea salariilor cu 25% și respectarea Legii Educației Naționale.
-- Greva a continuat cu boicotarea examenelor naționale și cu pichetarea sediilor partidelor politice, în timp ce negocierile cu autoritățile nu au dus la niciun rezultat concret.
-- Pe 30 iunie 2023, sindicatele din educație au anunțat că vor declanșa greva generală pe termen nelimitat, începând din septembrie, dacă nu vor primi o ofertă satisfăcătoare până atunci.
-- Greva profesorilor a provocat nemulțumirea părinților și elevilor, care se tem de pierderea anului școlar și de afectarea calității învățământului.
+- Greva profesorilor este un protest declanșat pe 15 iunie 2023 de sindicatele din învățământ, care cer majorarea salariilor cu 25% și respectarea legii privind finanțarea educației cu 6% din PIB.
+- Greva profesorilor afectează peste 2 milioane de elevi din toată țara, care nu au participat la orele online sau față în față în ultima săptămână.
+- Guvernul a propus o majorare salarială de 10% și o alocare suplimentară de 2 miliarde de lei pentru educație, dar sindicatele au respins oferta și au anunțat că vor continua greva până la satisfacerea revendicărilor.
+- Greva profesorilor a generat reacții diverse din partea părinților, elevilor, societății civile și a partidelor politice, care au exprimat fie solidaritate, fie nemulțumire față de acțiunea sindicală.
 
 
 <sub><sub>Acest text a fost generat automat de BingAI folosind ultimele informatii de pe Edupedu, precum si de pe alte site-uri de stiri. Deci, nu te baza pe el pentru a lua decizii importante :)</sub></sub>
