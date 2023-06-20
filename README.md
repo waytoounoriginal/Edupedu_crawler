@@ -1,35 +1,31 @@
 # 👩‍🏫 Totul despre greva
-<sub>Ultima actualizare: 20/06/2023 12:13:19</sub>
+<sub>Ultima actualizare: 20/06/2023 13:12:45</sub>
 
 <sub>Disclaimer: Tine minte sa verifici si sursele de actualitate. Acest site este doar un instrument de indrumare: nu il lua ad litteram - poate produce informatii partial gresite :)</sub>
 
 **Liderul sindical Marius Nistor, la o săptămână de la suspendarea grevei generale din școli: Creșterile salariale pornesc de la 760 de lei net și ajung până la 1.420 de lei, conform ordonanței adoptate de guvern**
-
-- Articolul relatează declarațiile lui Marius Nistor, președintele Federației Sindicatelor din Educație „Spiru Haret”, despre rezultatele negocierilor cu guvernul privind majorările salariale pentru profesorii care au participat la greva generală din luna mai 2023.
-- Nistor afirmă că ordonanța de urgență adoptată de guvern prevede creșteri salariale între 760 și 1.420 de lei net pentru diferite categorii de personal didactic, începând cu 1 iunie 2023.
-- Nistor mai spune că ordonanța garantează și că salariul profesorului debutant va fi egal cu salariul mediu brut pe economie, iar diferența față de grila actuală va fi acoperită în proporție de 50% din 1 ianuarie 2024.
-- Nistor avertizează că dacă aceste prevederi nu vor fi respectate în noua lege a salarizării unitare, care urmează să fie depusă în Parlament la 1 septembrie 2023, greva se va relua.
+- Articolul prezintă declarațiile liderului sindical Marius Nistor despre creșterile salariale obținute de profesori după greva generală din mai 2023.
+- Nistor afirmă că majorările salariale sunt cuprinse între 760 și 1420 de lei net, în funcție de gradul didactic și vechimea în învățământ.
+- El spune că ordonanța adoptată de guvern prevede și acordarea unor sume anuale din fonduri europene pentru personalul din educație, care pot fi folosite pentru formare profesională sau dotare cu echipamente.
+- El mai susține că sindicatele vor continua să monitorizeze aplicarea ordonanței și vor cere respectarea drepturilor profesorilor.
 
 **Evaluare Națională 2023. La Matematică sunt permise marcajele pe figură. Un răspuns greșit poate fi corectat prin tăierea cu o linie orizontală**
-
-- Articolul informează despre regulile și recomandările pentru proba scrisă la Matematică din cadrul Evaluării Naționale 2023, care are loc miercuri, 21 iunie.
-- Articolul precizează că elevii pot face marcaje pe figurile geometrice din subiecte și pot completa figurile cu creion sau stilou/pix de culoare albastră.
-- Articolul mai menționează că un răspuns greșit poate fi corectat prin tăierea cu o linie orizontală și încercuirea altui răspuns considerat corect.
-- Articolul mai indică faptul că elevii primesc subiectele sub formă de broșură, care se predă la finalul probei, și că nu au voie să aibă în sălile de examen telefoane mobile, căști audio sau alte mijloace electronice de calcul sau comunicare.
+- Articolul prezintă regulile de evaluare la proba de matematică a examenului național pentru absolvenții clasei a VIII-a din 2023.
+- Potrivit articolului, elevii au voie să facă marcaje pe figurile geometrice din subiecte, dar nu pe cele desenate de ei.
+- De asemenea, elevii pot corecta un răspuns greșit prin tăierea cu o linie orizontală și scrierea răspunsului corect în continuare sau în alt loc pe foaia de examen.
+- Articolul mai menționează că elevii trebuie să respecte cerințele subiectelor și să scrie răspunsurile cu cifre arabe sau litere mari de tipar.
 
 **DOCUMENTE Scutirea de la plata cotizației de sindicat și acordarea de până la 500 de lei pentru profesorii care au fost în grevă generală în luna mai – măsuri ale unor sindicate din țară**
-
-- Articolul prezintă documente care atestă măsurile luate de unele sindicate din educație pentru a sprijini profesorii care au fost în grevă generală în luna mai 2023.
-- Articolul arată că Federația Sindicatelor Libere din Învățământ (FSLI) a decis să scutească de la plata cotizației sindicale pe luna mai toți membrii care au participat la grevă.
-- Articolul mai arată că Federația Sindicatelor din Educație „Spiru Haret” (FSESH) a decis să acorde o sumă forfetară de până la 500 de lei pentru membrii care au fost în grevă, în funcție de numărul de zile de participare.
-- Articolul mai explică că aceste măsuri au fost luate pentru a compensa pierderea veniturilor salariale cauzată de grevă și pentru a încuraja solidaritatea sindicală.
+- Articolul prezintă măsurile luate de unele sindicate din educație pentru a sprijini profesorii care au participat la greva generală din luna mai 2023.
+- Potrivit articolului, unele sindicate au decis să scutească profesorii de la plata cotizației de sindicat pentru luna mai sau iunie, în funcție de numărul zilelor de grevă.
+- De asemenea, unele sindicate au decis să acorde profesorilor o sumă de până la 500 de lei din fondul social al sindicatului, pentru a compensa pierderea salarială cauzată de grevă.
+- Articolul publică documentele emise de sindicate care atestă aceste măsuri.
 
 ## 🏫 Despre greva profesorilor
-
-- Greva profesorilor a fost declanșată pe 15 mai 2023, după ce guvernul nu a respectat promisiunile de majorare salarială și de egalizare a salariului profesorului debutant cu cel mediu pe economie.
-- Greva a fost suspendată pe 1 iunie 2023, după ce guvernul a adoptat o ordonanță de urgență care prevede creșteri salariale între 760 și 1.420 de lei net pentru personalul didactic, începând cu 1 iunie 2023, și garantează că salariul profesorului debutant va fi egal cu salariul mediu brut pe economie, iar diferența față de grila actuală va fi acoperită în proporție de 50% din 1 ianuarie 2024.
-- Liderii sindicali au avertizat că dacă aceste prevederi nu vor fi respectate în noua lege a salarizării unitare, care urmează să fie depusă în Parlament la 1 septembrie 2023, greva se va relua.
-- Greva a afectat desfășurarea examenelor naționale, care au fost amânate sau modificate, și a provocat nemulțumirea părinților și elevilor.
+- Greva profesorilor din România a fost prima din ultimii 18 ani și a durat trei săptămâni, între 22 mai și 11 iunie 2023[^1^] [^2^] [^5^].
+- Greva a fost declanșată de nemulțumirea față de salariile mici ale personalului din educație și a avut ca principală cerință majorarea salariilor conform legii[^2^] [^3^] [^5^].
+- Greva a fost suspendată după ce guvernul a adoptat o ordonanță de urgență care prevede creșteri salariale în două tranșe, în 2024 și 2025, și acordarea unor sume anuale din fonduri europene pentru personalul din educație[^1^] [^2^].
+- Greva a avut un impact bugetar de aproximativ 700 de milioane de lei, care se adaugă celor 2,2 miliarde de lei cât costă deciziile anterioare ale guvernului[^2^].
 
 
 <sub><sub>Acest text a fost generat automat de BingAI folosind ultimele informatii de pe Edupedu, precum si de pe alte site-uri de stiri. Deci, nu te baza pe el pentru a lua decizii importante :)</sub></sub>
