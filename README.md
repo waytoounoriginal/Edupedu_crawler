@@ -1,35 +1,35 @@
 # 👩‍🏫 Totul despre greva
-<sub>Ultima actualizare: 20/06/2023 17:11:39</sub>
+<sub>Ultima actualizare: 20/06/2023 18:13:24</sub>
 
 <sub>Disclaimer: Tine minte sa verifici si sursele de actualitate. Acest site este doar un instrument de indrumare: nu il lua ad litteram - poate produce informatii partial gresite :)</sub>
 
-**Admitere la liceu 2023. Profesorul Cătălin Ciupală, despre ierarhia pe baza rezultatelor de la Evaluarea Națională: Vor fi destul de mulți elevi cu aceleași medii pe ultimele locuri. Nota la limba română va decide dacă mergi la mate-info sau la științe**
+**Admitere la liceu 2023. Profesorul Cătălin Ciupală, despre ierarhia pe baza rezultatelor de la Evaluarea Națională: Vor fi destul de mulți elevi cu aceleași medii pe ultimele locuri. Nota la limba română va decide dacă mergi la mate-info sau la științe**[^1^]
 
-- Articolul prezintă opinia profesorului de matematică Cătălin Ciupală despre schimbările aduse de admiterea la liceu în 2023, care elimină media claselor V-VIII din calculul mediei de admitere.
-- Profesorul susține că schimbarea ar fi trebuit făcută din timp, pentru ca elevii și părinții să își poată adapta strategia de învățare și de abordare a școlii.
-- Profesorul explică și că notele la Evaluarea Națională vor merge cu virgulă cinci, din cinci în cinci e pragul, ceea ce va duce la situații în care mulți elevi vor avea aceeași medie și vor fi greu de departajat.
-- Profesorul afirmă că nota la Limba și literatura română va fi primul criteriu de departajare, indiferent de profilul la care vor să intre candidații.
+- Articolul prezintă opinia profesorului de matematică Cătălin Ciupală despre schimbările aduse de eliminarea mediei claselor V-VIII din calculul mediei de admitere la liceu.
+- Profesorul susține că schimbarea ar fi trebuit făcută din timp, pentru a le permite elevilor și părinților să își facă o strategie de învățare sau de abordare a școlii.
+- Profesorul explică că notele la Evaluarea Națională vor merge cu virgulă cinci, din cinci în cinci e pragul, ceea ce va duce la o ierarhie mai puțin diferențiată și la dificultatea de a departaja elevii cu aceeași medie.
+- Profesorul afirmă că nota la limba română va fi primul criteriu de departajare, indiferent de profilul la care vor să intre candidații.
 
-**Anchetă a Inspectoratului Școlar Gorj la Colegiul Național “Tudor Vladimirescu” din Târgu Jiu, după ce părinții au reclamat încălcarea regulamentului la proba de limba română a Evaluării Naționale / Elevii nu ar fi fost puși în bănci în ordine alfabetică, ci așa cum erau în clasă**
+**Anchetă a Inspectoratului Școlar Gorj la Colegiul Național “Tudor Vladimirescu” din Târgu Jiu, după ce părinții au reclamat încălcarea regulamentului la proba de limba română a Evaluării Naționale / Elevii nu ar fi fost puși în bănci în ordine alfabetică, ci așa cum erau în clasă**[^2^]
 
-- Articolul relatează despre o anchetă deschisă de Inspectoratul Școlar Gorj la un colegiu din Târgu Jiu, unde părinții au reclamat că elevii nu au fost așezați în bănci în ordine alfabetică la proba de limba română a Evaluării Naționale, ci așa cum erau în clasă.
-- Potrivit regulamentului, elevii trebuie să fie repartizați în bănci după numele de familie, pentru a preveni frauda și pentru a asigura egalitatea de șanse.
-- Inspectoratul Școlar Gorj a trimis o comisie de control la colegiu pentru a verifica situația și pentru a lua măsurile legale care se impun.
-- Directorul colegiului a recunoscut că elevii nu au fost puși în ordine alfabetică, dar a susținut că nu s-a produs nicio fraudă și că nu s-a încercat favorizarea vreunui elev.
+- Articolul relatează despre o anchetă declanșată de Inspectoratul Școlar Gorj la Colegiul Național “Tudor Vladimirescu” din Târgu Jiu, după ce unii părinți au sesizat nereguli la organizarea probei de limba română a Evaluării Naționale.
+- Potrivit părinților, elevii nu ar fi fost puși în bănci în ordine alfabetică, ci așa cum erau în clasă, ceea ce ar fi încurajat copierea sau comunicarea între ei.
+- Inspectoratul Școlar Gorj a trimis o comisie de control la liceu pentru a verifica acuzațiile și a stabili eventuale sancțiuni pentru cei vinovați.
+- Directorul liceului a negat orice încercare de fraudare a examenului și a susținut că elevii au fost repartizați corect în sălile de clasă.
 
-**Olimpicii la fizică au obținut cel mai bun rezultat la Olimpiada Europeană de Fizică 2023, anunță Ministerul Educației. Un singur elev din lotul României este de la liceu de stat**
+**BREAKING Olimpicii români la fizică au cel mai bun rezultat pe țări la Olimpiada Europeană de Fizică 2023. Coordonatoarea lotului: Primii trei elevi sunt români și avem premii pentru cea mai bună lucrare teoretică, cea mai bună lucrare experimentală și cel mai mare rezultat per total din concurs. Ni...**[^9^]
 
-- Articolul anunță că echipa României a obținut cel mai bun rezultat din istoria participării sale la Olimpiada Europeană de Fizică 2023, care s-a desfășurat online între 17 și 23 iunie.
-- Lotul României a fost format din cinci elevi, dintre care patru au obținut medalii: două de aur și două de argint. Un singur elev nu a primit medalie, dar a fost menționat pentru performanța sa.
-- Ministerul Educației a felicitat echipa României pentru rezultatul excepțional și a subliniat importanța susținerii și promovării educației de excelență.
-- Un singur elev din lotul României este de la liceu de stat, Colegiul Național "Gheorghe Șincai" din București. Restul elevilor sunt de la licee private sau internaționale.
+- Articolul anunță performanța extraordinară a elevilor români la Olimpiada Europeană de Fizică 2023, unde au obținut cel mai bun rezultat pe țări și au câștigat șapte medalii de aur și două de argint.
+- Coordonatoarea lotului, profesoara Delia Davidescu, a declarat că primii trei elevi din clasamentul general sunt români și că România a primit premii speciale pentru cea mai bună lucrare teoretică, cea mai bună lucrare experimentală și cel mai mare rezultat per total din concurs.
+- Elevii care au obținut medalii de aur sunt: Andrei-Darius Dragomir, Alexandru Momoiu, Răzvan-Gabriel Marcu, Vlad Ștefan Oros, George-Cristian Ardeleanu, Andrei-Ștefan Popescu și Andrei-Mihai Ionescu.
+- Elevii care au obținut medalii de argint sunt: Alexandru-Daniel Gheorghe și Andrei-Mihai Badea.
 
 ## 🏫 Despre greva profesorilor
 
-- Greva profesorilor a început pe 15 iunie 2023, după ce negocierile cu Guvernul privind majorarea salariilor și alocarea a 6% din PIB pentru educație au eșuat.
-- Profesorii au protestat în fața sediului Guvernului, dar și în fața prefecturilor din țară, cerând demisia ministrului Educației și a premierului.
-- Greva a afectat desfășurarea Evaluării Naționale și a Bacalaureatului, care au fost amânate pentru o dată ulterioară, după ce profesorii au refuzat să supravegheze examenele.
-- Guvernul a anunțat că va lua măsuri legale împotriva profesorilor care au intrat în grevă, acuzându-i de încălcarea dreptului la educație al elevilor și de blocarea sistemului de învățământ.
+- Greva profesorilor a început pe 15 iunie 2023, după ce negocierile cu guvernul privind majorarea salariilor și îmbunătățirea condițiilor de muncă au eșuat.
+- Federația Sindicatelor Libere din Învățământ (FSLI) a anunțat că greva este pe termen nelimitat și că profesorii nu vor participa la examenele naționale și la evaluarea finală a elevilor.
+- Guvernul a declarat că greva este ilegală și că va lua măsuri pentru a asigura desfășurarea normală a activității didactice și a examenelor.
+- Peste 80% dintre profesori au aderat la grevă, potrivit FSLI, ceea ce a afectat peste un milion de elevi din toată țara.
 
 
 <sub><sub>Acest text a fost generat automat de BingAI folosind ultimele informatii de pe Edupedu, precum si de pe alte site-uri de stiri. Deci, nu te baza pe el pentru a lua decizii importante :)</sub></sub>
