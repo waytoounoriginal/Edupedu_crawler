@@ -1,30 +1,38 @@
 # 👩‍🏫 Totul despre greva
-<sub>Ultima actualizare: 21/06/2023 15:21:58</sub>
+<sub>Ultima actualizare: 21/06/2023 16:17:06</sub>
 
 <sub>Disclaimer: Tine minte sa verifici si sursele de actualitate. Acest site este doar un instrument de indrumare: nu il lua ad litteram - poate produce informatii partial gresite :)</sub>
 
 **Baremul de corectare pentru proba de Matematică de la Evaluarea Națională 2023**
-- Baremul a fost publicat pe 21 iunie 2023, la ora 15:00[^2^] [^3^] [^4^] [^5^]
-- Baremul conține răspunsurile corecte și punctajele alocate pentru fiecare subiect[^2^] [^3^]
-- Baremul poate fi consultat online pe site-ul Ministerului Educației sau pe alte surse de informare[^2^] [^3^] [^4^] [^5^]
 
-**Peste 7.400 de elevi au lipsit la proba de Matematică din cadrul Evaluării Naționale 2023, potrivit datelor Ministerului Educației. Un singur candidat a fost eliminat**
-- Proba de Matematică a avut loc pe 21 iunie 2023, între orele 9:00 și 11:00
-- Din cei 149.000 de elevi înscriși la examen, au participat 141.600
-- Un singur elev a fost eliminat pentru fraudă
-- Rata de participare a fost de 95%
+- Ministerul Educației a publicat baremul de corectare pentru proba de Matematică de la Evaluarea Națională 2023 pe 21 iunie 2023[^1^] [^2^].
+- Proba de Matematică a avut loc în aceeași zi și a durat 120 de minute[^1^] [^2^].
+- Elevii au avut de rezolvat trei subiecte cu dificultate progresivă, care au vizat competențe precum calcul algebric, funcții, geometrie, probabilități și statistici[^2^].
+- Baremul oferă răspunsurile corecte și punctajele aferente pentru fiecare subiect și item[^1^] [^2^].
+- Proba de Matematică este una dintre cele trei probe scrise ale Evaluării Naționale 2023, alături de Limba și literatura română și Limba și literatura maternă[^2^].
 
-**Așezarea elevilor în sălile de examen doar cu colegi din clasă, la Evaluarea Națională, considerată legală de Inspectoratul Școlar Gorj, după sesizarea unui părinte privind încălcarea procedurii la Colegiul Național „Tudor Vladimirescu” din Târgu Jiu / Secretarul de stat Lixandru susține că ar fi o ...**
-- Un părinte a reclamat că fiica sa a fost repartizată într-o sală de examen doar cu colegi din clasă, ceea ce ar încălca procedura care prevede repartizarea aleatorie a elevilor
-- Inspectoratul Școlar Gorj a verificat situația și a constatat că nu s-a încălcat nicio regulă, ci s-a aplicat o măsură preventivă pentru limitarea răspândirii COVID-19
-- Secretarul de stat Sorin Ion a declarat că această măsură nu este prevăzută în metodologia examenului și că ar trebui să se respecte principiul aleatoriu al repartizării elevilor
-- Directorul Colegiului Național „Tudor Vladimirescu” din Târgu Jiu a susținut că nu a primit nicio sesizare oficială și că nu are cunoștință despre vreo încălcare a procedurii
+**Liceeni din Buzău, aduși de senatoarea Nicoleta Pauliuc la un eveniment în Parlament în care industria tutunului și două cercetătoare de la SNSPA au promovat politici publice mai blânde pentru produsele din tutun încălzit**
+
+- Senatoarea Nicoleta Pauliuc a organizat o dezbatere la Parlament pe 25 aprilie 2023 despre importanța promovării unor politici publice de sănătate, ținând cont de cercetarea academică în domeniu[^5^].
+- La eveniment au participat 47 de liceeni buzoieni de la Liceul Teoretic ,,Nicolae Iorga” din Nehoiu, în cadrul programului ,,Școala altfel”[^5^].
+- Discuția s-a concentrat în jurul a patru factori nocivi pentru sănătate: zahărul, alcoolul, tutunul și poluarea[^5^].
+- Suportul pentru discuție a fost oferit de o lucrare de cercetare științifică realizată de două cercetătoare de la SNSPA (Universitatea Națională de Studii Politice și Administrație Publică), care au prezentat date despre consumul și percepția produselor din tutun încălzit în România[^5^].
+- Lucrarea susține că produsele din tutun încălzit sunt mai puțin dăunătoare decât cele clasice și că ar trebui reglementate diferit, în concordanță cu recomandările Organizației Mondiale a Sănătății[^5^].
+
+**Peste 7.400 de elevi au lipsit la proba de Matematică din cadrul Evaluării Naționale 2023**
+
+- Peste 7.400 de elevi nu s-au prezentat la proba scrisă de Matematică din cadrul Evaluării Naționale 2023, potrivit unui comunicat al Ministerului Educației[^7^] [^8^] [^9^].
+- Rata de prezență la proba de Matematică a fost de 95,4%, iar un singur candidat a fost eliminat pentru tentativă de fraudă[^7^] [^8^] [^9^].
+- Au fost înscriși la Evaluarea Națională 2023 161.654 de elevi, potrivit secretarului de stat Florian Lixandru[^7^] [^8^] [^9^].
+- Proba de Matematică a fost a doua probă scrisă din cadrul Evaluării Naționale 2023, după cea de Limba și literatura română, care a avut loc pe 19 iunie[^7^] [^8^] [^9^].
+- Următoarea și ultima probă scrisă este cea de Limba și literatura maternă, care se va desfășura pe 22 iunie[^7^] [^8^] [^9^].
 
 ## 🏫 Despre greva profesorilor
-- Greva profesorilor este un protest declanșat pe 20 iunie 2023 de sindicatele din educație care cer majorarea salariilor cu 25% și respectarea legii privind finanțarea educației cu 6% din PIB
-- Greva este susținută de peste 80% dintre cadrele didactice din învățământul preuniversitar și universitar
-- Greva afectează desfășurarea Evaluării Naționale și a Bacalaureatului, precum și activitatea din școli și universități
-- Ministerul Educației a propus o creștere salarială de 10% și o finanțare de 5% din PIB pentru educație, dar sindicatele au respins oferta și au anunțat că vor continua greva până la obținerea revendicărilor
+
+- Greva profesorilor a început pe 15 iunie 2023, ca urmare a nemulțumirilor legate de salarizare, condițiile de muncă și lipsa dialogului social cu autoritățile[^10^].
+- Profesorii au cerut majorarea salariului minim brut pe economie la 3.000 de lei, creșterea coeficienților de salarizare pentru personalul didactic și nedidactic, acordarea tuturor sporurilor prevăzute de lege și plata orelor suplimentare[^10^].
+- Greva a afectat desfășurarea Evaluării Naționale 2023 și a examenului de Bacalaureat 2023, întrucât profesorii au refuzat să participe la corectarea lucrărilor scrise sau la susținerea probelor orale[^10^].
+- După mai multe runde de negocieri cu reprezentanții Ministerului Educației și ai Guvernului, sindicatele din învățământ au semnat pe 20 iunie 2023 un protocol care prevede soluționarea revendicărilor salariale până la sfârșitul anului 2023 și reluarea activității didactice începând cu 21 iunie 2023[^10^].
 
 
 <sub><sub>Acest text a fost generat automat de BingAI folosind ultimele informatii de pe Edupedu, precum si de pe alte site-uri de stiri. Deci, nu te baza pe el pentru a lua decizii importante :)</sub></sub>
