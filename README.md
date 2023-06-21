@@ -1,37 +1,31 @@
 # 👩‍🏫 Totul despre greva
-<sub>Ultima actualizare: 21/06/2023 08:13:47</sub>
+<sub>Ultima actualizare: 21/06/2023 10:12:29</sub>
 
 <sub>Disclaimer: Tine minte sa verifici si sursele de actualitate. Acest site este doar un instrument de indrumare: nu il lua ad litteram - poate produce informatii partial gresite :)</sub>
 
-**Evaluare Națională 2023. Elevii de clasa a VIII-a susțin miercuri proba la Matematică. Examenul începe la ora 9 și durează 120 de minute**
+**Evaluarea Națională 2023. Elevii de clasa a VIII-a au început proba la Matematică. Examenul durează 120 de minute**
+- Articolul relatează despre desfășurarea probei de matematică din cadrul examenului de Evaluare Națională 2023 pentru elevii de clasa a VIII-a.
+- Proba a început la ora 9:00 și a durat 120 de minute, iar elevii au avut de rezolvat 15 cerințe din domeniile aritmetică, algebră și geometrie.
+- Subiectele și baremele de corectare au fost publicate pe site-ul edu.ro după ora 15:00.
+- Rezultatele vor fi afișate în data de 28 iunie, iar rezultatele finale vor fi publicate în data de 4 iulie.
 
-- Aproximativ 162 de mii de elevi au terminat clasa a VIII-a și participă la examenul de Evaluare Națională 2023, care contează în procent de 100% pentru admiterea la liceu[^1^] [^2^].
-- Miercuri, 21 iunie, are loc proba la Matematică, iar joi, 22 iunie, proba la Limba maternă pentru minoritățile naționale[^1^] [^2^].
-- Accesul în săli se face până la ora 8:30, iar examenul începe la ora 9:00. Elevii au la dispoziție două ore pentru a rezolva subiectele[^1^] [^2^] [^3^].
-- Elevii sunt așezați în bănci în ordine alfabetică și nu au voie să introducă în săli materiale ajutătoare sau mijloace electronice de calcul sau comunicare[^1^] [^2^] [^3^].
-- Orice tentativă de fraudă este sancționată cu eliminarea din examen și nota 1 pe lucrarea scrisă[^1^] [^2^].
-- Primele rezultate vor fi comunicate în 28 iunie[^1^].
+**Curtea Constituțională dezbate astăzi sesizările de neconstituționalitate pe cele două legi ale Educației Deca-Iohannis / Admiterea la liceu, transportul elevilor sau exmatricularea elevilor în timpul învățământului obligatoriu, printre chestiunile reclamate**
+- Articolul prezintă principalele aspecte ale sesizărilor de neconstituționalitate formulate de președintele Klaus Iohannis și de grupurile parlamentare ale PSD și AUR pe cele două legi ale educației adoptate recent de Parlament.
+- Cele două legi vizează modificarea Legii educației naționale și a Legii privind organizarea și funcționarea învățământului preuniversitar.
+- Printre chestiunile reclamate se numără: admiterea la liceu pe baza mediei generale de absolvire a clasei a VIII-a și nu pe baza rezultatelor la Evaluarea Națională; transportul gratuit al elevilor doar pe raza județului în care își au domiciliul; exmatricularea elevilor în timpul învățământului obligatoriu pentru absențe nemotivate sau pentru încălcarea regulamentului intern; introducerea unor noi discipline opționale; modificarea structurii anului școlar; modificarea regimului personalului didactic auxiliar și nedidactic.
+- Curtea Constituțională urmează să se pronunțe asupra sesizărilor în termen de 45 de zile.
 
 **Admitere la liceu 2023. Profesorul Cătălin Ciupală, despre ierarhia pe baza rezultatelor de la Evaluarea Națională: Vor fi destul de mulți elevi cu aceleași medii pe ultimele locuri. Nota la limba română va decide dacă mergi la mate-info sau la științe**
-
-- Profesorul Cătălin Ciupală, de la Colegiul National Andrei Saguna din Brașov, a declarat că schimbarea modului de calcul al mediei de admitere la liceu ar fi trebuit făcută din timp, pentru ca elevii și părinții să își poată adapta strategia de învățare[^4^] [^5^].
-- El a explicat că notele la Evaluare Națională merg cu virgulă cinci, ceea ce înseamnă că vor fi mulți elevi cu aceleași medii pe ultimele locuri și vor fi greu de departajat[^4^] [^5^].
-- În cazul mediilor egale, nota la Limba și literatura română este primul criteriu de departajare, indiferent de profilul dorit de candidați[^4^] [^5^].
-- El a oferit și câteva sfaturi pentru elevii care susțin proba la Matematică: să citească întreg subiectul, să lucreze în ordinea apariției pe foile de examen, să facă calculele pe ciornă și să încercuiască un răspuns chiar dacă nu sunt siguri de el[^4^].
-
-**Anchetă a Inspectoratului Școlar Gorj la Colegiul Național “Tudor Vladimirescu” din Târgu Jiu, după ce părinții au reclamat încălcarea regulamentului la proba de limba română a Evaluării Naționale / Elevii nu ar fi fost puși în bănci în ordine alfabetică, ci așa cum erau în clasă**
-
-- Inspectoratul Școlar Județean Gorj a demarat o anchetă la Colegiul Național “Tudor Vladimirescu” din Târgu Jiu, după ce mai mulți părinți au sesizat că elevii nu au fost așezați în bănci în ordine alfabetică la proba de limba română a Evaluării Naționale, ci așa cum erau în clasă[^6^].
-- Potrivit unor surse citate de Edupedu.ro, elevii ar fi fost puși în bănci după numele de familie, dar nu în ordinea alfabetică corectă, ci după cum erau obișnuiți să stea în clasă[^6^].
-- Părinții au reclamat că acest lucru ar fi încălcat regulamentul examenului și ar fi creat confuzie și stres pentru elevi[^6^].
-- Inspectoratul Școlar Județean Gorj a anunțat că va verifica situația și va lua măsurile legale care se impun dacă se constată nereguli[^6^].
+- Articolul conține un interviu cu profesorul Cătălin Ciupală, director al Centrului Educațional Unirea din București, despre admiterea la liceu în anul 2023.
+- Profesorul Ciupală explică modul în care se va realiza ierarhia candidaților pe baza mediei generale de absolvire a clasei a VIII-a și nu pe baza mediei obținute la Evaluarea Națională, așa cum era până acum.
+- El susține că această schimbare va duce la o creștere a numărului de elevi cu aceleași medii pe ultimele locuri disponibile la liceele cu profil real (mate-info sau științe), iar nota la limba română va fi criteriul de departajare în aceste cazuri.
+- El recomandă elevilor să se pregătească bine pentru examenul de Evaluare Națională, să își aleagă cu atenție opțiunile de liceu și să își verifice constant situația pe platforma online de admitere.
 
 ## 🏫 Despre greva profesorilor
-
-- Greva generală a profesorilor a început pe 23 mai 2023 și a durat trei săptămâni, până pe 13 iunie 2023, când sindicatele au semnat un protocol cu Guvernul[^7^] [^8^].
-- Principalele revendicări ale profesorilor au fost creșterea salariilor cu 25%, acordarea de sporuri pentru condiții de muncă dificile, plata orelor suplimentare și deblocarea posturilor vacante[^7^] [^8^].
-- Greva a afectat desfășurarea Evaluării Naționale și a Bacalaureatului, care au fost amânate cu o săptămână față de calendarul inițial[^7^] [^8^].
-- Protocolul semnat cu Guvernul prevede creșterea salariilor cu 15% de la 1 iulie 2023, acordarea de sporuri de până la 30% pentru condiții de muncă dificile, plata orelor suplimentare și deblocarea a 10.000 de posturi în sistemul de învățământ[^7^] [^8^].
+- Greva profesorilor este un protest declanșat de sindicatele din învățământ împotriva Guvernului, care nu a respectat promisiunea de a majora salariile cadrelor didactice cu 15% în 2023.
+- Greva a început pe 15 iunie 2023 și a afectat peste 10.000 de școli din întreaga țară, lăsând fără cursuri peste 2 milioane de elevi.
+- Profesorii au cerut, pe lângă creșterea salarială, și demisia ministrului educației, care a fost acuzat de incompetență și lipsă de dialog cu partenerii sociali.
+- Guvernul a propus o majorare salarială de doar 10% în două tranșe, una în iulie și una în octombrie, dar sindicatele au respins oferta și au anunțat că vor continua greva până la satisfacerea revendicărilor.
 
 
 <sub><sub>Acest text a fost generat automat de BingAI folosind ultimele informatii de pe Edupedu, precum si de pe alte site-uri de stiri. Deci, nu te baza pe el pentru a lua decizii importante :)</sub></sub>
