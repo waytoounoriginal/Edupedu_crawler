@@ -1,31 +1,35 @@
 # 👩‍🏫 Totul despre greva
-<sub>Ultima actualizare: 21/06/2023 13:14:04</sub>
+<sub>Ultima actualizare: 21/06/2023 14:12:09</sub>
 
 <sub>Disclaimer: Tine minte sa verifici si sursele de actualitate. Acest site este doar un instrument de indrumare: nu il lua ad litteram - poate produce informatii partial gresite :)</sub>
 
-- **BREAKING Legile educației sunt constituționale, a decis CCR. Urmează să fie promulgate de președintele Iohannis**
-    - Curtea Constituțională a respins sesizările de neconstituționalitate depuse de USR și Forța Dreptei, care vizau procedura de adoptare a legilor educației și unele prevederi privind admiterea la liceu, transportul elevilor și exmatricularea elevilor în timpul învățământului obligatoriu[^2^] [^3^] [^4^].
-    - Legile educației au fost adoptate de Senat pe 22 mai 2023, după ce fuseseră inițiate de președintele Klaus Iohannis în cadrul proiectului „România Educată”[^3^].
-    - Legile educației prevăd reforme în domeniile învățământului superior, învățământului dual, salarizării cadrelor didactice și cercetare, dar și măsuri de protecție a plagiatorilor și de feudalizare a universităților, după cum au criticat opoziția și sindicatele[^4^] [^5^].
-    - Președintele Iohannis are termen 20 de zile pentru a promulga legile educației sau pentru a le trimite înapoi Parlamentului pentru reexaminare[^2^].
+**Așezarea elevilor în sălile de examen, la Evaluarea Națională, doar cu colegi din clasă, considerată legală de Inspectoratul Școlar Gorj, după sesizarea unui părinte că s-ar fi încălcat procedura la Colegiul Național “Tudor Vladimirescu” din Târgu Jiu / Este o interpretare conformă cu metodologia, s...**
 
-- **UPDATE Evaluarea Națională 2023. Cei mai mulți elevi de clasa a VIII-a au încheiat proba la Matematică. Examenul a început la ora 9 / Subiectele pe care le-au avut de rezolvat**
-    - Proba la Matematică a Evaluării Naționale 2023 s-a desfășurat pe 21 iunie 2023, între orele 9:00 și 11:00[^6^] [^7^] [^8^].
-    - Subiectele au fost alcătuite din patru cerințe cu grad diferit de dificultate, care au vizat competențe precum calcul numeric și algebric, geometrie plană și spațială, funcții și ecuații, statistici și probabilități[^7^] [^8^].
-    - Baremul de corectare va fi publicat pe site-ul Ministerului Educației după finalizarea probei scrise[^7^] [^8^].
-    - Rezultatele inițiale vor fi afișate pe 28 iunie 2023, iar cele finale după soluționarea contestațiilor pe 4 iulie 2023[^6^].
+- Articolul relatează cazul unui părinte care a reclamat că fiica sa a fost așezată în sala de examen la Evaluarea Națională doar cu colegi din clasă, ceea ce ar încălca procedura de repartizare aleatorie a elevilor[^1^].
+- Inspectoratul Școlar Gorj a răspuns că nu s-a încălcat nicio regulă și că este o interpretare conformă cu metodologia de organizare a examenului[^1^].
+- Metodologia prevede că elevii pot fi repartizați în săli diferite de cele în care au învățat sau pot fi amestecați cu elevi din alte clase sau școli[^1^].
+- Purtătorul de cuvânt al Inspectoratului Școlar Gorj a explicat că nu există o obligație de a amesteca elevii și că decizia aparține comisiei de examen din fiecare unitate de învățământ[^1^].
 
-- **Solstițiul de vară 2023: Vara astronomică începe astăzi la ora 18 / Perioada de lumină zilnică va fi din ce în ce mai mică timp de 6 luni**
-    - Solstițiul de vară este momentul când unul dintre polii Pământului are înclinarea maximă față de Soare și când ziua este cea mai lungă din an în emisfera nordică[^9^] [^10^] [^11^].
-    - Solstițiul de vară 2023 a avut loc pe 21 iunie 2023 la ora 18:00 (ora României), marcând începutul verii astronomice în emisfera nordică și al iernii astronomice în emisfera sudică[^9^] [^11^].
-    - După solstițiul de vară, durata zilei începe să scadă treptat, iar cea a nopții să crească, până la solstițiul de iarnă, care va avea loc pe 21 decembrie 2023[^9^] [^10^].
-    - Solstițiul de vară este sărbătorit în diferite culturi și tradiții, ca un simbol al renașterii, al fertilității și al luminii, prin ritualuri și ceremonii speciale[^10^] [^13^].
+**Sute de părinţi din Sectorul 3 al Capitalei și-au petrecut noaptea în faţa şcolilor pentru a-și înscrie copiii la „școala de vară” din cauza faptului că „dosarul online se depune la secretariat” / Primăria spune că modalitatea de înscriere cu dosar fizic a fost stabilită de Inspectoratul Școlar Bucu...**
+
+- Articolul prezintă situația neplăcută în care s-au aflat sute de părinți care au vrut să își înscrie copiii la „școala de vară” organizată de Primăria Sectorului 3[^2^].
+- Deși primarul Robert Negoiță anunțase că înscrierile se pot face online, părinții au fost nevoiți să depună dosare fizice la secretariatele școlilor[^2^].
+- Acest lucru a generat aglomerație și cozi interminabile, unii părinți ajungând să doarmă pe stradă pentru a prinde un loc disponibil[^2^].
+- Primăria Sectorului 3 a dat vina pe Inspectoratul Școlar București pentru modalitatea de înscriere cu dosar fizic și a promis că va rezolva problema cât mai curând[^2^].
+
+**Rezolvarea subiectelor la Matematică, Evaluarea Națională 2023. Profesoara Florentina Pavăl: Subiectele au fost ușoare, problema 5 de la subiectul al III-lea a fost puțin mai dificilă**
+
+- Articolul prezintă rezolvarea subiectelor la Matematica de la Evaluarea Națională 2023 realizată de profesoara Florentina Pavăl, de la Colegiul Național “Nicu Gane” din Fălticeni[^3^].
+- Profesoara a considerat că subiectele au fost ușoare și au respectat programa școlară, cu excepția problemei 5 de la subiectul al III-lea, care a fost puțin mai dificilă[^3^].
+- Problema 5 cerea elevilor să calculeze aria unui triunghi echilateral înscris într-un cerc de rază 2 cm, folosind formula lui Heron[^3^].
+- Profesoara a explicat pașii de rezolvare și a oferit soluția corectă, care este 1,732 cm^2^[^3^].
 
 ## 🏫 Despre greva profesorilor
-- Greva profesorilor a început pe 7 iunie 2023, ca protest față de legile educației promovate de președintele Iohannis și de ministrul Cîmpeanu, care ar afecta calitatea învățământului și drepturile cadrelor didactice[^14^] .
-- Greva profesorilor a fost organizată de Federația Sindicatelor Libere din Învățământ (FSLI), care a cerut retragerea legilor educației din Parlament, majorarea salariilor cu 25%, acordarea de sporuri pentru condiții de muncă dificile și asigurarea unui buget de 6% din PIB pentru educație[^14^] .
-- Greva profesorilor a fost susținută de peste 80% dintre cadrele didactice din învățământul preuniversitar, potrivit FSLI, care a anunțat că va continua protestele până la obținerea revendicărilor[^14^] .
-- Greva profesorilor a afectat desfășurarea Evaluării Naționale 2023 și a Bacalaureatului 2023, care au fost perturbate de absența unor profesori supraveghetori sau evaluatori sau de boicotarea unor subiecte de examen[^14^] .
+
+- Greva profesorilor a început pe 13 iunie 2023 și a fost declanșată de Federația Sindicatelor Libere din Învățământ (FSLI), care cere majorarea salariilor cu 25% și respectarea legii privind finanțarea educației[^4^].
+- Greva a afectat desfășurarea Evaluării Naționale și a Admiterii la liceu, deoarece profesorii nu au participat la corectarea lucrărilor și la supravegherea examenelor[^4^].
+- Ministerul Educației a luat măsuri pentru asigurarea continuității procesului educațional, cum ar fi suplimentarea numărului membrilor în comisiile de examen, recrutarea de profesori din alte județe sau din mediul privat și aplicarea de sancțiuni disciplinare celor care refuză să își îndeplinească atribuțiile[^4^].
+- Negocierile dintre sindicate și guvern nu au dus la niciun rezultat concret până în prezent, iar FSLI amenință cu continuarea grevei și cu organizarea unor proteste de amploare în toată țara[^4^].
 
 
 <sub><sub>Acest text a fost generat automat de BingAI folosind ultimele informatii de pe Edupedu, precum si de pe alte site-uri de stiri. Deci, nu te baza pe el pentru a lua decizii importante :)</sub></sub>
