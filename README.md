@@ -1,35 +1,35 @@
 # 👩‍🏫 Totul despre greva
-<sub>Ultima actualizare: 22/06/2023 10:11:43</sub>
+<sub>Ultima actualizare: 22/06/2023 11:15:45</sub>
 
 <sub>Disclaimer: Tine minte sa verifici si sursele de actualitate. Acest site este doar un instrument de indrumare: nu il lua ad litteram - poate produce informatii partial gresite :)</sub>
 
+**Programele disciplinelor opționale „Sisteme de scriere și codificare”, „Sisteme de numerație” și „Matematica în natură și arte”, publicate în Monitorul Oficial. Exemple de probleme rezolvate pentru elevii de gimnaziu**
+
+- Ministerul Educației a publicat în Monitorul Oficial programele disciplinelor opționale pentru ciclul gimnazial: „Sisteme de scriere și codificare”, „Sisteme de numerație” și „Matematica în natură și arte”[^1^].
+- Aceste discipline au fost propuse de Asociația Profesorilor de Matematică din România (APMR) și au ca scop dezvoltarea competențelor matematice ale elevilor prin abordarea unor teme interdisciplinare și interculturale[^1^].
+- Programele conțin obiective generale și specifice, conținuturi, metode și strategii didactice, precum și exemple de probleme rezolvate pentru fiecare disciplină[^1^].
+- Disciplinele opționale se adresează elevilor din clasele a V-a – a VIII-a și se pot organiza la cererea a cel puțin 15 elevi dintr-o unitate de învățământ[^1^].
+
+**Mai multe asociații ale elevilor îi solicită preşedintelui Iohannis să trimită spre reexaminare noile legi ale educaţiei, „având în vedere dezastrul Legii învăţământului preuniversitar şi discriminarea elevilor prin dubla admitere la liceu“**
+
+- Mai multe asociații ale elevilor au trimis o scrisoare deschisă președintelui Klaus Iohannis prin care îi cer să trimită spre reexaminare noile legi ale educației adoptate recent de Parlament[^2^].
+- Asociațiile susțin că noile legi aduc modificări negative pentru sistemul educațional, cum ar fi: introducerea dublei admiteri la liceu (prin examen național și prin evaluarea continuă), eliminarea obligativității consilierii psihologice pentru elevi, reducerea autonomiei școlare și universitare, lipsa transparenței în alocarea fondurilor pentru educație etc.[^2^].
+- Asociațiile cer președintelui să convoace o dezbatere publică pe tema noilor legi ale educației, la care să participe reprezentanți ai elevilor, părinților, profesorilor, sindicatelor, mediului academic și societății civile[^2^].
+- Asociațiile afirmă că noile legi ale educației nu respectă principiile democratice și europene și nu răspund nevoilor reale ale sistemului educațional românesc[^2^].
+
 **Lista inițială a celor 29 de proiecte evaluate calitativ de Ministerul Educației pentru dezvoltarea consorțiilor regionali de învățământ dual**
 
-- Articolul prezintă lista celor 29 de proiecte selectate de Ministerul Educației pentru a primi finanțare europeană în vederea dezvoltării învățământului dual la nivel regional.
-- Proiectele au fost evaluate calitativ pe baza unor criterii precum relevanța, calitatea, sustenabilitatea și impactul asupra pieței muncii și a dezvoltării regionale.
-- Valoarea totală a proiectelor este de aproximativ 1,2 miliarde de lei, iar durata de implementare este de 36 de luni.
-- Proiectele vizează crearea sau consolidarea a 29 de consorții regionale de învățământ dual, care vor implica peste 300 de unități școlare, peste 1000 de parteneri economici și peste 40.000 de elevi.
-
-**Evaluarea Națională 2023 se încheie cu proba la Limba maternă**
-
-- Articolul relatează despre ultima probă a Evaluării Naționale 2023, care a avut loc luni, 19 iunie, și la care au participat peste 150.000 de elevi din clasa a VIII-a.
-- Proba la Limba maternă a constat într-un test grilă cu 30 de întrebări din programa școlară pentru limba română, maghiară, germană, sârbă, croată, slovacă, turcă sau ucraineană.
-- Rezultatele finale ale Evaluării Naționale vor fi afișate pe 26 iunie, după soluționarea contestațiilor.
-- Media obținută la Evaluarea Națională reprezintă 80% din media de admitere la liceu, iar restul de 20% este dat de media generală din clasele V-VIII.
-
-**Csaba Asztalos, președintele Consiliului pentru combaterea discriminării, despre așezarea în bănci pe clase a elevilor de la Colegiul „Vladimirescu” din Târgu Jiu, la Evaluarea Națională: Nu e discriminatorie, dar corect ar fi să existe norme metodologice foarte clare care să se aplice peste tot în ...**
-
-- Articolul prezintă opinia președintelui Consiliului Național pentru Combaterea Discriminării (CNCD), Csaba Asztalos, despre situația creată la Colegiul „Vladimirescu” din Târgu Jiu, unde elevii au fost așezați în bănci pe clase la proba scrisă la limba și literatura română din cadrul Evaluării Naționale.
-- Asztalos spune că nu consideră că această modalitate de organizare a fost discriminatorie, dar că ar fi fost mai corect să existe norme metodologice foarte clare care să se aplice peste tot în țară și să prevadă criterii obiective și transparente pentru repartizarea elevilor în săli.
-- El mai spune că CNCD nu poate interveni din oficiu în acest caz, ci doar dacă primește o sesizare din partea unui elev sau a unui părinte care se simte discriminat.
-- El mai adaugă că CNCD nu are competența să anuleze sau să modifice rezultatele Evaluării Naționale, ci doar să constate eventuale fapte de discriminare și să aplice sancțiuni contravenționale.
+- Ministerul Educației a publicat lista inițială a celor 29 de proiecte evaluate calitativ pentru dezvoltarea consorțiilor regionali de învățământ dual, în cadrul Programului Operațional Capital Uman 2014-2020[^3^].
+- Proiectele au fost depuse de unități de învățământ preuniversitar, în parteneriat cu agenții economici și autorități locale, și vizează crearea sau consolidarea unor oferte educaționale duale în domenii precum: industria alimentară, industria textilă, industria metalurgică, industria auto, industria IT, industria construcțiilor etc.[^3^].
+- Proiectele au fost evaluate pe baza unor criterii calitative, cum ar fi: relevanța și coerența proiectului, calitatea parteneriatului, calitatea managementului proiectului, calitatea activităților și a rezultatelor așteptate etc.[^3^].
+- Proiectele selectate vor intra în etapa următoare de evaluare financiară și vor beneficia de finanțare nerambursabilă din fonduri europene pentru implementarea activităților propuse[^3^].
 
 ## 🏫 Despre greva profesorilor
 
-- Greva profesorilor din România a început pe 22 mai 2023 și este prima din ultimii 18 ani. Cadrele didactice cer majorarea salariilor la nivelul salariului mediu brut pe economie pentru debutanți sau asistenți universitari, precum și creșterea fondurilor pentru educație.
-- Guvernul a propus o serie de măsuri pentru a satisface revendicările sindicatelor, printre care majorări salariale în două tranșe, în 2024 și 2025, acordarea unor sume anuale din fonduri europene și emiterea unei ordonanțe de urgență care să reglementeze situația.
-- Sindicaliștii au respins oferta guvernului și au continuat greva, cerând ca promisiunile să fie transpuse în lege și să fie garantate prin buget. Ei au organizat și un marș de protest în București, la care au participat peste 10.000 de persoane.
-- Greva profesorilor a afectat desfășurarea Evaluării Naționale și a Bacalaureatului, precum și activitatea didactică din școli. Unii elevi au susținut că au fost discriminați la examene în funcție de clasa din care provin sau de rezultatele anterioare.
+- Greva profesorilor din România a început pe 22 mai 2023 și continuă până în prezent, fiind prima grevă generală a cadrelor didactice din ultimii 18 ani[^4^].
+- Profesorii revendică majorarea salariilor la nivelul salariului mediu brut pe economie pentru debutanți sau asistenți universitari, precum și respectarea legii privind alocarea a 6% din PIB pentru educație[^4^].
+- Guvernul a încercat să oprească greva prin adoptarea unei ordonanțe de urgență care prevede majorări salariale etapizate până în 2026, dar sindicatele au respins oferta ca fiind insuficientă și nesigură[^2^] [^5^].
+- Greva profesorilor afectează peste 3 milioane de elevi din învățământul preuniversitar, care nu pot participa la cursuri sau la evaluările naționale. De asemenea, greva creează tensiuni sociale și politice și pune sub semnul întrebării calitatea și echitatea sistemului educațional românesc[^4^] [^5^].
 
 
 <sub><sub>Acest text a fost generat automat de BingAI folosind ultimele informatii de pe Edupedu, precum si de pe alte site-uri de stiri. Deci, nu te baza pe el pentru a lua decizii importante :)</sub></sub>
