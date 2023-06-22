@@ -1,35 +1,30 @@
 # 👩‍🏫 Totul despre greva
-<sub>Ultima actualizare: 22/06/2023 14:11:10</sub>
+<sub>Ultima actualizare: 22/06/2023 15:25:33</sub>
 
 <sub>Disclaimer: Tine minte sa verifici si sursele de actualitate. Acest site este doar un instrument de indrumare: nu il lua ad litteram - poate produce informatii partial gresite :)</sub>
 
-**Sute de grădinițe la care copiii nu au putut fi reînscriși au solicitat Ministerului Educației să fie redeschisă aplicația. Ministerul a aprobat doar o fereastră de două ore pentru asta, joi la prânz**
+**Subiectele și baremele pentru proba de Limba maternă de la Evaluarea Națională 2023**
+- Articolul publicat de Edupedu.ro prezintă subiectele și baremele pentru proba de limba maternă din cadrul Evaluării Naționale 2023, care a avut loc pe 22 iunie 2023 pentru elevii de clasa a VIII-a care studiază într-una dintre limbile minorităților[^2^].
+- Articolul oferă linkuri pentru descărcarea baremelor și subiectelor pentru limbile maghiară, germană, rromani, croată, italiană, sârbă, slovacă și ucraineană[^2^].
+- Articolul menționează că rezultatele inițiale vor fi afișate pe 28 iunie 2023 până la ora 14:00 și că elevii pot depune contestații în zilele de 28 și 29 iunie 2023[^2^].
 
-- Articolul relatează despre situația dificilă a părinților care nu au reușit să își reînscrie copiii la grădinițe în termenul limită de 15 iunie, din cauza problemelor tehnice ale aplicației online.
-- Sute de grădinițe din țară au trimis solicitări Ministerului Educației pentru a prelungi perioada de reînscriere sau a redeschide aplicația.
-- Ministerul a răspuns că va permite reînscrierea doar pentru două ore, joi între 12:00 și 14:00, și numai pentru cazurile excepționale în care copiii au fost mutați din grădinițele de proveniență.
-- Părinții și directorii de grădinițe au criticat decizia ministerului, spunând că este nedreaptă și discriminatorie și că nu rezolvă problema celor care nu au accesat aplicația din motive independente de voința lor.
+**Examenul de admitere la liceu să fie eliminat din lege, la fel și exmatricularea, iar diversitatea să fie promovată prin reglementări ulterioare – recomandările transmise de Consiliul Elevilor președintelui Iohannis, înainte de promulgarea Legii învățământului preuniversitar**
+- Articolul publicat de Edupedu.ro relatează despre recomandările transmise de Consiliul Național al Elevilor (CNE) președintelui Klaus Iohannis cu privire la Legea educației naționale nr. 1/2011[^7^].
+- Printre recomandările CNE se numără eliminarea examenului de admitere la liceu din lege și introducerea unui mecanism transparent și echitabil de repartizare a elevilor pe baza mediei generale obținute la Evaluarea Națională[^7^].
+- De asemenea, CNE propune eliminarea exmatriculării ca sancțiune disciplinară și introducerea unor măsuri alternative de prevenire și combatere a abandonului școlar[^7^].
+- CNE mai solicită promovarea diversității prin reglementări ulterioare care să asigure accesul egal la educație pentru toți elevii, indiferent de etnie, religie, orientare sexuală sau identitate de gen[^7^].
 
-**Peste 500 de elevi din Brăila, adică unul din 5 înscriși în clasa a VIII-a, nu au fost la examenul de Evaluare Națională, potrivit Inspectoratului Şcolar Judeţean**
-
-- Articolul prezintă datele oficiale privind absența elevilor la examenul de Evaluare Națională din județul Brăila, care a avut loc pe 21 iunie.
-- Potrivit Inspectoratului Școlar Județean (ISJ) Brăila, din cei 2.579 de elevi înscriși la examen, doar 2.057 s-au prezentat la proba scrisă la Limba și literatura română, ceea ce înseamnă o rată de participare de 79,75%.
-- ISJ Brăila a precizat că absența elevilor nu este legată de greva profesorilor, ci de motive personale sau medicale ale acestora.
-- Reprezentanții ISJ Brăila au mai spus că elevii absenți vor avea posibilitatea să susțină examenul în sesiunea specială din august.
-
-**Ministerul Educației: Matematica este perceputa, în general, de elevi ca aridă, neprietenoasă și fără utilitate practică – recunoaște instituția pentru prima dată într-un document oficial**
-
-- Articolul se referă la un raport al Ministerului Educației privind starea învățământului preuniversitar din România în anul școlar 2022-2023.
-- Raportul conține un capitol dedicat disciplinei matematicii, în care se recunoaște că aceasta este percepută negativ de majoritatea elevilor și că are o rată mare de eșec școlar.
-- Printre cauzele identificate se numără lipsa unei abordari interdisciplinare și aplicative a matematicii, rigiditatea programelor școlare și manualelor, lipsa resurselor didactice adecvate și pregatirea insuficienta a cadrelor didactice.
-- Raportul propune o serie de măsuri pentru îmbunatătirea situației, cum ar fi revizuirea curriculei și a metodologiei de evaluare, diversificarea ofertei educaționale și a materialelor didactice, formarea continuă a profesorilor și stimularea interesului elevilor pentru matematică.
+**Ministrul Educației, despre salariile profesorilor de la 1 ianuarie 2024: În discuțiile tehnice “se va merge pe trei scenarii de grile. S-a discutat, în linii mari, despre o echivalență cu anumite poziții din grila de la sănătate”**
+- Articolul publicat de Edupedu.ro redă declarațiile ministrului Educației, Ligia Deca, despre negocierile cu sindicatele privind salariile profesorilor de la 1 ianuarie 2024[^11^].
+- Ministrul a spus că se va lucra pe trei scenarii de grile salariale, una dintre ele fiind cea elaborată anterior de Ministerul Educației împreună cu federațiile sindicale[^11^].
+- Ministrul a precizat că s-a discutat despre o echivalență între salariul de bază al profesorului debutant/asistentului universitar și salariul mediu brut pe economie, precum și despre o echivalență cu anumite poziții din grila de la sănătate[^11^].
+- Ministrul a anunțat că în circa 10 zile echipele tehnice vor veni cu variantele de grile, care vor fi transmise pentru evaluarea impactului și apoi vor intra în discuția politică cu liderii coaliției și cu celelalte ministere[^11^].
 
 ## 🏫 Despre greva profesorilor
-
-- Greva profesorilor a început pe 22 mai și este prima din ultimii 18 ani. Principala cerință este majorarea salariilor la nivelul salariului mediu brut pe economie pentru debutanți sau asistenți universitari.
-- Guvernul a propus o serie de majorări salariale etapizate până în 2026, dar sindicatele le-au respins, considerându-le insuficiente și nesigure. De asemenea, sindicatele au criticat modul de adoptare a ordonanței de urgență care prevede creșterile salariale.
-- Greva afectează desfășurarea examenelor naționale și a procesului de învățământ în general. Peste 75% dintre cadrele didactice participă la grevă, potrivit sindicatelor. Profesorii merg la școli, dar nu țin cursuri.
-- Greva profesorilor reflectă nemulțumirea față de situația precară a educației din România, care se confruntă cu probleme structurale, cum ar fi subfinanțarea, lipsa resurselor, inechitatea, abandonul școlar, performanțele scăzute și calitatea redusă a actului educațional.
+- Greva profesorilor a început pe 6 iunie 2023 și a durat până pe 10 iunie 2023, când Guvernul a adoptat o ordonanță de urgență care prevede majorarea salariilor cadrelor didactice și ale angajaților din Învățământ cu sume cuprinse între 400 și 1300 de lei brut pe fiecare funcție, începând cu 1 iunie 2023[^12^].
+- Greva a fost declanșată de federațiile sindicale din Educație, care au revendicat creșterea etapizată a salariilor pe noua grilă, prima tranșă fiind de 50% din creșterea salarială prevăzută de noua lege a salarizării, de la 1 ianuarie 2024[^12^].
+- Greva a afectat peste 3 milioane de elevi din învățământul preuniversitar, care au rămas fără ore online sau față în față, în funcție de scenariul epidemiologic din localitate[^12^].
+- Greva a fost susținută de peste 80% dintre profesori, potrivit sondajelor realizate de sindicate, care au arătat și nemulțumirea față de condițiile de muncă, lipsa de personal, birocrația excesivă și lipsa de respect față de profesia didactică[^12^].
 
 
 <sub><sub>Acest text a fost generat automat de BingAI folosind ultimele informatii de pe Edupedu, precum si de pe alte site-uri de stiri. Deci, nu te baza pe el pentru a lua decizii importante :)</sub></sub>
