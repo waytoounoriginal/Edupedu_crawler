@@ -1,3 +1,3 @@
-[ERROR] TIME: 2023-06-22 08:12:58.791417
-Sorry, you need to login first to access this service.
+[ERROR] TIME: 2023-06-22 15:10:43.539130
+502, message='Invalid response status', url=URL('wss://sydney.bing.com/sydney/ChatHub')
 
