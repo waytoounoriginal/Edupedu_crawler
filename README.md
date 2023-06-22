@@ -1,30 +1,35 @@
 # 👩‍🏫 Totul despre greva
-<sub>Ultima actualizare: 22/06/2023 15:25:33</sub>
+<sub>Ultima actualizare: 22/06/2023 16:15:13</sub>
 
 <sub>Disclaimer: Tine minte sa verifici si sursele de actualitate. Acest site este doar un instrument de indrumare: nu il lua ad litteram - poate produce informatii partial gresite :)</sub>
 
+**Evaluarea Națională 2023. Varianta rezervă de la proba de matematică a fost publicată de Ministerul Educației**
+
+- Ministerul Educației a publicat pe site-ul său varianta rezervă de la proba de matematică a Evaluării Naționale 2023, care a avut loc pe 20 iunie.
+- Varianta rezervă este folosită în cazul în care se constată că subiectele de la proba inițială au fost compromise sau au existat probleme tehnice la distribuirea lor.
+- Subiectele de la varianta rezervă au fost elaborate de Centrul Național de Evaluare și Examinare (CNEE) și au avut același nivel de dificultate ca cele de la proba inițială.
+- Rezultatele finale ale Evaluării Naționale 2023 vor fi afișate pe 4 iulie.
+
 **Subiectele și baremele pentru proba de Limba maternă de la Evaluarea Națională 2023**
-- Articolul publicat de Edupedu.ro prezintă subiectele și baremele pentru proba de limba maternă din cadrul Evaluării Naționale 2023, care a avut loc pe 22 iunie 2023 pentru elevii de clasa a VIII-a care studiază într-una dintre limbile minorităților[^2^].
-- Articolul oferă linkuri pentru descărcarea baremelor și subiectelor pentru limbile maghiară, germană, rromani, croată, italiană, sârbă, slovacă și ucraineană[^2^].
-- Articolul menționează că rezultatele inițiale vor fi afișate pe 28 iunie 2023 până la ora 14:00 și că elevii pot depune contestații în zilele de 28 și 29 iunie 2023[^2^].
 
-**Examenul de admitere la liceu să fie eliminat din lege, la fel și exmatricularea, iar diversitatea să fie promovată prin reglementări ulterioare – recomandările transmise de Consiliul Elevilor președintelui Iohannis, înainte de promulgarea Legii învățământului preuniversitar**
-- Articolul publicat de Edupedu.ro relatează despre recomandările transmise de Consiliul Național al Elevilor (CNE) președintelui Klaus Iohannis cu privire la Legea educației naționale nr. 1/2011[^7^].
-- Printre recomandările CNE se numără eliminarea examenului de admitere la liceu din lege și introducerea unui mecanism transparent și echitabil de repartizare a elevilor pe baza mediei generale obținute la Evaluarea Națională[^7^].
-- De asemenea, CNE propune eliminarea exmatriculării ca sancțiune disciplinară și introducerea unor măsuri alternative de prevenire și combatere a abandonului școlar[^7^].
-- CNE mai solicită promovarea diversității prin reglementări ulterioare care să asigure accesul egal la educație pentru toți elevii, indiferent de etnie, religie, orientare sexuală sau identitate de gen[^7^].
+- Ministerul Educației a publicat pe site-ul său subiectele și baremele pentru proba de Limba maternă de la Evaluarea Națională 2023, care a avut loc pe 21 iunie.
+- Proba de Limba maternă a fost susținută de elevii care aparțin minorităților naționale și care au studiat în limba maternă în ciclul gimnazial.
+- Subiectele au fost elaborate de CNEE și au vizat competențele lingvistice și literare ale elevilor, precum și capacitatea lor de exprimare orală și scrisă.
+- Proba a constat din două părți: o parte scrisă, cu un test grilă cu 30 de întrebări și un eseu argumentativ, și o parte orală, cu o prezentare a unui text literar sau nonliterar.
 
-**Ministrul Educației, despre salariile profesorilor de la 1 ianuarie 2024: În discuțiile tehnice “se va merge pe trei scenarii de grile. S-a discutat, în linii mari, despre o echivalență cu anumite poziții din grila de la sănătate”**
-- Articolul publicat de Edupedu.ro redă declarațiile ministrului Educației, Ligia Deca, despre negocierile cu sindicatele privind salariile profesorilor de la 1 ianuarie 2024[^11^].
-- Ministrul a spus că se va lucra pe trei scenarii de grile salariale, una dintre ele fiind cea elaborată anterior de Ministerul Educației împreună cu federațiile sindicale[^11^].
-- Ministrul a precizat că s-a discutat despre o echivalență între salariul de bază al profesorului debutant/asistentului universitar și salariul mediu brut pe economie, precum și despre o echivalență cu anumite poziții din grila de la sănătate[^11^].
-- Ministrul a anunțat că în circa 10 zile echipele tehnice vor veni cu variantele de grile, care vor fi transmise pentru evaluarea impactului și apoi vor intra în discuția politică cu liderii coaliției și cu celelalte ministere[^11^].
+**Deși banii din PNRR sunt pentru 10 de consorții regionale, Guvernul și Ministerul Educației au decis să găsească finanțare pentru 29 de proiecte declarate eligibile, a anunțat Ligia Deca. Obiectivul este ca „în anul 2025-2026, până la 40% dintre elevi să fie înscriși pe o rută duală”**
+
+- Guvernul și Ministerul Educației au decis să găsească finanțare pentru toate cele 29 de proiecte declarate eligibile în cadrul Programului Național de Redresare și Reziliență (PNRR) pentru educația duală, a anunțat Ligia Deca, secretar de stat în Ministerul Educației.
+- Inițial, PNRR prevedea finanțarea a doar 10 consorții regionale pentru educația duală, cu o sumă totală de 300 de milioane de euro. Însă, după evaluarea proiectelor depuse, s-a constatat că există un interes crescut din partea partenerilor sociali și economici pentru acest tip de educație.
+- Educația duală presupune o formare profesională alternantă între școală și locul de muncă, care oferă elevilor competențe practice și oportunități de angajare. Obiectivul este ca „în anul 2025-2026, până la 40% dintre elevi să fie înscriși pe o rută duală”, potrivit Ligiei Deca.
+- Finanțarea suplimentară pentru celelalte 19 proiecte eligibile va fi asigurată din alte surse, cum ar fi fonduri europene, bugetul de stat sau contribuția partenerilor privați.
 
 ## 🏫 Despre greva profesorilor
-- Greva profesorilor a început pe 6 iunie 2023 și a durat până pe 10 iunie 2023, când Guvernul a adoptat o ordonanță de urgență care prevede majorarea salariilor cadrelor didactice și ale angajaților din Învățământ cu sume cuprinse între 400 și 1300 de lei brut pe fiecare funcție, începând cu 1 iunie 2023[^12^].
-- Greva a fost declanșată de federațiile sindicale din Educație, care au revendicat creșterea etapizată a salariilor pe noua grilă, prima tranșă fiind de 50% din creșterea salarială prevăzută de noua lege a salarizării, de la 1 ianuarie 2024[^12^].
-- Greva a afectat peste 3 milioane de elevi din învățământul preuniversitar, care au rămas fără ore online sau față în față, în funcție de scenariul epidemiologic din localitate[^12^].
-- Greva a fost susținută de peste 80% dintre profesori, potrivit sondajelor realizate de sindicate, care au arătat și nemulțumirea față de condițiile de muncă, lipsa de personal, birocrația excesivă și lipsa de respect față de profesia didactică[^12^].
+
+- Greva profesorilor a început pe 22 mai 2023 și continuă pe termen nedeterminat, cu participarea a peste 75% dintre cadrele didactice din România.
+- Principala cerință a sindicatelor este acordarea unui salariu la nivelul salariului mediu brut pe economie pentru debutanți sau asistenți universitari, care ar însemna o creștere de peste 40% față de nivelul actual.
+- Guvernul a adoptat o ordonanță de urgență care prevede majorări salariale etapizate până în 2026, dar sindicaliștii consideră că acestea sunt insuficiente și nesigure, deoarece nu sunt garantate prin lege.
+- Greva afectează procesul de învățământ, în special încheierea mediilor elevilor și organizarea examenelor naționale. Ministerul Educației a propus modificarea regulamentelor școlare pentru a permite directorilor să încheie mediile și profesorilor care nu sunt în grevă să suplinească la examene.
 
 
 <sub><sub>Acest text a fost generat automat de BingAI folosind ultimele informatii de pe Edupedu, precum si de pe alte site-uri de stiri. Deci, nu te baza pe el pentru a lua decizii importante :)</sub></sub>
