@@ -1,36 +1,32 @@
 # 👩‍🏫 Totul despre greva
-<sub>Ultima actualizare: 23/06/2023 17:13:45</sub>
+<sub>Ultima actualizare: 23/06/2023 18:14:56</sub>
 
 <sub>Disclaimer: Tine minte sa verifici si sursele de actualitate. Acest site este doar un instrument de indrumare: nu il lua ad litteram - poate produce informatii partial gresite :)</sub>
 
-**Concurs de debut literar “Primul roman”: scriitorii aflați la început de drum pot să-și înscrie prima creație până pe 15 iulie 2023 / Volumul câștigător primește un tiraj de 1.000 de exemplare**
+**Biblioteca școlară virtuală Edulib este online, dar încă nu permite acces la lecții sau la alte instrumente, la cinci ani după ce a fost anunțată / Sunt promise teste de măsurare a “alfabetizării funcționale a elevilor” și un “roboțel” bazat pe inteligență artificială, numit Ioana**
+- Edulib este o platformă digitală destinată elevilor și profesorilor din învățământul preuniversitar, care oferă acces gratuit la resurse educaționale digitale.
+- Platforma a fost lansată oficial pe 15 iunie 2023, după cinci ani de la anunțarea proiectului și după mai multe amânări și probleme tehnice.
+- Edulib nu permite încă accesul la lecții interactive, la instrumente de evaluare sau de comunicare, ci doar la o bibliotecă virtuală cu peste 10.000 de cărți digitale.
+- Ministerul Educației promite că platforma va fi dezvoltată în continuare și că va include teste de măsurare a competențelor elevilor, precum și un asistent virtual bazat pe inteligență artificială, numit Ioana, care va oferi suport și orientare.
 
-- Articolul anunță lansarea unui concurs de debut literar organizat de Editura Humanitas și revista Dilema Veche, cu sprijinul Fundației Anonimul.
-- Concursul se adresează scriitorilor care nu au publicat încă un roman la o editură și care au vârsta minimă de 18 ani.
+**Concurs de debut literar “Primul roman”: scriitorii aflați la început de drum pot să-și înscrie prima creație până pe 15 iulie 2023 / Volumul câștigător primește un tiraj de 1.000 de exemplare**
+- Concursul este organizat de Editura Litera și revista Dilema Veche, în parteneriat cu Librăriile Cărturești și Radio România Cultural.
+- Concursul se adresează autorilor care nu au publicat încă un roman la o editură recunoscută și care au vârsta minimă de 18 ani.
 - Romanul trebuie să fie scris în limba română și să aibă între 150 și 400 de pagini.
-- Termenul limită de înscriere este 15 iulie 2023, iar volumul câștigător va fi anunțat în octombrie 2023.
-- Volumul câștigător va fi publicat de Editura Humanitas într-un tiraj de 1.000 de exemplare și va beneficia de o campanie de promovare.
+- Juriul este format din scriitori, critici literari și jurnaliști culturali, care vor selecta trei finaliști până pe 15 septembrie 2023.
+- Volumul câștigător va fi anunțat pe 15 octombrie 2023 și va fi publicat de Editura Litera într-un tiraj de 1.000 de exemplare. Autorul va primi și un premiu în bani de 5.000 de lei.
 
 **DOCUMENT Cererea de înscriere/reînscriere în rețeaua de școli-pilot care folosesc catalogul electronic în anul școlar 2023-2024. Solicitările se trimit la Inspectoratele Școlare Județene până pe 10 iulie, anunță Ministerul Educației**
-
-- Articolul prezintă documentul oficial prin care unitățile de învățământ preuniversitar pot solicita înscrierea sau reînscrierea în rețeaua de școli-pilot care folosesc catalogul electronic în anul școlar 2023-2024.
-- Catalogul electronic este un sistem informatic integrat care permite gestionarea datelor referitoare la elevi, profesori, clase, discipline, note, absențe, etc.
-- Cererea trebuie completată și semnată de directorul unității de învățământ și trimisă la Inspectoratul Școlar Județean până pe data de 10 iulie 2023.
-- Ministerul Educației va selecta unitățile de învățământ care vor face parte din rețeaua de școli-pilot pe baza unor criterii precum infrastructura IT, resursele umane, gradul de utilizare a catalogului electronic în anii anteriori, etc.
-
-**Ministerul Educației, răspuns dat cercetătoarei Cătălina Curceanu despre planurile-cadru de liceu „varianta neasumată”: Au fost simulări pentru a colecta, intern, opinii informale privind viitorul construct curricular**
-
-- Articolul relatează răspunsul Ministerului Educației la acuzațiile cercetătoarei Cătălina Curceanu, care a susținut că planurile-cadru pentru liceu propuse spre consultare publică sunt diferite față de cele discutate în cadrul grupurilor de lucru.
-- Ministerul Educației susține că planurile-cadru publicate pe site-ul instituției nu sunt varianta finală și nici nu au fost asumate oficial, ci au fost doar niște simulări pentru a colecta opinii informale privind viitorul construct curricular.
-- Ministerul Educației afirmă că planurile-cadru finale vor fi elaborate după consultarea tuturor părților interesate și vor ține cont de recomandările Comisiei Europene, ale Consiliului Național al Elevilor, ale Consiliului Național al Rectorilor, etc.
-- Ministerul Educației invită toți cei interesați să participe la consultarea publică și să transmită propuneri și sugestii până pe data de 30 iunie 2023.
+- Catalogul electronic este un sistem informatic care permite gestionarea online a situației școlare a elevilor, precum notele, absențele, observațiile sau planificarea activităților didactice.
+- Catalogul electronic este folosit deja în peste 2.000 de unități de învățământ din România, iar Ministerul Educației dorește să extindă rețeaua de școli-pilot care îl utilizează.
+- Pentru a se înscrie sau reînscrie în rețeaua de școli-pilot, unitățile de învățământ trebuie să completeze o cerere tip și să o trimită la Inspectoratul Școlar Județean până pe 10 iulie 2023.
+- Cererea trebuie să fie însoțită de un plan de implementare a catalogului electronic, de o declarație de conformitate cu prevederile legale privind protecția datelor personale și de o adeverință care să ateste existența infrastructurii tehnice necesare.
 
 ## 🏫 Despre greva profesorilor
-
-- Greva profesorilor este cea mai amplă acțiune de protest din ultimii 18 ani, care a început pe 22 mai 2023 și continuă pe termen nedeterminat.
-- Profesorii revendică salarii decente, la nivelul salariului mediu brut pe economie pentru debutanți sau asistenți universitari, precum și respectarea legii privind finanțarea educației cu 6% din PIB.
-- Guvernul a oferit o majorare salarială de 1.000 de lei brut pe lună pentru personalul didactic și 400 de lei brut pe lună pentru personalul nedidactic, dar sindicatele au respins oferta ca fiind insuficientă și nesigură.
-- Greva profesorilor afectează peste 3 milioane de elevi și studenți din România, care nu pot participa la cursuri și care riscă să fie dezavantajați la examenele naționale.
+- Greva profesorilor a început pe 22 mai 2023 și este prima din ultimii 18 ani. Profesorii cer salarii la nivelul salariului mediu brut pe economie pentru debutanți sau asistenți universitari, precum și majorarea fondului de salarii pentru personalul nedidactic.
+- Guvernul a emis o ordonanță de urgență care prevede majorări salariale de 1.000 lei brut pe lună pentru personalul didactic și 400 de lei brut pe lună pentru personalul nedidactic, dar sindicatele au respins oferta, considerând-o insuficientă și nesigură.
+- Profesorii au organizat un marș de protest pe 6 iunie 2023, la care au participat peste 50.000 de persoane din toată țara. Ei au cerut demisia premierului Nicolae Ciucă și a ministrului Educației, Ligia Deca, și au amenințat cu boicotarea examenelor naționale.
+- Negocierile dintre guvern și sindicate continuă, dar fără rezultate concrete. Greva afectează peste 3 milioane de elevi și studenți, care nu pot participa la cursuri sau la activități extrașcolare. Părinții sunt îngrijorați de pierderea materiei și de pregătirea pentru examene.
 
 
 <sub><sub>Acest text a fost generat automat de BingAI folosind ultimele informatii de pe Edupedu, precum si de pe alte site-uri de stiri. Deci, nu te baza pe el pentru a lua decizii importante :)</sub></sub>
