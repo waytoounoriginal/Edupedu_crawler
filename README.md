@@ -1,32 +1,38 @@
 # 👩‍🏫 Totul despre greva
-<sub>Ultima actualizare: 23/06/2023 06:28:36</sub>
+<sub>Ultima actualizare: 23/06/2023 07:16:08</sub>
 
 <sub>Disclaimer: Tine minte sa verifici si sursele de actualitate. Acest site este doar un instrument de indrumare: nu il lua ad litteram - poate produce informatii partial gresite :)</sub>
 
 **ULTIMA ORĂ Inspectoratul Școlar București reacționează în scandalul înscrierilor la Grădinița de vară în Sectorul 3: Modalitatea și calendarul de înscriere au fost stabilite de Primăria Sectorului 3, fără consultarea Inspectoratului Școlar**
 
-- Articolul relatează despre nemulțumirea părinților din Sectorul 3 care nu au reușit să își înscrie copiii la grădinița de vară organizată de Primăria Sectorului 3.
-- Inspectoratul Școlar București a transmis că nu a fost consultat în privința modalității și calendarului de înscriere, care au fost stabilite unilateral de Primăria Sectorului 3.
-- Inspectoratul Școlar București a precizat că nu are nicio atribuție în organizarea grădiniței de vară și că nu poate interveni în soluționarea problemelor apărute.
+- Articolul relatează despre conflictul dintre Inspectoratul Școlar București și Primăria Sectorului 3 privind organizarea grădiniței de vară pentru copiii din sector.
+- Inspectoratul Școlar București susține că nu a fost consultat și nici informat despre modalitatea și calendarul de înscriere la grădinița de vară, care au fost stabilite unilateral de Primăria Sectorului 3.
+- Primăria Sectorului 3 a anunțat că înscrierile la grădinița de vară se vor face online, pe platforma www.gradinitadevara.ro, începând cu data de 15 iunie 2023, ora 10:00, și că vor fi disponibile 2.000 de locuri pentru copiii cu vârste cuprinse între 3 și 6 ani.
+- Inspectoratul Școlar București avertizează că platforma online nu este sigură și că nu există o metodologie clară pentru repartizarea copiilor în grupe și în unitățile de învățământ care vor găzdui grădinița de vară.
+- Inspectoratul Școlar București solicită Primăriei Sectorului 3 să renunțe la platforma online și să organizeze înscrierile la grădinița de vară în conformitate cu prevederile legale și cu respectarea principiilor transparenței și echității.
 
 **Ligia Deca vorbește din nou de pilotare după legiferare, în cazul examenului de admitere la liceu: “în 4-5 ani, avem timp să pilotăm” măsurile din noua lege**
 
-- Articolul prezintă declarațiile Ligiei Deca, consilier al premierului pe educație, despre noua lege a educației care prevede un examen de admitere la liceu.
-- Ligia Deca a afirmat că măsurile din noua lege vor fi pilotate după legiferare, într-un interval de 4-5 ani, pentru a vedea cum funcționează și ce ajustări sunt necesare.
-- Ligia Deca a susținut că examenul de admitere la liceu este o soluție echitabilă și transparentă pentru elevi și părinți și că va stimula performanța școlară.
+- Articolul prezintă declarațiile Ligiei Deca, consilier al premierului pe probleme de educație, despre noua lege a educației care prevede modificarea examenului de admitere la liceu.
+- Ligia Deca susține că noua lege este rezultatul unui proces amplu de consultare publică și că are ca scop creșterea calității și echității în educație.
+- Noua lege prevede că examenul de admitere la liceu va consta într-o probă scrisă la limba română și una la matematică sau limba maternă, iar media generală va fi calculată pe baza mediei celor două probe scrise (70%) și a mediei generale de absolvire a gimnaziului (30%).
+- Ligia Deca afirmă că noua lege va fi aplicată începând cu anul școlar 2024-2025 și că până atunci se vor face simulări și pilotaje pentru a testa impactul măsurilor propuse.
+- Ligia Deca respinge criticile venite din partea unor profesori și părinți care consideră că noua lege este neclară, nedreaptă și nefundamentată pedagogic.
 
 **Evaluarea Națională 2023. Varianta rezervă de la proba de matematică a fost publicată de Ministerul Educației**
 
-- Articolul informează despre publicarea variantei rezervă de la proba de matematică a Evaluării Naționale pentru clasa a VIII-a din anul 2023.
-- Varianta rezervă este destinată elevilor care nu au putut participa la proba inițială din motive obiective sau care au fost eliminați din examen pentru fraudă sau tentativă de fraudă.
-- Varianta rezervă conține 15 subiecte cu grad diferit de dificultate și se rezolvă în două ore.
+- Articolul informează despre publicarea variantei rezervă de la proba de matematică a Evaluării Naționale 2023, care va avea loc pe 26 iunie 2023.
+- Varianta rezervă este destinată elevilor care nu pot participa la proba inițială din motive obiective, cum ar fi boala, accidentul sau decesul unui membru de familie.
+- Varianta rezervă conține 15 subiecte, dintre care 10 sunt de tip A (cu răspuns unic), 3 sunt de tip B (cu răspuns parțial structurat) și 2 sunt de tip C (cu răspuns extins).
+- Varianta rezervă are același nivel de dificultate și același barem de corectare ca și varianta inițială.
+- Varianta rezervă poate fi consultată pe site-ul Ministerului Educației, la secțiunea Evaluarea Națională.
 
 ## 🏫 Despre greva profesorilor
 
-- Greva profesorilor a început pe 22 mai 2023 și s-a suspendat pe 12 iunie 2023, după ce Guvernul a acceptat să introducă în Ordonanța de Urgență două revendicări cheie ale sindicatelor: salariul mediu brut pe economie pentru profesorii debutanți și majorarea salarială cu 50% de la 1 ianuarie 2024.
-- Greva profesorilor a afectat desfășurarea examenelor naționale, care au fost amânate sau prelungite. De exemplu, Evaluarea Națională pentru clasa a VI-a a fost amânată cu o săptămână, iar înscrierile la Bacalaureat și clasa pregătitoare au fost prelungite până pe 16 iunie.
-- Greva profesorilor a generat reacții diverse din partea opiniei publice, care a fost împărțită între susținerea revendicărilor salariale ale cadrelor didactice și criticarea perturbării procesului educațional și a dreptului la învățătură al elevilor.
-- Greva profesorilor a coincis cu un moment politic delicat, în care premierul Nicolae Ciucă urma să își dea demisia pentru rotația la conducerea Guvernului. Acest lucru ar fi putut duce la suspendarea negocierilor cu sindicatele până la învestirea unui nou Guvern.
+- Greva profesorilor din România a început pe 22 mai 2023 și este prima grevă generală a cadrelor didactice din ultimii 18 ani.
+- Profesorii revendică majorarea salariilor la nivelul salariului mediu brut pe economie pentru debutanți sau asistenți universitari, precum și respectarea grilelor de salarizare prevăzute de legea-cadru nr. 153/2017.
+- Guvernul a emis o ordonanță de urgență prin care a acordat majorări salariale de 1.000 lei brut pe lună pentru personalul didactic și 400 de lei brut pe lună pentru personalul nedidactic, dar sindicatele au respins oferta ca fiind insuficientă și nesigură.
+- Greva profesorilor afectează peste 3 milioane de elevi din învățământul preuniversitar, care nu pot participa la cursuri, precum și procesul de evaluare și examinare din învățământul superior.
 
 
 <sub><sub>Acest text a fost generat automat de BingAI folosind ultimele informatii de pe Edupedu, precum si de pe alte site-uri de stiri. Deci, nu te baza pe el pentru a lua decizii importante :)</sub></sub>
