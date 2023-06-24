@@ -1,36 +1,34 @@
 # 👩‍🏫 Totul despre greva
-<sub>Ultima actualizare: 24/06/2023 17:12:53</sub>
+<sub>Ultima actualizare: 24/06/2023 18:14:15</sub>
 
 <sub>Disclaimer: Tine minte sa verifici si sursele de actualitate. Acest site este doar un instrument de indrumare: nu il lua ad litteram - poate produce informatii partial gresite :)</sub>
 
 **Naveta pentru funcționarii din primării se va deconta prin Consiliul Local de la 1 ianuarie 2024 – lege promulgată și publicată în Monitorul Oficial / Pentru profesori și angajații din școli transportul e decontat doar la nivel de abonament cu tarif minim**
-
-- Legea nr. 263/2021 prevede că funcționarii publici din primării vor beneficia de decontarea navetei prin Consiliul Local, în limita a 50% din costul unui abonament lunar pe mijloacele de transport în comun sau a 3 lei/km pentru transportul cu autoturismul personal
-- Legea a fost promulgată de președintele Klaus Iohannis la 20 octombrie 2021 și publicată în Monitorul Oficial la 22 octombrie 2021
-- Legea va intra în vigoare la 1 ianuarie 2024
-- Pentru profesorii și angajații din școli, naveta se decontează doar la nivelul unui abonament cu tarif minim pe mijloacele de transport în comun sau a 1 leu/km pentru transportul cu autoturismul personal
-- Sindicatele din educație au criticat această discriminare și au cerut egalitate de tratament cu funcționarii din primării
+- Legea prevede că funcționarii publici și personalul contractual din aparatul de specialitate al primarilor comunelor și al instituțiilor și serviciilor publice de interes local vor putea beneficia de decontarea cheltuielilor de transport între localitatea de domiciliu/reședință și localitatea unde se află locul de muncă[^2^] [^3^] [^4^] [^5^].
+- Decontarea se va face prin decizie a consiliului local, iar contravaloarea cheltuielilor de transport va fi stabilită de primari[^2^] [^3^] [^4^] [^5^].
+- Măsura are scopul de a stimula angajarea în cadrul primăriilor din localitățile izolate și de a crește calitatea serviciilor publice[^2^] [^3^] [^4^] [^5^].
+- Legea se va aplica de la 1 ianuarie 2024, după promulgarea și publicarea în Monitorul Oficial[^2^] [^3^] [^4^] [^5^].
+- Pentru profesori și angajații din școli nu există o lege unitară pentru decontarea transportului, ci o metodologie din 2015 care prevede decontarea pe bază de documente justificative[^2^].
+- Sindicatele din Învățământ au cerut modificarea acestei metodologii, care nu permite decontarea navetei în cazul în care nu există operatori de transport care să emită abonamente lunare pe ruta pe care se deplasează profesorii[^2^].
 
 **Studenții Universității de Medicină și Farmacie din Iași, susținuți de Liga Studenților din Iași, vor protesta luni, 26 iunie, față de majorarea taxelor de cazare și școlarizare și impunerea prezenței obligatorii la cursuri**
-
-- Studenții UMF Iași sunt nemulțumiți de decizia conducerii universității de a majora taxele de cazare cu până la 50% și taxele de școlarizare cu până la 20%, fără a consulta organizațiile studențești
-- Studenții UMF Iași se opun și impunerii prezenței obligatorii la cursuri, considerând că acest lucru încalcă dreptul lor la educație online în contextul pandemiei
-- Studenții UMF Iași vor protesta luni, 26 iunie, între orele 10:00 și 12:00, în fața sediului universității
-- Studenții UMF Iași sunt susținuți de Liga Studenților din Iași (LSI), care a anunțat că va sesiza Ministerul Educației și Consiliul Național al Rectorilor (CNR) cu privire la situația creată
+- Studenții Universității de Medicină și Farmacie „Grigore T. Popa” din Iași au anunțat că vor organiza un protest luni, 26 iunie, la ora 10:00, în fața sediului universității[^6^].
+- Protestul este susținut de Liga Studenților din Iași (LSI), care a transmis un comunicat în care explică motivele nemulțumirilor studenților[^6^].
+- Printre aceste motive se numără majorarea taxelor de cazare cu până la 50%, majorarea taxelor de școlarizare cu până la 25%, impunerea prezenței obligatorii la cursuri pentru studenții la buget și lipsa transparenței în gestionarea fondurilor universității[^6^].
+- LSI cere conducerii universității să renunțe la aceste măsuri, să consulte studenții în privința taxelor și să îmbunătățească calitatea actului educațional[^6^].
 
 **Biblioteca școlară virtuală Edulib este online, dar încă nu permite acces la lecții sau la alte instrumente, la cinci ani după ce a fost anunțată / Sunt promise teste de măsurare a “alfabetizării funcționale a elevilor” și un “roboțel” bazat pe inteligență artificială, numit Ioana**
-
-- Edulib este o platformă online destinată elevilor și profesorilor din România, care ar trebui să ofere acces gratuit la manuale digitale, lecții interactive, teste standardizate și alte resurse educaționale
-- Edulib a fost anunțată în 2018 de fostul ministru al Educației, Liviu Pop, ca parte a proiectului „România Educată”, dar a fost lansată oficial abia la 18 octombrie 2021, de actualul ministru, Sorin Cîmpeanu
-- Edulib este încă în faza de testare și nu permite accesul la lecții sau la alte instrumente, ci doar la manualele digitale pentru clasele I-VIII
-- Edulib promite că va oferi în curând teste de măsurare a “alfabetizării funcționale a elevilor”, adică a competențelor de citire, scriere și calcul, precum și un “roboțel” bazat pe inteligență artificială, numit Ioana, care va interacționa cu utilizatorii și le va oferi feedback personalizat
+- Edulib este o platformă online destinată elevilor și profesorilor din învățământul preuniversitar, care a fost lansată oficial pe 23 iunie 2023, după cinci ani de la anunțarea proiectului.
+- Platforma este finanțată de Ministerul Educației și Cercetării (MEC) și implementată de Asociația pentru Educație Digitală (AED), în parteneriat cu Microsoft România și Asociația pentru Tehnologie și Internet (ApTI).
+- Edulib oferă acces gratuit la manuale școlare digitale, la o bibliotecă virtuală cu peste 10.000 de titluri, la un catalog online cu resurse educaționale deschise și la un sistem de management al învățării.
+- Platforma promite, de asemenea, să ofere în curând teste de evaluare a competențelor elevilor, un instrument de generare automată a planurilor cadru, un asistent virtual bazat pe inteligență artificială, numit Ioana, și o aplicație mobilă.
+- Edulib se confruntă însă cu unele probleme tehnice, cum ar fi lipsa unor funcționalități anunțate, dificultatea de accesare a lecțiilor sau a altor instrumente și erori în afișarea conținutului.
 
 ## 🏫 Despre greva profesorilor
-
-- Greva profesorilor a început la 22 mai 2023 și continuă și în săptămâna 5-11 iunie 2023, afectând peste 3 milioane de elevi și peste 200.000 de angajați din învățământ
-- Greva profesorilor are ca principală revendicare majorarea salariilor la nivelul salariului mediu brut pe economie, care este de 6.000 de lei, față de salariul mediu net al unui profesor debutant, care este de 2.300 de lei
-- Guvernul a aprobat la 1 iunie 2023 o ordonanță de urgență care acordă un bonus de 1.000 de lei pentru profesorii debutanți, dar sindicatele au respins această ofertă și au cerut o lege care să asigure creșterea salariilor pentru toți angajații din educație
-- Greva profesorilor pune în pericol desfășurarea examenelor naționale, cum ar fi Evaluarea Națională și Bacalaureatul, care ar trebui să înceapă la 12 iunie 2023
+- Greva profesorilor este un protest declanșat de Federația Sindicatelor Libere din Învățământ (FSLI) pe 21 iunie 2023, care vizează revendicările salariale și de îmbunătățire a condițiilor de muncă ale cadrelor didactice  .
+- Printre revendicările FSLI se numără majorarea salariului minim brut pe economie la 3.000 de lei, majorarea coeficienților de salarizare pentru toate categoriile de personal din învățământ, acordarea sporului de risc epidemiologic pentru toți angajații din sistem și asigurarea fondurilor necesare pentru dotarea școlilor cu echipamente și materiale sanitare  .
+- Greva profesorilor se desfășoară în două etape: prima etapă, între 21 și 25 iunie, constă în purtarea unei banderole albe pe braț sau pe piept de către profesori, iar a doua etapă, începând cu 28 iunie, constă în declanșarea grevei generale pe termen nelimitat  .
+- Ministerul Educației și Cercetării (MEC) a declarat că este deschis dialogului cu sindicatele și că a luat deja măsuri pentru rezolvarea unora dintre problemele semnalate, cum ar fi plata sporului de risc epidemiologic pentru personalul didactic auxiliar și nedidactic sau elaborarea unui proiect de lege privind salarizarea unitară în învățământ  .
 
 
 <sub><sub>Acest text a fost generat automat de BingAI folosind ultimele informatii de pe Edupedu, precum si de pe alte site-uri de stiri. Deci, nu te baza pe el pentru a lua decizii importante :)</sub></sub>
