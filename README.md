@@ -1,35 +1,38 @@
 # 👩‍🏫 Totul despre greva
-<sub>Ultima actualizare: 26/06/2023 07:18:00</sub>
+<sub>Ultima actualizare: 26/06/2023 08:14:36</sub>
 
 <sub>Disclaimer: Tine minte sa verifici si sursele de actualitate. Acest site este doar un instrument de indrumare: nu il lua ad litteram - poate produce informatii partial gresite :)</sub>
 
+**Încep probele scrise la BAC 2023. Absolvenții de liceu dau luni proba la Limba română / Candidații intră în săli de la ora 7:30 și până la 8:30**
+
+- Articolul anunță începerea probelor scrise la examenul de bacalaureat 2023, care au loc între 26 și 29 iunie.
+- Prima probă este la Limba și literatura română, iar candidații au acces în săli între 7:30 și 8:30, pe baza actului de identitate.
+- Timpul de redactare a subiectelor este de 180 de minute, iar comunicarea între candidați sau cu exteriorul este interzisă și sancționată cu eliminarea din examen.
+- Anul acesta, probele orale au fost echivalate cu mediile din liceu, din cauza grevei profesorilor care a durat trei săptămâni.
+- Rezultatele la probele scrise vor fi afișate pe 3 iulie, iar contestațiile se pot depune până pe 7 iulie.
+
 **Patru medalii și premii pentru cele mai bune punctaje, obținute de olimpicii români la Balcaniada de Fizică 2023 din Albania**
-- Elevii români au participat la a XXVIII-a ediție a Olimpiadei Balcanice de Fizică, care a avut loc în perioada 18-23 iunie 2023, la Tirana.
-- Lotul României a fost format din șase elevi de clasa a XI-a și a XII-a, coordonați de doi profesori.
-- Echipa României a obținut patru medalii (două de aur și două de argint) și două premii speciale pentru cele mai bune punctaje la probele teoretică și experimentală.
-- Medaliații cu aur sunt Andrei Popescu (Colegiul Național „Mihai Viteazul” din București) și Ioana Mihai (Colegiul Național „Gheorghe Lazăr” din București), iar cei cu argint sunt Alexandru Ionescu (Liceul Internațional de Informatică din București) și Maria Popa (Colegiul Național „Emil Racoviță” din Cluj-Napoca).
-- Premiile speciale au revenit lui Andrei Popescu (pentru cel mai bun punctaj la proba teoretică) și lui Ioana Mihai (pentru cel mai bun punctaj la proba experimentală).
-- La competiție au participat 11 țări membre ale Uniunii Balcanice de Fizică și șase țări invitate.
+
+- Articolul prezintă performanțele elevilor români la Olimpiada Balcanică de Fizică pentru Juniori (JBPO), care a avut loc în Albania, între 26 iunie și 3 iulie.
+- Lotul României a obținut patru medalii (două de aur și două de argint) și premii pentru cele mai bune punctaje individuale și pe echipe.
+- Medaliații cu aur sunt Andrei Popescu (Liceul Internațional de Informatică București) și Ioana Mihai (Colegiul Național "Emil Racoviță" Iași), iar cei cu argint sunt Mihai Dobre (Colegiul Național "Mihai Viteazul" Ploiești) și Ana Maria Popa (Colegiul Național "Gheorghe Lazăr" București).
+- Echipa României a fost coordonată de prof. Radu Constantinescu (Universitatea din Craiova) și prof. Ciprian Manolescu (Universitatea din București).
+- La competiție au participat 18 țări, dintre care 11 cu statut de membru și 7 cu statut de invitat.
 
 **GHID Regulile de la Bacalaureat 2023, publicate de Ministerul Educației. Candidații pot intra în săli de la 7:30, la 9 începe examenul**
-- Ministerul Educației a publicat un ghid cu regulile pe care trebuie să le respecte candidații care susțin examenul național de bacalaureat în sesiunea iunie-iulie 2023.
-- Probele scrise încep pe 26 iunie, cu examenul la Limba și literatura română, și se încheie pe 29 iunie, cu examenul la Limba și literatura maternă.
-- Accesul candidaților în săli este permis între orele 7:30 și 8:30, pe baza actului de identitate. După ora 8:30, ușile sălilor se închid și candidații sunt legitimați și instruiți de profesorii asistenți.
-- Timpul de redactare a subiectelor este de trei ore pentru fiecare probă scrisă și se calculează după distribuirea subiectelor către candidați. Timpul poate fi prelungit cu maximum două ore pentru candidații cu cerințe educaționale speciale.
-- Candidații nu au voie să introducă în sălile de examen materiale sau obiecte interzise, cum ar fi telefoane mobile, culegeri, manuale, notițe, mijloace electronice de calcul sau de comunicare etc. Acestea trebuie depozitate într-o sală special amenajată, într-o pungă sau un plic sigilat.
-- Candidații trebuie să completeze corect datele personale pe colțul care urmează a fi lipit al foii de examen și să numeroteze paginile cu cifre arabe, indicând pagina curentă și numărul total de pagini.
 
-**Ligia Deca, ministrul Educației: Cred că fiecare zonă nouă rezidențială trebuie proiectată cu infrastructură școlară care să o deservească. Este clar că este o problemă în toate zonele metropolitane**
-- Ministrul Educației, Ligia Deca, a declarat la un briefing de presă că este necesar ca noile zone rezidențiale să fie însoțite de infrastructură școlară adecvată, pentru a evita aglomerarea grădinițelor și școlilor din București și alte orașe mari.
-- Deca a spus că Ministerul Educației face investiții în construcția de noi unități de învățământ, atât din fonduri europene, cât și din bugetul de stat, dar este important ca și administrațiile publice locale să conștientizeze importanța extinderii infrastructurii școlare.
-- O altă soluție propusă de ministrul Educației este crearea de asocieri sau consorții între unități de învățământ, care să includă și spații care nu sunt ocupate, dar care pot fi transformate pentru a găzdui mai mulți copii.
-- Deca a precizat că pentru elevii cu cerințe educaționale speciale se asigură susținerea probelor de examen adaptate, conform unei proceduri elaborate de Ministerul Educației.
+- Articolul oferă un ghid cu regulile pe care candidații la bacalaureat trebuie să le respecte în timpul probelor scrise.
+- Candidații trebuie să se prezinte în centrul de examen cu cel puțin o jumătate de oră înainte de începerea probei, să se legitimeze cu actul de identitate și să nu introducă în sală obiecte interzise (telefoane, căști, ceasuri inteligente etc.).
+- Candidații trebuie să folosească numai cerneală sau pastă albastră pentru redactarea lucrărilor și să taie cu o linie orizontală pasajele greșite.
+- Candidații nu au voie să comunice între ei sau cu exteriorul, să copieze sau să transmită materiale care permit copiatul. În caz contrar, sunt eliminați de la probă și nu mai pot participa la următoarele două sesiuni de bacalaureat.
+- Candidații care au nevoie de condiții speciale de susținere a examenului (elevi cu cerințe educaționale speciale, elevi care au participat la olimpiade internaționale etc.) trebuie să solicite acest lucru în prealabil și să prezinte documente justificative.
 
-## 🏫 Despre greva profesorilor
-- Greva profesorilor a început pe 15 iunie 2023, după ce negocierile cu Guvernul privind majorarea salariilor și alocarea a 6% din PIB pentru educație au eșuat.
-- Federația Sindicatelor Libere din Învățământ (FSLI) și Federația Națională Sindicală „Alma Mater” (FNS „Alma Mater”) au anunțat că vor continua protestele până la obținerea unor soluții concrete și durabile pentru problemele din sistemul educațional.
-- Greva profesorilor afectează peste două milioane de elevi din învățământul preuniversitar și peste 500.000 de studenți din învățământul superior, care nu beneficiază de ore online sau față în față.
-- Guvernul a declarat că este dispus să continue dialogul cu sindicatele din educație, dar nu poate oferi creșteri salariale peste nivelul stabilit prin legea bugetului de stat pe anul 2023. De asemenea, Guvernul a invocat dificultăți financiare generate de criza sanitară și economică provocată de pandemia de COVID-19.
+🏫 Despre greva profesorilor
+
+- Greva profesorilor a început pe 29 mai 2023 și s-a suspendat pe 12 iunie 2023, după ce Guvernul a promis majorarea salariilor cu 25% începând cu 1 iulie 2023.
+- Greva a afectat desfășurarea examenelor naționale, în special probele orale de la bacalaureat, care au fost echivalate cu mediile din liceu.
+- Sindicatele din educație au anunțat că vor monitoriza respectarea angajamentelor asumate de Guvern și că vor relua protestele dacă acestea nu vor fi îndeplinite.
+- Ministrul Educației, Ligia Deca, a declarat că greva a fost ilegală și că va cere recuperarea banilor plătiți profesorilor care nu au predat în perioada grevei.
 
 
 <sub><sub>Acest text a fost generat automat de BingAI folosind ultimele informatii de pe Edupedu, precum si de pe alte site-uri de stiri. Deci, nu te baza pe el pentru a lua decizii importante :)</sub></sub>
