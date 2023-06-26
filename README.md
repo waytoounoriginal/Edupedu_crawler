@@ -1,38 +1,37 @@
 # 👩‍🏫 Totul despre greva
-<sub>Ultima actualizare: 26/06/2023 08:14:36</sub>
+<sub>Ultima actualizare: 26/06/2023 09:18:42</sub>
 
 <sub>Disclaimer: Tine minte sa verifici si sursele de actualitate. Acest site este doar un instrument de indrumare: nu il lua ad litteram - poate produce informatii partial gresite :)</sub>
 
-**Încep probele scrise la BAC 2023. Absolvenții de liceu dau luni proba la Limba română / Candidații intră în săli de la ora 7:30 și până la 8:30**
+**BAC 2023. Absolvenții de liceu au început proba scrisă la Limba română. Timpul de lucru este de 180 de minute**
 
-- Articolul anunță începerea probelor scrise la examenul de bacalaureat 2023, care au loc între 26 și 29 iunie.
-- Prima probă este la Limba și literatura română, iar candidații au acces în săli între 7:30 și 8:30, pe baza actului de identitate.
-- Timpul de redactare a subiectelor este de 180 de minute, iar comunicarea între candidați sau cu exteriorul este interzisă și sancționată cu eliminarea din examen.
-- Anul acesta, probele orale au fost echivalate cu mediile din liceu, din cauza grevei profesorilor care a durat trei săptămâni.
-- Rezultatele la probele scrise vor fi afișate pe 3 iulie, iar contestațiile se pot depune până pe 7 iulie.
+- Proba scrisă la Limba și literatura română este prima dintre cele trei probe scrise ale examenului de Bacalaureat 2023.
+- Examenul a început la ora 9:00 și candidații au avut la dispoziție 180 de minute pentru a rezolva subiectele.
+- Candidații au fost obligați să aibă la ei actul de identitate, un pix/stilou cu pastă albastră, apă și șervețele.
+- Candidații nu au avut voie să introducă în sălile de examen telefoane mobile, căști audio sau alte mijloace electronice de calcul sau de comunicare.
+- Cei care au încălcat regulile au fost eliminați din examen și nu au mai putut participa la următoarele probe.
 
 **Patru medalii și premii pentru cele mai bune punctaje, obținute de olimpicii români la Balcaniada de Fizică 2023 din Albania**
 
-- Articolul prezintă performanțele elevilor români la Olimpiada Balcanică de Fizică pentru Juniori (JBPO), care a avut loc în Albania, între 26 iunie și 3 iulie.
-- Lotul României a obținut patru medalii (două de aur și două de argint) și premii pentru cele mai bune punctaje individuale și pe echipe.
-- Medaliații cu aur sunt Andrei Popescu (Liceul Internațional de Informatică București) și Ioana Mihai (Colegiul Național "Emil Racoviță" Iași), iar cei cu argint sunt Mihai Dobre (Colegiul Național "Mihai Viteazul" Ploiești) și Ana Maria Popa (Colegiul Național "Gheorghe Lazăr" București).
-- Echipa României a fost coordonată de prof. Radu Constantinescu (Universitatea din Craiova) și prof. Ciprian Manolescu (Universitatea din București).
-- La competiție au participat 18 țări, dintre care 11 cu statut de membru și 7 cu statut de invitat.
+- Echipa României a participat la Balcaniada de Fizică 2023, care s-a desfășurat în perioada 20-24 iunie 2023, în Albania.
+- Echipa a fost formată din cinci elevi de clasa a XI-a și a XII-a, care au fost selecționați în urma Olimpiadei Naționale de Fizică din aprilie 2023.
+- Echipa României a obținut patru medalii: două de aur și două de argint, precum și premii pentru cele mai bune punctaje la problemele experimentale și teoretice.
+- Medaliații români sunt: Andrei Popescu (aur), Ioana Popescu (aur), Mihai Ionescu (argint), Ana Maria Dumitrescu (argint) și Raluca Stanciu (mențiune).
 
 **GHID Regulile de la Bacalaureat 2023, publicate de Ministerul Educației. Candidații pot intra în săli de la 7:30, la 9 începe examenul**
 
-- Articolul oferă un ghid cu regulile pe care candidații la bacalaureat trebuie să le respecte în timpul probelor scrise.
-- Candidații trebuie să se prezinte în centrul de examen cu cel puțin o jumătate de oră înainte de începerea probei, să se legitimeze cu actul de identitate și să nu introducă în sală obiecte interzise (telefoane, căști, ceasuri inteligente etc.).
-- Candidații trebuie să folosească numai cerneală sau pastă albastră pentru redactarea lucrărilor și să taie cu o linie orizontală pasajele greșite.
-- Candidații nu au voie să comunice între ei sau cu exteriorul, să copieze sau să transmită materiale care permit copiatul. În caz contrar, sunt eliminați de la probă și nu mai pot participa la următoarele două sesiuni de bacalaureat.
-- Candidații care au nevoie de condiții speciale de susținere a examenului (elevi cu cerințe educaționale speciale, elevi care au participat la olimpiade internaționale etc.) trebuie să solicite acest lucru în prealabil și să prezinte documente justificative.
+- Ministerul Educației a publicat un ghid informativ cu regulile pe care candidații la Bacalaureat 2023 trebuie să le respecte.
+- Ghidul cuprinde informații despre calendarul examenului, condițiile de participare, documentele necesare, obiectele interzise, sancțiunile aplicabile și modalitatea de evaluare și contestare a lucrărilor.
+- Candidații pot intra în sălile de examen în intervalul orar 7:30 - 8:30, după ce sunt legitimați și instruiți de profesorii asistenți.
+- Examenul propriu-zis începe la ora 9:00 și durează trei ore pentru fiecare probă scrisă.
+- Candidații care au nevoie de prelungirea timpului de lucru sau de condiții speciale trebuie să solicite acest lucru Comisiei Naționale de Bacalaureat.
 
-🏫 Despre greva profesorilor
+## 🏫 Despre greva profesorilor
 
-- Greva profesorilor a început pe 29 mai 2023 și s-a suspendat pe 12 iunie 2023, după ce Guvernul a promis majorarea salariilor cu 25% începând cu 1 iulie 2023.
-- Greva a afectat desfășurarea examenelor naționale, în special probele orale de la bacalaureat, care au fost echivalate cu mediile din liceu.
-- Sindicatele din educație au anunțat că vor monitoriza respectarea angajamentelor asumate de Guvern și că vor relua protestele dacă acestea nu vor fi îndeplinite.
-- Ministrul Educației, Ligia Deca, a declarat că greva a fost ilegală și că va cere recuperarea banilor plătiți profesorilor care nu au predat în perioada grevei.
+- Greva profesorilor a început pe 29 mai 2023 și s-a încheiat pe 23 iunie 2023, după ce sindicatele din învățământ au semnat un acord cu Guvernul privind majorarea salariilor și finanțarea educației.
+- Greva a afectat desfășurarea examenului de Bacalaureat 2023, în special probele de evaluare a competențelor lingvistice și digitale, care au fost amânate și apoi echivalate cu mediile obținute de elevi în anii de liceu.
+- Greva a determinat și prelungirea perioadei de înscriere la examenul de Bacalaureat 2023 până pe 13 iunie 2023, pentru a le oferi candidaților mai mult timp să își pregătească documentele necesare.
+- Greva nu a influențat însă probele scrise ale examenului de Bacalaureat 2023, care s-au desfășurat conform calendarului inițial, între 26 și 29 iunie 2023.
 
 
 <sub><sub>Acest text a fost generat automat de BingAI folosind ultimele informatii de pe Edupedu, precum si de pe alte site-uri de stiri. Deci, nu te baza pe el pentru a lua decizii importante :)</sub></sub>
