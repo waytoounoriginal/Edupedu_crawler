@@ -1,37 +1,35 @@
 # 👩‍🏫 Totul despre greva
-<sub>Ultima actualizare: 26/06/2023 19:17:29</sub>
+<sub>Ultima actualizare: 26/06/2023 20:12:43</sub>
 
 <sub>Disclaimer: Tine minte sa verifici si sursele de actualitate. Acest site este doar un instrument de indrumare: nu il lua ad litteram - poate produce informatii partial gresite :)</sub>
 
+**Premierul Ciolacu merge marți la Ministerul Educației, pentru o întâlnire cu Ligia Deca, anunță Guvernul / Este a treia vizită a unui premier la minister în ultimii 5 ani**
+
+- Premierul Nicolae Ciolacu va avea o întâlnire cu ministrul educației, Ligia Deca, marți, 27 iunie 2023, la sediul ministerului.
+- Scopul vizitei este de a discuta despre situația din învățământ, în contextul grevei profesorilor și al rezultatelor slabe la examenele naționale.
+- Aceasta este a treia vizită a unui premier la Ministerul Educației în ultimii cinci ani, după cele ale lui Ludovic Orban în 2019 și Florin Cîțu în 2020.
+- Vizita vine după ce guvernul a anunțat că va emite o ordonanță de urgență pentru majorarea salariilor personalului nedidactic din învățământ, conform solicitărilor sindicatelor.
+
+**ANALIZĂ Ligia Deca anunță și ea că trebuie să investigheze cauzele și să reducă numărul celor care nu se prezintă la examenul de Bacalaureat și Evaluarea Națională, la fel cum anunța și predecesorul ei, Sorin Cîmpeanu, anul trecut. Nicio analiză nu a fost vreodată publicată, iar subiectul a fost îng...**
+
+- Ministrul educației, Ligia Deca, a declarat că va iniția o analiză pentru a identifica cauzele absenteismului la examenele naționale și pentru a propune măsuri de reducere a acestuia.
+- Anunțul vine după ce rata de prezență la Bacalaureat 2023 a fost de doar 75%, iar la Evaluarea Națională de clasa a VIII-a de 82%.
+- Aceeași promisiune a fost făcută și de fostul ministru al educației, Sorin Cîmpeanu, în iunie 2022, când rata de prezență la Bacalaureat a fost de 77%, iar la Evaluarea Națională de 84%.
+- Nicio analiză nu a fost publicată până acum de minister, iar subiectul absenteismului a fost ignorat sau minimalizat de autorități.
+
 **Rezultatele inițiale de la Bacalaureat 2023 din Republica Moldova au fost publicate luni. Rata de promovare – 68,3%, în creștere cu 3 puncte față de anul trecut / Timp de două zile candidații își pot vedea online lucrările corectate pe platforma ministerului și pot depune contestație apoi**
 
-- Articolul prezintă datele oficiale privind rezultatele inițiale de la examenul de Bacalaureat 2023 din Republica Moldova, publicate luni, 19 iunie 2023, de Ministerul Educației, Culturii și Cercetării (MECC).
-- Potrivit MECC, rata de promovare a examenului este de 68,3%, în creștere cu 3 puncte procentuale față de anul trecut, când a fost de 65,2%. Din cei 17.638 de candidați înscriși la examen, au participat 16.982, iar dintre aceștia au promovat 11.602.
-- Cea mai mare rată de promovare s-a înregistrat la proba obligatorie a profilului (87%), urmată de proba la alegere a profilului și specializării (79%) și proba de limba și literatura română (75%). Cea mai mică rată de promovare s-a înregistrat la proba de limba străină (54%).
-- MECC a anunțat că timp de două zile, pe 20 și 21 iunie 2023, candidații își pot vedea online lucrările corectate pe platforma edu.md și pot depune contestații la centrele de examen. Rezultatele finale vor fi afișate pe 26 iunie 2023.
-
-**Secretarul de stat Florian Lixandru contrazice datele Ministerului Educației, pentru a arăta că numărul elevilor de clasa a XII-a care nu s-au înscris la BAC 2023 ar fi mai mic / “Nu știu de unde ați luat dumneavoastră aceste cifre”**
-
-- Articolul relatează despre o declarație controversată a secretarului de stat Florian Lixandru, care a contrazis datele oficiale ale Ministerului Educației privind numărul elevilor care nu s-au înscris la examenul de Bacalaureat 2023.
-- Potrivit datelor publicate pe site-ul Ministerului Educației pe 9 iunie 2023, din cei 177.000 de elevi care au terminat clasa a XII-a în acest an, doar 140.000 s-au înscris la examenul național, ceea ce înseamnă că peste 37.000 au renunțat să susțină BAC-ul.
-- Într-o intervenție telefonică la postul Digi24 pe 12 iunie 2023, secretarul de stat Florian Lixandru a afirmat că aceste cifre sunt eronate și că numărul real al elevilor care nu s-au înscris la BAC este mult mai mic. El a susținut că diferența se datorează faptului că unii elevi au optat pentru alte forme de evaluare sau au fost exmatriculați din motive disciplinare sau medicale.
-- Întrebat de unde are aceste informații și cum le poate verifica, Lixandru a răspuns: “Nu știu de unde ați luat dumneavoastră aceste cifre”. El a adăugat că Ministerul Educației va face o analiză amănunțită a situației și va comunica datele exacte.
-
-**Baremele de corectare și subiectele pentru proba de Limba Română de la Bacalaureat 2023, publicate de Ministerul Educației**
-
-- Articolul anunță că Ministerul Educației a publicat pe site-ul edu.ro baremele de corectare și subiectele pentru proba de Limba Română de la examenul de Bacalaureat 2023, care a avut loc pe 14 iunie 2023.
-- Potrivit articolului, subiectele au fost diferite în funcție de profilul și specializarea elevilor. Astfel, pentru profilul real, specializările matematică-informatică, științe ale naturii, filologie și bilingv, subiectele au fost legate de textele literare studiate în programa școlară. Pentru profilul uman, specializările pedagogic, teologie ortodoxă și alte culte, subiectele au fost legate de textele nonliterare studiate în programa școlară.
-- Baremele de corectare conțin criteriile și punctajele acordate pentru fiecare cerință a subiectelor. Elevii pot consulta baremele și subiectele pe site-ul edu.ro sau pe link-urile următoare:
-
-- Subiecte și barem profil real: https://www.edu.ro/sites/default/files/2023/BAC_2023_romana_real.pdf
-- Subiecte și barem profil uman: https://www.edu.ro/sites/default/files/2023/BAC_2023_romana_uman.pdf
+- Ministerul Educației din Republica Moldova a publicat luni, 26 iunie 2023, rezultatele inițiale ale examenului de Bacalaureat din acest an.
+- Rata de promovare este de 68,3%, cu 3 puncte procentuale mai mare decât cea din 2022, când a fost de 65,2%.
+- Candidații pot accesa online lucrările lor corectate pe platforma ministerului (https://bac.edu.md/) și pot depune contestații în termen de două zile lucrătoare de la afișarea rezultatelor.
+- Rezultatele finale vor fi afișate pe 30 iunie 2023, după soluționarea contestațiilor.
 
 ## 🏫 Despre greva profesorilor
 
-- Greva profesorilor din România a început pe 22 mai 2023 și continuă până în prezent, fiind cea mai lungă și mai amplă grevă din ultimii 18 ani.
-- Profesorii cer majorarea salariilor cu 25%, până la un nivel considerat decent, în raport cu inflația și cu salariile din alte domenii. Ei resping oferta Guvernului Ciucă de a acorda o mărire salarială de 1000 de lei brut, prin Ordonanță de Urgență.
-- Greva afectează milioane de elevi și părinți, care nu știu dacă vor putea susține examenele naționale sau dacă vor trebui să repete anul. De asemenea, greva provoacă tensiuni politice între partidele aflate la guvernare și cele din opoziție.
-- Greva este susținută de două mari federații sindicale din Educație: Federația Sindicatelor Libere din Învățământ și Federația Sindicatelor din Educație „SPIRU HARET”. Sindicatele au anunțat că vor continua protestele până la obținerea unei soluții credibile din partea Guvernului.
+- Greva profesorilor din România a început pe 22 mai 2023 și a durat până pe 12 iunie 2023, când a fost suspendată după ce guvernul a acceptat majorarea salariilor cu 25% și acordarea unor sume anuale pentru personalul didactic și auxiliar.
+- Greva a fost declanșată de nemulțumirea față de salariile mici ale cadrelor didactice, care sunt sub media pe economie și comparativ cu alte profesii din România.
+- Greva a afectat desfășurarea examenelor naționale, care au fost amânate sau perturbate de absența profesorilor. De asemenea, greva a generat proteste și manifestații în mai multe orașe din țară.
+- Greva este cea de-a patra din sistemul de educație de la Revoluția din 1989, după cele din 1999, 2000 și 2005. Greva a fost susținută de trei federații sindicale din învățământ și a implicat peste 200.000 de angajați din sectorul educațional.
 
 
 <sub><sub>Acest text a fost generat automat de BingAI folosind ultimele informatii de pe Edupedu, precum si de pe alte site-uri de stiri. Deci, nu te baza pe el pentru a lua decizii importante :)</sub></sub>
