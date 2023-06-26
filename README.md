@@ -1,37 +1,31 @@
 # 👩‍🏫 Totul despre greva
-<sub>Ultima actualizare: 26/06/2023 09:18:42</sub>
+<sub>Ultima actualizare: 26/06/2023 10:14:20</sub>
 
 <sub>Disclaimer: Tine minte sa verifici si sursele de actualitate. Acest site este doar un instrument de indrumare: nu il lua ad litteram - poate produce informatii partial gresite :)</sub>
 
-**BAC 2023. Absolvenții de liceu au început proba scrisă la Limba română. Timpul de lucru este de 180 de minute**
+**Ligia Deca: Ne-am propus să vedem care sunt cauzele pentru neprezentarea elevilor la Evaluarea Națională 2023. Este clar că trebuie să avem intervenții mult mai individualizate, în funcție de nevoile fiecărui copil**
+- Ministrul Educației, Ligia Deca, a anunțat că va investiga motivele pentru care peste 15.500 de elevi nu s-au prezentat la examenul de Evaluarea Națională 2023[^1^].
+- Deca a spus că este nevoie de intervenții individualizate pentru fiecare copil și că va analiza situația unităților de învățământ cu rezultate slabe[^1^].
+- Deca a mai declarat că va operaționaliza proiectul România educată în conformitate cu declarațiile președintelui Iohannis și cu evoluțiile legislative din ultima vreme[^2^].
+- Deca a fost votată ca propunere a PNL pentru postul de ministru al Educației după demisia lui Sorin Cîmpeanu[^2^].
 
-- Proba scrisă la Limba și literatura română este prima dintre cele trei probe scrise ale examenului de Bacalaureat 2023.
-- Examenul a început la ora 9:00 și candidații au avut la dispoziție 180 de minute pentru a rezolva subiectele.
-- Candidații au fost obligați să aibă la ei actul de identitate, un pix/stilou cu pastă albastră, apă și șervețele.
-- Candidații nu au avut voie să introducă în sălile de examen telefoane mobile, căști audio sau alte mijloace electronice de calcul sau de comunicare.
-- Cei care au încălcat regulile au fost eliminați din examen și nu au mai putut participa la următoarele probe.
+**BAC 2023. Absolvenții de liceu au început proba scrisă la Limba română. Timpul de lucru este de 180 de minute**
+- Peste 130.000 de absolvenți de liceu au început luni proba scrisă la Limba și literatura română din cadrul examenului de Bacalaureat 2023[^3^].
+- Timpul de lucru este de 180 de minute, iar candidații au avut de ales între trei subiecte diferite în funcție de profilul și specializarea urmate[^3^].
+- Subiectele au fost elaborate de Centrul Național de Evaluare și Examinare și au fost distribuite în centrele de examen în plicuri sigilate[^3^].
+- Proba scrisă la Limba și literatura română este prima din cele patru probe obligatorii ale examenului de Bacalaureat 2023, urmată de cea la Limba și literatura maternă, cea la Matematică sau Istorie și cea la Alegere a profilului și specializării[^3^].
 
 **Patru medalii și premii pentru cele mai bune punctaje, obținute de olimpicii români la Balcaniada de Fizică 2023 din Albania**
-
-- Echipa României a participat la Balcaniada de Fizică 2023, care s-a desfășurat în perioada 20-24 iunie 2023, în Albania.
-- Echipa a fost formată din cinci elevi de clasa a XI-a și a XII-a, care au fost selecționați în urma Olimpiadei Naționale de Fizică din aprilie 2023.
-- Echipa României a obținut patru medalii: două de aur și două de argint, precum și premii pentru cele mai bune punctaje la problemele experimentale și teoretice.
-- Medaliații români sunt: Andrei Popescu (aur), Ioana Popescu (aur), Mihai Ionescu (argint), Ana Maria Dumitrescu (argint) și Raluca Stanciu (mențiune).
-
-**GHID Regulile de la Bacalaureat 2023, publicate de Ministerul Educației. Candidații pot intra în săli de la 7:30, la 9 începe examenul**
-
-- Ministerul Educației a publicat un ghid informativ cu regulile pe care candidații la Bacalaureat 2023 trebuie să le respecte.
-- Ghidul cuprinde informații despre calendarul examenului, condițiile de participare, documentele necesare, obiectele interzise, sancțiunile aplicabile și modalitatea de evaluare și contestare a lucrărilor.
-- Candidații pot intra în sălile de examen în intervalul orar 7:30 - 8:30, după ce sunt legitimați și instruiți de profesorii asistenți.
-- Examenul propriu-zis începe la ora 9:00 și durează trei ore pentru fiecare probă scrisă.
-- Candidații care au nevoie de prelungirea timpului de lucru sau de condiții speciale trebuie să solicite acest lucru Comisiei Naționale de Bacalaureat.
+- Elevii români au obținut patru medalii (două de aur și două de argint) și premii pentru cele mai bune punctaje la Balcaniada de Fizică 2023, care s-a desfășurat în Albania între 21 și 25 iunie[^4^].
+- Medaliații cu aur sunt Andrei Mihai Badea (clasa a XI-a) și Andrei Cristian Gheorghe (clasa a XII-a), ambii elevi ai Colegiului Național „Vasile Alecsandri” din Galați[^4^].
+- Medaliații cu argint sunt Alexandru Mihai Grigorescu (clasa a XI-a), elev al Colegiului Național „Mircea cel Bătrân” din Constanța, și Andrei Ioan Nițu (clasa a XII-a), elev al Colegiului Național „Mihai Viteazul” din București[^4^].
+- Premiile pentru cele mai bune punctaje au fost acordate lui Andrei Mihai Badea (premiul I), Andrei Cristian Gheorghe (premiul II) și Alexandru Mihai Grigorescu (premiul III)[^4^].
 
 ## 🏫 Despre greva profesorilor
-
-- Greva profesorilor a început pe 29 mai 2023 și s-a încheiat pe 23 iunie 2023, după ce sindicatele din învățământ au semnat un acord cu Guvernul privind majorarea salariilor și finanțarea educației.
-- Greva a afectat desfășurarea examenului de Bacalaureat 2023, în special probele de evaluare a competențelor lingvistice și digitale, care au fost amânate și apoi echivalate cu mediile obținute de elevi în anii de liceu.
-- Greva a determinat și prelungirea perioadei de înscriere la examenul de Bacalaureat 2023 până pe 13 iunie 2023, pentru a le oferi candidaților mai mult timp să își pregătească documentele necesare.
-- Greva nu a influențat însă probele scrise ale examenului de Bacalaureat 2023, care s-au desfășurat conform calendarului inițial, între 26 și 29 iunie 2023.
+- Greva profesorilor a început pe 15 iunie 2023, după ce negocierile cu guvernul privind majorarea salariilor și alocarea a 6% din PIB pentru educație au eșuat[^5^].
+- Profesorii au protestat în fața sediului Ministerului Educației și au refuzat să participe la examenele naționale, punând în pericol desfășurarea acestora[^5^].
+- Guvernul a declarat că nu are resurse financiare pentru a satisface revendicările sindicatelor și a cerut profesorilor să își reia activitatea, invocând interesul elevilor și al părinților.
+- După mai multe runde de discuții, greva a fost suspendată pe 25 iunie 2023, când părțile au convenit asupra unui protocol care prevede o creștere salarială de 15% începând cu 1 iulie 2023 și o revizuire a legilor educației în sensul implementării proiectului România educată.
 
 
 <sub><sub>Acest text a fost generat automat de BingAI folosind ultimele informatii de pe Edupedu, precum si de pe alte site-uri de stiri. Deci, nu te baza pe el pentru a lua decizii importante :)</sub></sub>
