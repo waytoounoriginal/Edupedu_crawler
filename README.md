@@ -1,31 +1,31 @@
 # 👩‍🏫 Totul despre greva
-<sub>Ultima actualizare: 27/06/2023 23:13:24</sub>
+<sub>Ultima actualizare: 28/06/2023 00:12:08</sub>
 
 <sub>Disclaimer: Tine minte sa verifici si sursele de actualitate. Acest site este doar un instrument de indrumare: nu il lua ad litteram - poate produce informatii partial gresite :)</sub>
 
-**Rezultatele de la Evaluarea Națională 2023 vor fi afișate miercuri, 28 iunie. Model de cerere pentru contestație – document**
-- Articolul prezintă calendarul afișării rezultatelor de la Evaluarea Națională 2023 și procedura de depunere a contestațiilor.
-- Rezultatele inițiale vor fi afișate pe 28 iunie, până la ora 14:00, iar contestațiile pot fi depuse în aceeași zi, între orele 16:00 și 19:00, online sau la unitățile de învățământ.
-- Rezultatele finale vor fi afișate pe 2 iulie, după soluționarea contestațiilor.
-- Articolul oferă un model de cerere pentru contestație, care trebuie completat cu datele personale ale elevului, disciplina și nota contestată, precum și motivul contestației.
+- **Cine este președintele comisiei de Bacalaureat de la Colegiul „Gheorghe Șincai”, unde peste 70 de lucrări au fost anulate – un preot, director de colegiu și profesor de Religie, dat afară din Inspectoratul Școlar București în 2019, după un scandal amoros cu o educatoare**
+  - Articolul prezintă profilul lui Florin Popescu, președintele comisiei de Bacalaureat de la Colegiul „Gheorghe Șincai”, unde au fost anulate peste 70 de lucrări din cauza unor suspiciuni de fraudă.
+  - Popescu este preot, director al Colegiului Național „Sfântul Sava” și profesor de Religie la Colegiul „Gheorghe Șincai”.
+  - Popescu a fost demis din funcția de inspector școlar general adjunct al Inspectoratului Școlar al Municipiului București în 2019, după ce a fost implicat într-un scandal amoros cu o educatoare din cadrul instituției.
+  - Popescu este cercetat penal pentru abuz în serviciu și fals intelectual, fiind acuzat că a semnat ilegal acte de studii pentru elevi care nu au frecventat cursurile.
 
-**Marele premiu pentru teatru al Academiei Franceze – 2023, câștigat de scriitoarea româncă Alexandra Badea**
-- Articolul anunță că scriitoarea româncă Alexandra Badea a câștigat Marele premiu pentru teatru al Academiei Franceze – 2023, pentru piesa sa „Points de non-retour (Quais de Seine)”, care abordează tema exilului și a identității.
-- Premiul este acordat anual unei opere dramatice originale, scrise în limba franceză, care se distinge prin calitatea artistică și literară.
-- Alexandra Badea este prima femeie și prima autoare de origine română care primește acest premiu prestigios, care i-a fost decernat pe 23 iunie, la Paris.
-- Scriitoarea s-a născut în București, în 1980, și trăiește în Franța din 2003. A scris mai multe piese de teatru, romane și scenarii de film, care au fost traduse și jucate în mai multe țări.
+- **Rezultatele de la Evaluarea Națională 2023 vor fi afișate miercuri, 28 iunie. Model de cerere pentru contestație – document**
+  - Articolul anunță că rezultatele de la Evaluarea Națională 2023 vor fi afișate miercuri, 28 iunie, pe site-ul evaluare.edu.ro și pe cel al Ministerului Educației.
+  - Articolul oferă și un model de cerere pentru contestație, care trebuie depusă în aceeași zi, între orele 14:00 și 19:00, la unitatea de învățământ unde a fost susținut examenul.
+  - Articolul precizează că rezultatele finale vor fi afișate pe 2 iulie, după soluționarea contestațiilor.
 
-**Peste 118 mii de tineri au participat la proba de Matematică/Istorie de la Bacalaureat 2023. Aproape 4 mii au lipsit, iar 19 au fost eliminați pentru că au încercat să copieze**
-- Articolul relatează despre desfășurarea probei obligatorii a profilului din cadrul examenului de Bacalaureat 2023, care a avut loc pe 27 iunie.
-- Peste 118 mii de candidați au participat la această probă, dintre care aproximativ 77 mii au susținut examenul la Matematică, iar restul la Istorie.
-- Aproape 4 mii de candidați au absentat, iar 19 au fost eliminați pentru fraudă sau tentativă de fraudă.
-- Rezultatele la această probă vor fi afișate pe 28 iunie, împreună cu cele de la proba anterioară (Limba și literatura română).
+- **Marele premiu pentru teatru al Academiei Franceze – 2023, câștigat de scriitoarea româncă Alexandra Badea**
+  - Articolul relatează că scriitoarea româncă Alexandra Badea a câștigat Marele premiu pentru teatru al Academiei Franceze – 2023, pentru piesa sa „Points de non-retour (Quais de Seine)”.
+  - Piesa abordează tema exilului și a identității prin povestea a trei personaje care își caută rădăcinile în Franța, Algeria și România.
+  - Premiul este acordat anual unei opere dramatice originale în limba franceză și constă într-o sumă de 10.000 de euro.
+  - Alexandra Badea este o scriitoare și regizoare stabilită la Paris din 2003, care a publicat mai multe piese și romane.
 
 ## 🏫 Despre greva profesorilor
-- Greva profesorilor din învățământul preuniversitar a început pe 15 iunie și se prelungește până pe 30 iunie, afectând desfășurarea examenelor naționale (Evaluarea Națională și Bacalaureat).
-- Profesorii revendică majorarea salariilor cu 25%, plata orelor suplimentare și deblocarea posturilor didactice vacante.
-- Guvernul a propus o creștere salarială de 10%, dar sindicatele au respins oferta ca fiind insuficientă și au amenințat cu continuarea grevei și în luna septembrie.
-- Ministrul Educației a declarat că greva este ilegală și că va lua măsuri pentru a asigura desfășurarea normală a examenelor și a anului școlar viitor.
+
+- Greva profesorilor a început pe 15 iunie, ca protest față de salarizarea inechitabilă și condițiile precare din învățământ.
+- Greva a afectat desfășurarea examenelor naționale, provocând întârzieri și anulări ale unor lucrări.
+- Sindicatele au cerut majorarea salariilor cu 25%, acordarea sporurilor restante și deblocarea posturilor didactice.
+- Guvernul a propus o creștere salarială graduală până în 2025 și o rectificare bugetară pentru plata datoriilor, dar nu a reușit să convingă liderii sindicali.
 
 
 <sub><sub>Acest text a fost generat automat de BingAI folosind ultimele informatii de pe Edupedu, precum si de pe alte site-uri de stiri. Deci, nu te baza pe el pentru a lua decizii importante :)</sub></sub>
