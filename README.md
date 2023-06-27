@@ -1,32 +1,31 @@
 # 👩‍🏫 Totul despre greva
-<sub>Ultima actualizare: 27/06/2023 18:14:32</sub>
+<sub>Ultima actualizare: 27/06/2023 19:16:26</sub>
 
 <sub>Disclaimer: Tine minte sa verifici si sursele de actualitate. Acest site este doar un instrument de indrumare: nu il lua ad litteram - poate produce informatii partial gresite :)</sub>
 
+**Rezultatele de la Evaluarea Națională 2023 vor fi afișate miercuri, 28 iunie. Model de cerere pentru contestație – document**
+- Articolul prezintă calendarul afișării rezultatelor de la Evaluarea Națională 2023, precum și procedura de depunere a contestațiilor.
+- Rezultatele inițiale vor fi afișate pe 28 iunie, până la ora 14:00, iar contestațiile pot fi depuse în aceeași zi, până la ora 20:00, online sau la unitățile de învățământ.
+- Rezultatele finale vor fi afișate pe 2 iulie, după soluționarea contestațiilor.
+- Articolul oferă un model de cerere pentru contestație, care trebuie completat cu datele personale ale elevului, disciplina și nota contestată, precum și motivul contestației.
+
+**Marele premiu pentru teatru al Academiei Franceze – 2023, câștigat de scriitoarea româncă Alexandra Badea**
+- Articolul anunță că scriitoarea româncă Alexandra Badea a câștigat Marele premiu pentru teatru al Academiei Franceze – 2023, pentru piesa sa "Points de non-retour (Quais de Seine)".
+- Premiul este acordat anual unei opere dramatice originale, scrise în limba franceză, care se distinge prin calitatea artistică și literară.
+- Piesa lui Alexandra Badea abordează tema identității și a memoriei colective, prin prisma unor personaje care își caută rădăcinile și își confruntă trecutul.
+- Scriitoarea româncă este recunoscută pentru creațiile sale multidisciplinare, care combină teatrul, filmul, muzica și arta vizuală.
+
 **Peste 118 mii de tineri au participat la proba de Matematică/Istorie de la Bacalaureat 2023. Aproape 4 mii au lipsit, iar 19 au fost eliminați pentru că au încercat să copieze**
-- Articolul relatează despre desfășurarea probei scrise de Matematică sau Istorie din cadrul examenului de Bacalaureat 2023, care a avut loc pe 26 iunie.
-- Din cei 122.000 de candidați înscriși, au participat efectiv 118.200, iar 3.800 au absentat.
-- Dintre cei prezenți, 19 au fost eliminați pentru tentativă de fraudă, folosind telefoane mobile sau alte mijloace interzise.
-- Proba a fost organizată în 1.300 de centre de examen, cu respectarea normelor sanitare impuse de pandemia de COVID-19.
-- Rezultatele vor fi afișate pe 30 iunie, iar contestațiile se pot depune în aceeași zi, online.
-
-**“Program coerent în ceea ce privește consumul de droguri în școli”, care să fie stabilit împreună cu Ministerul de Interne până începe noul an școlar – cererea premierului Ciolacu / “Avem obligația de a vorbi” despre acest lucru**
-- Articolul prezintă declarațiile premierului Marcel Ciolacu despre problema consumului de droguri în rândul elevilor și necesitatea unui program comun între Ministerul Educației și Ministerul de Interne pentru prevenirea și combaterea acestui fenomen.
-- Premierul a spus că este nevoie de o abordare multidisciplinară, care să implice atât educația, cât și sancționarea celor care furnizează droguri în mediul școlar.
-- El a cerut ministrului Educației, Sorin Cîmpeanu, să elaboreze împreună cu ministrul de Interne, Lucian Bode, un program coerent până la începutul anului școlar 2023-2024.
-- El a subliniat că este o problemă gravă și că nu se poate face abstracție de ea, ci trebuie să se vorbească deschis și să se ia măsuri.
-
-**Noile salarii ale profesorilor, pe baza majorărilor din OUG 57/2023, nu pot fi calculate cu aplicația de salarizare, pentru că aceasta nu a fost încă actualizată, transmit inspectoratele școlare**
-- Articolul informează despre faptul că aplicația informatică prin care se calculează salariile profesorilor nu a fost adaptată la noile prevederi legale privind majorarea salariilor cu 20% din OUG 57/2023.
-- Inspectoratele școlare au transmis directorilor unităților de învățământ că nu pot introduce datele referitoare la salariile lunii iunie în aplicație, pentru că aceasta nu permite introducerea coeficienților majorați.
-- Ei au precizat că așteaptă instrucțiuni din partea Ministerului Educației privind modul de calcul al salariilor pentru luna iunie și termenul de transmitere a acestora la Trezorerie.
-- Ei au asigurat personalul didactic că va primi salariile majorate conform legii și că nu vor exista întârzieri în plata acestora.
+- Articolul prezintă situația statistică a probei de Matematică/Istorie de la Bacalaureat 2023, care a avut loc pe 26 iunie.
+- Peste 118 mii de candidați au fost prezenți la examen, dintre care 77.674 la Matematică și 40.423 la Istorie.
+- Aproape 4 mii de candidați au absentat, iar 19 au fost eliminați pentru fraudă sau tentativă de fraudă.
+- Proba a fost considerată dificilă de mulți elevi, care s-au plâns de subiecte prea lungi sau prea complexe.
 
 ## 🏫 Despre greva profesorilor
-- Greva profesorilor a început pe 15 iunie și a durat până pe 25 iunie, când Guvernul a adoptat OUG 57/2023, care prevede majorarea salariilor cu 20% începând cu luna iunie.
-- Greva a fost declanșată de Federația Sindicatelor Libere din Învățământ (FSLI) și a fost susținută de alte organizații sindicale, precum Federația Educației Naționale (FEN) și Federația Sindicatelor din Educație „Spiru Haret” (FSESH).
-- Profesorii au protestat față de înghețarea salariilor, de lipsa fondurilor pentru investiții în școli, de condițiile precare de lucru în contextul pandemiei și de lipsa dialogului social cu autoritățile.
-- Greva a afectat desfășurarea examenelor naționale, cum ar fi Evaluarea Națională și Bacalaureatul, dar și activitatea didactică din ultimele săptămâni de școală.
+- Greva profesorilor din învățământul preuniversitar a început pe 15 iunie și continuă până pe 30 iunie, când se va decide dacă se prelungește sau nu.
+- Profesorii revendică majorarea salariilor cu 25%, respectarea legii privind statutul personalului didactic și deblocarea posturilor vacante.
+- Guvernul susține că nu are fonduri suficiente pentru a acorda majorările salariale solicitate și că este nevoie de o reformă structurală a sistemului educațional.
+- Greva afectează desfășurarea examenelor naționale, precum Evaluarea Națională și Bacalaureatul, care se desfășoară cu personal suplimentar sau cu profesori care nu aderă la grevă.
 
 
 <sub><sub>Acest text a fost generat automat de BingAI folosind ultimele informatii de pe Edupedu, precum si de pe alte site-uri de stiri. Deci, nu te baza pe el pentru a lua decizii importante :)</sub></sub>
