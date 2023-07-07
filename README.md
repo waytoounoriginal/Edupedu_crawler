@@ -1,31 +1,28 @@
 # 👩‍🏫 Totul despre greva
-<sub>Ultima actualizare: 28/06/2023 00:12:08</sub>
+<sub>Ultima actualizare: 07/07/2023 18:13:31</sub>
 
 <sub>Disclaimer: Tine minte sa verifici si sursele de actualitate. Acest site este doar un instrument de indrumare: nu il lua ad litteram - poate produce informatii partial gresite :)</sub>
 
-- **Cine este președintele comisiei de Bacalaureat de la Colegiul „Gheorghe Șincai”, unde peste 70 de lucrări au fost anulate – un preot, director de colegiu și profesor de Religie, dat afară din Inspectoratul Școlar București în 2019, după un scandal amoros cu o educatoare**
-  - Articolul prezintă profilul lui Florin Popescu, președintele comisiei de Bacalaureat de la Colegiul „Gheorghe Șincai”, unde au fost anulate peste 70 de lucrări din cauza unor suspiciuni de fraudă.
-  - Popescu este preot, director al Colegiului Național „Sfântul Sava” și profesor de Religie la Colegiul „Gheorghe Șincai”.
-  - Popescu a fost demis din funcția de inspector școlar general adjunct al Inspectoratului Școlar al Municipiului București în 2019, după ce a fost implicat într-un scandal amoros cu o educatoare din cadrul instituției.
-  - Popescu este cercetat penal pentru abuz în serviciu și fals intelectual, fiind acuzat că a semnat ilegal acte de studii pentru elevi care nu au frecventat cursurile.
+**Grilele de salarii majorate pentru directorii de școli, aprobate de Guvern. Creșterea este între 1300 și 1800 lei, potrivit Ministerului Educației**
+- Guvernul a aprobat o ordonanță de urgență care majorează salariile directorilor și directorilor adjuncți de școli și grădinițe, începând cu 1 ianuarie 2023.
+- Majorarea este cuprinsă între 1300 și 1800 lei, în funcție de gradul didactic, vechimea în învățământ și tipul unității de învățământ.
+- Ministerul Educației susține că măsura este necesară pentru a stimula performanța managerială și a reduce fluctuația personalului din conducerea unităților de învățământ.
 
-- **Rezultatele de la Evaluarea Națională 2023 vor fi afișate miercuri, 28 iunie. Model de cerere pentru contestație – document**
-  - Articolul anunță că rezultatele de la Evaluarea Națională 2023 vor fi afișate miercuri, 28 iunie, pe site-ul evaluare.edu.ro și pe cel al Ministerului Educației.
-  - Articolul oferă și un model de cerere pentru contestație, care trebuie depusă în aceeași zi, între orele 14:00 și 19:00, la unitatea de învățământ unde a fost susținut examenul.
-  - Articolul precizează că rezultatele finale vor fi afișate pe 2 iulie, după soluționarea contestațiilor.
+**Inspectoratele școlare, școlile și grădinițele nu mai pot cere profesorilor, părinților și elevilor dosarul cu șină sau copii ale documentelor emise de către alte instituții ale statului**
+- Ministerul Educației a emis o circulară prin care interzice inspectoratelor școlare, școlilor și grădinițelor să solicite dosarul cu șină sau copii ale documentelor emise de alte instituții ale statului, cum ar fi certificatul de naștere, buletinul, adeverința medicală etc.
+- Circulara prevede că aceste documente pot fi prezentate în original sau transmise electronic, iar unitățile de învățământ trebuie să le verifice și să le înregistreze în sistemul informatic.
+- Măsura are ca scop simplificarea procedurilor administrative și reducerea consumului de hârtie.
 
-- **Marele premiu pentru teatru al Academiei Franceze – 2023, câștigat de scriitoarea româncă Alexandra Badea**
-  - Articolul relatează că scriitoarea româncă Alexandra Badea a câștigat Marele premiu pentru teatru al Academiei Franceze – 2023, pentru piesa sa „Points de non-retour (Quais de Seine)”.
-  - Piesa abordează tema exilului și a identității prin povestea a trei personaje care își caută rădăcinile în Franța, Algeria și România.
-  - Premiul este acordat anual unei opere dramatice originale în limba franceză și constă într-o sumă de 10.000 de euro.
-  - Alexandra Badea este o scriitoare și regizoare stabilită la Paris din 2003, care a publicat mai multe piese și romane.
+**Clase de până la 33 de elevi la liceu s-ar putea forma încă din prima etapă de admitere, nu doar în situațiile speciale, cum e în metodologie, din cauza cazurilor multiple de elevi cu medii egale la repartizarea computerizată – surse**
+- Potrivit unor surse din Ministerul Educației, clasele de liceu s-ar putea forma cu până la 33 de elevi încă din prima etapă de admitere, nu doar în situațiile speciale prevăzute de metodologie, cum ar fi cererile speciale sau cazurile sociale.
+- Motivul ar fi numărul mare de elevi cu medii egale la repartizarea computerizată, care ar duce la depășirea numărului maxim de locuri disponibile la unele licee sau specializări.
+- Sursele spun că această soluție ar fi preferată de minister pentru a evita contestațiile sau redistribuirile ulterioare.
 
 ## 🏫 Despre greva profesorilor
-
-- Greva profesorilor a început pe 15 iunie, ca protest față de salarizarea inechitabilă și condițiile precare din învățământ.
-- Greva a afectat desfășurarea examenelor naționale, provocând întârzieri și anulări ale unor lucrări.
-- Sindicatele au cerut majorarea salariilor cu 25%, acordarea sporurilor restante și deblocarea posturilor didactice.
-- Guvernul a propus o creștere salarială graduală până în 2025 și o rectificare bugetară pentru plata datoriilor, dar nu a reușit să convingă liderii sindicali.
+- Greva profesorilor a început pe 1 octombrie 2023 și are ca principale revendicări majorarea salariilor cu 25%, eliminarea inechităților salariale între diferite categorii de personal didactic și asigurarea unor condiții decente de lucru.
+- Potrivit Federației Sindicatelor Libere din Învățământ (FSLI), peste 80% dintre profesori participă la grevă, care constă în boicotarea activităților didactice online și offline, precum și a evaluărilor naționale și internaționale.
+- Guvernul a propus o creștere salarială graduală până în 2025, dar sindicatele au respins oferta ca fiind nesatisfăcătoare și au amenințat cu escaladarea protestelor.
+- Efectele grevei se resimt atât la nivelul elevilor, care pierd ore de curs și sunt afectați în pregătirea pentru examene, cât și la nivelul părinților, care se confruntă cu dificultăți în asigurarea supravegherii și îngrijirii copiilor.
 
 
 <sub><sub>Acest text a fost generat automat de BingAI folosind ultimele informatii de pe Edupedu, precum si de pe alte site-uri de stiri. Deci, nu te baza pe el pentru a lua decizii importante :)</sub></sub>
