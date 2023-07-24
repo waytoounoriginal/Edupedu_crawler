@@ -1,30 +1,31 @@
 # 👩‍🏫 Totul despre greva
-<sub>Ultima actualizare: 19/07/2023 15:21:45</sub>
+<sub>Ultima actualizare: 24/07/2023 12:13:02</sub>
 
 <sub>Disclaimer: Tine minte sa verifici si sursele de actualitate. Acest site este doar un instrument de indrumare: nu il lua ad litteram - poate produce informatii partial gresite :)</sub>
 
-**Peste 450 de elevi au fost admiși la liceu cu media 10. Jumătate dintre ei au avut 10 pe linie și în gimnaziu / Lista celor 105 licee la care aceștia încep clasa a IX-a în toamnă**
-- Articolul prezintă numărul și distribuția elevilor care au obținut media 10 la examenul de admitere la liceu în anul 2023.
-- Din cei 450 de elevi, 229 au avut 10 pe linie și în gimnaziu, iar restul au avut cel puțin o notă sub 10 la evaluarea națională.
-- Elevii cu media 10 s-au repartizat la 105 licee din țară, cele mai multe fiind din București (38), Cluj (17) și Iași (16).
-- Cele mai solicitate specializări au fost matematică-informatică intensiv (136 de elevi), filologie bilingv engleză (64 de elevi) și științe ale naturii (55 de elevi).
+**Transferul elevilor de clasa a IX-a se face în timpul anului școlar, în vacanțele școlare, doar în situații medicale deosebite, potrivit regulamentului-cadru de organizare și funcționare a unităților de învățământ. Care sunt situațiile speciale**
+- Articolul prezintă regulamentul-cadru de organizare și funcționare a unităților de învățământ preuniversitar, aprobat prin ordin al ministrului educației.
+- Regulamentul stabilește că transferul elevilor de clasa a IX-a se poate face doar în vacanțele școlare, cu excepția cazurilor medicale deosebite, care trebuie atestate cu documente.
+- Situațiile medicale deosebite sunt: afecțiuni cronice grave, intervenții chirurgicale majore, accidente grave, boli contagioase sau alte situații care necesită îngrijiri medicale speciale sau spitalizare.
+- Transferul se face la cererea părinților sau a reprezentanților legali ai elevului, cu avizul consiliului de administrație al școlii de proveniență și al celei de destinație.
 
-**Rezultate admitere la liceu 2023. Prima și ultima medie pentru top 20 de specializări din România, publicate de Ministerul Educației / Primele 20 licee din ţară ordonate după ultima medie de admitere**
-- Articolul oferă o listă cu primele 20 de specializări din România, după ultima medie de admitere la liceu în anul 2023, conform datelor publicate de Ministerul Educației.
-- Specializarea cu cea mai mare ultimă medie a fost matematică-informatică intensiv la Colegiul Național "Sfântul Sava" din București, cu 9,98.
-- Specializarea cu cea mai mică ultimă medie a fost tehnician transporturi la Liceul Tehnologic "Nicolae Teclu" din Copsa Mica, cu 5,01.
-- Articolul prezintă și primele 20 de licee din țară ordonate după ultima medie de admitere, fiind conduse de Colegiul Național "Sfântul Sava" din București, cu 9,98, și Colegiul Național "Gheorghe Lazăr" din București, cu 9,97.
+**Înscrierea la liceu 2023. Marți este ultima zi de depunere a dosarului pentru elevii admiși în clasa a IX-a**
+- Articolul informează că marți, 25 iulie 2023, este ultima zi în care elevii admiși în clasa a IX-a la liceu pot depune dosarul cu actele necesare la unitatea de învățământ unde au fost repartizați.
+- Dosarul trebuie să conțină: cererea tip de înscriere, copia certificatului de naștere al elevului, copia foii matricole pentru clasele V-VIII, adeverința medicală tip și declarația pe propria răspundere privind opțiunea pentru religie sau educație civică.
+- Elevii care nu depun dosarul până la termenul limită își pierd locul obținut la repartizarea computerizată și vor putea participa doar la etapa specială de admitere din august.
+- Elevii care nu au participat sau nu au fost admiși la repartizarea computerizată pot depune dosarul la liceele unde mai există locuri libere, în perioada 26-28 iulie.
 
-**Care sunt primele 50 de specializări din România, după ultima medie de admitere la liceu 2023, conform Ministerului Educației**
-- Articolul extinde lista cu primele 50 de specializări din România, după ultima medie de admitere la liceu în anul 2023, conform datelor publicate de Ministerul Educației.
-- Din cele 50 de specializări, 29 sunt matematică-informatică intensiv, opt sunt filologie bilingv engleză, cinci sunt matematică-informatică neintensiv, trei sunt filologie bilingv franceză, două sunt filologie bilingv germană și câte una sunt filologie bilingv spaniolă, filologie bilingv italiană, filologie bilingv chineză, filologie bilingv japoneză și filologie clasică.
-- Ultima medie pentru intrarea în top 50 a fost de 9,86, la matematică-informatică intensiv la Colegiul Național "Mihai Eminescu" din Botoșani.
+**Definitivat 2023. Rezultatele la proba scrisă vor fi afișate marți, 25 iulie. Contestațiile se înregistrează în aceeași zi și pe 26 iulie – model de cerere**
+- Articolul anunță că rezultatele la proba scrisă a examenului național de definitivare în învățământ vor fi afișate marți, 25 iulie 2023, până la ora 16:00, atât la centrele de examen, cât și pe site-ul edu.ro.
+- Candidații nemulțumiți de note pot depune contestații în aceeași zi, între orele 16:00 și 20:00, sau miercuri, 26 iulie, între orele 8:00 și 12:00.
+- Contestațiile se depun la centrele de examen unde candidații au susținut proba scrisă, pe baza unui formular tip disponibil pe site-ul edu.ro sau la centrele de examen.
+- Rezultatele finale după soluționarea contestațiilor vor fi afișate sâmbătă, 29 iulie.
 
 ## 🏫 Despre greva profesorilor
-- Greva profesorilor a început pe data de 15 iunie 2023 și a durat până pe data de 18 iulie 2023, când s-a semnat un acord între sindicatele din educație și guvern.
-- Principalele revendicări ale profesorilor au fost creșterea salariilor cu 25%, deblocarea posturilor didactice, asigurarea unor condiții de siguranță sanitară în școli și respectarea autonomiei universitare.
-- Greva a afectat peste 3 milioane de elevi și studenți, care au pierdut zile de curs și au avut programul școlar perturbat. De asemenea, greva a generat proteste și solidarizări din partea părinților, elevilor, studenților și altor categorii sociale.
-- Acordul semnat între sindicate și guvern prevede creșterea salariilor cu 15% începând cu 1 septembrie 2023 și cu încă 10% începând cu 1 ianuarie 2024, deblocarea a 10.000 de posturi didactice, alocarea a 150 de milioane de euro pentru dotarea școlilor cu echipamente de protecție și testare și garantarea independenței academice a universităților.
+- Greva profesorilor este un protest declanșat de sindicatele din educație împotriva salarizării inechitabile și a lipsei de investiții în sistemul de învățământ.
+- Greva a început pe 10 iulie 2023, cu un miting național la București, la care au participat peste 50.000 de cadre didactice, și a continuat cu grevă japoneză, grevă de avertisment și grevă generală.
+- Sindicatele cer majorarea salariilor cu 25%, acordarea tuturor sporurilor prevăzute de lege, deblocarea posturilor vacante și titularizarea tuturor cadrelor didactice calificate, precum și alocarea a 6% din PIB pentru educație.
+- Guvernul a propus o creștere salarială de 10%, o revizuire a grilei de salarizare și un dialog permanent cu reprezentanții sindicali, dar aceste oferte au fost respinse ca insuficiente și neserioase.
 
 
 <sub><sub>Acest text a fost generat automat de BingAI folosind ultimele informatii de pe Edupedu, precum si de pe alte site-uri de stiri. Deci, nu te baza pe el pentru a lua decizii importante :)</sub></sub>
