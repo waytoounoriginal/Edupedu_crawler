@@ -1,31 +1,35 @@
 # 👩‍🏫 Totul despre greva
-<sub>Ultima actualizare: 24/07/2023 12:13:02</sub>
+<sub>Ultima actualizare: 28/07/2023 09:14:42</sub>
 
 <sub>Disclaimer: Tine minte sa verifici si sursele de actualitate. Acest site este doar un instrument de indrumare: nu il lua ad litteram - poate produce informatii partial gresite :)</sub>
 
-**Transferul elevilor de clasa a IX-a se face în timpul anului școlar, în vacanțele școlare, doar în situații medicale deosebite, potrivit regulamentului-cadru de organizare și funcționare a unităților de învățământ. Care sunt situațiile speciale**
-- Articolul prezintă regulamentul-cadru de organizare și funcționare a unităților de învățământ preuniversitar, aprobat prin ordin al ministrului educației.
-- Regulamentul stabilește că transferul elevilor de clasa a IX-a se poate face doar în vacanțele școlare, cu excepția cazurilor medicale deosebite, care trebuie atestate cu documente.
-- Situațiile medicale deosebite sunt: afecțiuni cronice grave, intervenții chirurgicale majore, accidente grave, boli contagioase sau alte situații care necesită îngrijiri medicale speciale sau spitalizare.
-- Transferul se face la cererea părinților sau a reprezentanților legali ai elevului, cu avizul consiliului de administrație al școlii de proveniență și al celei de destinație.
+**Cum a fost fraudat Bacalaureatul în 2022 la un liceu din Mehedinți. Membrii comisiei au oprit temporar camerele video, pentru a da candidaților cu care aveau înțelegeri rezolvările subiectelor / O persoană a fost reținută pentru 24 de ore, potrivit DIICOT**
 
-**Înscrierea la liceu 2023. Marți este ultima zi de depunere a dosarului pentru elevii admiși în clasa a IX-a**
-- Articolul informează că marți, 25 iulie 2023, este ultima zi în care elevii admiși în clasa a IX-a la liceu pot depune dosarul cu actele necesare la unitatea de învățământ unde au fost repartizați.
-- Dosarul trebuie să conțină: cererea tip de înscriere, copia certificatului de naștere al elevului, copia foii matricole pentru clasele V-VIII, adeverința medicală tip și declarația pe propria răspundere privind opțiunea pentru religie sau educație civică.
-- Elevii care nu depun dosarul până la termenul limită își pierd locul obținut la repartizarea computerizată și vor putea participa doar la etapa specială de admitere din august.
-- Elevii care nu au participat sau nu au fost admiși la repartizarea computerizată pot depune dosarul la liceele unde mai există locuri libere, în perioada 26-28 iulie.
+- Articolul relatează despre un caz de fraudă la examenul de Bacalaureat la Liceul Tehnologic „Constantin Brâncoveanu” din Drobeta-Turnu Severin, unde membrii comisiei au ajutat unii candidați să copieze.
+- Potrivit DIICOT, membrii comisiei au oprit temporar camerele video de supraveghere și au transmis rezolvările subiectelor prin intermediul unor dispozitive electronice ascunse.
+- Unul dintre candidații care a beneficiat de ajutor a fost reținut pentru 24 de ore, fiind suspectat de trafic de influență și complicitate la infracțiunea de fraudă informatică.
+- DIICOT a dispus efectuarea unor percheziții domiciliare și ridicarea mai multor probe, inclusiv telefoane mobile, tablete și căști wireless.
 
-**Definitivat 2023. Rezultatele la proba scrisă vor fi afișate marți, 25 iulie. Contestațiile se înregistrează în aceeași zi și pe 26 iulie – model de cerere**
-- Articolul anunță că rezultatele la proba scrisă a examenului național de definitivare în învățământ vor fi afișate marți, 25 iulie 2023, până la ora 16:00, atât la centrele de examen, cât și pe site-ul edu.ro.
-- Candidații nemulțumiți de note pot depune contestații în aceeași zi, între orele 16:00 și 20:00, sau miercuri, 26 iulie, între orele 8:00 și 12:00.
-- Contestațiile se depun la centrele de examen unde candidații au susținut proba scrisă, pe baza unui formular tip disponibil pe site-ul edu.ro sau la centrele de examen.
-- Rezultatele finale după soluționarea contestațiilor vor fi afișate sâmbătă, 29 iulie.
+**Evaluare Națională – clasa a II-a. Durata de rezolvare a testului să fie prelungită, propune Inspectoratul Școlar Sibiu / Pentru elevii de clasa a IV-a, testele să fie date pe platforme pentru reducerea consumului de hârtie**
+
+- Articolul prezintă propunerile Inspectoratului Școlar Județean Sibiu pentru îmbunătățirea evaluării naționale pentru elevii din clasele primare.
+- Pentru elevii de clasa a II-a, ISJ Sibiu propune prelungirea duratei de rezolvare a testului de la 30 la 45 de minute, pentru a le oferi mai mult timp să citească și să înțeleagă cerințele.
+- Pentru elevii de clasa a IV-a, ISJ Sibiu propune utilizarea platformelor digitale pentru administrarea testelor, pentru a reduce consumul de hârtie și a facilita corectarea automată.
+- Propunerile ISJ Sibiu urmează să fie discutate cu Ministerul Educației și cu alte inspectorate școlare.
+
+**Ministerul Educației a anunțat câștigătorii concursului național de prevenire a violenței în școală „Ia atitudine, spune Stop violenței!”**
+
+- Articolul anunță rezultatele concursului național organizat de Ministerul Educației în parteneriat cu UNICEF România și Asociația Telefonul Copilului, cu scopul de a promova atitudini și comportamente nespecifice violenței în mediul școlar.
+- Concursul s-a adresat elevilor din clasele V-XII și a constat în realizarea unor materiale video sau audio care să transmită mesaje anti-violență.
+- Câștigătorii au fost desemnați prin votul publicului și al unui juriu format din reprezentanți ai organizatorilor și ai societății civile.
+- Premiile constau în tablete, cărți, diplome și invitații la evenimente dedicate educației.
 
 ## 🏫 Despre greva profesorilor
-- Greva profesorilor este un protest declanșat de sindicatele din educație împotriva salarizării inechitabile și a lipsei de investiții în sistemul de învățământ.
-- Greva a început pe 10 iulie 2023, cu un miting național la București, la care au participat peste 50.000 de cadre didactice, și a continuat cu grevă japoneză, grevă de avertisment și grevă generală.
-- Sindicatele cer majorarea salariilor cu 25%, acordarea tuturor sporurilor prevăzute de lege, deblocarea posturilor vacante și titularizarea tuturor cadrelor didactice calificate, precum și alocarea a 6% din PIB pentru educație.
-- Guvernul a propus o creștere salarială de 10%, o revizuire a grilei de salarizare și un dialog permanent cu reprezentanții sindicali, dar aceste oferte au fost respinse ca insuficiente și neserioase.
+
+- Greva profesorilor este un protest declanșat de sindicatele din educație împotriva Guvernului, care nu a respectat promisiunea de majorare salarială cu 15% din septembrie 2022.
+- Greva a început pe 15 octombrie 2022 și s-a extins la nivel național, afectând peste 80% dintre unitățile de învățământ preuniversitar.
+- Profesorii au cerut și alte revendicări, cum ar fi creșterea alocațiilor pentru manuale și materiale didactice, asigurarea transportului gratuit pentru elevi și cadre didactice, debirocratizarea sistemului educațional și respectarea autonomiei universitare.
+- Guvernul a încercat să negocieze cu sindicatele, dar nu a oferit soluții concrete și sustenabile. În schimb, a amenințat cu sancțiuni și a recurs la măsuri de intimidare, cum ar fi trimiterile în judecată și suspendarea plății salariilor.
 
 
 <sub><sub>Acest text a fost generat automat de BingAI folosind ultimele informatii de pe Edupedu, precum si de pe alte site-uri de stiri. Deci, nu te baza pe el pentru a lua decizii importante :)</sub></sub>
