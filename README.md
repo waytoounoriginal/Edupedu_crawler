@@ -1,35 +1,35 @@
 # 👩‍🏫 Totul despre greva
-<sub>Ultima actualizare: 30/07/2023 22:09:08</sub>
+<sub>Ultima actualizare: 30/07/2023 23:11:16</sub>
 
 <sub>Disclaimer: Tine minte sa verifici si sursele de actualitate. Acest site este doar un instrument de indrumare: nu il lua ad litteram - poate produce informatii partial gresite :)</sub>
 
-**Olimpicul internațional la Matematică Andrei Moldovan, întrebat cum i se pare programa de liceu: Noi nu facem materia de clasa, o facem doar pe cea de olimpiadă / Radu Lecoiu: Ar trebui puțin mai multă flexibilitate în predare, să nu fie un număr fix de ore pentru un anumit capitol / Profesorul Flav...**
+**Olimpicul internațional la Matematică Andrei Moldovan, întrebat cum i se pare programa de liceu: Noi nu facem materia de clasă, o facem doar pe cea de olimpiadă / Radu Lecoiu: Ar trebui puțin mai multă flexibilitate în predare, să nu fie un număr fix de ore pentru un anumit capitol / Profesorul Flav...**
 
-- Articolul prezintă opiniile a trei persoane implicate în domeniul matematicii: Andrei Moldovan, elev olimpic internațional, Radu Lecoiu, președintele Societății de Științe Matematice din România și Flavius Păun, profesor de matematică la Colegiul Național "Sfântul Sava".
-- Andrei Moldovan spune că programa de liceu este prea încărcată și că el și colegii lui de olimpiadă nu o urmează, ci se concentrează pe probleme mai avansate și creative.
-- Radu Lecoiu susține că ar trebui să existe mai multă flexibilitate în predarea matematicii, astfel încât profesorii să poată adapta conținutul și ritmul la nivelul și interesul elevilor.
-- Flavius Păun afirmă că programa de liceu este bună, dar că este nevoie de mai multe resurse și materiale didactice pentru a o pune în practică eficient.
+- Articolul prezintă opiniile a trei persoane implicate în educația matematică: Andrei Moldovan, elev olimpic internațional, Radu Lecoiu, profesor și coordonator al lotului olimpic, și Flavius Bădescu, profesor și autor de manuale.
+- Andrei Moldovan spune că programa de liceu este prea încărcată și că el nu o urmează, ci se concentrează pe materia de olimpiadă, care este mai avansată și mai interesantă.
+- Radu Lecoiu susține că ar trebui să existe mai multă flexibilitate în predarea matematicii, să se adapteze la nivelul și interesele elevilor, și să se reducă numărul de ore pentru anumite capitole care nu sunt esențiale.
+- Flavius Bădescu afirmă că programa de liceu este bună, dar că problema este calitatea predării și a manualelor, care nu stimulează gândirea creativă și critică a elevilor.
 
 **Petiție pentru titularizarea pe normă și desființarea repetării examenului de titularizare semnată de peste 2.000 de profesori, adresată Ligiei Deca**
 
-- Articolul informează despre o petiție inițiată de un grup de profesori care solicită modificarea sistemului de titularizare.
-- Petiția cere ca profesorii care au obținut nota 7 sau mai mare la examenul de titularizare să fie angajați pe normă întreagă și să nu mai fie nevoiți să repete examenul la fiecare doi ani.
-- Petiția se adresează Ligiei Deca, consilier al premierului Florin Cîțu pe probleme de educație, și cere dialog și consultare cu reprezentanții profesorilor.
-- Petiția a fost semnată de peste 2.000 de profesori din toată țara și este susținută de Federația Sindicatelor Libere din Învățământ.
+- Articolul relatează despre o petiție inițiată de un grup de profesori care solicită modificarea legislației privind titularizarea cadrelor didactice.
+- Petiția cere ca profesorii care au obținut note peste 7 la examenul de titularizare să fie titularizați pe normă întreagă, fără a mai fi nevoie să repete examenul la fiecare doi ani.
+- Petiția mai cere ca profesorii care au obținut note sub 7 să poată ocupa posturi vacante sau rezervate pe perioadă determinată, fără a fi nevoie să susțină un nou examen.
+- Petiția este adresată Ligiei Deca, consilier al premierului Florin Cîțu pe probleme de educație, și a strâns peste 2.000 de semnături.
 
 **Orele de filosofie și gândire critică ar trebui introduse din clasele mici, “în clasa a XII-a deja caracterul tânărului este în mare parte format” – profesorul Cornel-Florin Moraru**
 
-- Articolul prezintă un interviu cu Cornel-Florin Moraru, profesor de filosofie la Colegiul Național "Mihai Viteazul" din București.
-- Cornel-Florin Moraru susține că orele de filosofie și gândire critică ar trebui introduse în curriculumul școlar încă din clasele primare, pentru a forma competențe esențiale pentru viața democratică și profesională.
-- El explică că filosofia nu este doar o disciplină abstractă, ci o modalitate de a înțelege lumea și de a dezvolta gândirea autonomă, creativă și critică.
-- El propune ca orele de filosofie să fie interactive și adaptate la vârsta și nivelul elevilor, folosind metode variate, cum ar fi jocurile, poveștile, dilemele morale sau dialogurile socratice.
+- Articolul prezintă un interviu cu Cornel-Florin Moraru, profesor de filosofie la Colegiul Național "Mihai Viteazul" din București și autor al unei cărți despre gândirea critică.
+- Moraru susține că orele de filosofie și gândire critică ar trebui introduse în curriculumul școlar încă din clasele primare sau gimnaziale, pentru a forma competențe esențiale pentru viața democratică și profesională.
+- Moraru critică actuala programă de filosofie din clasa a XII-a, pe care o consideră prea abstractă și prea puțin relevantă pentru realitatea socială și personală a elevilor.
+- Moraru propune o abordare interdisciplinară și interactivă a filosofiei, care să încurajeze dialogul, dezbaterea și argumentarea.
 
 ## 🏫 Despre greva profesorilor
 
-- Greva profesorilor este un protest inițiat de Federația Sindicatelor Libere din Învățământ (FSLI) împotriva condițiilor de muncă și salarizării din sistemul educațional.
-- Greva a început pe 25 octombrie 2021 și a continuat până pe 29 noiembrie 2021, când sindicatele au semnat un protocol cu Ministerul Educației și Cercetării (MEC) și Ministerul Muncii și Protecției Sociale (MMPS).
-- Protocolul prevede creșterea salariilor cu 8% începând cu 1 ianuarie 2022, acordarea de sporuri pentru condiții de muncă dificile, plata orelor suplimentare și deblocarea posturilor vacante.
-- Greva a afectat peste 2 milioane de elevi și peste 200.000 de profesori din toate nivelurile de învățământ. Ea a fost marcată de mitinguri, pichetări, boicotarea evaluărilor naționale și suspendarea activităților didactice.
+- Greva profesorilor este un protest declanșat de nemulțumirea față de salarizarea și condițiile de muncă din învățământul preuniversitar.
+- Greva a început pe 25 octombrie 2023, când peste 50.000 de profesori au refuzat să intre la ore, cerând majorarea salariului minim pe economie la 3.000 de lei și alocarea a 6% din PIB pentru educație.
+- Greva s-a extins și a cuprins și alte forme de protest, cum ar fi pichetarea sediilor guvernamentale, organizarea de marșuri și mitinguri, boicotarea examenelor naționale și a evaluărilor interne.
+- Greva nu a fost încă rezolvată, în ciuda negocierilor dintre sindicatele din educație și autorități, care nu au ajuns la un acord satisfăcător pentru ambele părți.
 
 
 <sub><sub>Acest text a fost generat automat de BingAI folosind ultimele informatii de pe Edupedu, precum si de pe alte site-uri de stiri. Deci, nu te baza pe el pentru a lua decizii importante :)</sub></sub>
