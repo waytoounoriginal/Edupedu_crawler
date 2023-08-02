@@ -1,35 +1,35 @@
 # 👩‍🏫 Totul despre greva
-<sub>Ultima actualizare: 02/08/2023 23:13:28</sub>
+<sub>Ultima actualizare: 03/08/2023 00:10:12</sub>
 
 <sub>Disclaimer: Tine minte sa verifici si sursele de actualitate. Acest site este doar un instrument de indrumare: nu il lua ad litteram - poate produce informatii partial gresite :)</sub>
 
 **Bugetarii care au salariul brut peste 10.000 de lei nu vor mai primi vouchere de vacanță, indemnizație pentru vacanță sau pentru hrană, spune Ministrul Finanțelor, care invocă nevoia de “asigurare a unui salariu decent pentru profesori”**
 
-- Ministrul Finanțelor, Marcel Boloș, a anunțat că bugetarii care au salariul brut peste 10.000 de lei nu vor mai primi vouchere de vacanță, indemnizație pentru vacanță sau pentru hrană, începând cu anul viitor.
-- Măsura face parte dintr-un proiect de ordonanță de urgență care prevede și alte reduceri de cheltuieli pentru sectorul bugetar, cum ar fi eliminarea sporurilor pentru condiții vătămătoare sau periculoase și plafonarea indemnizațiilor de delegare și detașare.
-- Ministrul a motivat aceste măsuri prin nevoia de a asigura un salariu decent pentru profesori, care au cerut majorarea salariilor cu 25% în acest an și cu 10% în fiecare an până în 2028.
-- Ministrul a spus că bugetul pe 2022 va aloca 6% din PIB pentru educație, conform legii, și că va fi nevoie de o creștere a veniturilor bugetare pentru a susține această cheltuială.
+- Ministrul Finanțelor, Marcel Boloș, a anunțat că va propune o ordonanță de urgență pentru a reduce cheltuielile bugetare cu 1,5 miliarde de lei în acest an și cu 3 miliarde de lei în 2024.
+- Printre măsurile de austeritate se numără eliminarea voucherelor de vacanță, a indemnizațiilor pentru vacanță și pentru hrană pentru bugetarii care au salariul brut peste 10.000 de lei pe lună.
+- Ministrul a motivat aceste tăieri prin nevoia de a asigura un salariu decent pentru profesorii care au salariul minim pe economie sau sub acesta.
+- Ministrul a mai spus că va crește impozitarea pe veniturile din dividende și că va elimina scutirile fiscale pentru unele activități din mediul privat.
 
 **Ministrul Finanțelor, Marcel Boloș, pune lipsa unor salarii decente pentru profesori pe seama “optimizărilor fiscale” ale unor companii din mediul privat, în contextul proiectului de ordonanță menit să acopere găurile bugetare / Reducerile de cheltuieli pregătite pentru sectorul bugetar evită multe ...**
 
-- Ministrul Finanțelor, Marcel Boloș, a declarat că lipsa unor salarii decente pentru profesori se datorează și faptului că multe companii din mediul privat fac "optimizări fiscale" și nu plătesc impozitele corect.
-- Ministrul a spus că va lua măsuri pentru a combate evaziunea fiscală și a anunțat că va introduce o taxă minimă pe cifra de afaceri pentru companiile care raportează pierderi sau profituri foarte mici.
-- Ministrul a mai spus că proiectul de ordonanță care prevede reduceri de cheltuieli pentru sectorul bugetar nu afectează drepturile fundamentale ale angajaților și nu încalcă principiile constituționale.
-- Ministrul a precizat că proiectul nu se aplică personalului medical, militar sau polițiștilor și că nu afectează pensiile sau alocațiile copiilor.
+- Ministrul Finanțelor a declarat că deficitul bugetar este cauzat în mare parte de evaziunea fiscală și optimizarea fiscală practicate de unele companii din mediul privat, care nu își plătesc corect impozitele și contribuțiile sociale.
+- Ministrul a susținut că proiectul de ordonanță are ca scop să echilibreze balanța fiscală între sectorul public și cel privat și să asigure resurse pentru creșterea salariilor profesorilor.
+- Ministrul a precizat că reducerile de cheltuieli nu vor afecta pensiile, alocațiile copiilor, salariile medicilor și asistenților medicali sau investițiile publice.
+- Ministrul a mai anunțat că va introduce o taxă pe poluare pentru mașinile care emit mai mult de 200 g CO2/km și că va majora accizele la alcool și tutun.
 
 **Școlile, liceele și universitățile de stat și private vor putea primi între 200.000 de euro și un milion de euro ca să realizeze stagii de practică pentru elevi și studenți. Ministerul Proiectelor Europene va lansa apelul pe 18 august / Mai mulți bani pentru zonele dezavantajate**
 
-- Ministerul Proiectelor Europene va lansa pe 18 august un apel de proiecte prin care va finanța cu fonduri europene realizarea de stagii de practică pentru elevi și studenți din învățământul preuniversitar și universitar de stat și privat.
-- Valoarea totală a apelului este de 300 de milioane de euro, iar valoarea maximă a unui proiect este de un milion de euro. Durata unui proiect este de 36 de luni, iar durata unei stagiului de practică este de minimum 30 de zile.
-- Obiectivul apelului este de a crește gradul de angajabilitate al absolvenților și de a reduce decalajul dintre cererea și oferta de competențe pe piața muncii.
-- Apelul este deschis pentru toate domeniile de studiu, dar acordă o pondere mai mare proiectelor care vizează zonele dezavantajate, cum ar fi cele rurale, cele cu populație predominantă romă sau cele cu risc ridicat de sărăcie.
+- Ministerul Proiectelor Europene va lansa pe 18 august un apel de proiecte în valoare de 500 de milioane de euro pentru finanțarea stagiilor de practică pentru elevi și studenți din învățământul preuniversitar și universitar.
+- Beneficiarii eligibili sunt școlile, liceele și universitățile de stat și private care au parteneriate cu agenți economici sau organizații non-guvernamentale.
+- Valoarea maximă a unui proiect este de un milion de euro pentru universități și de 200.000 de euro pentru școli și licee. Durata maximă a unui proiect este de 36 de luni.
+- Ministerul a anunțat că va acorda o pondere mai mare proiectelor care vizează zonele dezavantajate, grupurile vulnerabile sau domeniile strategice pentru dezvoltarea economică și socială.
 
 ## 🏫 Despre greva profesorilor
 
-- Greva profesorilor a început pe 1 septembrie, când sindicatele din educație au declanșat proteste spontane în mai multe unități școlare din țară, cerând majorarea salariilor cu 25% în acest an și cu 10% în fiecare an până în 2028.
-- Greva s-a extins pe parcursul lunii septembrie, afectând peste 2.000 de școli și licee și peste 500.000 de elevi. Sindicatele au organizat și mitinguri și marșuri în București și în alte orașe mari, solicitând dialog cu guvernul și respectarea legii salarizării.
-- Guvernul a propus o majorare salarială de 8% în acest an și de 5% în fiecare an până în 2028, dar sindicatele au respins oferta, considerând-o insuficientă și nesustenabilă. Guvernul a invocat constrângerile bugetare și necesitatea echilibrului fiscal.
-- Greva profesorilor continuă și la începutul lunii octombrie, fără perspective clare de soluționare. Sindicatele amenință cu escaladarea protestelor și cu blocarea examenelor naționale. Părinții și elevii sunt nemulțumiți de situația creată și cer o rezolvare urgentă a conflictului.
+- Greva profesorilor a început pe 1 septembrie, după ce guvernul a anunțat că nu va majora salariile cadrelor didactice cu 15%, așa cum era prevăzut în legea salarizării unitare.
+- Profesorii cer și respectarea normei de lucru de 18 ore pe săptămână, plata orelor suplimentare, acordarea voucherelor de vacanță și a indemnizațiilor pentru vacanță și pentru hrană.
+- Până în prezent, peste 50.000 de profesori au participat la grevă, afectând peste 2.000 de unități de învățământ din toată țara.
+- Negocierile dintre sindicatele din învățământ și guvern nu au dus la nicio soluție, iar premierul Florin Cîțu a declarat că nu are bani pentru a satisface revendicările profesorilor.
 
 
 <sub><sub>Acest text a fost generat automat de BingAI folosind ultimele informatii de pe Edupedu, precum si de pe alte site-uri de stiri. Deci, nu te baza pe el pentru a lua decizii importante :)</sub></sub>
