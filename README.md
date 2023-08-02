@@ -1,35 +1,35 @@
 # 👩‍🏫 Totul despre greva
-<sub>Ultima actualizare: 02/08/2023 08:11:46</sub>
+<sub>Ultima actualizare: 02/08/2023 09:15:06</sub>
 
 <sub>Disclaimer: Tine minte sa verifici si sursele de actualitate. Acest site este doar un instrument de indrumare: nu il lua ad litteram - poate produce informatii partial gresite :)</sub>
 
 **Universitatea din București răspunde reclamațiilor făcute de Asociația Studenților cu privire la situația din cămine: patrule de pază și alte măsuri de siguranță în campus / Instituția semnalează probleme privind organizarea în rândul studenților**
 
-- Articolul prezintă răspunsul Universității din București la reclamațiile făcute de Asociația Studenților cu privire la situația din căminele studențești, unde au fost semnalate cazuri de violență, vandalism și furturi.
-- Universitatea susține că a luat măsuri de siguranță în campus, cum ar fi patrule de pază, camere de supraveghere, sisteme de acces cu cartelă și iluminat nocturn.
-- Universitatea recunoaște că există probleme legate de infrastructura și dotarea căminelor, dar spune că nu are fonduri suficiente pentru a le rezolva și cere sprijin financiar de la Ministerul Educației.
-- Universitatea semnalează și probleme privind organizarea în rândul studenților, care nu respectă regulile interne ale căminelor, nu participă la ședințele comitetului de cămin și nu se implică în activități culturale sau sociale.
+- Articolul prezintă reacția Universității din București la plângerile studenților care locuiesc în căminele universitare, care se confruntă cu probleme de siguranță, igienă și confort.
+- Universitatea susține că a luat măsuri pentru a asigura paza și ordinea în campus, precum instalarea de camere de supraveghere, angajarea de firme de pază și intervenție, organizarea de patrule mixte cu polițiști locali și jandarmi.
+- Universitatea recunoaște că există și probleme legate de infrastructura și dotările căminelor, dar spune că acestea necesită fonduri suplimentare de la bugetul de stat sau de la alte surse.
+- Universitatea atrage atenția asupra lipsei de implicare și responsabilitate a unor studenți, care nu respectă regulile de conviețuire și nu participă la activitățile organizate de administrație sau de asociațiile studențești.
 
 **Trei candidate la Titularizare din județul Prahova, care au luat nota 10, nu au obținut un post pe perioadă nedeterminată și vor fi suplinitoare / Ele trebuie să dea din nou concursul anul viitor**
 
-- Articolul relatează cazul a trei candidate la Titularizare din județul Prahova, care au obținut nota maximă la examen, dar nu au reușit să ocupe un post pe perioadă nedeterminată în învățământul preuniversitar.
-- Motivul este că numărul posturilor vacante este mai mic decât numărul candidaților care au luat nota 7 sau mai mare, iar repartizarea se face pe baza mediei generale de admitere, care include și nota de la licență.
-- Astfel, cele trei candidate vor fi suplinitoare pe posturile rămase neocupate după repartizare și vor trebui să dea din nou concursul anul viitor dacă vor să devină titulari.
-- Situația este considerată nedreaptă și frustrantă de către candidate, care spun că au muncit mult pentru a se pregăti pentru examen și că meritau un post stabil.
+- Articolul relatează cazul a trei candidate care au obținut nota maximă la examenul de Titularizare din acest an, dar nu au reușit să ocupe un post titular pe perioadă nedeterminată în învățământul preuniversitar din județul Prahova.
+- Motivul este că numărul posturilor vacante este mai mic decât numărul candidaților care au promovat examenul cu nota peste 7, iar repartizarea se face în funcție de media generală de admitere, care include și nota de la licență sau masterat.
+- Astfel, cele trei candidate vor fi suplinitoare pe perioadă determinată până la sfârșitul anului școlar, iar anul viitor vor trebui să susțină din nou examenul dacă vor să devină titulare.
+- Situația este considerată nedreaptă și frustrantă atât de candidate, cât și de sindicatele din educație, care cer modificarea metodologiei de repartizare a posturilor.
 
 **O profesoară de biologie care a refuzat să treacă notele în catalogul electronic și să încheie medii a fost dată afară de la Colegiul Tehnic Energetic din Constanța / Profesoara predă în continuare la un alt liceu din oraș, unde a fost cercetată și sancționată pentru abateri similare în anii trecuți**
 
-- Articolul descrie cazul unei profesoare de biologie care a fost concediată de la Colegiul Tehnic Energetic din Constanța pentru că a refuzat să treacă notele elevilor în catalogul electronic și să încheie mediile semestriale.
-- Profesoara a motivat că nu are acces la platforma online unde se introduc notele și că nu are cunoștințe suficiente de informatică pentru a o folosi.
-- Conducerea școlii a respins aceste argumente și a decis să o demită pe baza unui raport al inspectoratului școlar, care a constatat că profesoara nu și-a îndeplinit atribuțiile didactice.
-- Profesoara predă în continuare la un alt liceu din oraș, unde a fost cercetată și sancționată pentru abateri similare în anii trecuți, cum ar fi absențe nejustificate, lipsa planificărilor și a caietelor de note.
+- Articolul descrie cazul unei profesoare de biologie care a fost concediată de la Colegiul Tehnic Energetic din Constanța pentru că nu a respectat obligațiile legale privind evidența situației școlare a elevilor.
+- Profesoara nu a introdus notele elevilor în catalogul electronic și nu a încheiat mediile semestriale, motivând că nu are acces la platforma informatică sau că nu are timp să se ocupe de aceste aspecte administrative.
+- Profesoara a fost dată afară după ce inspectoratul școlar a constatat neregulile și a emis un raport care recomanda desfacerea contractului de muncă.
+- Profesoara mai predă la un alt liceu din oraș, unde a fost cercetată și sancționată pentru abateri similare în anii trecuți, dar nu a fost concediată.
 
 ## 🏫 Despre greva profesorilor
 
-- Greva profesorilor din învățământul preuniversitar a început pe 1 octombrie 2023 și a fost declanșată de nemulțumirile legate de salarizare, condițiile de muncă și lipsa dialogului social cu autoritățile.
-- Profesorii cer majorarea salariului de bază cu 25%, plata orelor suplimentare, asigurarea unui buget adecvat pentru educație și respectarea drepturilor sindicale.
-- Greva este susținută de majoritatea sindicatelor din învățământ și are un grad de participare de peste 80% la nivel național, potrivit Federației Sindicatelor Libere din Învățământ (FSLI).
-- Greva afectează desfășurarea procesului educațional, întrerupând cursurile, evaluările și activitățile extracurriculare. Ministerul Educației a anunțat că va recupera orele pierdute prin prelungirea semestrului sau prin organizarea unor cursuri online.
+- Greva profesorilor din învățământul preuniversitar a început pe 1 octombrie 2023 și se desfășoară în mai multe județe din țară, inclusiv București, Cluj, Timiș, Iași, Brașov și Constanța.
+- Profesorii revendică majorarea salariilor cu 25%, deblocarea posturilor și a normelor didactice, asigurarea de fonduri suficiente pentru reabilitarea și dotarea școlilor, precum și respectarea autonomiei școlare și a drepturilor sindicale.
+- Guvernul a propus o creștere salarială de 10%, dar sindicatele au respins oferta ca fiind insuficientă și au amenințat cu escaladarea protestelor dacă nu se ajunge la un acord până la sfârșitul lunii octombrie.
+- Greva afectează peste un milion de elevi, care nu beneficiază de orele de curs sau de evaluările prevăzute în planurile de învățământ, și creează tensiuni între profesori, părinți și autorități.
 
 
 <sub><sub>Acest text a fost generat automat de BingAI folosind ultimele informatii de pe Edupedu, precum si de pe alte site-uri de stiri. Deci, nu te baza pe el pentru a lua decizii importante :)</sub></sub>
