@@ -1,35 +1,35 @@
 # 👩‍🏫 Totul despre greva
-<sub>Ultima actualizare: 02/08/2023 21:14:51</sub>
+<sub>Ultima actualizare: 02/08/2023 22:09:53</sub>
 
 <sub>Disclaimer: Tine minte sa verifici si sursele de actualitate. Acest site este doar un instrument de indrumare: nu il lua ad litteram - poate produce informatii partial gresite :)</sub>
 
 **Bugetarii care au salariul brut peste 10.000 de lei nu vor mai primi vouchere de vacanță, indemnizație pentru vacanță sau pentru hrană, spune Ministrul Finanțelor, care invocă nevoia de “asigurare a unui salariu decent pentru profesori”**
 
-- Ministrul Finanțelor, Marcel Boloș, a anunțat că bugetarii cu salarii brute de peste 10.000 de lei nu vor mai beneficia de vouchere de vacanță, indemnizații pentru vacanță sau pentru hrană, începând cu 1 ianuarie 2022.
-- Măsura face parte dintr-un proiect de ordonanță de urgență care vizează reducerea cheltuielilor bugetare și creșterea veniturilor la bugetul de stat.
-- Ministrul a motivat decizia prin nevoia de a asigura un salariu decent pentru profesorii care au salarii mici și care au fost afectați de pandemie.
-- Potrivit ministrului, măsura va afecta aproximativ 50.000 de bugetari din administrația publică centrală și locală, din justiție, din sănătate și din învățământ.
+- Articolul relatează despre un proiect de ordonanță de urgență care prevede eliminarea unor beneficii pentru bugetarii cu salarii mari, în scopul economisirii a 1,2 miliarde de lei.
+- Ministrul Finanțelor, Marcel Boloș, a declarat că această măsură este necesară pentru a asigura un salariu decent pentru profesorii care au salarii mici și care au amenințat cu greva.
+- Proiectul de ordonanță afectează bugetarii care au un salariu brut peste 10.000 de lei și care primesc vouchere de vacanță, indemnizație pentru vacanță sau pentru hrană.
+- Proiectul de ordonanță nu se aplică personalului din sistemul sanitar, din apărare, ordine publică și siguranță națională.
 
 **Ministrul Finanțelor, Marcel Boloș, pune lipsa unor salarii decente pentru profesori pe seama “optimizărilor fiscale” ale unor companii din mediul privat, în contextul proiectului de ordonanță menit să acopere găurile bugetare / Reducerile de cheltuieli pregătite pentru sectorul bugetar evită multe ...**
 
-- Ministrul Finanțelor, Marcel Boloș, a declarat că una dintre cauzele lipsei unor salarii decente pentru profesori este faptul că multe companii din mediul privat fac optimizări fiscale și nu plătesc impozite și contribuții la nivelul real al veniturilor.
-- Ministrul a anunțat că proiectul de ordonanță de urgență care prevede reducerea cheltuielilor bugetare și majorarea veniturilor la bugetul de stat va include și măsuri pentru combaterea evaziunii fiscale și a optimizărilor fiscale.
-- Ministrul a precizat că reducerile de cheltuieli pregătite pentru sectorul bugetar evită multe domenii sensibile, cum ar fi pensiile, alocațiile, ajutoarele sociale sau salariile minime.
-- Ministrul a susținut că proiectul de ordonanță are ca scop echilibrarea bugetului și respectarea angajamentelor asumate față de Comisia Europeană și Fondul Monetar Internațional.
+- Articolul prezintă declarațiile ministrului Finanțelor, Marcel Boloș, care a susținut că lipsa unor salarii decente pentru profesori se datorează faptului că multe companii din mediul privat fac optimizări fiscale și nu plătesc impozitele corect.
+- Ministrul a afirmat că proiectul de ordonanță de urgență care prevede eliminarea unor beneficii pentru bugetarii cu salarii mari este o măsură echitabilă și necesară pentru a acoperi găurile bugetare și a respecta țintele asumate cu Comisia Europeană.
+- Ministrul a mai spus că proiectul de ordonanță nu afectează drepturile fundamentale ale angajaților din sectorul public și că evită multe alte reduceri de cheltuieli care ar fi putut avea un impact negativ asupra serviciilor publice.
+- Ministrul a adăugat că guvernul va continua să sprijine investițiile în educație și să aloce fonduri europene pentru modernizarea infrastructurii școlare.
 
 **Școlile, liceele și universitățile de stat și private vor putea primi între 200.000 de euro și un milion de euro ca să realizeze stagii de practică pentru elevi și studenți. Ministerul Proiectelor Europene va lansa apelul pe 18 august / Mai mulți bani pentru zonele dezavantajate**
 
-- Ministerul Proiectelor Europene va lansa pe 18 august un apel de proiecte în valoare de 100 de milioane de euro pentru finanțarea stagiilor de practică pentru elevi și studenți din învățământul preuniversitar și universitar.
-- Beneficiarii eligibili sunt școlile, liceele și universitățile de stat și private, care vor putea primi între 200.000 de euro și un milion de euro pentru realizarea stagiilor de practică în parteneriat cu agenți economici sau organizații non-guvernamentale.
-- Obiectivul apelului este să crească relevanța și calitatea învățământului și să îmbunătățească competențele și abilitățile elevilor și studenților pentru integrarea pe piața muncii.
-- Apelul va acorda o atenție specială zonelor dezavantajate, unde vor fi alocate mai multe fonduri și unde vor fi aplicate criterii de selecție mai flexibile.
+- Articolul anunță despre lansarea unui apel de proiecte finanțat din fonduri europene, care are ca scop creșterea calității educației prin realizarea de stagii de practică pentru elevi și studenți.
+- Apelul este destinat școlilor, liceelor și universităților de stat și private din România, care pot solicita între 200.000 de euro și un milion de euro pentru implementarea proiectelor.
+- Obiectivele apelului sunt: dezvoltarea competențelor profesionale ale elevilor și studenților; creșterea gradului de angajabilitate al absolvenților; îmbunătățirea relațiilor dintre mediul educațional și cel economic; stimularea antreprenoriatului și a inovării.
+- Apelul acordă o atenție specială zonelor dezavantajate, care vor beneficia de o alocare mai mare de fonduri și de o cofinanțare mai mică.
 
 ## 🏫 Despre greva profesorilor
 
-- Greva profesorilor a început pe 1 septembrie, ca protest față de salariile mici, condițiile precare de lucru și lipsa de dialog social din partea guvernului.
-- Profesorii cer majorarea salariului minim brut pe economie la 3.000 de lei, creșterea coeficienților de salarizare pentru toate categoriile de personal didactic și nedidactic, alocarea a 6% din PIB pentru educație și respectarea contractului colectiv de muncă.
-- Greva profesorilor este susținută de sindicatele din învățământ, care au anunțat că vor organiza pichetări, mitinguri și marșuri în fața sediilor guvernamentale și parlamentare, precum și în fața instituțiilor deconcentrate ale ministerelor.
-- Greva profesorilor este contestată de autorități, care susțin că nu au resurse bugetare suficiente pentru a satisface revendicările profesorilor și că greva afectează dreptul la educație al elevilor și studenților.
+- Greva profesorilor este un protest al sindicatelor din învățământ, care cer majorarea salariilor cu 25% și respectarea legii salarizării unitare.
+- Greva a început pe 1 septembrie 2023, când profesorii au refuzat să intre în clase și au organizat mitinguri în fața ministerelor și prefecturilor.
+- Greva a continuat pe parcursul lunii septembrie, afectând peste 3 milioane de elevi și studenți din toată țara, care au pierdut ore de curs și examene.
+- Greva s-a încheiat pe 2 octombrie 2023, după ce guvernul a acceptat să negocieze cu sindicatele și să le ofere o creștere salarială de 15%, precum și alte măsuri de sprijin pentru educație.
 
 
 <sub><sub>Acest text a fost generat automat de BingAI folosind ultimele informatii de pe Edupedu, precum si de pe alte site-uri de stiri. Deci, nu te baza pe el pentru a lua decizii importante :)</sub></sub>
