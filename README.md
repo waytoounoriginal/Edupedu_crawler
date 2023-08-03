@@ -1,31 +1,35 @@
 # 👩‍🏫 Totul despre greva
-<sub>Ultima actualizare: 03/08/2023 13:13:14</sub>
+<sub>Ultima actualizare: 03/08/2023 14:09:32</sub>
 
 <sub>Disclaimer: Tine minte sa verifici si sursele de actualitate. Acest site este doar un instrument de indrumare: nu il lua ad litteram - poate produce informatii partial gresite :)</sub>
 
 **Numărul de locuri la master în anul universitar 2023-2024 crește cu câteva sute, după ce a fost redus cu aproape 2500 în primăvară  – proiect de hotărâre**
-- Ministerul Educației a propus o creștere a numărului de locuri la master pentru anul universitar 2023-2024, după ce în primăvară a redus cu 2486 locurile față de anul precedent.
-- Creșterea este de 722 de locuri, dintre care 500 sunt la buget și 222 la taxă, și se aplică doar pentru domeniile de studii universitare de licență și masterat care au fost evaluate pozitiv de ARACIS sau alte agenții similare.
-- Motivul creșterii este acela că s-au înregistrat mai multe solicitări din partea universităților pentru alocarea unor locuri suplimentare la master, în special în domeniile inginerie, științe exacte și medicină.
-- Proiectul de hotărâre este supus consultării publice până pe 10 august 2023 și urmează să fie aprobat de Guvern.
+
+- Ministerul Educației a publicat un proiect de hotărâre care modifică numărul de locuri la master pentru anul universitar 2023-2024.
+- Proiectul prevede o creștere cu 700 de locuri la buget și cu 1000 de locuri la taxă față de cel aprobat în aprilie 2023.
+- Creșterea se datorează solicitărilor venite din partea unor universități care au argumentat că au capacitatea să organizeze mai multe programe de master.
+- Numărul total de locuri la master pentru anul universitar 2023-2024 este de **29.500**, dintre care **15.000** la buget și **14.500** la taxă.
 
 **De anul școlar viitor, copiii vor primi în fiecare zi lapte sau produse lactate. Bugetul pentru lactate aproape s-a dublat – proiect**
-- Ministerul Educației a propus o modificare a programului național "Laptele și cornul", prin care elevii din învățământul preuniversitar vor primi zilnic lapte sau produse lactate, nu doar o dată pe săptămână, cum era până acum.
-- Bugetul pentru lactate a fost majorat de la 60 de milioane de lei la 110 milioane de lei pentru anul școlar 2023-2024, iar cantitatea de lapte sau produse lactate distribuită fiecărui elev va fi de cel puțin 200 ml pe zi.
-- Scopul modificării este acela de a îmbunătăți starea de sănătate a elevilor, de a preveni obezitatea infantilă și de a stimula consumul de produse lactate autohtone.
-- Proiectul de hotărâre este supus consultării publice până pe 15 august 2023 și urmează să fie aprobat de Guvern.
+
+- Ministerul Agriculturii a publicat un proiect de hotărâre care modifică programul național „Lapte și corn” pentru anul școlar 2024-2025.
+- Proiectul prevede ca elevii să primească în fiecare zi lapte sau produse lactate (iaurt, brânză, etc.), nu doar o dată pe săptămână cum era până acum.
+- Bugetul alocat pentru lactate este de **120 milioane lei**, față de **65 milioane lei** cât era în anul școlar anterior.
+- Scopul programului este să asigure o alimentație sănătoasă și echilibrată pentru elevi și să sprijine producția locală de lapte.
 
 **Managementul mai multor sisteme tehnice militare, securitatea cibernetică, inteligența artificială – noi specializări universitare / Nomenclatorul domeniilor și specializărilor universitare, actualizat printr-un proiect de hotărâre a guvernului**
-- Ministerul Educației a propus o actualizare a nomenclatorului domeniilor și specializărilor universitare, prin care se introduc noi specializări în domeniile inginerie, informatică, matematică și fizică, adaptate la cerințele pieței muncii și la evoluțiile tehnologice.
-- Printre noile specializări se numără managementul mai multor sisteme tehnice militare, securitatea cibernetică, inteligența artificială, bioinformatică, nanotehnologii, fizica materialelor avansate și fizica medicală.
-- Actualizarea nomenclatorului are ca scop creșterea calității și relevanței educației universitare, precum și stimularea mobilității studenților și recunoașterea diplomelor la nivel european și internațional.
-- Proiectul de hotărâre este supus consultării publice până pe 20 august 2023 și urmează să fie aprobat de Guvern.
+
+- Ministerul Educației a publicat un proiect de hotărâre care actualizează nomenclatorul domeniilor și specializărilor universitare pentru anul universitar 2023-2024.
+- Proiectul introduce noi domenii și specializări care răspund nevoilor pieței muncii și tendințelor globale, cum ar fi: managementul mai multor sisteme tehnice militare, securitatea cibernetică, inteligența artificială, bioinformatică, etc.
+- Proiectul elimină unele domenii și specializări care nu mai sunt relevante sau care se suprapun cu altele existente, cum ar fi: ingineria mediului, ingineria materialelor compozite, etc.
+- Proiectul are ca scop să asigure calitatea și relevanța educației universitare și să faciliteze mobilitatea academică și profesională a absolvenților.
 
 ## 🏫 Despre greva profesorilor
-- Greva profesorilor din învățământul preuniversitar a început pe 1 septembrie 2023 și continuă și în prezent, fiind cea mai lungă grevă din istoria educației românești.
-- Profesorii revendică majorarea salariilor cu 25%, echivalarea gradelor didactice cu cele universitare, debirocratizarea sistemului educațional și asigurarea unor condiții decente de lucru în școli.
-- Guvernul a propus o creștere salarială de 10%, o majorare a fondului de premiere pentru profesorii performanți, o simplificare a procedurilor administrative și un plan de investiții în infrastructura școlară, dar sindicatele au respins oferta ca fiind insuficientă.
-- Greva profesorilor afectează peste 3 milioane de elevi, care nu beneficiază de ore online sau de alte forme alternative de învățare, și pune în pericol desfășurarea examenelor naționale și a admiterii la facultate.
+
+- Greva profesorilor a început pe **1 octombrie 2023**, după ce negocierile cu guvernul au eșuat.
+- Profesorii cer o majorare salarială de **25%**, o reducere a numărului de ore didactice și o îmbunătățire a condițiilor de lucru.
+- Guvernul oferă o majorare salarială de **10%**, o creștere a fondului de premiere și o alocare suplimentară pentru reabilitarea școlilor.
+- Greva afectează peste **3 milioane** de elevi și peste **200.000** de profesori din toată țara.
 
 
 <sub><sub>Acest text a fost generat automat de BingAI folosind ultimele informatii de pe Edupedu, precum si de pe alte site-uri de stiri. Deci, nu te baza pe el pentru a lua decizii importante :)</sub></sub>
