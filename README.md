@@ -1,31 +1,31 @@
 # 👩‍🏫 Totul despre greva
-<sub>Ultima actualizare: 03/08/2023 10:11:37</sub>
+<sub>Ultima actualizare: 03/08/2023 11:15:37</sub>
 
 <sub>Disclaimer: Tine minte sa verifici si sursele de actualitate. Acest site este doar un instrument de indrumare: nu il lua ad litteram - poate produce informatii partial gresite :)</sub>
 
 **O nouă actualizare a aplicației de salarizare a ajuns în școli miercuri seară, după ce au fost semnalate confuzii**
-- Articolul relatează despre o nouă versiune a aplicației de salarizare a personalului din învățământ, care a fost trimisă în școli miercuri seară, după ce au fost raportate erori și confuzii în calculul salariilor.
-- Aplicația este folosită de inspectoratele școlare și unitățile de învățământ pentru a transmite datele necesare pentru plata salariilor, care sunt prelucrate de Ministerul Finanțelor.
-- Noua versiune a aplicației ar trebui să corecteze problemele semnalate, precum lipsa unor sporuri sau adaosuri salariale, sau diferențele între salariile brute și cele nete.
-- Articolul citează surse din sistemul de învățământ care spun că aplicația este complicată și greu de folosit, și că nu există suficient timp pentru a verifica și corecta eventualele erori.
+- Aplicația de salarizare a profesorilor a fost actualizată pentru a corecta erorile care au dus la diminuarea veniturilor unor cadre didactice
+- Actualizarea a fost trimisă în școli miercuri seară, cu termen de completare până vineri
+- Ministerul Educației susține că aplicația este funcțională și că nu există probleme tehnice
+- Sindicatele din educație au criticat modul de implementare a aplicației și au cerut demisia ministrului Sorin Cîmpeanu
 
 **Bugetarii care au salariul brut peste 10.000 de lei nu vor mai primi vouchere de vacanță, indemnizație pentru vacanță sau pentru hrană, spune Ministrul Finanțelor, care invocă nevoia de “asigurare a unui salariu decent pentru profesori”**
-- Articolul prezintă un proiect de ordonanță de urgență elaborat de Ministerul Finanțelor, care prevede eliminarea unor beneficii pentru bugetarii care au salariul brut peste 10.000 de lei pe lună.
-- Printre beneficiile eliminate se numără voucherele de vacanță, indemnizațiile pentru vacanță sau pentru hrană, sporurile pentru condiții speciale sau vechimea în muncă.
-- Ministrul Finanțelor, Marcel Boloș, a declarat că măsura are ca scop asigurarea unui salariu decent pentru profesorii care au salarii mici, și că economia realizată va fi de aproximativ 2 miliarde de lei pe an.
-- Articolul menționează că proiectul de ordonanță este criticat de sindicatele din sectorul bugetar, care îl consideră discriminatoriu și neconstituțional.
+- Ministrul Finanțelor, Marcel Boloș, a anunțat că bugetarii cu salarii brute peste 10.000 de lei vor fi excluși de la beneficiile acordate celorlalți angajați din sectorul public
+- Măsura face parte dintr-un proiect de ordonanță de urgență care vizează reducerea cheltuielilor bugetare și creșterea veniturilor
+- Ministrul a motivat decizia prin nevoia de a asigura un salariu decent pentru profesorii care au avut pierderi salariale în urma aplicării Legii salarizării unitare
+- Sindicatele din educație au respins argumentul ministrului și au acuzat guvernul de discriminare și de încălcarea drepturilor bugetarilor
 
 **Ministrul Finanțelor, Marcel Boloș, pune lipsa unor salarii decente pentru profesori pe seama “optimizărilor fiscale” ale unor companii din mediul privat, în contextul proiectului de ordonanță menit să acopere găurile bugetare / Reducerile de cheltuieli pregătite pentru sectorul bugetar evită multe ...**
-- Articolul relatează despre declarațiile ministrului Finanțelor, Marcel Boloș, care a susținut că lipsa unor salarii decente pentru profesorii din România se datorează faptului că multe companii din mediul privat fac “optimizări fiscale” și nu plătesc impozite la stat.
-- Ministrul a afirmat că guvernul încearcă să recupereze aceste sume prin diverse măsuri fiscale și controale, și că proiectul de ordonanță care taie beneficiile bugetarilor cu salarii mari este o soluție temporară pentru a acoperi gaura bugetară.
-- Articolul arată că proiectul de ordonanță nu afectează toate categoriile de bugetari cu salarii mari, ci doar pe cele care nu sunt reglementate prin legi speciale, cum ar fi magistrații, militarii sau polițiștii.
-- Articolul citează reprezentanți ai sindicatelor din învățământ, care spun că declarațiile ministrului sunt “iresponsabile” și “jignitoare” pentru profesori, și că proiectul de ordonanță este o încălcare a legii salarizării unitare.
+- Ministrul Finanțelor, Marcel Boloș, a declarat că deficitul bugetar este cauzat și de faptul că multe companii din mediul privat nu își plătesc corect impozitele și contribuțiile sociale
+- Ministrul a afirmat că guvernul va intensifica controalele fiscale și va lua măsuri pentru combaterea evaziunii fiscale
+- Ministrul a susținut că proiectul de ordonanță care prevede reduceri de cheltuieli pentru sectorul bugetar este necesar pentru a respecta ținta de deficit convenită cu Comisia Europeană
+- Ministrul a precizat că proiectul nu afectează drepturile salariale ale profesorilor și că aceștia vor primi diferențele salariale restante până la sfârșitul anului
 
 ## 🏫 Despre greva profesorilor
-- Greva profesorilor este un protest al cadrelor didactice din România, care revendică majorarea salariilor cu 25% și respectarea legii salarizării unitare.
-- Greva a început pe 1 octombrie 2023 și a fost declanșată de nemulțumirea față de aplicația de salarizare, care a generat erori și confuzii în calculul salariilor, precum și de proiectul de ordonanță care elimină beneficiile bugetarilor cu salarii mari.
-- Greva este susținută de majoritatea sindicatelor din învățământ, care au organizat pichetări, mitinguri și marșuri în fața ministerelor și a sediilor partidelor politice, cerând dialog și negociere cu guvernul.
-- Greva afectează desfășurarea normală a procesului de învățământ, provocând perturbări în programul școlar, în evaluarea elevilor și în organizarea examenelor naționale.
+- Greva profesorilor este declanșată de nemulțumirea față de diminuarea veniturilor unor cadre didactice în urma aplicării Legii salarizării unitare și a erorilor din aplicația de salarizare
+- Greva profesorilor este susținută de sindicatele din educație, care cer demisia ministrului Educației, Sorin Cîmpeanu, și respectarea drepturilor salariale ale cadrelor didactice
+- Greva profesorilor este contestată de guvern, care susține că aplicația de salarizare este funcțională și că profesorii vor primi diferențele salariale restante până la sfârșitul anului
+- Greva profesorilor este influențată de contextul bugetar dificil, care determină guvernul să ia măsuri de reducere a cheltuielilor pentru sectorul public și de creștere a veniturilor prin combaterea evaziunii fiscale
 
 
 <sub><sub>Acest text a fost generat automat de BingAI folosind ultimele informatii de pe Edupedu, precum si de pe alte site-uri de stiri. Deci, nu te baza pe el pentru a lua decizii importante :)</sub></sub>
