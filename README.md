@@ -1,31 +1,28 @@
 # 👩‍🏫 Totul despre greva
-<sub>Ultima actualizare: 03/08/2023 11:15:37</sub>
+<sub>Ultima actualizare: 03/08/2023 12:12:33</sub>
 
 <sub>Disclaimer: Tine minte sa verifici si sursele de actualitate. Acest site este doar un instrument de indrumare: nu il lua ad litteram - poate produce informatii partial gresite :)</sub>
 
-**O nouă actualizare a aplicației de salarizare a ajuns în școli miercuri seară, după ce au fost semnalate confuzii**
-- Aplicația de salarizare a profesorilor a fost actualizată pentru a corecta erorile care au dus la diminuarea veniturilor unor cadre didactice
-- Actualizarea a fost trimisă în școli miercuri seară, cu termen de completare până vineri
-- Ministerul Educației susține că aplicația este funcțională și că nu există probleme tehnice
-- Sindicatele din educație au criticat modul de implementare a aplicației și au cerut demisia ministrului Sorin Cîmpeanu
+**De anul școlar viitor, copiii vor primi în fiecare zi lapte sau produse lactate. Bugetul pentru lactate aproape s-a dublat – proiect**
+- Proiectul de hotărâre a guvernului prevede că elevii din învățământul preuniversitar de stat și privat vor beneficia zilnic de lapte sau produse lactate, în cadrul programului „Laptele și cornul”.
+- Bugetul alocat pentru lactate este de 1,2 miliarde de lei pentru anul școlar 2022-2023, față de 650 de milioane de lei în anul școlar 2021-2022.
+- Scopul programului este de a asigura o alimentație sănătoasă și echilibrată pentru elevi, de a preveni abandonul școlar și de a sprijini producătorii locali de lapte.
 
-**Bugetarii care au salariul brut peste 10.000 de lei nu vor mai primi vouchere de vacanță, indemnizație pentru vacanță sau pentru hrană, spune Ministrul Finanțelor, care invocă nevoia de “asigurare a unui salariu decent pentru profesori”**
-- Ministrul Finanțelor, Marcel Boloș, a anunțat că bugetarii cu salarii brute peste 10.000 de lei vor fi excluși de la beneficiile acordate celorlalți angajați din sectorul public
-- Măsura face parte dintr-un proiect de ordonanță de urgență care vizează reducerea cheltuielilor bugetare și creșterea veniturilor
-- Ministrul a motivat decizia prin nevoia de a asigura un salariu decent pentru profesorii care au avut pierderi salariale în urma aplicării Legii salarizării unitare
-- Sindicatele din educație au respins argumentul ministrului și au acuzat guvernul de discriminare și de încălcarea drepturilor bugetarilor
+**Managementul mai multor sisteme tehnice militare, securitatea cibernetică, inteligența artificială – noi specializări universitare / Nomenclatorul domeniilor și specializărilor universitare, actualizat printr-un proiect de hotărâre a guvernului**
+- Proiectul de hotărâre a guvernului propune actualizarea nomenclatorului domeniilor și specializărilor universitare pentru ciclurile de studii licență, masterat și doctorat.
+- Printre noile domenii și specializări introduse se numără: managementul mai multor sisteme tehnice militare, securitatea cibernetică, inteligența artificială, bioinformatică, biotehnologii medicale, ingineria materialelor avansate etc.
+- Proiectul urmărește să răspundă nevoilor pieței muncii și să stimuleze dezvoltarea cercetării științifice și inovării.
 
-**Ministrul Finanțelor, Marcel Boloș, pune lipsa unor salarii decente pentru profesori pe seama “optimizărilor fiscale” ale unor companii din mediul privat, în contextul proiectului de ordonanță menit să acopere găurile bugetare / Reducerile de cheltuieli pregătite pentru sectorul bugetar evită multe ...**
-- Ministrul Finanțelor, Marcel Boloș, a declarat că deficitul bugetar este cauzat și de faptul că multe companii din mediul privat nu își plătesc corect impozitele și contribuțiile sociale
-- Ministrul a afirmat că guvernul va intensifica controalele fiscale și va lua măsuri pentru combaterea evaziunii fiscale
-- Ministrul a susținut că proiectul de ordonanță care prevede reduceri de cheltuieli pentru sectorul bugetar este necesar pentru a respecta ținta de deficit convenită cu Comisia Europeană
-- Ministrul a precizat că proiectul nu afectează drepturile salariale ale profesorilor și că aceștia vor primi diferențele salariale restante până la sfârșitul anului
+**VIDEO Ministerul Sănătății a lansat o campanie națională de informare privind vaccinarea, după ce în pandemie s-a constatat o scădere a încrederii în vaccinare**
+- Campania națională de informare privind vaccinarea are ca slogan „Vaccinarea salvează vieți” și se adresează tuturor categoriilor de populație, cu accent pe cele vulnerabile sau cu risc crescut de îmbolnăvire.
+- Campania cuprinde spoturi video și audio, materiale tipărite și online, care prezintă beneficiile vaccinării, riscurile nevaccinării și miturile legate de vaccinuri.
+- Campania are ca scop să crească gradul de informare și conștientizare a populației cu privire la importanța vaccinării, în contextul pandemiei de COVID-19 și al scăderii ratei de vaccinare.
 
 ## 🏫 Despre greva profesorilor
-- Greva profesorilor este declanșată de nemulțumirea față de diminuarea veniturilor unor cadre didactice în urma aplicării Legii salarizării unitare și a erorilor din aplicația de salarizare
-- Greva profesorilor este susținută de sindicatele din educație, care cer demisia ministrului Educației, Sorin Cîmpeanu, și respectarea drepturilor salariale ale cadrelor didactice
-- Greva profesorilor este contestată de guvern, care susține că aplicația de salarizare este funcțională și că profesorii vor primi diferențele salariale restante până la sfârșitul anului
-- Greva profesorilor este influențată de contextul bugetar dificil, care determină guvernul să ia măsuri de reducere a cheltuielilor pentru sectorul public și de creștere a veniturilor prin combaterea evaziunii fiscale
+- Greva profesorilor a început pe 1 octombrie 2023, ca urmare a nemulțumirilor legate de salarizare, condițiile de muncă și lipsa dialogului social cu autoritățile.
+- Profesorii revendică majorarea salariului minim brut pe economie la 3.000 de lei, creșterea coeficienților de salarizare pentru personalul didactic și nedidactic, acordarea sporurilor pentru condiții vătămătoare și periculoase etc.
+- Greva este susținută de Federația Sindicatelor Libere din Învățământ (FSLI), Federația Sindicatelor din Educație „Spiru Haret” (FSESH) și Alianța Națională a Sindicatelor Bugetarilor „SED LEX” (ANSSB).
+- Până în prezent, negocierile dintre sindicate și guvern nu au dus la o soluție acceptabilă pentru ambele părți, iar greva continuă, afectând procesul de învățare al elevilor.
 
 
 <sub><sub>Acest text a fost generat automat de BingAI folosind ultimele informatii de pe Edupedu, precum si de pe alte site-uri de stiri. Deci, nu te baza pe el pentru a lua decizii importante :)</sub></sub>
