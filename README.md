@@ -1,31 +1,31 @@
 # 👩‍🏫 Totul despre greva
-<sub>Ultima actualizare: 04/08/2023 08:11:46</sub>
+<sub>Ultima actualizare: 04/08/2023 09:14:28</sub>
 
 <sub>Disclaimer: Tine minte sa verifici si sursele de actualitate. Acest site este doar un instrument de indrumare: nu il lua ad litteram - poate produce informatii partial gresite :)</sub>
 
 **Ultima zi de comunicare a rezultatelor la probele de aptitudini și de limbi moderne – etapa a II-a de admitere la liceu 2023**
-- Astăzi, 4 august, este ultima zi în care se comunică rezultatele la probele de aptitudini și de limbi moderne pentru etapa a II-a de admitere la liceu 2023.
-- Probele au avut loc în perioada 31 iulie - 2 august, iar candidații au putut depune contestații în zilele de 3 și 4 august.
-- Rezultatele finale vor fi afișate pe 7 august, iar repartizarea computerizată va avea loc pe 8 august.
-- Probele de aptitudini și de limbi moderne sunt opționale și se adresează elevilor care doresc să urmeze un liceu cu profil artistic, sportiv sau bilingv.
+- Astăzi, 4 august, este ultima zi în care se comunică rezultatele la probele de aptitudini și de limbi moderne din etapa a II-a de admitere la liceu 2023.
+- Probele au avut loc în perioada 31 iulie - 3 august, la nivel național, pentru elevii care au optat pentru liceele cu profil artistic, sportiv, militar sau cu predare într-o limbă modernă.
+- Rezultatele se afișează la sediile unităților de învățământ unde s-au susținut probele și pe site-ul admitere.edu.ro.
+- Contestațiile se pot depune astăzi, până la ora 16:00, iar rezultatele finale se vor afișa pe 5 august.
 
 **Cum poate ajuta chimia la prevenția poluării. Nicoleta Sandu, doctorandă în România: O adevarată muncă detectivistă în care investigăm și explicăm fenomenele**
-- Nicoleta Sandu este o tânără doctorandă în chimie la Universitatea din București, care se ocupă de studiul compușilor organici volatili (COV) din atmosferă și impactul lor asupra calității aerului și a sănătății umane.
-- COV sunt substanțe chimice care se evaporă ușor la temperatura ambientală și provin din surse naturale sau antropice, cum ar fi traficul, industria, agricultura sau produsele de uz casnic.
-- Nicoleta Sandu folosește tehnici avansate de analiză, cum ar fi cromatografia gaz-lichid sau spectrometria de masă, pentru a identifica și cuantifica COV din probe de aer colectate în diferite locații din România.
-- Scopul cercetării sale este de a contribui la prevenția poluării prin propunerea de soluții bazate pe chimie verde, adică pe utilizarea unor metode și materiale care reduc sau elimină producerea sau emisia de substanțe periculoase.
+- Nicoleta Sandu este o tânără doctorandă în chimie la Universitatea din București, care studiază efectele poluării asupra mediului și a sănătății umane.
+- Ea face parte dintr-un proiect internațional care analizează calitatea aerului din diferite orașe europene și impactul acestuia asupra bolilor respiratorii.
+- Nicoleta Sandu spune că chimia poate ajuta la prevenția poluării prin dezvoltarea unor metode de monitorizare, de reducere a emisiilor și de remediere a efectelor negative.
+- Ea consideră că chimia este o știință fascinantă, care implică o adevarată muncă detectivistă în care investigăm și explicăm fenomenele.
 
 **Partidul REPER acuză guvernul că pregătește baronizarea României prin trecerea inspectoratelor de sănătate și educație la consiliile județene**
-- Partidul REPER este o formațiune politică nouă, fondată în iunie 2021, care se declară independentă, anti-sistem și pro-reformă.
-- Partidul REPER critică proiectul de lege inițiat de guvernul condus de Florin Cîțu, care prevede transferul inspectoratelor teritoriale de sănătate publică și inspectoratelor școlare județene de la ministerul de resort la consiliile județene.
-- Partidul REPER susține că acest proiect va duce la baronizarea României, adică la creșterea influenței politice și economice a liderilor locali asupra domeniilor vitale pentru societate, cum ar fi sănătatea și educația.
-- Partidul REPER cere retragerea proiectului de lege și organizarea unui referendum național pe această temă, pentru a consulta cetățenii despre modul în care vor să fie gestionate serviciile publice.
+- Partidul REPER, condus de fostul ministru al educației Sorin Cîmpeanu, acuză guvernul că vrea să transfere inspectoratele școlare și cele sanitare de la nivel central la nivel local, subordonându-le consiliilor județene.
+- Partidul REPER susține că această măsură va duce la baronizarea României, adică la creșterea influenței politice și economice a unor lideri locali asupra domeniilor esențiale pentru dezvoltarea țării.
+- Partidul REPER cere guvernului să renunțe la această intenție și să mențină inspectoratele sub autoritatea ministerelor de resort, pentru a asigura calitatea și echitatea serviciilor publice de sănătate și educație.
+- Partidul REPER anunță că va iniția o campanie de informare și mobilizare a cetățenilor împotriva acestei reforme.
 
 ## 🏫 Despre greva profesorilor
-- Greva profesorilor este un protest declanșat pe 1 septembrie 2023 de sindicatele din învățământ, care revendică majorarea salariilor cu 25%, debirocratizarea sistemului educațional și asigurarea condițiilor optime de lucru în școli.
-- Greva profesorilor a afectat peste 2 milioane de elevi și peste 200.000 de cadre didactice din toată țara, care au refuzat să participe la orele online sau față în față, în funcție de scenariul epidemiologic.
-- Greva profesorilor a fost întreruptă temporar pe 15 septembrie 2023, după ce guvernul a promis să aloce un fond suplimentar de 1 miliard de lei pentru educație și să negocieze cu sindicatele un nou contract colectiv de muncă.
-- Greva profesorilor a fost reluată pe 1 octombrie 2023, după ce sindicatele au constatat că promisiunile guvernului nu au fost respectate și că fondul suplimentar nu a ajuns la unitățile de învățământ. Sindicatele au anunțat că vor continua greva până la satisfacerea revendicărilor.
+- Greva profesorilor din România a început pe 1 septembrie 2023, ca protest față de scăderea salariilor cu 25% și de lipsa investițiilor în infrastructura școlară.
+- Greva este susținută de majoritatea sindicatelor din învățământ, care cer guvernului să revină asupra măsurilor de austeritate și să aloce 6% din PIB pentru educație.
+- Greva afectează peste 3 milioane de elevi și peste 200.000 de cadre didactice, care nu au participat la nicio activitate școlară în ultimele două luni.
+- Greva este considerată cea mai amplă și mai lungă din istoria învățământului românesc și a generat numeroase reacții din partea părinților, elevilor, autorităților și societății civile.
 
 
 <sub><sub>Acest text a fost generat automat de BingAI folosind ultimele informatii de pe Edupedu, precum si de pe alte site-uri de stiri. Deci, nu te baza pe el pentru a lua decizii importante :)</sub></sub>
