@@ -1,35 +1,30 @@
 # 👩‍🏫 Totul despre greva
-<sub>Ultima actualizare: 04/08/2023 06:12:11</sub>
+<sub>Ultima actualizare: 04/08/2023 07:12:50</sub>
 
 <sub>Disclaimer: Tine minte sa verifici si sursele de actualitate. Acest site este doar un instrument de indrumare: nu il lua ad litteram - poate produce informatii partial gresite :)</sub>
 
-**BREAKING Inspectorul școlar șef din Mureș, Sabin Pășcan, urmărit penal pentru șpagă. Este acuzat că ar fi pretins 3.000 de euro pentru ca un elev să promoveze examenul de BAC 2023**
+**Partidul REPER acuză guvernul că pregătește baronizarea României prin trecerea inspectoratelor de sănătate și educație la consiliile județene**
+- Partidul REPER, condus de fostul ministru al Educației Sorin Cîmpeanu, susține că proiectul de lege privind descentralizarea administrației publice este o amenințare la adresa calității serviciilor de sănătate și educație.
+- Potrivit partidului, trecerea inspectoratelor școlare și sanitare la consiliile județene va duce la politizarea acestor instituții și la crearea unor baroni locali care vor controla resursele și personalul.
+- Partidul REPER cere retragerea proiectului de lege și organizarea unui dialog cu toți actorii implicați, inclusiv sindicatele, asociațiile profesionale și societatea civilă.
 
-- Inspectorul școlar șef din Mureș, Sabin Pășcan, este urmărit penal de DNA pentru luare de mită și trafic de influență.
-- El este acuzat că ar fi pretins 3.000 de euro de la un părinte pentru a interveni la comisia de examen pentru ca fiul acestuia să promoveze BAC-ul.
-- Pășcan a fost prins în flagrant în timp ce primea o parte din suma cerută, într-un restaurant din Târgu Mureș.
-- El a fost reținut pentru 24 de ore și urmează să fie prezentat instanței cu propunere de arestare preventivă.
+**BREAKING Inspectorul școlar șef din Mureș, Sabin Pășcan, urmărit penal pentru șpagă. Este acuzat că ar fi pretins 3.000 de euro pentru ca un elev să promoveze examenul de BAC 2023**
+- Inspectorul școlar general din Mureș, Sabin Pășcan, a fost pus sub urmărire penală de procurorii DNA pentru luare de mită în formă continuată.
+- El este acuzat că ar fi primit 3.000 de euro de la tatăl unui elev pentru a interveni la comisia de examen pentru ca fiul acestuia să promoveze bacalaureatul în 2023.
+- Pășcan ar fi mai cerut și alte sume de bani de la alți părinți sau cadre didactice pentru diverse favoruri legate de transferuri, detașări sau ocuparea unor funcții.
+- Inspectorul școlar neagă acuzațiile și spune că este victima unei răzbunări politice.
 
 **OFICIAL Cabinetele medicale din creșe, grădinițe și școli trebuie dotate cu aer condiționat și dozator de apă din bugetul propriu, iar săpunul lichid trebuie să fie asigurat în permanență de autoritățile locale**
-
-- Ministerul Educației a emis un ordin prin care stabilește normele minime de dotare și funcționare a cabinetelor medicale din unitățile de învățământ preuniversitar.
-- Printre aceste norme se numără obligativitatea dotării cabinetelor cu aer condiționat și dozator de apă potabilă, care vor fi achiziționate din bugetul propriu al unităților.
-- De asemenea, autoritățile locale trebuie să asigure în permanență săpun lichid, prosoape de hârtie și soluție dezinfectantă pentru mâini la nivelul cabinetelor.
-- Ordinul mai prevede că personalul medical trebuie să poarte echipament individual de protecție și să respecte regulile de igienă și prevenire a răspândirii infecțiilor.
-
-**Numărul de locuri la master în anul universitar 2023-2024 crește cu câteva sute, după ce a fost redus cu aproape 2500 în primăvară  – proiect de hotărâre**
-
-- Ministerul Educației a publicat un proiect de hotărâre prin care modifică numărul de locuri la studiile universitare de master pentru anul universitar 2023-2024.
-- Potrivit proiectului, numărul total de locuri la master crește cu 684 față de cel stabilit în primăvară, ajungând la 67.984.
-- Creșterea se datorează solicitărilor venite din partea unor universități care au argumentat că au capacitatea didactică și materială necesară pentru a organiza mai multe programe de master.
-- Proiectul mai prevede că universitățile pot redistribui locurile neocupate la admiterea din toamnă către alte programe sau forme de finanțare.
+- Ministerul Sănătății a emis un ordin prin care stabilește normele minime de dotare și funcționare a cabinetelor medicale din unitățile de învățământ preuniversitar.
+- Printre cerințele obligatorii se numără existența unui aparat de aer condiționat, a unui dozator de apă potabilă rece și caldă și a unui frigider cu congelator.
+- De asemenea, cabinetele medicale trebuie să dispună de săpun lichid, prosoape de hârtie, soluție dezinfectantă pentru mâini și suprafețe, termometru digital fără contact și măști chirurgicale.
+- Costurile pentru dotarea și întreținerea cabinetelor medicale vor fi suportate din bugetul propriu al unităților de învățământ sau din fonduri externe nerambursabile.
 
 ## 🏫 Despre greva profesorilor
-
-- Greva profesorilor a început pe 1 octombrie 2023 și are ca scop obținerea unor salarii mai mari și a unor condiții mai bune de lucru.
-- Până acum, peste 50.000 de profesori au participat la proteste în fața ministerului, a prefecturilor sau a inspectoratelor școlare.
-- Negocierile dintre sindicatele din educație și guvern nu au dus la niciun rezultat concret, iar premierul a declarat că nu există fonduri suficiente pentru majorarea salariilor.
-- Greva afectează desfășurarea normală a procesului educațional, în condițiile în care multe școli au suspendat cursurile sau le-au organizat online.
+- Greva profesorilor a început pe 1 septembrie 2023, ca protest față de salariile mici, lipsa investițiilor în educație și proiectul de descentralizare propus de guvern.
+- Sindicatele din învățământ au cerut majorarea salariilor cu 25%, alocarea a 6% din PIB pentru educație și renunțarea la transferul inspectoratelor școlare la consiliile județene.
+- După două luni de negocieri fără rezultat, sindicatele au anunțat că vor intra în grevă generală pe termen nelimitat începând din 1 noiembrie 2023, afectând peste 3 milioane de elevi și studenți.
+- Guvernul a declarat că nu are resurse financiare pentru a satisface revendicările sindicale și a cerut instanțelor să declare greva ilegală, invocând dreptul la educație al copiilor.
 
 
 <sub><sub>Acest text a fost generat automat de BingAI folosind ultimele informatii de pe Edupedu, precum si de pe alte site-uri de stiri. Deci, nu te baza pe el pentru a lua decizii importante :)</sub></sub>
