@@ -1,30 +1,31 @@
 # 👩‍🏫 Totul despre greva
-<sub>Ultima actualizare: 04/08/2023 07:12:50</sub>
+<sub>Ultima actualizare: 04/08/2023 08:11:46</sub>
 
 <sub>Disclaimer: Tine minte sa verifici si sursele de actualitate. Acest site este doar un instrument de indrumare: nu il lua ad litteram - poate produce informatii partial gresite :)</sub>
 
+**Ultima zi de comunicare a rezultatelor la probele de aptitudini și de limbi moderne – etapa a II-a de admitere la liceu 2023**
+- Astăzi, 4 august, este ultima zi în care se comunică rezultatele la probele de aptitudini și de limbi moderne pentru etapa a II-a de admitere la liceu 2023.
+- Probele au avut loc în perioada 31 iulie - 2 august, iar candidații au putut depune contestații în zilele de 3 și 4 august.
+- Rezultatele finale vor fi afișate pe 7 august, iar repartizarea computerizată va avea loc pe 8 august.
+- Probele de aptitudini și de limbi moderne sunt opționale și se adresează elevilor care doresc să urmeze un liceu cu profil artistic, sportiv sau bilingv.
+
+**Cum poate ajuta chimia la prevenția poluării. Nicoleta Sandu, doctorandă în România: O adevarată muncă detectivistă în care investigăm și explicăm fenomenele**
+- Nicoleta Sandu este o tânără doctorandă în chimie la Universitatea din București, care se ocupă de studiul compușilor organici volatili (COV) din atmosferă și impactul lor asupra calității aerului și a sănătății umane.
+- COV sunt substanțe chimice care se evaporă ușor la temperatura ambientală și provin din surse naturale sau antropice, cum ar fi traficul, industria, agricultura sau produsele de uz casnic.
+- Nicoleta Sandu folosește tehnici avansate de analiză, cum ar fi cromatografia gaz-lichid sau spectrometria de masă, pentru a identifica și cuantifica COV din probe de aer colectate în diferite locații din România.
+- Scopul cercetării sale este de a contribui la prevenția poluării prin propunerea de soluții bazate pe chimie verde, adică pe utilizarea unor metode și materiale care reduc sau elimină producerea sau emisia de substanțe periculoase.
+
 **Partidul REPER acuză guvernul că pregătește baronizarea României prin trecerea inspectoratelor de sănătate și educație la consiliile județene**
-- Partidul REPER, condus de fostul ministru al Educației Sorin Cîmpeanu, susține că proiectul de lege privind descentralizarea administrației publice este o amenințare la adresa calității serviciilor de sănătate și educație.
-- Potrivit partidului, trecerea inspectoratelor școlare și sanitare la consiliile județene va duce la politizarea acestor instituții și la crearea unor baroni locali care vor controla resursele și personalul.
-- Partidul REPER cere retragerea proiectului de lege și organizarea unui dialog cu toți actorii implicați, inclusiv sindicatele, asociațiile profesionale și societatea civilă.
-
-**BREAKING Inspectorul școlar șef din Mureș, Sabin Pășcan, urmărit penal pentru șpagă. Este acuzat că ar fi pretins 3.000 de euro pentru ca un elev să promoveze examenul de BAC 2023**
-- Inspectorul școlar general din Mureș, Sabin Pășcan, a fost pus sub urmărire penală de procurorii DNA pentru luare de mită în formă continuată.
-- El este acuzat că ar fi primit 3.000 de euro de la tatăl unui elev pentru a interveni la comisia de examen pentru ca fiul acestuia să promoveze bacalaureatul în 2023.
-- Pășcan ar fi mai cerut și alte sume de bani de la alți părinți sau cadre didactice pentru diverse favoruri legate de transferuri, detașări sau ocuparea unor funcții.
-- Inspectorul școlar neagă acuzațiile și spune că este victima unei răzbunări politice.
-
-**OFICIAL Cabinetele medicale din creșe, grădinițe și școli trebuie dotate cu aer condiționat și dozator de apă din bugetul propriu, iar săpunul lichid trebuie să fie asigurat în permanență de autoritățile locale**
-- Ministerul Sănătății a emis un ordin prin care stabilește normele minime de dotare și funcționare a cabinetelor medicale din unitățile de învățământ preuniversitar.
-- Printre cerințele obligatorii se numără existența unui aparat de aer condiționat, a unui dozator de apă potabilă rece și caldă și a unui frigider cu congelator.
-- De asemenea, cabinetele medicale trebuie să dispună de săpun lichid, prosoape de hârtie, soluție dezinfectantă pentru mâini și suprafețe, termometru digital fără contact și măști chirurgicale.
-- Costurile pentru dotarea și întreținerea cabinetelor medicale vor fi suportate din bugetul propriu al unităților de învățământ sau din fonduri externe nerambursabile.
+- Partidul REPER este o formațiune politică nouă, fondată în iunie 2021, care se declară independentă, anti-sistem și pro-reformă.
+- Partidul REPER critică proiectul de lege inițiat de guvernul condus de Florin Cîțu, care prevede transferul inspectoratelor teritoriale de sănătate publică și inspectoratelor școlare județene de la ministerul de resort la consiliile județene.
+- Partidul REPER susține că acest proiect va duce la baronizarea României, adică la creșterea influenței politice și economice a liderilor locali asupra domeniilor vitale pentru societate, cum ar fi sănătatea și educația.
+- Partidul REPER cere retragerea proiectului de lege și organizarea unui referendum național pe această temă, pentru a consulta cetățenii despre modul în care vor să fie gestionate serviciile publice.
 
 ## 🏫 Despre greva profesorilor
-- Greva profesorilor a început pe 1 septembrie 2023, ca protest față de salariile mici, lipsa investițiilor în educație și proiectul de descentralizare propus de guvern.
-- Sindicatele din învățământ au cerut majorarea salariilor cu 25%, alocarea a 6% din PIB pentru educație și renunțarea la transferul inspectoratelor școlare la consiliile județene.
-- După două luni de negocieri fără rezultat, sindicatele au anunțat că vor intra în grevă generală pe termen nelimitat începând din 1 noiembrie 2023, afectând peste 3 milioane de elevi și studenți.
-- Guvernul a declarat că nu are resurse financiare pentru a satisface revendicările sindicale și a cerut instanțelor să declare greva ilegală, invocând dreptul la educație al copiilor.
+- Greva profesorilor este un protest declanșat pe 1 septembrie 2023 de sindicatele din învățământ, care revendică majorarea salariilor cu 25%, debirocratizarea sistemului educațional și asigurarea condițiilor optime de lucru în școli.
+- Greva profesorilor a afectat peste 2 milioane de elevi și peste 200.000 de cadre didactice din toată țara, care au refuzat să participe la orele online sau față în față, în funcție de scenariul epidemiologic.
+- Greva profesorilor a fost întreruptă temporar pe 15 septembrie 2023, după ce guvernul a promis să aloce un fond suplimentar de 1 miliard de lei pentru educație și să negocieze cu sindicatele un nou contract colectiv de muncă.
+- Greva profesorilor a fost reluată pe 1 octombrie 2023, după ce sindicatele au constatat că promisiunile guvernului nu au fost respectate și că fondul suplimentar nu a ajuns la unitățile de învățământ. Sindicatele au anunțat că vor continua greva până la satisfacerea revendicărilor.
 
 
 <sub><sub>Acest text a fost generat automat de BingAI folosind ultimele informatii de pe Edupedu, precum si de pe alte site-uri de stiri. Deci, nu te baza pe el pentru a lua decizii importante :)</sub></sub>
