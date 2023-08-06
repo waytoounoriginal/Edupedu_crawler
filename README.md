@@ -1,32 +1,38 @@
 # 👩‍🏫 Totul despre greva
-<sub>Ultima actualizare: 06/08/2023 03:50:55</sub>
+<sub>Ultima actualizare: 06/08/2023 04:52:47</sub>
 
 <sub>Disclaimer: Tine minte sa verifici si sursele de actualitate. Acest site este doar un instrument de indrumare: nu il lua ad litteram - poate produce informatii partial gresite :)</sub>
 
-- **INTERVIU Ministrul Educației, Ligia Deca: În viitor, titularizarea vine după licențierea în profesie și după noul masterat cu 80% practică, pe care îl introducem prin noua lege a Educației**
-    - Ministrul Educației, Ligia Deca, a acordat un interviu pentru Edupedu.ro, în care a vorbit despre reformele pe care le pregătește în domeniul educației, printre care și modificarea sistemului de titularizare a profesorilor.
-    - Potrivit ministrului, titularizarea va fi posibilă doar după ce candidații vor obține o licențiere în profesie, care va presupune un examen scris și unul practic, și după ce vor absolvii un masterat cu 80% practică, care va fi introdus prin noua lege a educației.
-    - Ministrul a mai spus că vrea să crească calitatea actului educațional prin introducerea unor standarde de performanță pentru profesori și elevi, prin dezvoltarea unor programe de formare continuă pentru cadrele didactice și prin creșterea autonomiei școlilor.
-    - Ministrul a mai anunțat că va aloca mai multe fonduri pentru digitalizarea școlilor, pentru dotarea laboratoarelor și pentru susținerea elevilor defavorizați sau cu cerințe educaționale speciale. [1]
+**INTERVIU Ministrul Educației, Ligia Deca: În viitor, titularizarea vine după licențierea în profesie și după noul masterat cu 80% practică, pe care îl introducem prin noua lege a Educației**
 
-- **Un asteroid potențial periculos, de mărimea unui zgârie-nori, a fost descoperit de astronomi în jurul Pământului, cu ajutorul unui nou algoritm – VIDEO**
-    - Un asteroid de aproximativ 200 de metri în diametru, denumit 2021 PH27, a fost descoperit de astronomi în apropierea Pământului, cu ajutorul unui nou algoritm dezvoltat de cercetătorii de la Universitatea din Hawai.
-    - Asteroidul este considerat potențial periculos, deoarece are o orbită foarte apropiată de Soare și de Pământ și poate provoca daune semnificative dacă ar lovi planeta noastră.
-    - Asteroidul are cea mai scurtă perioadă orbitală dintre toți asteroizii cunoscuți, de doar 113 zile, și se află la o distanță medie de 18 milioane de kilometri față de Soare. El se intersectează cu orbita lui Mercur și Venus și se apropie la doar 20% din distanța dintre Pământ și Lună.
-    - Astronomii intenționează să urmărească mai atent asteroidul pentru a determina cu exactitate traiectoria sa și pentru a evalua riscul unei coliziuni cu Pământul. Ei speră să afle și mai multe despre originea și compoziția sa. [2]
+- Articolul este un interviu acordat de ministrul educației, Ligia Deca, unei eleve de clasa a XII-a, publicat pe site-ul Edupedu.ro[^1^].
+- Ministrul explică schimbările pe care le aduce noua lege a educației în ceea ce privește cariera didactică, admiterea la liceu și bacalaureat.
+- Una dintre modificările importante este că titularizarea va fi posibilă doar după absolvirea unui masterat didactic cu 80% practică și după licențierea în profesie, care va înlocui examenul de definitivat.
+- Ministrul susține că aceste măsuri vor asigura o formare mai bună a profesorilor și o expunere mai mare la diferite tipuri de școli.
+- Ministrul mai spune că din 2026 se vor introduce schimbări în examenul de bacalaureat, prin apariția unei noi probe la profilul opus, pentru a oferi elevilor mai multe opțiuni pentru carierele lor viitoare.
 
-- **Fără OUG anti-ONG, petiția online demarată de Asociația Dăruiește Viață care poate pierde jumătate din fondurile anuale / Asociația construiește primul spital pentru copiii bolnavi de cancer din România**
-    - Asociația Dăruiește Viață, care construiește primul spital pentru copiii bolnavi de cancer din România, se confruntă cu o amenințare la adresa finanțării sale din cauza unei ordonanțe de urgență (OUG) inițiate de Guvern, care ar limita drastic sponsorizările din partea companiilor private.
-    - OUG-ul prevede că sponsorizările acordate de companii organizațiilor non-guvernamentale (ONG) nu vor mai fi deductibile fiscal, ci vor fi considerate cheltuieli nedeductibile. Acest lucru ar descuraja companiile să mai susțină cauzele sociale și ar reduce drastic fondurile de care dispun ONG-urile.
-    - Asociația Dăruiește Viață a lansat o petiție online pentru a cere Guvernului să renunțe la OUG-ul anti-ONG și să mențină actualul regim fiscal pentru sponsorizări. Petiția a strâns peste 100.000 de semnături în doar câteva zile.
-    - Asociația Dăruiește Viață a început în 2018 construcția primului spital pentru copiii bolnavi de cancer din România, cu fonduri exclusiv private, provenite din donații și sponsorizări. Spitalul se află în București, pe un teren pus la dispoziție de Ministerul Sănătății, și are o capacitate de 140 de paturi. Lucrările sunt în stadiu avansat și se estimează că spitalul va fi gata în 2024. [3]
+**Un asteroid potențial periculos, de mărimea unui zgârie-nori, a fost descoperit de astronomi în jurul Pământului, cu ajutorul unui nou algoritm – VIDEO**
+
+- Articolul relatează despre descoperirea unui asteroid de 180 de metri în diametru, denumit 2022 SF289, care este considerat un asteroid potențial periculos (PHA) pentru Pământ[^6^].
+- Asteroidul s-a apropiat de Pământ în septembrie 2022, la o distanță de 7,2 milioane de kilometri, dar nu a fost detectat de telescoapele obișnuite din cauza poziției sale în Calea Lactee.
+- Astronomii au reușit să observe asteroidul cu ajutorul unui nou algoritm numit HelioLinc3D, care folosește secvențe mici de date științifice pentru a identifica asteroizii mari și potențial letali.
+- Algoritmul a fost testat cu date de arhivă furnizate de observatorul ATLAS din Hawaii și a găsit asteroidul în trei fotografii separate realizate pe 19 septembrie 2022 și în următoarele trei nopți.
+- Algoritmul va fi folosit în curând pentru a analiza datele culese de observatorul Vera C. Rubin din Chile, care va începe operațiunile de detectare a asteroizilor la începutul anului 2025.
+
+**Fără OUG anti-ONG, petiția online demarată de Asociația Dăruiește Viață care poate pierde jumătate din fondurile anuale / Asociația construiește primul spital pentru copiii bolnavi de cancer din România**
+
+- Articolul este despre o petiție online lansată de Asociația Dăruiește Viață, care construiește un spital pentru copiii bolnavi de cancer în București[^12^].
+- Petiția se opune unei ordonanțe de urgență pregătite de guvern, care ar restricționa accesul ONG-urilor la fondurile provenite din sponsorizările corporate.
+- Asociația susține că dacă ordonanța va fi adoptată în forma propusă, va pierde peste noapte 50% din fondurile pe care le strânge anual pentru proiectul „Noi facem un spital”.
+- Asociația cere guvernului să nu-și bată joc de munca și de sutele de mii de oameni a căror viață ar fi mult mai grea fără ONG-uri.
+- Petiția este susținută de alte sute de organizații neguvernamentale, care se tem că ordonanța va distruge un sistem de sponsorizare care a funcționat bine timp de două decenii.
 
 ## 🏫 Despre greva profesorilor
 
-- Greva profesorilor din România din 2023 a fost declanșată pe 22 mai și a durat până pe 12 iunie, când sindicatele au anunțat suspendarea ei, după ce au obținut o serie de concesii din partea Guvernului.
-- Profesorii au cerut o creștere a salariilor cu 25%, argumentând că sunt plătiți mult sub media pe economie și sub alte profesii din România. Ei au protestat și în stradă, organizând marșuri și manifestații în București și în alte orașe mari.
-- Guvernul a propus inițial un bonus de 1.000 de lei pentru debutanți, dar sindicatele au refuzat oferta. După mai multe runde de negocieri, Guvernul a acceptat să majoreze salariile cu 25%, să acorde sume anuale pentru personalul didactic și auxiliar și să aplice o nouă grilă de salarizare de la 1 ianuarie 2024.
-- Greva profesorilor a afectat desfășurarea examenelor pentru clasa a VI-a și pentru bacalaureat, care au fost amânate sau modificate. De asemenea, greva a generat nemulțumirea unor părinți și elevi, care s-au plâns de pierderea orelor de curs și de incertitudinea situației școlare.
+- Greva profesorilor a început pe 22 mai 2023 și a durat până pe 12 iunie 2023, când a fost suspendată condiționat de sindicate.
+- Profesorii au cerut o creștere a salariilor cu 25% și garanții legale că salariul debutanților va fi egal cu salariul mediu brut pe economie și că vor primi o primă tranșă de majorare salarială de la 1 ianuarie 2024.
+- Guvernul a acceptat să introducă aceste revendicări într-o ordonanță de urgență, care a fost aprobată în ședința de guvern din 12 iunie 2023.
+- Greva a afectat desfășurarea examenelor naționale, care au fost amânate sau modificate. De exemplu, examenul oral de la bacalaureat a fost eliminat, iar examenul scris la limba maternă a fost mutat după celelalte probe.
 
 
 <sub><sub>Acest text a fost generat automat de BingAI folosind ultimele informatii de pe Edupedu, precum si de pe alte site-uri de stiri. Deci, nu te baza pe el pentru a lua decizii importante :)</sub></sub>
