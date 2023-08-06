@@ -1,35 +1,31 @@
 # 👩‍🏫 Totul despre greva
-<sub>Ultima actualizare: 06/08/2023 11:12:55</sub>
+<sub>Ultima actualizare: 06/08/2023 12:11:42</sub>
 
 <sub>Disclaimer: Tine minte sa verifici si sursele de actualitate. Acest site este doar un instrument de indrumare: nu il lua ad litteram - poate produce informatii partial gresite :)</sub>
 
-**Ministrul Educației spune că știe că mai multe posturi ar putea fi viabile pentru titularizare. Școlile, “mai ales din zonele considerate greu atractive”, nu le scot la concurs de teamă că se ocupă și apoi acei profesori pleacă: Aici avem o problemă de sistem**
+- **Ministrul Educației spune că știe că mai multe posturi ar putea fi viabile pentru titularizare. Școlile, “mai ales din zonele considerate greu atractive”, nu le scot la concurs de teamă că se ocupă și apoi acei profesori pleacă: Aici avem o problemă de sistem**
+    - Articolul prezintă declarațiile ministrului Educației, Ligia Deca, despre situația posturilor didactice vacante și dificultatea de a atrage profesori în zonele defavorizate.
+    - Ministrul afirmă că există mai multe posturi care ar putea fi viabile pentru titularizare, dar școlile nu le scot la concurs de teamă că se ocupă și apoi acei profesori pleacă.
+    - Ministrul spune că este nevoie de o reformă a sistemului de salarizare și de o lege a educației care să prevadă un mecanism de licențiere în profesie și un masterat cu 80% practică pentru cadrele didactice.
+    - Ministrul mai spune că este în discuție cu sindicatele și cu Ministerul Muncii pentru a găsi soluții la problemele salariale ale profesorilor și că speră să se ajungă la un acord până la sfârșitul lunii august.
 
-- Articolul prezintă declarațiile ministrului Educației, Ligia Deca, despre situația posturilor didactice din școlile din România, în contextul grevei profesorilor care cere o majorare salarială de 25%[^1^].
-- Ministrul afirmă că există mai multe posturi care ar putea fi viabile pentru titularizare, dar nu sunt scoase la concurs de către școli, mai ales din zonele considerate greu atractive, de teamă că se ocupă și apoi acei profesori pleacă[^1^].
-- Ministrul spune că acest lucru este o problemă de sistem, care trebuie rezolvată prin modificarea legislației și prin crearea unor mecanisme de stimulare și de protecție a cadrelor didactice[^1^].
-- Ministrul mai spune că guvernul este dispus să negocieze cu sindicatele din educație, dar nu poate accepta o creștere salarială de 25%, care ar duce la un deficit bugetar nesustenabil[^1^].
+- **Descoperire surprinzătoare despre ChatGPT făcută de un informatician român de la Stanford: a devenit mult mai slab la operațiuni matematice de bază. Cum se explică ”derapajul” Inteligenței Artificiale**
+    - Articolul relatează despre o cercetare realizată de un informatician român de la Stanford, Mihai Surdeanu, care a descoperit că modelul ChatGPT, un sistem de inteligență artificială capabil să genereze texte și conversații, a devenit mult mai slab la operațiuni matematice de bază decât în versiunile anterioare.
+    - Surdeanu explică că acest fenomen se datorează faptului că modelul ChatGPT este antrenat pe texte din internet, care nu conțin prea multe exemple de calcule matematice corecte și relevante.
+    - Surdeanu spune că acest lucru arată limitările actuale ale inteligenței artificiale și necesitatea de a crea sisteme mai robuste și mai adaptabile la diferite domenii și sarcini.
+    - Surdeanu mai spune că este important să se testeze periodic performanța modelelor de inteligență artificială și să se verifice dacă nu au apărut erori sau anomalii.
 
-**Descoperire surprinzătoare despre ChatGPT făcută de un informatician român de la Stanford: a devenit mult mai slab la operațiuni matematice de bază. Cum se explică ”derapajul” Inteligenței Artificiale**
-
-- Articolul prezintă descoperirea făcută de un informatician român de la Stanford, Andrei Cimpian, care a testat performanța modelului ChatGPT la operațiuni matematice de bază[^2^].
-- Cimpian a observat că modelul ChatGPT a devenit mult mai slab la operațiuni matematice de bază decât în versiunile anterioare, dând răspunsuri greșite sau incoerente[^2^].
-- Cimpian explică acest fenomen prin faptul că modelul ChatGPT este antrenat pe texte scrise de oameni pe internet, care conțin multe erori sau ambiguități[^2^].
-- Cimpian sugerează că modelul ChatGPT ar trebui să fie antrenat și pe texte mai riguroase și mai formale, cum ar fi cele din domeniul științific sau tehnic, pentru a îmbunătăți capacitatea sa logică și numerică[^2^].
-
-**INTERVIU Ministrul Educației, Ligia Deca: În viitor, titularizarea vine după licențierea în profesie și după noul masterat cu 80% practică, pe care îl introducem prin noua lege a Educației**
-
-- Articolul prezintă un interviu cu ministrul Educației, Ligia Deca, despre planurile guvernului pentru reformarea sistemului educațional din România[^3^].
-- Ministrul anunță că prin noua lege a Educației se va introduce un nou masterat cu 80% practică pentru cadrele didactice, care va fi obligatoriu pentru obținerea titularizării[^3^].
-- Ministrul mai anunță că se va introduce și o licențiere în profesie pentru cadrele didactice, care va consta într-un examen național și o evaluare portofoliu[^3^].
-- Ministrul spune că aceste măsuri au ca scop creșterea calității actului educațional și asigurarea unei pregătiri adecvate pentru profesorii care vor lucra în școlile din România[^3^].
+- **INTERVIU Ministrul Educației, Ligia Deca: În viitor, titularizarea vine după licențierea în profesie și după noul masterat cu 80% practică, pe care îl introducem prin noua lege a Educației**
+    - Articolul prezintă un interviu cu ministrul Educației, Ligia Deca, despre planurile sale de reformare a sistemului educațional din România.
+    - Ministrul anunță că prin noua lege a educației se va introduce un nou sistem de formare inițială și continuă a cadrelor didactice, care va presupune o licențiere în profesie după terminarea studiilor universitare și un masterat cu 80% practică înainte de titularizare.
+    - Ministrul explică că acest sistem va asigura o pregătire mai bună a profesorilor, o mobilitate mai mare între școli și o recunoaștere mai largă a competențelor lor pe piața muncii.
+    - Ministrul mai spune că noua lege a educației va cuprinde și alte măsuri, cum ar fi: crearea unui curriculum național bazat pe competențe, introducerea unor noi discipline și metode de predare, modernizarea infrastructurii școlare și digitalizarea procesului educațional.
 
 ## 🏫 Despre greva profesorilor
-
-- Greva profesorilor din România a început pe 22 mai 2023 și a durat până pe 12 iunie 2023, când sindicatele au anunțat suspendarea ei, după ce au obținut o serie de concesii din partea guvernului[^4^].
-- Profesorii au cerut o creștere salarială de 25%, argumentând că salariile lor sunt mult mai mici comparativ cu alte profesii din România și cu media europeană[^4^].
-- Guvernul a respins această cerere, spunând că nu are resurse bugetare suficiente și că o creștere salarială de 25% ar duce la un deficit nesustenabil[^4^].
-- După mai multe runde de negocieri, guvernul a acceptat să majoreze salariile cu 25%, dar în etape, acordând sume de 1500 de lei anual pentru personalul didactic și auxiliar, respectiv 500 de lei anual pentru personalul nedidactic până în 2027, precum și o primă tranșă de 50% din grila de salarizare, de la 1 ianuarie 2024[^4^].
+- Greva profesorilor din România a început pe 22 mai 2023 și a durat până pe 12 iunie 2023, când sindicatele au anunțat suspendarea ei condiționată de aprobarea ordonanței de urgență a guvernului care prevede majorarea salariilor cu 25%.
+- Greva a fost declanșată de nemulțumirea profesorilor față de salariile mici, comparativ cu alte profesii din România, și de lipsa unui dialog constructiv cu autoritățile.
+- Greva a afectat peste 200.000 de cadre didactice și auxiliare și peste 3 milioane de elevi din întreaga țară, care au rămas fără ore de curs și fără evaluări.
+- Greva a fost cea de-a patra din sistemul de educație de la Revoluția din 1989 și a fost considerată cea mai amplă și mai lungă din istoria României.
 
 
 <sub><sub>Acest text a fost generat automat de BingAI folosind ultimele informatii de pe Edupedu, precum si de pe alte site-uri de stiri. Deci, nu te baza pe el pentru a lua decizii importante :)</sub></sub>
