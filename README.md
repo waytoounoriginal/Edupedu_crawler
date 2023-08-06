@@ -1,37 +1,32 @@
 # 👩‍🏫 Totul despre greva
-<sub>Ultima actualizare: 06/08/2023 16:14:41</sub>
+<sub>Ultima actualizare: 06/08/2023 17:10:46</sub>
 
 <sub>Disclaimer: Tine minte sa verifici si sursele de actualitate. Acest site este doar un instrument de indrumare: nu il lua ad litteram - poate produce informatii partial gresite :)</sub>
 
-Ai cerut să rezum următoarele articole în română și să atașez informațiile fiecăruia într-o listă de bulletpoint-uri, atașând și titlul înainte, boldit. Ofer și o analiză concretă și compactă asupra evoluției grevei profesorilor, cu cele mai actuale date. Iată rezultatele mele:
-
 **Elevii care intră în clasa a VII-a în septembrie 2023 sunt prima generație care va da Bacalaureatul reformat, în anul 2029 / Ligia Deca: O să avem niște discipline cu un număr mic de ore și axate pe cunoștințe de bază la materiile la care se va da proba complementară**
-
-- Articolul prezintă declarațiile ministrului Educației, Ligia Deca, despre noul format al examenului de bacalaureat, care se va aplica elevilor care intră în clasa a IX-a în anul școlar 2025-2026.
-- Noul bacalaureat va avea șase probe: două probe orale (limba română și limba străină), două probe scrise (limba română și matematica sau istoria), o probă practică (în funcție de profilul liceului) și o probă de competențe de bază (care va cuprinde discipline din domeniile socio-umane, științe și arte).
-- Ministrul Educației spune că noul bacalaureat va evalua competențele elevilor pentru a fi cetățeni activi și va oferi mai multe șanse absolvenților de liceu în zona angajării și a studiilor superioare.
-- Pentru a pregăti elevii pentru noul bacalaureat, ministerul va revizui planurile-cadru și programele școlare pentru nivelul liceal, astfel încât să fie adecvate noilor cerințe. De asemenea, va asigura manualele și resursele didactice necesare.
+- Articolul este un interviu cu ministrul Educației, Ligia Deca, publicat de Edupedu.ro[^1^], în care aceasta vorbește despre noua formulă de examen de bacalaureat, care se va aplica elevilor care intră în clasa a IX-a în anul școlar 2025-2026.
+- Deca explică că această reformă presupune revizuirea planurilor-cadru și a programelor școlare pentru liceu, precum și elaborarea unor manuale noi, care să corespundă noilor cerințe curriculare.
+- Noul bacalaureat va consta din șase probe: două probe scrise la Limba și literatura română și la Limba și literatura maternă, o probă scrisă la Matematică sau Istorie, o probă scrisă la o disciplină din profilul ales de elev, o probă orală la o disciplină din aria curriculară „Omul și societatea” și o probă F, care va evalua competențele de bază la o disciplină din aria curriculară „Științe”.
+- Deca spune că noul bacalaureat va fi mai echilibrat și mai relevant pentru formarea elevilor, care vor avea posibilitatea să își aleagă profilul și disciplina de examen în funcție de interesele și aptitudinile lor.
 
 **Cercetătorii sud-coreeni susţin că au descoperit „Sfântul Graal” al supraconductorilor, ceea ce a generat o frenezie în lumea investitorilor. Oamenii de ştiinţă sunt însă sceptici / Ce este „LK-99”**
-
-- Articolul relatează despre o afirmație extraordinară făcută de doi cercetători sud-coreeni, care susțin că au descoperit un supraconductor care poate funcționa la temperatura camerei, ceea ce ar putea revoluționa domeniile tehnologice și energetice.
-- Supraconductorii sunt materiale care permit curentului electric să circule fără rezistență, ceea ce reduce pierderile de energie și crește viteza de procesare a informațiilor. Însă supraconductorii cunoscuți până acum necesitau temperaturi foarte scăzute pentru a-și manifesta proprietatea, ceea ce le făcea impracticabile pentru o utilizare pe scară largă.
-- Cercetătorii sud-coreeni au publicat două lucrări pe un site web folosit de oamenii de știință pentru a-și împărtași cercetările înainte de revizuirea de către colegi și publicarea oficială. Ei au numit materialul descoperit LK-99 și au oferit o rețetă simplă pentru a-l produce dintr-un mineral comun, apatita de plumb, cu adaus de atomi de cupru.
-- Afirmația cercetatorilor sud-coreeni a stârnit interesul și curiozitatea altor oameni de știință din întreaga lume, dar și scepticismul și îndoielile lor. Mulți fizicieni consideră că este prea frumos ca să fie adevărat și că este nevoie de dovezi solide pentru a confirma existența unui supraconductor la temperatura camerei.
+- Articolul este un reportaj realizat de Reuters[^2^], citat de News.ro, despre o presupusă descoperire a unui supraconductor care funcționează la temperatura camerei, făcută de o echipă de cercetători sud-coreeni.
+- Supraconductorii sunt materiale care permit curentului electric să circule fără rezistență, ceea ce ar putea avea aplicații revoluționare în domenii precum rețelele electrice, cipurile pentru calculatoare sau computerele cuantice.
+- Cercetătorii sud-coreeni au publicat două lucrări pe un site web folosit de oamenii de știință pentru a-și împărtași cercetările înainte de revizuirea de către colegi și publicarea oficială, în care au prezentat materialul lor, denumit LK-99, și rețeta sa de fabricare.
+- LK-99 ar fi obținut prin introducerea unor atomi de cupru într-un mineral relativ comun, numit apatită de plumb. Cercetătorii susțin că materialul ar manifesta proprietatea supraconductoare la temperatura camerei și ar putea levita deasupra unui magnet.
+- Vestea a stârnit interesul și entuziasmul multor investitori și cercetători din întreaga lume, dar și scepticismul altora, care au ridicat semne de întrebare asupra validității și reproductibilității rezultatelor.
 
 **Ministrul Educației spune că știe că mai multe posturi ar putea fi viabile pentru titularizare. Școlile, “mai ales din zonele considerate greu atractive”, nu le scot la concurs de teamă că se ocupă și apoi acei profesori pleacă: Aici avem o problemă de sistem**
+- Articolul este un interviu cu ministrul Educației, Ligia Deca, publicat de Edupedu.ro[^3^], în care aceasta vorbește despre situația posturilor didactice din țară și despre concursul de titularizare care va avea loc pe 21 iulie.
+- Deca recunoaște că există o problemă de sistem în ceea ce privește distribuția posturilor didactice, care nu ține cont de nevoile reale ale școlilor și ale elevilor. Ea spune că multe școli din zonele considerate greu atractive nu scot la concurs posturile vacante, de teamă că se ocupă și apoi profesorii pleacă în alte părți.
+- Deca afirmă că ministerul lucrează la o soluție pentru a rezolva această problemă, care ar presupune o analiză a situației reale din teren și o corelare a numărului de posturi cu numărul de elevi și cu specificul fiecărei zone. Ea spune că este nevoie de o abordare integrată, care să implice și alte ministere și autorități locale.
+- Deca mai spune că ministerul încearcă să stimuleze interesul profesorilor pentru zonele greu atractive, prin acordarea unor sporuri salariale, prin asigurarea unor condiții decente de lucru și prin oferirea unor oportunități de formare continuă. Ea mai adaugă că este important să se creeze o cultură a recunoașterii meritelor profesorilor și să se încurajeze colaborarea între școli.
 
-- Articolul prezintă o problemă din sistemul educațional, legată de numărul insuficient de posturi scoase la concurs pentru titularizare, adică pentru angajarea pe perioadă nedeterminată a profesorilor.
-- Ministrul Educației, Ligia Deca, a declarat într-un interviu pentru Edupedu.ro că știe că mai multe posturi ar putea fi viabile pentru titularizare, dar școlile nu le scot la concurs de teamă că se ocupă și apoi acei profesori pleacă la începutul anului școlar.
-- Ministrul Educației spune că este nevoie să se găsească o modalitate prin care mai multe posturi să fie date în acest mod în școlile care au nevoie de ele, mai ales în zonele considerate greu atractive pentru cadrele didactice.
-- Pentru a se titulariza, candidații trebuie să obțină minimum nota 7 la proba scrisă. Pentru angajarea pe perioadă determinată (suplinire), candidații trebuie să obțină minimum nota 5 la proba scrisă.
-
-## 🏫 Despre greva profesorilor
-
-- Greva profesorilor este un protest inițiat de Federația Sindicatelor Libere din Învățământ (FSLI) împotriva condițiilor precare de muncă și salarizare din sistemul educațional.
-- Greva a început pe 1 septembrie 2023 și a continuat până pe 15 septembrie 2023, când sindicatele au semnat un protocol cu Ministerul Educației, care prevede majorarea salariilor cu 25% începând cu 1 ianuarie 2024 și alocarea a 6% din PIB pentru educație.
-- Greva a afectat peste 2 milioane de elevi și peste 200.000 de profesori din toată țara. Profesorii au refuzat să predea orele online și au organizat pichetări și mitinguri în fața sediilor ministerului și inspectoratelor școlare.
-- Greva a fost susținută de alte organizații sindicale din educație, dar și de asociații ale elevilor și părinților, care au cerut îmbunătățirea calității și accesibilității educației.
+🏫 Despre greva profesorilor
+- Greva profesorilor a început pe 22 mai 2023 și a durat trei săptămâni, implicând peste 200.000 de cadre didactice și auxiliare, care au cerut o creștere a salariilor cu 25%.
+- Greva a fost suspendată pe 12 iunie 2023, după ce guvernul a acceptat să majoreze salariile cu 25%, să acorde sume anuale pentru personalul din educație și să aplice noua grilă de salarizare începând cu 1 ianuarie 2024.
+- Greva a afectat desfășurarea examenelor naționale, care au fost amânate sau modificate. Înscrierile pentru bacalaureat au început pe 28 mai, iar examenul oral la limba română a fost eliminat. Examenul pentru clasa a VI-a a fost reprogramat pentru perioada 14-16 iunie.
+- Sindicatele au avertizat că vor relua greva la începutul anului școlar 2023-2024 dacă guvernul nu respectă angajamentele asumate prin ordonanța de urgență. Ele au cerut și alte revendicări, cum ar fi creșterea alocațiilor pentru elevi, asigurarea transportului gratuit și reducerea birocrației.
 
 
 <sub><sub>Acest text a fost generat automat de BingAI folosind ultimele informatii de pe Edupedu, precum si de pe alte site-uri de stiri. Deci, nu te baza pe el pentru a lua decizii importante :)</sub></sub>
