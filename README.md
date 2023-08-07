@@ -1,31 +1,35 @@
 # 👩‍🏫 Totul despre greva
-<sub>Ultima actualizare: 07/08/2023 11:16:15</sub>
+<sub>Ultima actualizare: 07/08/2023 12:13:58</sub>
 
 <sub>Disclaimer: Tine minte sa verifici si sursele de actualitate. Acest site este doar un instrument de indrumare: nu il lua ad litteram - poate produce informatii partial gresite :)</sub>
 
+**Plata burselor școlare pe timpul vacanței de vară 2023. Doar elevii cu burse de ajutor social primesc banii și când nu sunt cursuri / Condiție: să nu aibă mai mult de 20 de absențe nemotivate și să nu fie corigenți la mai mult de o materie**
+
+- Articolul prezintă condițiile de acordare a burselor sociale pentru elevii din învățământul preuniversitar, conform unei metodologii aprobate prin ordin de ministru[^1^].
+- Bursele sociale se acordă pe tot parcursul anului școlar, inclusiv pe perioada vacanțelor, elevilor proveniți din familii care beneficiază de venit minim de incluziune sau care au un venit mediu net pe membru de familie mai mic sau egal cu salariul minim brut pe țară[^1^].
+- Pentru a beneficia de bursa socială, elevii trebuie să îndeplinească și alte criterii, cum ar fi: să nu aibă mai mult de 20 de absențe nemotivate într-un semestru, să nu fie corigenți la mai mult de o materie, să nu fie implicați în acte de violență sau vandalism etc.[^1^].
+- Valoarea burselor sociale este de 300 lei/lună pentru elevii din învățământul primar și gimnazial și de 450 lei/lună pentru elevii din învățământul liceal și profesional[^2^].
+
 **Profesorii și angajații din Învățământ vor primi salariile vineri, 11 august, cu 3 zile mai devreme decât de obicei**
-- Articolul anunță că profesorii și angajații din învățământ vor primi salariile pentru luna iulie pe 11 august, cu trei zile înainte de termenul legal, care este 14 august.
-- Motivul acestei măsuri este că ziua de 14 august este declarată zi liberă pentru bugetari, ca urmare a sărbătorii Adormirii Maicii Domnului, care cade pe 15 august.
-- Ministerul Educației a transmis o circulară către inspectoratele școlare județene și al municipiului București, prin care le solicită să asigure plata salariilor înainte de ziua liberă.
-- Articolul precizează că salariile profesorilor au fost majorate cu 25% în urma grevei generale din mai-iunie 2023, dar că sindicatele cer și alte revendicări, cum ar fi creșterea alocațiilor pentru elevi și studenți.
+
+- Articolul anunță că profesorii și ceilalți angajați din sistemul de Învățământ vor primi salariile aferente lunii iulie pe data de 11 august 2023, cu trei zile mai devreme decât data obișnuită[^5^].
+- Motivul acestei modificări este faptul că data de 14 august este zi liberă legală, fiind punte cu ziua de 15 august, care este sărbătoare religioasă (Adormirea Maicii Domnului)[^5^].
+- Decizia a fost luată prin ordin al ministrului Finanțelor nr. 2.241 din 21 iulie 2023, publicat în Monitorul Oficial[^5^].
+- Articolul amintește și faptul că din 14 iulie, angajații din Educație au început să primească salariile majorate, conform unei ordonanțe de urgență adoptate după greva din perioada mai-iunie[^5^].
 
 **OFICIAL Nomenclatorul domeniilor și specializărilor universitare, actualizat / Lista celor peste 70 de specializări care intră în lichidare din toamnă**
-- Articolul prezintă nomenclatorul domeniilor și specializărilor universitare pentru anul universitar 2023-2024, care a fost aprobat de Ministerul Educației și publicat în Monitorul Oficial.
-- Nomenclatorul cuprinde 17 domenii de licență, 28 de domenii de masterat și 25 de domenii de doctorat, precum și peste 1.000 de specializări.
-- Articolul menționează că nomenclatorul include și lista celor peste 70 de specializări care intră în lichidare din toamnă, adică nu vor mai putea fi organizate admiteri pentru aceste programe de studiu.
-- Printre specializările care dispar se numără: Administrație publică europeană, Asistență socială comunitară, Bioinginerie medicală, Comunicare interculturală, Drept penal internațional, Filosofie analitică, Geografie umanistă, Istoria artei medievale etc.
 
-**INTERVIU Prima carte pentru copii, din România, ilustrată cu ajutorul Inteligenței Artificiale: Ar trebui să fim realiști – Inteligența Artificială este o unealtă de care ne putem folosi în așa fel încât să putem face proiecte mai repede și mai ușor, atât timp cât tot ce ține de imaginație rămâne la...**
-- Articolul este un interviu cu autorii primei cărți pentru copii din România ilustrate cu ajutorul inteligenței artificiale (IA), intitulate "Povestea lui Mihai și a prietenilor săi din spațiul cosmic".
-- Autorii sunt Andreea Gheorghe și Andrei Gheorghe, doi tineri pasionați de tehnologie și educație, care au folosit o platformă online de generare automată de imagini pe baza unor descrieri textuale.
-- Ei spun că au vrut să creeze o carte care să îmbine elemente de știință, aventură și umor, dar și să arate potențialul IA ca instrument creativ.
-- Ei afirmă că IA nu poate înlocui imaginația umană, ci doar să o asiste și să o stimuleze, și că scopul lor este să inspire copiii să devină curioși și să învețe despre lumea în care trăiesc.
+- Articolul informează că Guvernul a aprobat un nou nomenclator al domeniilor și al specializărilor/programelor de studii universitare și a structurii instituțiilor de învățământ superior pentru anul universitar 2021-2022[^8^].
+- Noul nomenclator include noi specializări, cum ar fi: Securitate cibernetică, Inteligență artificială, Managementul sistemelor tehnice militare etc.[^8^].
+- De asemenea, nomenclatorul prevede intrarea în lichidare a peste 70 de specializări/programe de studii universitare, la propunerea unor instituții de învățământ superior. Acestea nu vor mai organiza admitere începând cu anul universitar 2021-2022[^8^].
+- Nomenclatorul este prevăzut în anexele la Hotărârea Guvernului nr. 650 din 3 august 2023, publicată în Monitorul Oficial[^8^].
 
 ## 🏫 Despre greva profesorilor
-- Greva profesorilor din România din 2023 a fost cea mai amplă și mai lungă acțiune de protest din sistemul de educație de la Revoluția din 1989, durând trei săptămâni, între 22 mai și 12 iunie.
-- Greva a fost declanșată de nemulțumirea față de salariile mici ale cadrelor didactice și auxiliare, comparativ cu alte profesii din România, și a avut ca obiectiv creșterea salariilor cu 25% pentru toți angajații din învățământ.
-- Greva a fost susținută de două mari federații sindicale, Federația Sindicatelor Libere din Educație și Federația Sindicatelor din Educație "Spiru Haret", care au organizat mai multe manifestații și marșuri în București și în alte orașe mari.
-- Greva a fost suspendată după ce guvernul a acceptat propunerile sindicatelor de majorare a salariilor cu 25%, acordându-se sume de 1500 de lei anual pentru personalul didactic și auxiliar, respectiv 500 de lei anual pentru personalul nedidactic până în 2027, precum și acordarea unei prime tranșe de 50% din grila de salarizare, de la 1 ianuarie 2024.
+
+- Greva profesorilor a avut loc în perioada mai-iunie 2023, ca urmare a nemulțumirilor legate de salarizarea și condițiile de muncă din sistemul de învățământ[^5^].
+- Sindicatele din Educație au cerut majorarea salariilor de bază cu 1.300 de lei brut pentru personalul didactic și didactic auxiliar și cu 400 de lei brut pentru personalul nedidactic, precum și alte revendicări privind grila de salarizare, norma didactică, pensiile speciale etc.[^5^].
+- După mai multe negocieri și proteste, Guvernul a adoptat Ordonanța de urgență nr. 57/2023, care prevede creșterile salariale solicitate, dar și alte măsuri, cum ar fi: salariul debutantului egal cu salariul mediu pe economie, creșterea salarială de 50% din diferența între grila actuală și cea nouă, începând cu 1 ianuarie 2024 etc.[^5^].
+- Începând cu 14 iulie 2023, angajații din Educație au primit salariile majorate, conform ordonanței. Totuși, sindicatele au semnalat unele erori în aplicația de salarizare EduSal, care au generat salarii mai mari sau mai mici decât cele corecte pentru unele categorii de personal[^5^].
 
 
 <sub><sub>Acest text a fost generat automat de BingAI folosind ultimele informatii de pe Edupedu, precum si de pe alte site-uri de stiri. Deci, nu te baza pe el pentru a lua decizii importante :)</sub></sub>
