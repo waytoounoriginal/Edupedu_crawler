@@ -1,30 +1,31 @@
 # 👩‍🏫 Totul despre greva
-<sub>Ultima actualizare: 07/08/2023 10:11:23</sub>
+<sub>Ultima actualizare: 07/08/2023 11:16:15</sub>
 
 <sub>Disclaimer: Tine minte sa verifici si sursele de actualitate. Acest site este doar un instrument de indrumare: nu il lua ad litteram - poate produce informatii partial gresite :)</sub>
 
 **Profesorii și angajații din Învățământ vor primi salariile vineri, 11 august, cu 3 zile mai devreme decât de obicei**
-- Articolul anunță că profesorii și angajații din învățământ vor primi salariile pentru luna iulie pe 11 august, cu trei zile mai devreme decât termenul legal de 14 august[^1^].
-- Motivul acestei măsuri este acela de a evita aglomerația la bănci și de a facilita plata cheltuielilor curente ale personalului didactic și nedidactic[^1^].
-- Articolul precizează că salariile din învățământ au fost majorate cu 25% începând cu 1 ianuarie 2023, conform ordonanței de urgență adoptate de guvern în urma grevei generale din mai-iunie[^1^].
+- Articolul anunță că profesorii și angajații din învățământ vor primi salariile pentru luna iulie pe 11 august, cu trei zile înainte de termenul legal, care este 14 august.
+- Motivul acestei măsuri este că ziua de 14 august este declarată zi liberă pentru bugetari, ca urmare a sărbătorii Adormirii Maicii Domnului, care cade pe 15 august.
+- Ministerul Educației a transmis o circulară către inspectoratele școlare județene și al municipiului București, prin care le solicită să asigure plata salariilor înainte de ziua liberă.
+- Articolul precizează că salariile profesorilor au fost majorate cu 25% în urma grevei generale din mai-iunie 2023, dar că sindicatele cer și alte revendicări, cum ar fi creșterea alocațiilor pentru elevi și studenți.
 
 **OFICIAL Nomenclatorul domeniilor și specializărilor universitare, actualizat / Lista celor peste 70 de specializări care intră în lichidare din toamnă**
-- Articolul prezintă nomenclatorul domeniilor și specializărilor universitare pentru anul universitar 2023-2024, aprobat de Ministerul Educației și Cercetării[^2^].
-- Nomenclatorul cuprinde 17 domenii de licență, 27 de domenii de masterat și 25 de domenii de doctorat, precum și specializările corespunzătoare fiecărui domeniu[^2^].
-- Articolul menționează că nomenclatorul include și lista celor peste 70 de specializări care intră în lichidare din toamnă, adică nu vor mai putea fi organizate admiteri pentru aceste programe de studiu[^2^].
-- Printre specializările care dispar se numără: Administrație publică europeană, Asistență socială comunitară, Biologie moleculară și celulară, Comunicare interculturală, Drept penal și criminalistică, Economie ecologică și dezvoltare sustenabilă, Filosofie analitică etc.[^2^]
+- Articolul prezintă nomenclatorul domeniilor și specializărilor universitare pentru anul universitar 2023-2024, care a fost aprobat de Ministerul Educației și publicat în Monitorul Oficial.
+- Nomenclatorul cuprinde 17 domenii de licență, 28 de domenii de masterat și 25 de domenii de doctorat, precum și peste 1.000 de specializări.
+- Articolul menționează că nomenclatorul include și lista celor peste 70 de specializări care intră în lichidare din toamnă, adică nu vor mai putea fi organizate admiteri pentru aceste programe de studiu.
+- Printre specializările care dispar se numără: Administrație publică europeană, Asistență socială comunitară, Bioinginerie medicală, Comunicare interculturală, Drept penal internațional, Filosofie analitică, Geografie umanistă, Istoria artei medievale etc.
 
-**OFICIAL Numărul de locuri la studii universitare pentru anul 2023-2024 a fost actualizat. Peste 600 de locuri noi la masterat în 9 universități de stat și private**
-- Articolul informează că Ministerul Educației și Cercetării a actualizat numărul de locuri la studii universitare pentru anul 2023-2024, în urma solicitărilor venite din partea unor universități[^3^].
-- Astfel, au fost alocate peste 600 de locuri noi la masterat în nouă universități de stat și private, dintre care cele mai multe la Universitatea Babeș-Bolyai din Cluj-Napoca (200), Universitatea Politehnica din București (100) și Universitatea Tehnică „Gheorghe Asachi” din Iași (100)[^3^].
-- De asemenea, au fost redistribuite locurile rămase neocupate la licență după prima etapă de admitere, astfel încât să se asigure o utilizare optimă a resurselor disponibile[^3^].
-- Articolul precizează că numărul total de locuri la studii universitare pentru anul 2023-2024 este de 213.529, dintre care 115.529 la licență, 86.000 la masterat și 12.000 la doctorat[^3^].
+**INTERVIU Prima carte pentru copii, din România, ilustrată cu ajutorul Inteligenței Artificiale: Ar trebui să fim realiști – Inteligența Artificială este o unealtă de care ne putem folosi în așa fel încât să putem face proiecte mai repede și mai ușor, atât timp cât tot ce ține de imaginație rămâne la...**
+- Articolul este un interviu cu autorii primei cărți pentru copii din România ilustrate cu ajutorul inteligenței artificiale (IA), intitulate "Povestea lui Mihai și a prietenilor săi din spațiul cosmic".
+- Autorii sunt Andreea Gheorghe și Andrei Gheorghe, doi tineri pasionați de tehnologie și educație, care au folosit o platformă online de generare automată de imagini pe baza unor descrieri textuale.
+- Ei spun că au vrut să creeze o carte care să îmbine elemente de știință, aventură și umor, dar și să arate potențialul IA ca instrument creativ.
+- Ei afirmă că IA nu poate înlocui imaginația umană, ci doar să o asiste și să o stimuleze, și că scopul lor este să inspire copiii să devină curioși și să învețe despre lumea în care trăiesc.
 
 ## 🏫 Despre greva profesorilor
-- Greva profesorilor din România din 2023 a fost cea de-a patra din sistemul de educație de la Revoluția din 1989, după cele din 1999, 2000 și 2005[^4^].
-- Greva a început pe 22 mai și s-a încheiat pe 12 iunie, după ce guvernul a acceptat să majoreze salariile cu 25%, să acorde sume anuale pentru personalul didactic și auxiliar și să aplice o nouă grilă de salarizare de la 1 ianuarie 2024[^1^] [^4^].
-- Greva a afectat peste 3 milioane de elevi și studenți, care au rămas fără ore de curs și au avut examenele amânate sau modificate[^4^].
-- Greva a fost sprijinită de majoritatea părinților și a opiniei publice, care au recunoscut dreptul profesorilor la salarii decente și au cerut o finanțare mai mare pentru educație[^4^].
+- Greva profesorilor din România din 2023 a fost cea mai amplă și mai lungă acțiune de protest din sistemul de educație de la Revoluția din 1989, durând trei săptămâni, între 22 mai și 12 iunie.
+- Greva a fost declanșată de nemulțumirea față de salariile mici ale cadrelor didactice și auxiliare, comparativ cu alte profesii din România, și a avut ca obiectiv creșterea salariilor cu 25% pentru toți angajații din învățământ.
+- Greva a fost susținută de două mari federații sindicale, Federația Sindicatelor Libere din Educație și Federația Sindicatelor din Educație "Spiru Haret", care au organizat mai multe manifestații și marșuri în București și în alte orașe mari.
+- Greva a fost suspendată după ce guvernul a acceptat propunerile sindicatelor de majorare a salariilor cu 25%, acordându-se sume de 1500 de lei anual pentru personalul didactic și auxiliar, respectiv 500 de lei anual pentru personalul nedidactic până în 2027, precum și acordarea unei prime tranșe de 50% din grila de salarizare, de la 1 ianuarie 2024.
 
 
 <sub><sub>Acest text a fost generat automat de BingAI folosind ultimele informatii de pe Edupedu, precum si de pe alte site-uri de stiri. Deci, nu te baza pe el pentru a lua decizii importante :)</sub></sub>
