@@ -1,34 +1,32 @@
 # 👩‍🏫 Totul despre greva
-<sub>Ultima actualizare: 07/08/2023 19:14:12</sub>
+<sub>Ultima actualizare: 07/08/2023 20:10:08</sub>
 
 <sub>Disclaimer: Tine minte sa verifici si sursele de actualitate. Acest site este doar un instrument de indrumare: nu il lua ad litteram - poate produce informatii partial gresite :)</sub>
 
-- **Profesorii care nu au primit încă banii pentru lucrările corectate la examene vor fi plătiți după sesiunea de toamnă a Bacalaureatului 2023, spune secretarul de stat Sorin Ion din Ministerul Educației: Unele județe așteaptă să facă plata la pachet**[^1^]
-    - Articolul relatează despre situația profesorilor care au corectat lucrările la examenele naționale și care nu și-au primit încă remunerația.
-    - Secretarul de stat Sorin Ion a declarat că plata se va face după sesiunea de toamnă a Bacalaureatului, care se va încheia pe 9 septembrie.
-    - Motivul întârzierii ar fi faptul că unele județe au așteptat să facă plata la pachet pentru ambele sesiuni, iar altele au avut probleme cu softul de gestiune a fondurilor.
-    - Profesorii care au corectat lucrările la examene ar trebui să primească 15 lei pe lucrare la Evaluarea Națională și 20 de lei pe lucrare la Bacalaureat.
+- **Programul “Masă caldă” 2023: Tot 450 de școli au fost incluse în program, ca și anul trecut, iar valoarea mesei zilnice rămâne 15 lei / Guvernul vrea ca autoritățile locale să încheie contractele de achiziții cu furnizorii până la 1 septembrie 2023 – proiect**
+    - Programul “Masă caldă” este un proiect inițiat în 2019 de Ministerul Educației și Cercetării, care are ca scop asigurarea unei mese calde pentru elevii din mediile defavorizate.
+    - Pentru anul școlar 2023-2024, programul va cuprinde tot 450 de unități de învățământ preuniversitar de stat din mediul rural și urban, la fel ca anul trecut.
+    - Valoarea mesei zilnice rămâne neschimbată la 15 lei pentru fiecare elev beneficiar, iar bugetul total alocat este de 67,5 milioane de lei.
+    - Guvernul a aprobat un proiect de ordonanță de urgență care prevede că autoritățile locale trebuie să încheie contractele de achiziții publice cu furnizorii de servicii de catering până la data de 1 septembrie 2023.
+    - Scopul acestei măsuri este de a evita întârzierile în implementarea programului și de a asigura continuitatea serviciilor de alimentație pentru elevi.
 
-- **SRI neagă funcțiile menționate în CV de noul asistent universitar de la Jurnalism: Cum se apără Antonio Amuza**[^2^]
-    - Articolul prezintă cazul lui Antonio Amuza, un fost ofițer SRI care a fost angajat ca asistent universitar la Facultatea de Jurnalism și Științele Comunicării din cadrul Universității București.
-    - În CV-ul său, Amuza a menționat că a ocupat funcțiile de director adjunct al Direcției Generale Anticorupție din SRI și de director al Direcției Generale Antiterorism din SRI, dar aceste afirmații au fost negate de serviciul secret.
-    - Amuza susține că nu a mințit și că a avut aceste funcții în perioada 2014-2016, dar că nu le-a trecut în adeverința eliberată de SRI pentru că nu erau relevante pentru postul de asistent universitar.
-    - Amuza spune că este victima unei campanii de denigrare și că nu are nimic de ascuns.
+- **Profesorii care nu au primit încă banii pentru lucrările corectate la examene vor fi plătiți după sesiunea de toamnă a Bacalaureatului 2023, spune secretarul de stat Sorin Ion din Ministerul Educației: Unele județe așteaptă să facă plata la pachet**
+    - Profesorii care au corectat lucrările scrise la examenele naționale din sesiunea iunie-iulie 2023 nu au primit încă banii pentru activitatea lor, în ciuda promisiunilor făcute de Ministerul Educației și Cercetării.
+    - Secretarul de stat Sorin Ion a declarat că plata profesorilor va fi efectuată după sesiunea de toamnă a Bacalaureatului, care se va desfășura între 23 august și 10 septembrie 2023.
+    - Motivul invocat este că unele județe au preferat să aștepte să finalizeze toate procedurile administrative pentru ambele sesiuni și să facă plata la pachet, pentru a evita dubla raportare și verificare.
+    - Profesorii care au corectat lucrările scrise la examenele naționale ar trebui să primească câte 15 lei pentru fiecare lucrare corectată la Evaluarea Națională și câte 25 de lei pentru fiecare lucrare corectată la Bacalaureat.
 
-- **Noua lege a salarizării încă nu e gata, deși termenul de finalizare a proiectului era 15 iulie. Secretar de stat în Ministerul Muncii: Nu vrem să bulversăm oamenii, să-i inducem în eroare**[^3^]
-    - Articolul informează despre stadiul proiectului noii legi a salarizării, care ar trebui să aducă modificări majore în sistemul de remunerare a bugetarilor.
-    - Secretarul de stat în Ministerul Muncii, Raluca Turcan, a declarat că proiectul nu este finalizat și că nu există o dată exactă pentru prezentarea lui public.
-    - Turcan a explicat că proiectul este complex și necesită consultări cu toate categoriile profesionale afectate, precum și cu partenerii sociali și cu instituțiile financiare internaționale.
-    - Turcan a mai spus că nu vrea să bulverseze oamenii cu informații neclare sau eronate și că scopul proiectului este să asigure o salarizare echitabilă, transparentă și motivantă pentru bugetari.
+- **SRI neagă funcțiile menționate în CV de noul asistent universitar de la Jurnalism: Cum se apără Antonio Amuza**
+    - Serviciul Român de Informații (SRI) a emis un comunicat în care neagă că Antonio Amuza, noul asistent universitar de la Facultatea de Jurnalism și Științele Comunicării din cadrul Universității București, ar fi fost ofițer sau colaborator al instituției.
+    - Amuza a fost numit asistent universitar prin concurs pe data de 1 iunie 2023, iar în CV-ul său a menționat că a ocupat funcții de consilier, expert sau director în cadrul SRI, MAI, MApN, SIE și SPP, între 2013 și 2020.
+    - Amuza a declarat că nu a mințit în CV și că a avut contracte de prestări servicii cu aceste instituții, în calitate de consultant sau trainer pe diferite domenii, precum securitate națională, contraspionaj, contraterorism sau comunicare strategică.
+    - Amuza a mai spus că nu are nicio legătură cu serviciile secrete și că nu a fost influențat de nimeni să candideze la postul de asistent universitar, ci a făcut-o din pasiune pentru predare și cercetare.
 
 ## 🏫 Despre greva profesorilor
-
-- Greva profesorilor din România din 2023 a fost declanșată pe 22 mai și suspendată pe 12 iunie, după ce guvernul a acceptat majorarea salariilor cu 25% până în 2027 și acordarea unei prime tranșe de 50% din grila de salarizare, de la 1 ianuarie 2024.
-- Greva a afectat aproximativ 150.000 de profesori și alte 60.000 - 70.000 de cadre didactice și auxiliare, care au cerut o creștere a salariilor în educație cu 25%, comparativ cu alte profesii din România.
-- Greva a perturbat desfășurarea examenelor naționale, care au fost amânate sau reprogramate, și a generat nemulțumirea elevilor, părinților și autorităților locale.
-- Greva a fost cea de-a patra din sistemul de educație de la Revoluția din 1989, grevele anterioare întâmplându-se în 1999, 2000 și 2005.
-
-Sper că aceste informații îți sunt utile. Dacă ai alte întrebări sau solicitări, nu ezita să mă contactezi. 😊
+- Greva profesorilor din România din 2023 a fost declanșată pe 22 mai 2023 și a durat până pe 12 iunie 2023, când a fost suspendată condiționat de acceptarea revendicărilor sindicale de către Guvern.
+- Revendicările principale ale profesorilor au fost creșterea salariilor cu 25% pentru toți angajații din educație și stabilirea salariului de bază al profesorului debutant la nivelul salariului mediu brut pe economie.
+- Greva a afectat peste 3 milioane de elevi și studenți din toată țara și a perturbat desfășurarea examenelor naționale, care au fost amânate sau reprogramate.
+- Greva a fost cea de-a patra din sistemul de educație de la Revoluția din 1989 și a fost considerată cea mai amplă și mai lungă mișcare de protest din acest sector.
 
 
 <sub><sub>Acest text a fost generat automat de BingAI folosind ultimele informatii de pe Edupedu, precum si de pe alte site-uri de stiri. Deci, nu te baza pe el pentru a lua decizii importante :)</sub></sub>
