@@ -1,34 +1,35 @@
 # 👩‍🏫 Totul despre greva
-<sub>Ultima actualizare: 08/08/2023 15:20:43</sub>
+<sub>Ultima actualizare: 08/08/2023 16:15:57</sub>
 
 <sub>Disclaimer: Tine minte sa verifici si sursele de actualitate. Acest site este doar un instrument de indrumare: nu il lua ad litteram - poate produce informatii partial gresite :)</sub>
 
-- **INTERVIU Iuliana Mănescu, profesoara care și-a convins elevii din rural să citească și să-și înscrie prezentările video după cărți la un festival național: Pentru ei a fost un efort supraomenesc să ducă o carte la bun sfârșit**
-    - Articolul prezintă povestea unei profesoare de limba și literatura română dintr-o școală din mediul rural, care a reușit să-i motiveze pe elevii ei să citească cărți și să participe la un concurs național de lectură.
-    - Profesoara a folosit metode inovatoare de predare, cum ar fi jocuri de rol, discuții interactive, proiecte creative și prezentări video.
-    - Elevii au citit cărți clasice și contemporane, precum „Moara cu noroc” de Ioan Slavici, „Ultima noapte de dragoste, întâia noapte de război” de Camil Petrescu sau „Când copiii erau copii” de Ana Blandiana.
-    - Profesoara spune că lectura i-a ajutat pe elevi să-și dezvolte imaginația, vocabularul, gândirea critică și abilitățile de comunicare.
-    - Articolul se încheie cu o invitație la festivalul național de lectură „Citește și tu!”, care va avea loc în perioada 15-17 septembrie 2023 la București.
+**INTERVIU Iuliana Mănescu, profesoara care și-a convins elevii din rural să citească și să-și înscrie prezentările video după cărți la un festival național: Pentru ei a fost un efort supraomenesc să ducă o carte la bun sfârșit**
 
-- **OFICIAL Din toamnă, elevii vor primi în fiecare zi lapte sau produse lactate / Directorii de școli răspund de respectarea condițiilor de igienă**
-    - Articolul anunță că din toamnă, elevii vor beneficia de un program național de distribuire a laptelui și a produselor lactate în școli.
-    - Programul are ca scop să îmbunătățească starea de sănătate și nutriția copiilor, precum și să susțină producătorii locali de lapte.
-    - Laptele sau produsele lactate vor fi oferite gratuit elevilor în fiecare zi școlară, în cantitate de 200 ml pentru preșcolari și 250 ml pentru școlari.
-    - Directorii unităților de învățământ vor fi responsabili de asigurarea condițiilor de igienă și calitate a produselor distribuite.
-    - Articolul conține și un ordin al ministrului educației care reglementează implementarea programului.
+- Articolul prezintă povestea unei profesoare de limba română dintr-o școală din mediul rural, care a reușit să-i motiveze pe elevii săi să participe la un proiect de lectură și de realizare a unor prezentări video după cărțile citite.
+- Profesoara a folosit metode inovatoare de predare, cum ar fi jocuri de rol, discuții interactive, activități practice și colaborative, pentru a-i atrage pe elevi și a le dezvolta competențele de comunicare, gândire critică și creativitate.
+- Elevii au citit cărți clasice și contemporane, precum „Moara cu noroc” de Ioan Slavici, „Ultima noapte de dragoste, întâia noapte de război” de Camil Petrescu sau „Când copiii erau copii” de Rodica Ojog-Brașoveanu, și au realizat prezentări video în care au rezumat acțiunea, au prezentat personajele și au exprimat opinii personale despre lectură.
+- Prezentările video au fost înscrise la Festivalul Național de Lectură „Citește-mi 100 de cuvinte”, organizat de Asociația Curtea Veche. Profesoara a spus că pentru elevii săi a fost un efort supraomenesc să ducă o carte la bun sfârșit și să se implice în acest proiect, dar că a fost o experiență foarte frumoasă și utilă pentru dezvoltarea lor personală și profesională.
 
-- **Noile auxiliare școlare pentru elevi, reanalizate de Ministerul Educației cu o lună înainte să înceapă școala**
-    - Articolul informează că Ministerul Educației a decis să reanalizeze noile auxiliare școlare pentru elevi, după ce a primit numeroase sesizări privind conținutul și calitatea acestora.
-    - Auxiliarele școlare sunt materiale didactice suplimentare la manualele școlare, care au rolul de a sprijini procesul de învățare al elevilor.
-    - Noile auxiliare școlare au fost elaborate în baza unui parteneriat public-privat între Ministerul Educației și editurile interesate.
-    - Unele dintre sesizările primite se referă la erori gramaticale, ortografice sau de conținut, lipsa coerenței între auxiliare și manuale, prezența unor elemente publicitare sau nepotrivite pentru vârsta elevilor.
-    - Ministerul Educației a anunțat că va verifica toate auxiliarele școlare și va lua măsurile necesare pentru a asigura calitatea și conformitatea acestora.
+**OFICIAL Din toamnă, elevii vor primi în fiecare zi lapte sau produse lactate / Directorii de școli răspund de respectarea condițiilor de igienă**
+
+- Articolul anunță că din toamnă, elevii vor primi în fiecare zi lapte sau produse lactate în cadrul programului național „Laptele și cornul”, finanțat de Ministerul Educației.
+- Scopul programului este de a asigura o alimentație echilibrată pentru copii și de a preveni abandonul școlar. Produsele lactate vor fi distribuite gratuit tuturor elevilor din învățământul preuniversitar de stat și privat acreditat.
+- Directorii unităților de învățământ vor fi responsabili de respectarea condițiilor de igienă și calitate a produselor lactate, precum și de gestionarea eficientă a resurselor financiare alocate pentru program.
+- Ministerul Educației va monitoriza implementarea programului prin intermediul inspectoratelor școlare județene și al municipiului București. De asemenea, va organiza campanii de informare și educare nutrițională pentru elevi, părinți și cadre didactice.
+
+**Noile auxiliare școlare pentru elevi, reanalizate de Ministerul Educației cu o lună înainte să înceapă școala**
+
+- Articolul informează că Ministerul Educației a decis să reanalizeze noile auxiliare școlare pentru elevi, care au fost aprobate în luna iunie prin ordin de ministru, cu o lună înainte să înceapă școala.
+- Auxiliarele școlare sunt materiale didactice suplimentare, cum ar fi caiete de lucru, fișe de evaluare, atlase, dicționare, care vin în sprijinul procesului de învățare și evaluare a elevilor.
+- Motivul reanalizării este că unele auxiliare școlare au fost contestate de părinți, profesori și experți în educație, care au semnalat erori, neconcordanțe, redundanțe sau lipsa de relevanță a unor materiale.
+- Ministerul Educației a anunțat că va constitui o comisie de specialiști care va verifica calitatea și adecvarea auxiliarelor școlare la curriculumul național și la nevoile elevilor. De asemenea, va solicita editurilor care au publicat auxiliarele școlare să remedieze eventualele deficiențe.
 
 ## 🏫 Despre greva profesorilor
-- Greva profesorilor din România din 2023 a fost una dintre cele mai mari și mai lungi mișcări de protest din sistemul de educație de după 1989.
-- Greva a început pe 22 mai 2023 și s-a încheiat pe 12 iunie 2023, după ce sindicatele și guvernul au ajuns la un acord privind majorarea salariilor cu 25% pentru toți angajații din educație.
-- Greva a afectat peste 4 milioane de elevi și studenți, care au pierdut zile de curs și au avut examenele amânate sau modificate.
-- Greva a fost susținută de majoritatea opiniei publice, care a recunoscut dreptul profesorilor la o remunerație decentă și la o recunoaștere socială a rolului lor.
+
+- Greva profesorilor din România din 2023 a fost declanșată pe 22 mai și a durat până pe 12 iunie, când a fost suspendată în baza unei oferte de ultimă oră a guvernului.
+- Profesorii au cerut o creștere a salariilor cu 25%, comparativ cu alte profesii din România, precum și acordarea unor sume anuale pentru personalul didactic și auxiliar.
+- În timpul grevei, au avut loc negocieri între sindicatele din educație și guvern, precum și președintele Klaus Iohannis, dar fără rezultate concrete. De asemenea, au avut loc proteste și manifestații în București și în alte orașe mari din țară.
+- Greva a afectat desfășurarea examenelor pentru clasa a VI-a și sesiunea de bacalaureat din 2023, care au fost amânate. Greva este cea de-a patra din sistemul de educație de la Revoluția din 1989.
 
 
 <sub><sub>Acest text a fost generat automat de BingAI folosind ultimele informatii de pe Edupedu, precum si de pe alte site-uri de stiri. Deci, nu te baza pe el pentru a lua decizii importante :)</sub></sub>
