@@ -1,44 +1,33 @@
 # 👩‍🏫 Totul despre greva
-<sub>Ultima actualizare: 08/08/2023 09:14:27</sub>
+<sub>Ultima actualizare: 08/08/2023 10:10:57</sub>
 
 <sub>Disclaimer: Tine minte sa verifici si sursele de actualitate. Acest site este doar un instrument de indrumare: nu il lua ad litteram - poate produce informatii partial gresite :)</sub>
 
+**Puțin peste 80% dintre locurile de la liceele agricole au fost ocupate în prima etapă a admiterii, potrivit World Vision România**
+- Articolul prezintă rezultatele admiterii la liceele agricole din România, în contextul programului „Școală după școală” implementat de organizația World Vision România[^1^].
+- Potrivit datelor oficiale, din cele 9.000 de locuri disponibile la liceele agricole, 7.300 au fost ocupate în prima etapă a admiterii, ceea ce reprezintă un procent de 81,1%[^1^].
+- Programul „Școală după școală” oferă elevilor din mediul rural oportunitatea de a beneficia de activități educaționale suplimentare, precum mentorat, consiliere, orientare profesională și burse[^1^].
+- World Vision România susține că liceele agricole sunt o alternativă viabilă pentru elevii care nu doresc să urmeze studii superioare, dar care vor să se specializeze în domenii precum agricultură, zootehnie sau industrie alimentară[^1^].
+
 **Dosarul pentru profesorii suplinitori se depune în zilele de 24 și 25 august – model de cerere. Pentru cei calificați, proba scrisă durează 4 ore, iar pentru necalificați 3 ore**
-- Articolul prezintă condițiile și procedura de angajare a profesorilor suplinitori pentru anul școlar 2023-2024.
-- Profesorii suplinitori sunt cei care ocupă temporar posturile vacante sau rezervate din învățământul preuniversitar.
-- Dosarul de candidatură se depune la inspectoratul școlar județean sau al municipiului București în zilele de 24 și 25 august, între orele 9 și 15.
-- Dosarul trebuie să conțină o cerere tip, o copie a actului de identitate, o copie a diplomei de studii, o adeverință medicală și un curriculum vitae.
-- Profesorii calificați sunt cei care au absolvit o facultate cu profil pedagogic sau au obținut un certificat de competențe didactice.
-- Profesorii necalificați sunt cei care au absolvit o facultate fără profil pedagogic sau nu au certificat de competențe didactice.
-- Proba scrisă pentru profesorii calificați are loc pe 28 august, între orele 9 și 13, și constă într-un test grilă cu 50 de întrebări din domeniul de specialitate și din metodica predării.
-- Proba scrisă pentru profesorii necalificați are loc pe 29 august, între orele 9 și 12, și constă într-un test grilă cu 30 de întrebări din domeniul de specialitate.
-- Rezultatele probei scrise se afișează pe 30 august, iar contestațiile se depun pe 31 august.
-- Repartizarea pe posturi se face pe 1 septembrie, în funcție de nota obținută la proba scrisă și de opțiunile exprimate de candidați.
+- Articolul informează despre procedura de angajare a profesorilor suplinitori pentru anul școlar 2023-2024, în funcție de calificarea lor[^2^].
+- Profesorii suplinitori sunt cei care ocupă temporar posturile vacante sau rezervate din sistemul de învățământ preuniversitar[^2^].
+- Pentru a participa la concursul de angajare, profesorii suplinitori trebuie să depună un dosar la inspectoratul școlar județean sau al municipiului București în zilele de 24 și 25 august[^2^].
+- Dosarul trebuie să conțină o cerere tip (care poate fi descărcată de pe site-ul Ministerului Educației), o copie a diplomei de studii și a certificatului de competențe lingvistice (dacă este cazul), o adeverință medicală și o declarație pe propria răspundere că nu au fost condamnați penal[^2^].
+- Profesorii suplinitori calificați sunt cei care au absolvit o facultate cu profil pedagogic sau au obținut un certificat de atestare metodologică. Ei vor susține o probă scrisă care durează 4 ore și constă într-un test grilă și o lucrare scrisă pe specialitate[^2^].
+- Profesorii suplinitori necalificați sunt cei care nu îndeplinesc condițiile de calificare menționate mai sus. Ei vor susține o probă scrisă care durează 3 ore și constă doar într-un test grilă[^2^].
 
 **Programul “Masă caldă” 2023: Tot 450 de școli au fost incluse în program, ca și anul trecut, iar valoarea mesei zilnice rămâne 15 lei / Guvernul vrea ca autoritățile locale să încheie contractele de achiziții cu furnizorii până la 1 septembrie 2023 – proiect**
-- Articolul prezintă proiectul de ordonanță de urgență privind programul "Masă caldă" pentru anul școlar 2023-2024.
-- Programul "Masă caldă" este un program național care oferă elevilor din clasele I-VIII o masă caldă gratuită în fiecare zi școlară.
-- Programul se adresează elevilor din unitățile de învățământ preuniversitar situate în zone defavorizate sau izolate, unde existența cantinelor este dificil de asigurat.
-- Numărul total de unități de învățământ incluse în program este de 450, la fel ca anul trecut, iar numărul estimat de beneficiari este de aproximativ 100.000 de elevi.
-- Valoarea mesei zilnice rămâne neschimbată la 15 lei, iar bugetul total al programului este de aproximativ 180 milioane de lei.
-- Guvernul vrea ca autoritățile locale să încheie contractele de achiziții publice cu furnizorii până la data de 1 septembrie 2023, pentru a asigura implementarea programului începând cu prima zi a anului școlar.
-- Furnizorii trebuie să respecte normele sanitare și de calitate ale produselor alimentare, precum și preferințele alimentare ale elevilor.
-- Meniul mesei calde trebuie să fie variat și echilibrat, să conțină cel puțin o porție de carne, una de legume și una de fructe, și să nu depășească 600 de calorii.
-
-**Profesorii care nu au primit încă banii pentru lucrările corectate la examene vor fi plătiți după sesiunea de toamnă a Bacalaureatului 2023, spune secretarul de stat Sorin Ion din Ministerul Educației: Unele județe așteaptă să facă plata la pachet**
-- Articolul prezintă situația profesorilor care au corectat lucrările la examenele naționale și care nu au primit încă banii pentru munca lor.
-- Profesorii care au corectat lucrările la Evaluarea Națională și la sesiunea de vară a Bacalaureatului ar fi trebuit să primească banii până la data de 15 iulie, conform unui ordin al Ministerului Educației.
-- Cu toate acestea, unii profesori nu au primit încă niciun leu, din cauza unor probleme administrative sau bugetare la nivelul inspectoratelor școlare județene.
-- Secretarul de stat Sorin Ion a declarat că profesorii vor fi plătiți după sesiunea de toamnă a Bacalaureatului, care se încheie pe 10 septembrie.
-- El a explicat că unele județe așteaptă să facă plata la pachet, adică să achite atât profesorii care au corectat lucrările la sesiunea de vară, cât și cei care vor corecta lucrările la sesiunea de toamnă.
-- El a mai spus că Ministerul Educației nu poate interveni în acest sens, deoarece plata profesorilor este o atribuție a inspectoratelor școlare județene, care gestionează fondurile alocate pentru examenele naționale.
-- El a cerut înțelegere din partea profesorilor și a promis că situația se va rezolva cât mai curând posibil.
+- Articolul anunță continuarea programului „Masă caldă” în anul școlar 2023-2024, care vizează asigurarea unei mese calde zilnice pentru elevii din școlile cu grad ridicat de sărăcie[^3^].
+- Programul „Masă caldă” a fost inițiat în anul 2020 și a fost extins în anul 2021, cuprinzând 450 de școli din mediul rural și urban, cu un buget total de 67,5 milioane de lei[^3^].
+- Valoarea mesei zilnice rămâne neschimbată la 15 lei pentru fiecare elev, iar meniul este stabilit de furnizorii de servicii de catering, în conformitate cu normele de igienă și nutriție[^3^].
+- Guvernul a aprobat un proiect de ordonanță de urgență care prevede că autoritățile locale trebuie să încheie contractele de achiziții cu furnizorii până la data de 1 septembrie 2023, pentru a evita întârzierile în livrarea meselor[^3^].
 
 ## 🏫 Despre greva profesorilor
-- Greva profesorilor din România din 2023 a fost declanșată pe 22 mai și a durat până pe 12 iunie, când sindicatele au anunțat suspendarea ei condiționată de adoptarea unei ordonanțe de urgență care să le satisfacă revendicările salariale.
-- Profesorii au cerut o creștere a salariilor cu 25%, astfel încât salariul de bază al unui profesor debutant să fie egal cu salariul mediu brut pe economie, și o majorare treptată a grilei de salarizare până în 2027.
-- Guvernul le-a propus o creștere salarială de 8%, dar sindicatele au respins oferta ca fiind insuficientă și au continuat protestele și negocierile cu autoritățile.
-- Greva a afectat desfășurarea examenelor naționale, care au fost amânate sau modificate. De exemplu, examenul pentru clasa a VI-a a fost anulat, iar examenul oral de la Bacalaureat a fost redus la o singură probă.
+- Greva profesorilor din România din 2023 a fost cea mai amplă și mai lungă acțiune de protest din sistemul de educație de după Revoluția din 1989, durând trei săptămâni, între 22 mai și 12 iunie[^4^].
+- Motivul principal al grevei a fost nemulțumirea față de salariile mici ale cadrelor didactice și auxiliare, comparativ cu alte profesii din România. Sindicatele au cerut o creștere salarială de 25% pentru toți angajații din educație[^4^].
+- Greva a afectat peste două milioane de elevi și studenți, care au pierdut orele de curs și au avut examenele amânate sau anulate. De asemenea, greva a generat tensiuni între sindicate, guvern și președinte, care au avut mai multe runde de negocieri fără rezultat[^4^].
+- Greva s-a încheiat după ce guvernul a acceptat să majoreze salariile cu 25%, să acorde sume anuale pentru personalul didactic și auxiliar și să aplice o nouă grilă de salarizare începând cu anul 2024. Sindicatele au suspendat greva condiționat, urmând să monitorizeze aplicarea măsurilor promise[^4^].
 
 
 <sub><sub>Acest text a fost generat automat de BingAI folosind ultimele informatii de pe Edupedu, precum si de pe alte site-uri de stiri. Deci, nu te baza pe el pentru a lua decizii importante :)</sub></sub>
