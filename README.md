@@ -1,33 +1,33 @@
 # 👩‍🏫 Totul despre greva
-<sub>Ultima actualizare: 08/08/2023 10:10:57</sub>
+<sub>Ultima actualizare: 08/08/2023 11:14:16</sub>
 
 <sub>Disclaimer: Tine minte sa verifici si sursele de actualitate. Acest site este doar un instrument de indrumare: nu il lua ad litteram - poate produce informatii partial gresite :)</sub>
 
-**Puțin peste 80% dintre locurile de la liceele agricole au fost ocupate în prima etapă a admiterii, potrivit World Vision România**
-- Articolul prezintă rezultatele admiterii la liceele agricole din România, în contextul programului „Școală după școală” implementat de organizația World Vision România[^1^].
-- Potrivit datelor oficiale, din cele 9.000 de locuri disponibile la liceele agricole, 7.300 au fost ocupate în prima etapă a admiterii, ceea ce reprezintă un procent de 81,1%[^1^].
-- Programul „Școală după școală” oferă elevilor din mediul rural oportunitatea de a beneficia de activități educaționale suplimentare, precum mentorat, consiliere, orientare profesională și burse[^1^].
-- World Vision România susține că liceele agricole sunt o alternativă viabilă pentru elevii care nu doresc să urmeze studii superioare, dar care vor să se specializeze în domenii precum agricultură, zootehnie sau industrie alimentară[^1^].
+- **INTERVIU Iuliana Mănescu, profesoara care și-a convins elevii din rural să citească și să-și înscrie prezentările video după cărți la un festival național: Pentru ei a fost un efort supraomenesc să ducă o carte la bun sfârșit**
+  - Articolul prezintă povestea unei profesoare de limba română dintr-o comună din județul Argeș, care a reușit să îi motiveze pe elevii săi să participe la un concurs național de lectură și prezentare video a cărților citite.
+  - Profesoara spune că a fost o provocare să îi convingă pe elevi să citească, mai ales că mulți dintre ei provin din familii defavorizate, cu acces limitat la resurse educaționale și culturale.
+  - Ea a folosit metode creative și interactive pentru a le stârni interesul pentru lectură, cum ar fi jocuri de rol, discuții în grup, vizionarea de filme inspirate din cărți sau crearea de afișe și videoclipuri.
+  - Elevii au fost încântați de experiența lor și au declarat că au descoperit noi perspective și valori prin lectură. Unii dintre ei au spus că vor să continue să citească și după concurs.
+  - Profesoara speră că proiectul ei va fi un exemplu pentru alți colegi și va contribui la dezvoltarea competențelor de lectură și comunicare ale elevilor din mediul rural.
 
-**Dosarul pentru profesorii suplinitori se depune în zilele de 24 și 25 august – model de cerere. Pentru cei calificați, proba scrisă durează 4 ore, iar pentru necalificați 3 ore**
-- Articolul informează despre procedura de angajare a profesorilor suplinitori pentru anul școlar 2023-2024, în funcție de calificarea lor[^2^].
-- Profesorii suplinitori sunt cei care ocupă temporar posturile vacante sau rezervate din sistemul de învățământ preuniversitar[^2^].
-- Pentru a participa la concursul de angajare, profesorii suplinitori trebuie să depună un dosar la inspectoratul școlar județean sau al municipiului București în zilele de 24 și 25 august[^2^].
-- Dosarul trebuie să conțină o cerere tip (care poate fi descărcată de pe site-ul Ministerului Educației), o copie a diplomei de studii și a certificatului de competențe lingvistice (dacă este cazul), o adeverință medicală și o declarație pe propria răspundere că nu au fost condamnați penal[^2^].
-- Profesorii suplinitori calificați sunt cei care au absolvit o facultate cu profil pedagogic sau au obținut un certificat de atestare metodologică. Ei vor susține o probă scrisă care durează 4 ore și constă într-un test grilă și o lucrare scrisă pe specialitate[^2^].
-- Profesorii suplinitori necalificați sunt cei care nu îndeplinesc condițiile de calificare menționate mai sus. Ei vor susține o probă scrisă care durează 3 ore și constă doar într-un test grilă[^2^].
+- **Profesorii și directorii de școli pot comanda manuale școlare de Limba română și Matematică până pe 21 august. Lista cărților folosite din septembrie la clasele a II-a și a VI-a – document**
+  - Articolul anunță că profesorii și directorii de școli pot comanda manuale școlare pentru disciplinele Limba română și Matematică, pentru clasele a II-a și a VI-a, până pe data de 21 august 2023.
+  - Comanda se face prin intermediul unei aplicații online, unde se selectează titlurile dorite din lista aprobată de Ministerul Educației.
+  - Lista conține opt manuale pentru Limba română clasa a II-a, opt manuale pentru Matematică clasa a II-a, nouă manuale pentru Limba română clasa a VI-a și nouă manuale pentru Matematică clasa a VI-a.
+  - Manualele vor fi distribuite gratuit elevilor la începutul anului școlar 2023-2024.
 
-**Programul “Masă caldă” 2023: Tot 450 de școli au fost incluse în program, ca și anul trecut, iar valoarea mesei zilnice rămâne 15 lei / Guvernul vrea ca autoritățile locale să încheie contractele de achiziții cu furnizorii până la 1 septembrie 2023 – proiect**
-- Articolul anunță continuarea programului „Masă caldă” în anul școlar 2023-2024, care vizează asigurarea unei mese calde zilnice pentru elevii din școlile cu grad ridicat de sărăcie[^3^].
-- Programul „Masă caldă” a fost inițiat în anul 2020 și a fost extins în anul 2021, cuprinzând 450 de școli din mediul rural și urban, cu un buget total de 67,5 milioane de lei[^3^].
-- Valoarea mesei zilnice rămâne neschimbată la 15 lei pentru fiecare elev, iar meniul este stabilit de furnizorii de servicii de catering, în conformitate cu normele de igienă și nutriție[^3^].
-- Guvernul a aprobat un proiect de ordonanță de urgență care prevede că autoritățile locale trebuie să încheie contractele de achiziții cu furnizorii până la data de 1 septembrie 2023, pentru a evita întârzierile în livrarea meselor[^3^].
+- **Ce ne facem cu Gheboasă**
+  - Articolul este o opinie critică la adresa ministrului Educației, Ligia Deca, pe care o numește Gheboasă, referindu-se la porecla ei din perioada studenției.
+  - Autorul articolului o acuză pe ministru de incompetență, lipsă de viziune și subordonare politică față de președintele Klaus Iohannis.
+  - El susține că ministru nu a făcut nimic concret pentru a rezolva problemele din sistemul educațional, cum ar fi lipsa infrastructurii, subfinanțarea, inechitatea, corupția sau calitatea slabă a învățământului.
+  - El cere demisia ministrului și numirea unui alt candidat care să fie capabil să reformeze educația în România.
 
 ## 🏫 Despre greva profesorilor
-- Greva profesorilor din România din 2023 a fost cea mai amplă și mai lungă acțiune de protest din sistemul de educație de după Revoluția din 1989, durând trei săptămâni, între 22 mai și 12 iunie[^4^].
-- Motivul principal al grevei a fost nemulțumirea față de salariile mici ale cadrelor didactice și auxiliare, comparativ cu alte profesii din România. Sindicatele au cerut o creștere salarială de 25% pentru toți angajații din educație[^4^].
-- Greva a afectat peste două milioane de elevi și studenți, care au pierdut orele de curs și au avut examenele amânate sau anulate. De asemenea, greva a generat tensiuni între sindicate, guvern și președinte, care au avut mai multe runde de negocieri fără rezultat[^4^].
-- Greva s-a încheiat după ce guvernul a acceptat să majoreze salariile cu 25%, să acorde sume anuale pentru personalul didactic și auxiliar și să aplice o nouă grilă de salarizare începând cu anul 2024. Sindicatele au suspendat greva condiționat, urmând să monitorizeze aplicarea măsurilor promise[^4^].
+
+- Greva profesorilor din România din 2023 a fost declanșată pe 22 mai 2023 și a durat până pe 12 iunie 2023, când sindicatele au anunțat suspendarea ei condiționată de aprobarea unor măsuri de majorare a salariilor.
+- Greva a implicat peste 200.000 de angajați din sistemul de învățământ, care au cerut o creștere salarială de 25%, comparativ cu alte profesii din România.
+- Greva a afectat desfășurarea examenelor pentru clasa a VI-a și sesiunea de bacalaureat din 2023, care au fost amânate sau modificate.
+- Greva a fost rezultatul nemulțumirii față de situația precară a educației în România, care se confruntă cu probleme cronice de infrastructură, finanțare, calitate și echitate.
 
 
 <sub><sub>Acest text a fost generat automat de BingAI folosind ultimele informatii de pe Edupedu, precum si de pe alte site-uri de stiri. Deci, nu te baza pe el pentru a lua decizii importante :)</sub></sub>
