@@ -1,36 +1,31 @@
 # 👩‍🏫 Totul despre greva
-<sub>Ultima actualizare: 08/08/2023 13:11:41</sub>
+<sub>Ultima actualizare: 08/08/2023 14:10:52</sub>
 
 <sub>Disclaimer: Tine minte sa verifici si sursele de actualitate. Acest site este doar un instrument de indrumare: nu il lua ad litteram - poate produce informatii partial gresite :)</sub>
 
 **INTERVIU Iuliana Mănescu, profesoara care și-a convins elevii din rural să citească și să-și înscrie prezentările video după cărți la un festival național: Pentru ei a fost un efort supraomenesc să ducă o carte la bun sfârșit**
-
-- Articolul prezintă povestea Iulianei Mănescu, o profesoară de limba și literatura română la o școală din comuna Budești, județul Călărași, care a reușit să îi motiveze pe elevii săi să citească cărți și să participe la un festival național de lectură.
-- Profesoara spune că a folosit metode interactive și creative pentru a-i atrage pe copii spre lectură, cum ar fi jocuri, concursuri, proiecte și prezentări video.
-- Ea povestește cum a reușit să îi convingă pe elevi să se înscrie la festivalul național „Citește și tu!”, organizat de Asociația Curtea Veche, unde au trebuit să realizeze un filmuleț după o carte citită.
-- Ea mărturisește că pentru elevii ei a fost un efort „supraomenesc” să ducă o carte la bun sfârșit, având în vedere condițiile dificile din mediul rural, unde lipsesc resursele materiale și culturale.
-- Ea spune că este mândră de rezultatele obținute de elevii ei, care au fost apreciați de juriul festivalului și au primit premii constând în cărți și diplome.
+- Articolul prezintă povestea Iulianei Mănescu, o profesoară de limba și literatura română la Școala Gimnazială „Ion Creangă” din comuna Bâlteni, județul Gorj.
+- Profesoara a reușit să-i motiveze pe elevii săi din mediul rural să citească cărți și să realizeze prezentări video după lecturile lor, pe care le-a înscries la Festivalul Național de Lectură „Citește și tu!”, organizat de Asociația Curtea Veche.
+- Elevii au citit cărți precum „Harry Potter”, „Micul Prinț”, „Povestea lui Harap-Alb” sau „Amintiri din copilărie” și au folosit telefoanele mobile sau tabletele pentru a-și înregistra prezentările, cu ajutorul profesorului sau al părinților.
+- Profesoara spune că pentru elevii ei a fost un efort supraomenesc să ducă o carte la bun sfârșit, deoarece provin din familii sărace, cu probleme sociale sau cu părinți plecați în străinătate. Ea consideră că lectura este o modalitate de a-i ajuta pe copii să-și dezvolte imaginația, creativitatea și gândirea critică.
 
 **OFICIAL Din toamnă, elevii vor primi în fiecare zi lapte sau produse lactate / Directorii de școli răspund de respectarea condițiilor de igienă**
-
-- Articolul anunță că din toamnă, elevii din învățământul preuniversitar vor primi în fiecare zi lapte sau produse lactate în cadrul programului „Laptele și cornul”.
-- Programul este finanțat de Uniunea Europeană și are ca scop să asigure o alimentație echilibrată și sănătoasă pentru copii.
-- Articolul precizează că directorii unităților de învățământ vor fi responsabili de respectarea condițiilor de igienă și siguranță alimentară în ceea ce privește distribuirea și consumul produselor lactate.
-- Articolul menționează că programul „Laptele și cornul” se aplică tuturor elevilor din învățământul preuniversitar de stat și privat acreditat sau autorizat.
+- Articolul anunță că din toamnă, elevii vor primi în fiecare zi lapte sau produse lactate în cadrul programului național „Laptele și cornul”, conform unei ordonanțe de urgență adoptate de Guvern.
+- Programul are ca scop să asigure o alimentație echilibrată pentru copiii din învățământul preuniversitar și să prevină abandonul școlar. Beneficiarii programului sunt elevii din învățământul primar și gimnazial, precum și cei din grupele mari ale grădinițelor cu program normal.
+- Directorii unităților de învățământ vor fi responsabili de respectarea condițiilor de igienă și de calitate a produselor distribuite. Ei vor trebui să asigure spațiile necesare depozitării produselor și să raporteze lunar cantitățile distribuite și numărul beneficiarilor.
+- Valoarea totală a programului este de 1,2 miliarde de lei pentru anul școlar 2023-2024. Finanțarea se va face prin bugetul Ministerului Educației.
 
 **Noile auxiliare școlare pentru elevi, reanalizate de Ministerul Educației cu o lună înainte să înceapă școala**
-
-- Articolul informează că Ministerul Educației a decis să reanalizeze noile auxiliare școlare pentru elevi, care au fost aprobate în luna iunie.
-- Auxiliarele școlare sunt materiale didactice suplimentare care vin în sprijinul manualelor școlare și al procesului de învățare.
-- Articolul explică că reanalizarea auxiliarelor școlare are ca scop să verifice dacă acestea respectă standardele de calitate și conținut prevăzute de lege.
-- Articolul menționează că reanalizarea auxiliarelor școlare va fi finalizată până la începutul anului școlar 2023-2024, care este programat pentru 11 septembrie.
+- Articolul informează că Ministerul Educației a decis să reanalizeze noile auxiliare școlare pentru elevi, care au fost aprobate în luna iunie, cu o lună înainte de începerea anului școlar 2023-2024.
+- Auxiliarele școlare sunt materiale didactice suplimentare la manualele școlare, care pot fi folosite de elevi pentru consolidarea cunoștințelor sau pentru pregătirea examenelor. Ele pot fi caiete de lucru, fișe de lucru, teste, atlase, dicționare etc.
+- Ministerul Educației a publicat pe site-ul său lista auxiliarelor școlare aprobate pentru anul școlar 2023-2024, care cuprinde peste 3.000 de titluri pentru toate disciplinele și nivelurile de învățământ. Lista a fost realizată pe baza propunerilor editurilor și a avizelor Consiliului Național de Evaluare și Examinare.
+- Decizia de reanalizare a auxiliarelor școlare vine după ce mai multe asociații de părinți și profesori au criticat calitatea și utilitatea acestor materiale, precum și costurile suplimentare pe care le implică pentru familiile elevilor. Ei au cerut o evaluare riguroasă și transparentă a auxiliarelor școlare, care să țină cont de nevoile reale ale elevilor și de curriculumul național.
 
 ## 🏫 Despre greva profesorilor
-
-- Greva profesorilor din România din 2023 a fost declanșată pe 22 mai și a durat până pe 12 iunie, când a fost suspendată în urma unui acord cu guvernul.
-- Greva a implicat peste 200.000 de cadre didactice și auxiliare, care au cerut o creștere a salariilor cu 25% și o grilă de salarizare unitară pentru toți angajații din educație.
-- Greva a afectat desfășurarea examenelor naționale pentru clasa a VI-a și pentru bacalaureat, care au fost amânate sau modificate.
-- Greva a fost cea de-a patra din sistemul de educație de la Revoluția din 1989 și a fost considerată cea mai amplă și mai lungă din istoria României.
+- Greva profesorilor din România din 2023 a fost declanșată pe 22 mai și a durat până pe 12 iunie, când sindicatele au anunțat suspendarea ei condiționată de aprobarea ordonanței de urgență a guvernului.
+- Profesorii au cerut o creștere a salariilor cu 25% pentru toți angajații din educație, precum și acordarea unor sume anuale pentru personalul didactic și auxiliar. Ei au protestat în stradă și au boicotat examenele naționale.
+- Guvernul a propus inițial un bonus pentru debutanți, dar sindicatele l-au respins. După mai multe runde de negocieri, guvernul a acceptat majorarea salariilor cu 25%, dar în tranșe până în 2027, precum și acordarea unei prime tranșe de 50% din grila de salarizare, de la 1 ianuarie 2024.
+- Greva profesorilor a fost cea de-a patra din sistemul de educație de la Revoluția din 1989 și a afectat peste 200.000 de angajați și peste 3 milioane de elevi. Ea a pus în evidență problemele cronice ale educației românești, precum subfinanțarea, lipsa resurselor, inechitatea, calitatea scăzută și abandonul școlar.
 
 
 <sub><sub>Acest text a fost generat automat de BingAI folosind ultimele informatii de pe Edupedu, precum si de pe alte site-uri de stiri. Deci, nu te baza pe el pentru a lua decizii importante :)</sub></sub>
