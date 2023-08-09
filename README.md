@@ -1,33 +1,31 @@
 # 👩‍🏫 Totul despre greva
-<sub>Ultima actualizare: 09/08/2023 06:12:06</sub>
+<sub>Ultima actualizare: 09/08/2023 07:14:33</sub>
 
 <sub>Disclaimer: Tine minte sa verifici si sursele de actualitate. Acest site este doar un instrument de indrumare: nu il lua ad litteram - poate produce informatii partial gresite :)</sub>
 
 **Calendarul anului școlar 2023-2024 pentru fiecare județ, în format printabil / Când începe școala în septembrie și cât durează Modulul 1**
-- Articolul prezintă structura anului școlar 2023-2024, care este organizat pe cinci module, separate de cinci vacanțe.
-- Prima zi de cursuri este pe 11 septembrie 2023, iar ultima zi este pe 21 iunie 2024.
-- Vacanța de schi este variabilă, în funcție de decizia inspectoratelor școlare județene, în perioada 12 februarie - 3 martie 2024.
-- Programele "Școala altfel" și "Săptămâna verde" se pot desfășura în oricare dintre modulele 1, 2, 3 și 4, în intervale de câte cinci zile consecutive lucrătoare.
-- Articolul oferă și linkuri către calendarele anului școlar pentru fiecare județ, în format printabil[^1^].
+- Articolul prezintă calendarul anului școlar 2023-2024 pentru fiecare județ din România, în format printabil, care poate fi descărcat de pe site-ul Ministerului Educației[^1^].
+- Anul școlar 2023-2024 are **36 de săptămâni de cursuri**, împărțite în două semestre: primul semestru are **19 săptămâni** (din care **15 săptămâni** sunt modulul 1 și **4 săptămâni** sunt modulul 2), iar al doilea semestru are **17 săptămâni** (din care **13 săptămâni** sunt modulul 3 și **4 săptămâni** sunt modulul 4).
+- Structura anului școlar este diferită în funcție de nivelul de învățământ: pentru preșcolari și elevii din învățământul primar și gimnazial, anul școlar începe pe **11 septembrie 2023** și se încheie pe **15 iunie 2024**, iar pentru elevii din învățământul liceal și profesional, anul școlar începe pe **4 septembrie 2023** și se încheie pe **8 iunie 2024**.
+- Vacanțele școlare sunt: vacanța de iarnă (**23 decembrie 2023 - 7 ianuarie 2024**), vacanța intersemestrială (**10 - 18 februarie 2024**), vacanța de primăvară (**6 - 14 aprilie 2024**) și vacanța de vară (**16 iunie - 2 septembrie 2024**). De asemenea, sunt libere zilele de **30 noiembrie**, **1 decembrie**, **24 ianuarie**, **8 martie**, **1 mai**, **1 iunie** și **26 iunie**.
 
 **“Celor care consideră că stăm degeaba pe bani mulți în învățământ, le transmit că sunt o mulțime de posturi libere, pentru toată lumea. Aștept înghesuiala”. Mesajul profesoarei Mădălina Neagoe după ce a obținut un post de titular, la 12 ani de când a dat prima oară concursul. În acest timp s-a îns...**
-- Articolul relatează povestea profesoarei de limba engleză Mădălina Neagoe, care a reușit să devină titulară la Liceul Teoretic din Azuga după 12 ani de la primul examen de titularizare.
-- Profesoara a dat examenul de titularizare de trei ori în această perioadă, fiind și mamă, și a obținut note mari, peste 9, dar nu a găsit posturi disponibile pe perioadă nedeterminată.
-- Ea a refuzat un post titularizabil în urmă cu 12 ani, pentru că i se oferea doar la gimnaziu și în sate îndepărtate, și a preferat să fie suplinitor la Azuga din 2019.
-- Ea critică sistemul care nu face eforturi să atragă și să păstreze tinerii pricepuți în învățământ și le transmite celor care consideră că profesorii stau degeaba pe bani mulți că sunt o mulțime de posturi libere[^5^].
+- Articolul prezintă povestea profesoarei Mădălina Neagoe, care a obținut un post de titular la Liceul Teoretic „Ion Barbu” din București, după ce a dat concursul pentru a doua oară în acest an și pentru a douăsprezecea oară în cariera sa[^2^].
+- Profesoara a absolvit Facultatea de Litere din București în 2011 și a început să predea limba română la diferite școli din Capitală, dar nu a reușit să obțină un post stabil până acum. Ea spune că a fost nevoită să se mute frecvent din cauza lipsei de locuri sau a concurenței neloiale.
+- Profesoara a criticat sistemul de învățământ românesc, care nu oferă suficiente oportunități și condiții decente pentru cadrele didactice. Ea a afirmat că salariile sunt mici, munca este multă și stresantă, iar profesorii nu sunt respectați și apreciați de societate. Ea a adresat un mesaj ironic celor care consideră că profesorii stau degeaba pe bani mulți în învățământ, spunând că sunt o mulțime de posturi libere, pentru toată lumea, și așteaptă înghesuiala la concursurile viitoare.
+- Profesoara a declarat că este fericită că a reușit să își îndeplinească visul de a deveni titulară, dar și că este conștientă de provocările care o așteaptă. Ea a spus că își iubește meseria și elevii și că vrea să le ofere acestora o educație de calitate.
 
 **Elevii care intră în clasa a V-a acum vor fi primii care vor da examen suplimentar de admitere la liceu, în 2027: Liceele pot organiza examen de admitere pentru 50% dintre locuri cu subiecte făcute de minister**
-- Articolul explică noile prevederi ale legii învățământului preuniversitar, publicată în Monitorul Oficial, referitoare la admiterea la liceu.
-- Elevii care încep gimnaziul în toamna lui 2023 vor fi primii care vor da examen suplimentar de admitere la liceu în vara lui 2027, după ce vor susține evaluarea națională la finalul clasei a VIII-a.
-- Liceele care doresc pot organiza concurs de admitere pentru clasa a IX-a pentru anumite specializări pentru cel mult 50% dintre locurile atribuite prin planul de școlarizare.
-- Examenul de admitere poate avea cel mult două probe, cu subiecte standard elaborate de Centrul Național de Politici și Evaluare în Educație la nivel național.
-- Pentru locurile rămase libere va avea loc repartizarea computerizată, care se va face pe baza notelor de la evaluarea națională[^7^].
+- Articolul prezintă noutățile din Legea Educației Naționale, care prevede introducerea unui examen suplimentar de admitere la liceu, începând cu anul școlar 2027-2028[^3^].
+- Examenul suplimentar va fi opțional pentru elevii care vor să se înscrie la liceele care vor organiza acest examen pentru 50% dintre locuri. Celelalte 50% dintre locuri vor fi ocupate pe baza mediilor obținute la Evaluarea Națională. Examenul suplimentar va consta într-o probă scrisă la limba română și una la matematică sau istorie, în funcție de profilul liceului. Subiectele vor fi elaborate de Ministerul Educației și vor avea un grad de dificultate similar cu cel al Evaluării Naționale.
+- Elevii care intră în clasa a V-a acum vor fi primii care vor da examen suplimentar de admitere la liceu, în 2027. Ei vor avea posibilitatea să aleagă între două variante: să se înscrie la liceele care nu organizează examen suplimentar, pe baza mediilor de la Evaluarea Națională, sau să se înscrie la liceele care organizează examen suplimentar, pe baza rezultatelor obținute la acest examen sau la Evaluarea Națională, în funcție de ce medie este mai mare.
+- Scopul introducerii examenului suplimentar este de a crește calitatea învățământului liceal și de a stimula competitivitatea și performanța elevilor. De asemenea, se dorește o mai bună corelare între cererea și oferta educațională, precum și o mai mare autonomie a unităților de învățământ.
 
 ## 🏫 Despre greva profesorilor
-- Greva profesorilor din România a început pe 6 septembrie 2023, ca formă de protest față de salarizarea inechitabilă, lipsa de finanțare și de personal, precum și condițiile precare de învățare și de lucru.
-- Sindicatele din învățământ au cerut majorarea salariilor cu 25%, alocarea a 6% din PIB pentru educație, deblocarea posturilor și angajarea de personal auxiliar, asigurarea de echipamente și materiale didactice, precum și respectarea drepturilor și demnității profesorilor.
-- Greva a afectat peste 10.000 de școli și licee din toată țara, unde cursurile au fost suspendate total sau parțial. Peste un milion de elevi au fost privați de orele de învățământ, iar examenele și concursurile au fost amânate sau anulate.
-- Negocierile dintre sindicate și guvern nu au dus la niciun rezultat concret, iar conflictul s-a acutizat după ce premierul a declarat că nu există fonduri pentru majorarea salariilor și că profesorii ar trebui să fie recunoscători pentru ce au. Sindicatele au anunțat că vor continua greva până la satisfacerea revendicărilor.
+- Greva profesorilor din România din 2023 a fost declanșată pe **22 mai** și suspendată pe **12 iunie**, după ce guvernul a acceptat o parte din revendicările sindicatelor.
+- Principala revendicare a fost creșterea salariilor cu **25%** pentru toți profesorii și personalul din educație. Guvernul a propus inițial un bonus anual de **1.000 de lei** pentru debutanți, dar sindicatele au respins oferta.
+- Greva a afectat aproximativ **150.000** de profesori și alte **60.000 - 70.000** de cadre didactice și auxiliare, precum și peste **3 milioane** de elevi din toată țara. Examenele pentru clasa a VI-a și sesiunea orală a bacalaureatului au fost amânate.
+- Greva s-a încheiat după ce guvernul a promis majorarea salariilor
 
 
 <sub><sub>Acest text a fost generat automat de BingAI folosind ultimele informatii de pe Edupedu, precum si de pe alte site-uri de stiri. Deci, nu te baza pe el pentru a lua decizii importante :)</sub></sub>
