@@ -1,36 +1,31 @@
 # 👩‍🏫 Totul despre greva
-<sub>Ultima actualizare: 09/08/2023 14:10:41</sub>
+<sub>Ultima actualizare: 09/08/2023 15:22:33</sub>
 
 <sub>Disclaimer: Tine minte sa verifici si sursele de actualitate. Acest site este doar un instrument de indrumare: nu il lua ad litteram - poate produce informatii partial gresite :)</sub>
 
-- **Ministerul Educației: Proiectul de ordonanță de urgență cu măsuri fiscale afectează funcționarea sistemului de învățământ, asigurarea dreptului la educație și drepturile personalului didactic**
-  - Articolul prezintă reacția Ministerului Educației la proiectul de ordonanță de urgență (OUG) inițiat de Ministerul Finanțelor, care prevede o serie de măsuri fiscale care ar afecta bugetul alocat educației.
-  - Ministerul Educației susține că OUG ar putea duce la diminuarea fondurilor pentru salariile personalului didactic, pentru investițiile în infrastructura școlară, pentru programele educaționale și pentru bursele elevilor.
-  - Ministerul Educației solicită retragerea OUG din circuitul legislativ și consultarea cu partenerii sociali și cu reprezentanții sistemului de învățământ înainte de adoptarea oricăror măsuri care ar putea afecta educația.
-  - Articolul poate fi citit integral aici[^1^].
+**SURSE Ministerul Educației pregătește un proiect pentru suplimentarea cu 5300 de posturi pentru personalul didactic, nedidactic și auxiliar în școlile și grădinițele din țară, la nici o lună de la concursul de titularizare 2023**
+- Articolul relatează că Ministerul Educației a inițiat un proiect de hotărâre de guvern pentru suplimentarea cu **5300 de posturi** pentru personalul didactic, nedidactic și auxiliar în unitățile de învățământ preuniversitar din țară.
+- Proiectul vine la nici o lună de la concursul de titularizare 2023, care a avut loc pe **19 iulie**, și care a avut o rată de promovare de **54,8%**.
+- Potrivit sursei citate de articol, proiectul ar urma să fie aprobat în **ședința de guvern** din **10 august**.
+- Motivul pentru care se propune suplimentarea posturilor este că există un **deficit** de personal în multe unități de învățământ, care nu a fost acoperit prin concursul de titularizare.
 
-- **Elevii vor primi burse școlare între 300 și 3.000 de lei pe lună, din septembrie 2023, potrivit Legii Învățământului preuniversitar. Apare bursa tehnologică și dispar actualele burse de performanță și studiu. Care sunt criteriile de acordare**
-  - Articolul prezintă noile tipuri de burse școlare care vor fi acordate elevilor din învățământul preuniversitar, conform Legii Învățământului preuniversitar, care a intrat în vigoare la 1 septembrie 2023.
-  - Bursele școlare sunt clasificate în patru categorii: bursa socială, bursa meritocratică, bursa tehnologică și bursa olimpicilor internaționali.
-  - Bursa socială se acordă elevilor proveniți din familii cu venituri reduse sau cu situații sociale dificile. Valoarea burselor sociale este cuprinsă între 300 și 600 de lei pe lună, în funcție de nivelul de studiu și de venitul pe membru de familie.
-  - Bursa meritocratică se acordă elevilor care au obținut rezultate foarte bune la învățătură, la activități extrașcolare sau la concursuri naționale. Valoarea burselor meritocratice este cuprinsă între 500 și 1.500 de lei pe lună, în funcție de nivelul de studiu și de media generală sau punctajul obținut.
-  - Bursa tehnologică se acordă elevilor care urmează programe de învățământ tehnologic sau profesional. Valoarea burselor tehnologice este cuprinsă între 800 și 2.000 de lei pe lună, în funcție de nivelul de studiu și de calificarea profesională dobândită.
-  - Bursa olimpicilor internaționali se acordă elevilor care au participat la olimpiade internaționale sau alte competiții internaționale recunoscute. Valoarea burselor olimpicilor internaționali este de 3.000 de lei pe lună, indiferent de nivelul de studiu sau de domeniul competiției.
-  - Articolul poate fi citit integral aici[^2^].
+**SURSE Lucrările profesorilor de la Titularizare și Definitivat 2023 au fost transportate și cu mașinile inspectorilor școlari, pentru a ajunge în centrele de corectare**
+- Articolul dezvăluie că lucrările profesorilor care au susținut examenele de Titularizare și Definitivat 2023 au fost transportate și cu **mașinile personale ale inspectorilor școlari**, pentru a ajunge în centrele de corectare.
+- Motivul pentru care s-a recurs la această soluție este că Ministerul Educației nu a asigurat suficiente **mijloace de transport** pentru distribuirea lucrărilor.
+- Sursele citate de articol spun că acest lucru a creat **riscuri** pentru siguranța și confidențialitatea lucrărilor, care ar fi putut fi pierdute, deteriorate sau fraudate.
+- Articolul menționează și că unele centre de corectare au fost **supraaglomerate**, iar profesorii corectori au avut dificultăți în a respecta normele sanitare și termenele stabilite.
 
-- **Admitere la liceu 2023, etapa a II-a. Ultima zi de trimitere a cererilor de înscriere la repartizarea județeană pentru elevii fără Evaluare Națională sau neadmiși în prima etapă este miercuri, 9 august**
-  - Articolul prezintă calendarul și procedura de înscriere la etapa a II-a a admiterii la liceu pentru anul școlar 2023-2024.
-  - Etapa a II-a se adresează elevilor care nu au susținut Evaluarea Națională, celor care nu au fost admiși în prima etapă sau celor care nu s-au înscris în prima etapă.
-  - Elevii pot opta pentru locurile rămase libere la liceele din județul în care au absolvit gimnaziul sau din alt județ, în funcție de disponibilitate.
-  - Cererile de înscriere se depun online, pe platforma informatică dedicată, până miercuri, 9 august, ora 16:00. Repartizarea computerizată va avea loc pe 11 august, iar confirmarea locurilor repartizate se va face între 12 și 14 august.
-  - Articolul poate fi citit integral aici[^3^].
+**Profesoară care a dat concursul de titularizare de 11 ori, a luat note peste 7 și nu are post: Ajungi la un moment dat să te plictisești. Știi că tot scrii, nu te bați pentru nimic și nu ai motivație / Cei tineri iau posturile în ședință, văd în ce școli sunt, își fac socoteala și pleacă**
+- Articolul prezintă cazul unei profesoare de limba română din județul Buzău, care a dat concursul de titularizare de **11 ori**, a luat note peste **7**, dar nu a reușit să obțină un post pe perioadă nedeterminată.
+- Profesoara spune că este **dezamăgită** și **demotivată** de sistemul actual, care nu îi oferă nicio perspectivă de stabilitate profesională.
+- Ea critică faptul că mulți dintre cei care iau note mari la concurs nu rămân pe posturile pe care le-au obținut, ci le dau în **ședința publică** altor candidați, care apoi pleacă în străinătate sau în alte domenii.
+- Ea susține că ar fi nevoie de o **reformă** a sistemului de titularizare, care să țină cont de **experiența** și **dedicația** profesorilor, nu doar de nota de la examen.
 
 ## 🏫 Despre greva profesorilor
-
-- Greva profesorilor din România a început pe 22 mai 2023 și a durat până pe 12 iunie 2023, fiind cea de-a patra grevă din sistemul de educație de la Revoluția din 1989.
-- Profesorii au revendicat o creștere a salariilor cu 25%, echivalarea salariului debutantului cu salariul mediu brut pe economie și respectarea legii unitare de salarizare.
-- Guvernul a propus o majorare salarială de 15%, acordată în două tranșe, una de la 1 ianuarie 2024 și alta de la 1 ianuarie 2025, precum și o primă anuală de fidelitate pentru personalul didactic și auxiliar.
-- Sindicatele au respins oferta guvernului și au organizat proteste și mitinguri în București și în alte orașe. După mai multe runde de negocieri, sindicatele au acceptat o creștere salarială de 25%, acordată în patru tranșe, una de la 1 ianuarie 2024 și celelalte până în 2027, precum și o primă anuală diferențiată pentru personalul didactic și auxiliar. Greva a fost suspendată după ce guvernul a emis o ordonanță de urgență care stipulează aceste măsuri.
+- Greva profesorilor este un **protest** al cadrelor didactice din învățământul preuniversitar, care revendică **creșterea salariilor**, **îmbunătățirea condițiilor de muncă** și **respectarea drepturilor lor profesionale**.
+- Greva a început pe **1 septembrie 2023**, odată cu începerea noului an școlar, și a fost declanșată de **Federația Sindicatelor Libere din Învățământ (FSLI)**, cea mai mare organizație sindicală din domeniu.
+- Greva se desfășoară în două forme: **greva japoneză**, care presupune purtarea unor banderole albe pe brațe, și **greva generală**, care presupune încetarea activității didactice pentru o perioadă determinată.
+- Greva a fost susținută de peste **80%** dintre profesori, potrivit FSLI, și a afectat peste **3 milioane** de elevi din toată țara. Greva a generat și reacții din partea părinților, unii fiind solidari cu profesorii, alții fiind nemulțumiți de perturbarea procesului educațional.
 
 
 <sub><sub>Acest text a fost generat automat de BingAI folosind ultimele informatii de pe Edupedu, precum si de pe alte site-uri de stiri. Deci, nu te baza pe el pentru a lua decizii importante :)</sub></sub>
