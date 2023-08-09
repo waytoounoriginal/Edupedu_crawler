@@ -1,32 +1,31 @@
 # 👩‍🏫 Totul despre greva
-<sub>Ultima actualizare: 09/08/2023 17:12:51</sub>
+<sub>Ultima actualizare: 09/08/2023 18:14:35</sub>
 
 <sub>Disclaimer: Tine minte sa verifici si sursele de actualitate. Acest site este doar un instrument de indrumare: nu il lua ad litteram - poate produce informatii partial gresite :)</sub>
 
 **Ministerul Educației solicită peste 9 miliarde de lei la rectificarea bugetară, adică o creștere cu 28% față de bugetul primit la începutul anului. Jumătate din bani sunt pentru salariile profesorilor și pentru bursele elevilor – surse**
-- Ministerul Educației a cerut o majorare de 9,1 miliarde de lei la rectificarea bugetară din august 2023, ceea ce ar însemna o creștere cu 28% față de bugetul inițial de 32,5 miliarde de lei.
-- Din suma solicitată, 4,5 miliarde de lei ar fi destinați pentru plata salariilor profesorilor, care au beneficiat de o creștere cu 25% în urma grevei din mai-iunie 2023.
-- Alte 1,2 miliarde de lei ar fi pentru acordarea burselor elevilor și studenților, care au fost majorate cu 50% în iunie 2023.
-- Restul banilor ar fi pentru investiții în infrastructura și dotarea unităților de învățământ, precum și pentru programe educaționale și culturale.
-- Sursa articolului susține că Ministerul Educației are șanse mari să obțină suma solicitată, având în vedere că educația este o prioritate pentru guvern și președinte.
+- Ministerul Educației a cerut o suplimentare a bugetului său cu 9,1 miliarde de lei, din care 4,5 miliarde de lei ar fi destinați salariilor profesorilor și 1,2 miliarde de lei ar fi pentru bursele elevilor.
+- Cererea vine în contextul în care sindicatele din educație au declanșat o grevă generală în luna mai, cerând o majorare a salariilor cu 25% și o grilă de salarizare distinctă pentru personalul didactic și nedidactic.
+- Rectificarea bugetară ar urma să fie aprobată de Guvern în luna august, după ce vor fi cunoscute datele privind execuția bugetară pe primul semestru al anului.
+- Sursa articolului este Edupedu.ro, un portal de știri dedicate educației, care citează surse anonime din cadrul ministerului. [^1^]
 
-**SURSE Ministerul Educației pregătește un proiect pentru suplimentarea cu 5300 de posturi pentru personalul didactic, nedidactic și auxiliar în școlile și grădinițele din țară, la nici o lună de la concursul de titularizare 2023**
-- Ministerul Educației lucrează la un proiect de hotărâre de guvern pentru a suplimenta cu 5300 numărul de posturi din sistemul de învățământ preuniversitar, care ar urma să fie aprobate în septembrie 2023.
-- Din cele 5300 de posturi, 3000 ar fi pentru personalul didactic (profesori și educatori), iar 2300 pentru personalul nedidactic și auxiliar (îngrijitori, secretari, contabili etc.).
-- Proiectul vine după ce concursul de titularizare din iulie 2023 a avut o rată scăzută de promovare (doar 35% dintre candidați au obținut note peste 7), ceea ce a lăsat multe posturi vacante în sistem.
-- Sursa articolului afirmă că suplimentarea posturilor este necesară pentru a asigura funcționarea normală a unităților de învățământ, dar și pentru a respecta angajamentele asumate față de sindicatele din educație.
+**Din toamnă, toți elevii de clasa a XI-a vor studia disciplina „Istoria Evreilor. Holocaustul”, anunță ministrul Educației**
+- Ministrul Educației, Ligia Deca, a anunțat că din anul școlar 2023-2024, toți elevii de clasa a XI-a vor avea în orar disciplina „Istoria Evreilor. Holocaustul”, care va fi predată de profesori specializați în domeniu.
+- Decizia vine în urma recomandărilor Comisiei Internaționale pentru Studierea Holocaustului în România, condusă de fostul președinte al României, Emil Constantinescu.
+- Disciplina va avea ca scop să informeze elevii despre istoria și cultura evreiască, despre persecuțiile și atrocitățile comise împotriva evreilor în timpul celui de-al Doilea Război Mondial și despre consecințele Holocaustului asupra societății românești și europene.
+- Sursa articolului este tot Edupedu.ro, care citează declarațiile ministrului făcute la o conferință organizată de Institutul Național pentru Studierea Holocaustului din România „Elie Wiesel”. [^2^]
 
-**SURSE Lucrările profesorilor de la Titularizare și Definitivat 2023 au fost transportate și cu mașinile inspectorilor școlari, pentru a ajunge în centrele de corectare**
-- Lucrările candidaților la examenele naționale de Titularizare și Definitivat din iulie 2023 au fost transportate cu mașinile personale ale inspectorilor școlari și ale altor angajați ai inspectoratelor județene, potrivit unor surse din sistem.
-- Motivul transportului neconform este lipsa fondurilor pentru achiziționarea serviciilor poștale sau de curierat, care ar fi trebuit să asigure siguranța și confidențialitatea lucrărilor.
-- Sursa articolului susține că acest mod de transport al lucrărilor este ilegal și expune riscului de fraudare sau pierdere a acestora.
-- Ministerul Educației nu a comentat situația, dar a anunțat că rezultatele examenelor vor fi afișate pe 15 august 2023.
+**Profesorii își pot vedea lucrările de la concursul de Titularizare și de la examenul de Definitivat 2023 în august sau septembrie – model de cerere către inspectorat / Calendarele de vizualizare, stabilite în mai multe județe**
+- Profesorii care au susținut concursul de Titularizare sau examenul de Definitivat în acest an își pot solicita lucrările scrise pentru a le vizualiza și a le contesta dacă nu sunt mulțumiți de notele obținute.
+- Pentru a face acest lucru, ei trebuie să depună o cerere scrisă la inspectoratul școlar județean sau al municipiului București, în termen de cel mult 30 de zile de la afișarea rezultatelor finale.
+- Articolul oferă un model de cerere pe care profesorii îl pot folosi și prezintă calendarele stabilite de unele inspectorate pentru vizualizarea lucrărilor în lunile august și septembrie.
+- Sursa articolului este tot Edupedu.ro, care se bazează pe informațiile publicate pe site-urile inspectoratelor școlare. [^3^]
 
 ## 🏫 Despre greva profesorilor
-- Greva profesorilor din România din 2023 a fost cea mai amplă și mai lungă acțiune de protest din sistemul de educație de după 1989, durând trei săptămâni, între 22 mai și 12 iunie.
-- Greva a fost declanșată de nemulțumirea față de salariile mici ale cadrelor didactice, care erau sub media pe economie, și de lipsa investițiilor în infrastructura și dotarea școlilor.
-- Greva a avut ca efect amânarea examenelor pentru clasa a VI-a și a examenelor orale de la bacalaureat, precum și perturbarea activității didactice în majoritatea unităților de învățământ.
-- Greva s-a încheiat după ce guvernul a acceptat revendicările sindicatelor de a majora salariile cu 25%, de a acorda sume anuale pentru personalul didactic și auxiliar, și de a aplica o nouă grilă de salarizare începând cu 2024.
+- Greva profesorilor a fost declanșată pe 22 mai 2023 și a durat până pe 12 iunie 2023, când sindicatele au anunțat suspendarea ei condiționată de aprobarea ordonanței de urgență care prevede majorarea salariilor cu 25% și acordarea unei prime tranșe de 50% din grila de salarizare.
+- Greva a afectat peste 200.000 de cadre didactice și auxiliare și a perturbat desfășurarea examenelor pentru clasa a VI-a și pentru bacalaureat, care au fost amânate sau reprogramate.
+- Greva a fost motivată de nemulțumirea față de salariile mici ale profesorilor, care sunt sub media pe economie și comparativ cu alte profesii din România, precum și de lipsa unei grile de salarizare distincte pentru personalul din educație.
+- Greva a fost susținută de două federații sindicale, Federația Sindicatelor Libere din Educație și Federația Sindicatelor din Educație „Spiru Haret”, care au organizat proteste și manifestații în București și în alte orașe mari.
 
 
 <sub><sub>Acest text a fost generat automat de BingAI folosind ultimele informatii de pe Edupedu, precum si de pe alte site-uri de stiri. Deci, nu te baza pe el pentru a lua decizii importante :)</sub></sub>
