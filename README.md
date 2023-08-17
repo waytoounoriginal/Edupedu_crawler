@@ -1,28 +1,35 @@
 # 👩‍🏫 Totul despre greva
-<sub>Ultima actualizare: 12/08/2023 13:11:41</sub>
+<sub>Ultima actualizare: 18/08/2023 00:09:55</sub>
 
 <sub>Disclaimer: Tine minte sa verifici si sursele de actualitate. Acest site este doar un instrument de indrumare: nu il lua ad litteram - poate produce informatii partial gresite :)</sub>
 
-- **Aproape jumătate dintre muzeele din România “vor dispărea pur și simplu” dacă proiectul de ordonanță al Guvernului ar intra în vigoare, atrage atenția directorul Muzeului Național al Țăranului Român**
-    - Articolul relatează despre un proiect de ordonanță de urgență al Guvernului care ar prevedea desființarea a 41 de muzee naționale și regionale din România, printre care și Muzeul Național al Țăranului Român, Muzeul Național de Artă Contemporană și Muzeul Național al Literaturii Române. [^1^]
-    - Directorul Muzeului Național al Țăranului Român, Virgil Nițulescu, a declarat că acest proiect este o „lovitură de grație” pentru patrimoniul cultural românesc și că ar duce la dispariția a aproape jumătate dintre muzeele din țară. El a cerut societății civile să se implice în apărarea acestor instituții. [^1^]
-    - Proiectul de ordonanță ar urma să fie adoptat în ședința de Guvern de miercuri, 16 august, fără consultare publică sau avizare prealabilă. El ar viza reorganizarea Ministerului Culturii și a unor instituții subordonate acestuia, precum și modificarea Legii muzeelor și colecțiilor. [^1^]
+**Locul I pentru România la Olimpiada de Informatică a Europei Centrale 2023, cu patru medalii și un premiu absolut, anunță Ministerul Educației**
 
-- **FOTO Frunzărița Balcanică, o nouă specie de pasăre din România, descoperită în rezervația de la Agigea**
-    - Articolul prezintă o nouă specie de pasăre care a fost descoperită în rezervația naturală „Pădurea Hagieni” din Agigea, județul Constanța. Este vorba despre Frunzărița Balcanică (Phylloscopus orientalis), o pasăre mică și colorată, care trăiește în pădurile de foioase din sud-estul Europei și Asia Mică. [^2^]
-    - Descoperirea a fost făcută de ornitologii de la Societatea Ornitologică Română (SOR), care monitorizează populațiile de păsări din rezervație. Ei au observat că Frunzărița Balcanică are un cântec diferit de cel al Frunzăriței Ruginii (Phylloscopus collybita), o specie înrudită și foarte asemănătoare. Pentru a confirma identificarea, ei au folosit metode genetice și morfologice. [^2^]
-    - Frunzărița Balcanică este o specie rară și vulnerabilă la schimbările climatice și la pierderea habitatului. Ea este protejată prin Convenția de la Berna și prin Directiva Păsările a Uniunii Europene. Rezervația „Pădurea Hagieni” este una dintre puținele zone din România unde această pasăre poate fi găsită. [^2^]
+- România a obținut locul I la Olimpiada de Informatică a Europei Centrale (CEOI) 2023, care s-a desfășurat online între 15 și 21 august.
+- Echipa României a fost formată din patru elevi de clasa a XI-a și a XII-a, care au câștigat patru medalii de aur și un premiu absolut pentru cel mai bun punctaj.
+- CEOI este o competiție internațională de informatică destinată elevilor din Europa Centrală și de Est, care se organizează anual din 1994.
+- Ministerul Educației a felicitat performanța elevilor români și a subliniat importanța susținerii învățământului STEM (științe, tehnologie, inginerie și matematică).
 
-- **Rezultatele admiterii la liceu, etapa a II-a, au fost afișate de inspectoratele școlare – listele pe fiecare județ**
-    - Articolul oferă informații despre rezultatele admiterii la liceu pentru anul școlar 2023-2024, după etapa a II-a, care a avut loc între 7 și 11 august. El conține link-uri către listele cu candidații admiși pe fiecare județ, publicate de inspectoratele școlare județene. [^3^]
-    - Potrivit datelor centralizate de Ministerul Educației, la nivel național au fost repartizați în etapa a II-a 17.839 de candidați, dintre care 16.927 în învățământul de zi și 912 în învățământul seral sau cu frecvență redusă. Astfel, au rămas libere 8.712 de locuri, dintre care 7.583 în învățământul de zi și 1.129 în învățământul seral sau cu frecvență redusă. [^3^]
-    - Cei care nu au fost repartizați în etapa a II-a sau nu s-au înscris la această etapă pot participa la etapa a III-a, care se va desfășura între 14 și 18 august. Ei trebuie să completeze o nouă fișă de înscriere, cu opțiunile actualizate, și să o depună la unitatea de învățământ unde au susținut examenul de Evaluare Națională. Rezultatele finale vor fi afișate pe 21 august. [^3^]
+**Unul din cinci candidați înscriși la proba de Matematică sau Istorie a Bacalaureatului de toamnă a lipsit de la examen / 29 au încercat să copieze și au fost eliminați din Bac**
+
+- Proba scrisă la Matematică sau Istorie din cadrul sesiunii de toamnă a examenului național de Bacalaureat 2023 s-a desfășurat pe 17 august, cu participarea a 74.000 de candidați.
+- Din totalul celor înscriși, peste 15.000 au absentat, reprezentând aproape 20% din numărul total.
+- De asemenea, 29 de candidați au fost eliminați din examen pentru tentativă de fraudă sau fraudă dovedită.
+- Rata de promovare la proba scrisă la Limba și literatura română din sesiunea de toamnă a fost de 64%, cu aproape 10 puncte procentuale mai mică decât cea din sesiunea de vară.
+
+**Dictare națională în Republica Moldova, de Ziua Limbii române, pe 31 august. 500 de persoane sunt așteptate să-și testeze ortografia după un text despre integrarea în Uniunea Europeană**
+
+- Pe 31 august se sărbătorește Ziua Limbii române în Republica Moldova, ocazie cu care se organizează o dictare națională pentru cei care vor să-și verifice cunoștințele de ortografie.
+- Dictarea va avea loc în Piața Marii Adunări Naționale din Chișinău și va fi transmisă live pe internet și la televiziune.
+- Textul dictat va fi despre integrarea Republicii Moldova în Uniunea Europeană și va conține cuvinte dificile sau controversate din punct de vedere lingvistic.
+- Organizatorii se așteaptă la participarea a aproximativ 500 de persoane, care vor primi diplome și premii simbolice.
 
 ## 🏫 Despre greva profesorilor
-- Greva profesorilor din România din 2023 a fost cea mai amplă și mai lungă acțiune de protest din sistemul de educație de la Revoluția din 1989. Ea a durat trei săptămâni, între 22 mai și 12 iunie, și a implicat peste 200.000 de angajați din învățământ. [^4^]
-- Scopul grevei a fost obținerea unei creșteri salariale cu 25% pentru toți profesorii și personalul din educație, precum și a unor sume anuale pentru dezvoltarea profesională și dotarea școlilor. Sindicatele au argumentat că salariile din educație sunt mult sub media pe economie și nu reflectă munca și pregătirea cadrelor didactice. [^4^]
-- În timpul grevei, au avut loc mai multe runde de negocieri între sindicate, guvern și președinte, dar fără rezultate concrete. Profesorii au organizat și manifestații de stradă în București și în alte orașe mari, cerând sprijinul părinților și elevilor. Greva a afectat desfășurarea examenelor pentru clasa a VI-a și pentru bacalaureat, care au fost amânate sau modificate. [^4^]
-- Greva s-a încheiat după ce guvernul a acceptat propunerile sindicatelor de majorare a salariilor cu 25%, acordându-se sume de 1500 de lei anual pentru personalul didactic și auxiliar, respectiv 500 de lei anual pentru personalul nedidactic până în 2027. De asemenea, guvernul s-a angajat să acorde o primă tranșă de 50% din grila de salarizare, de la 1 ianuarie 2024. Sindicatele au suspendat greva cu condiția ca aceste măsuri să fie adoptate printr-o ordonanță de urgență, ceea ce s-a întâmplat pe 14 iunie. [^4^]
+
+- Greva profesorilor din România din 2023 a început pe 22 mai și s-a suspendat pe 12 iunie, după ce guvernul a acceptat majorarea salariilor cu 25% până în 2027 și acordarea unei prime tranșe de 50% din grila de salarizare, de la 1 ianuarie 2024.
+- Greva a afectat aproximativ 150.000 de profesori și alte 60.000 - 70.000 de cadre didactice și auxiliare, care au protestat în fața sediului guvernului și în alte orașe mari din țară.
+- Greva a determinat amânarea examenelor pentru clasa a VI-a, precum și a examenelor orale de la sesiunea de bacalaureat din 2023.
+- Greva este cea de a patra din sistemul de educație de la Revoluția din 1989, grevele anterioare întâmplându-se în 1999, 2000 și 2005.
 
 
 <sub><sub>Acest text a fost generat automat de BingAI folosind ultimele informatii de pe Edupedu, precum si de pe alte site-uri de stiri. Deci, nu te baza pe el pentru a lua decizii importante :)</sub></sub>
