@@ -1,35 +1,31 @@
 # 👩‍🏫 Totul despre greva
-<sub>Ultima actualizare: 18/08/2023 00:09:55</sub>
+<sub>Ultima actualizare: 20/08/2023 00:09:46</sub>
 
 <sub>Disclaimer: Tine minte sa verifici si sursele de actualitate. Acest site este doar un instrument de indrumare: nu il lua ad litteram - poate produce informatii partial gresite :)</sub>
 
-**Locul I pentru România la Olimpiada de Informatică a Europei Centrale 2023, cu patru medalii și un premiu absolut, anunță Ministerul Educației**
+**România este pe ultimul loc în Uniunea Europeană în privința procentului de profesori în populația activă a țării – Eurostat**
+- Articolul prezintă datele publicate de Eurostat referitoare la ponderea profesorilor în populația activă a țărilor membre ale Uniunii Europene în anul 2020[^1^].
+- România se află pe ultimul loc, cu doar 3,5% din populația activă ocupată ca profesori, sub media europeană de 5,1%[^1^].
+- Articolul explică că acest procent scăzut se datorează atât numărului redus de profesori, cât și ratei ridicate a șomajului în rândul populației active din România[^1^].
+- Articolul mai arată că România are și cea mai mică rată de ocupare a profesorilor (raportul dintre numărul de profesori și numărul de locuri de muncă disponibile), cu doar 77,4%, față de media europeană de 93,6%[^1^].
 
-- România a obținut locul I la Olimpiada de Informatică a Europei Centrale (CEOI) 2023, care s-a desfășurat online între 15 și 21 august.
-- Echipa României a fost formată din patru elevi de clasa a XI-a și a XII-a, care au câștigat patru medalii de aur și un premiu absolut pentru cel mai bun punctaj.
-- CEOI este o competiție internațională de informatică destinată elevilor din Europa Centrală și de Est, care se organizează anual din 1994.
-- Ministerul Educației a felicitat performanța elevilor români și a subliniat importanța susținerii învățământului STEM (științe, tehnologie, inginerie și matematică).
+**Patru medalii de argint, una de aur și una de bronz pentru elevii români, la Olimpiada Internațională de Astronomie și Astrofizică – IOAA 2023 / Un elev din lot este de la școală de stat**
+- Articolul relatează despre performanța elevilor români la Olimpiada Internațională de Astronomie și Astrofizică (IOAA), care a avut loc în perioada 16-24 august 2023, în mod online[^2^].
+- Echipa României a obținut patru medalii de argint, una de aur și una de bronz, clasându-se pe locul al cincilea în clasamentul general, după China, India, Rusia și Iran[^2^].
+- Articolul evidențiază faptul că unul dintre medaliații cu argint este elev la o școală de stat din București, Colegiul Național „Gheorghe Lazăr”, fiind singurul reprezentant al învățământului public din lot[^2^].
+- Articolul mai menționează că IOAA este una dintre cele mai prestigioase competiții internaționale pentru elevi pasionați de astronomie și astrofizică, la care participă anual peste 40 de țări[^2^].
 
-**Unul din cinci candidați înscriși la proba de Matematică sau Istorie a Bacalaureatului de toamnă a lipsit de la examen / 29 au încercat să copieze și au fost eliminați din Bac**
-
-- Proba scrisă la Matematică sau Istorie din cadrul sesiunii de toamnă a examenului național de Bacalaureat 2023 s-a desfășurat pe 17 august, cu participarea a 74.000 de candidați.
-- Din totalul celor înscriși, peste 15.000 au absentat, reprezentând aproape 20% din numărul total.
-- De asemenea, 29 de candidați au fost eliminați din examen pentru tentativă de fraudă sau fraudă dovedită.
-- Rata de promovare la proba scrisă la Limba și literatura română din sesiunea de toamnă a fost de 64%, cu aproape 10 puncte procentuale mai mică decât cea din sesiunea de vară.
-
-**Dictare națională în Republica Moldova, de Ziua Limbii române, pe 31 august. 500 de persoane sunt așteptate să-și testeze ortografia după un text despre integrarea în Uniunea Europeană**
-
-- Pe 31 august se sărbătorește Ziua Limbii române în Republica Moldova, ocazie cu care se organizează o dictare națională pentru cei care vor să-și verifice cunoștințele de ortografie.
-- Dictarea va avea loc în Piața Marii Adunări Naționale din Chișinău și va fi transmisă live pe internet și la televiziune.
-- Textul dictat va fi despre integrarea Republicii Moldova în Uniunea Europeană și va conține cuvinte dificile sau controversate din punct de vedere lingvistic.
-- Organizatorii se așteaptă la participarea a aproximativ 500 de persoane, care vor primi diplome și premii simbolice.
+**Anton Hadăr, liderul federației sindicale „Alma Mater”: Nu exista un draft cumulat al legii salarizării. Riscăm să începem anul școlar și universitar cu proteste / Nu ne-am întâlnit niciodată pe salarizare cu noua ministră a Muncii / Nouă cum ne dau mărirea de salariu la 1 ianuarie?**
+- Articolul prezintă declarațiile lui Anton Hadăr, președintele Federației Naționale a Sindicatelor „Alma Mater”, care reprezintă personalul didactic universitar din România[^3^].
+- Hadăr afirmă că nu există un proiect unitar al legii salarizării pentru sectorul bugetar, ci doar propuneri separate pentru fiecare domeniu, ceea ce creează confuzie și nemulțumire[^3^].
+- Hadăr susține că sindicatele din educație nu au fost consultate niciodată pe tema salarizării de către noua ministră a Muncii, Ligia Deca, care a preluat portofoliul în iunie 2023[^3^].
+- Hadăr avertizează că dacă guvernul nu va respecta angajamentele asumate prin ordonanța de urgență din iunie 2023, care prevede majorări salariale pentru personalul din educație începând cu 1 ianuarie 2024, sindicatele vor declanșa proteste la începutul anului școlar și universitar[^3^].
 
 ## 🏫 Despre greva profesorilor
-
-- Greva profesorilor din România din 2023 a început pe 22 mai și s-a suspendat pe 12 iunie, după ce guvernul a acceptat majorarea salariilor cu 25% până în 2027 și acordarea unei prime tranșe de 50% din grila de salarizare, de la 1 ianuarie 2024.
-- Greva a afectat aproximativ 150.000 de profesori și alte 60.000 - 70.000 de cadre didactice și auxiliare, care au protestat în fața sediului guvernului și în alte orașe mari din țară.
-- Greva a determinat amânarea examenelor pentru clasa a VI-a, precum și a examenelor orale de la sesiunea de bacalaureat din 2023.
-- Greva este cea de a patra din sistemul de educație de la Revoluția din 1989, grevele anterioare întâmplându-se în 1999, 2000 și 2005.
+- Greva profesorilor din România a început pe 22 mai 2023 și a durat până pe 12 iunie 2023, fiind cea de-a patra grevă din sistemul de învățământ de la Revoluția din 1989[^4^].
+- Profesorii au cerut o creștere a salariilor cu 25%, argumentând că au cele mai mici venituri din Uniunea Europeană, comparativ cu alte profesii[^4^].
+- Guvernul a emis o ordonanță de urgență pe 9 iunie 2023, prin care a acordat majorări salariale de 1.000 de lei brut pe lună pentru personalul didactic și de 400 de lei brut pe lună pentru personalul nedidactic, până în 2026[^4^].
+- Sindicatele au acceptat să suspende greva pe 12 iunie 2023, cu condiția ca guvernul să respecte termenele și sumele promise, dar au anunțat că vor relua protestele dacă nu vor fi respectate angajamentele[^4^].
 
 
 <sub><sub>Acest text a fost generat automat de BingAI folosind ultimele informatii de pe Edupedu, precum si de pe alte site-uri de stiri. Deci, nu te baza pe el pentru a lua decizii importante :)</sub></sub>
