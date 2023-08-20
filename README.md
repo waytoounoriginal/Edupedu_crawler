@@ -1,31 +1,31 @@
 # 👩‍🏫 Totul despre greva
-<sub>Ultima actualizare: 20/08/2023 00:09:46</sub>
+<sub>Ultima actualizare: 20/08/2023 18:10:54</sub>
 
 <sub>Disclaimer: Tine minte sa verifici si sursele de actualitate. Acest site este doar un instrument de indrumare: nu il lua ad litteram - poate produce informatii partial gresite :)</sub>
 
-**România este pe ultimul loc în Uniunea Europeană în privința procentului de profesori în populația activă a țării – Eurostat**
-- Articolul prezintă datele publicate de Eurostat referitoare la ponderea profesorilor în populația activă a țărilor membre ale Uniunii Europene în anul 2020[^1^].
-- România se află pe ultimul loc, cu doar 3,5% din populația activă ocupată ca profesori, sub media europeană de 5,1%[^1^].
-- Articolul explică că acest procent scăzut se datorează atât numărului redus de profesori, cât și ratei ridicate a șomajului în rândul populației active din România[^1^].
-- Articolul mai arată că România are și cea mai mică rată de ocupare a profesorilor (raportul dintre numărul de profesori și numărul de locuri de muncă disponibile), cu doar 77,4%, față de media europeană de 93,6%[^1^].
+- **FOTOREPORTAJ G4Media: Curțile școlilor, cu lacăt în vacanță, deși ar trebui să fie deschise conform legii / Ce se întâmplă în cele 6 sectoare ale Capitalei**
+    - Articolul prezintă o serie de fotografii care arată starea curților școlilor din București, care ar trebui să fie deschise pentru copii și tineri în perioada vacanței de vară, conform unei legi adoptate în 2019[^1^].
+    - În realitate, majoritatea curților sunt închise cu lacăt sau cu lanțuri, iar accesul este interzis sau restricționat de către autoritățile locale sau de către conducerile școlilor[^1^].
+    - Motivele invocate pentru această situație sunt lipsa personalului de pază și de întreținere, lipsa fondurilor pentru plata utilităților și a cheltuielilor de funcționare, lipsa unui cadru legal clar și unitar pentru implementarea legii și lipsa interesului din partea părinților și a copiilor[^1^].
+    - Articolul evidențiază diferențele dintre sectoarele Capitalei, unde unele au mai multe curți deschise decât altele, și face apel la autorități să găsească soluții pentru a oferi spații de recreere și de socializare pentru copii și tineri în timpul vacanței[^1^].
 
-**Patru medalii de argint, una de aur și una de bronz pentru elevii români, la Olimpiada Internațională de Astronomie și Astrofizică – IOAA 2023 / Un elev din lot este de la școală de stat**
-- Articolul relatează despre performanța elevilor români la Olimpiada Internațională de Astronomie și Astrofizică (IOAA), care a avut loc în perioada 16-24 august 2023, în mod online[^2^].
-- Echipa României a obținut patru medalii de argint, una de aur și una de bronz, clasându-se pe locul al cincilea în clasamentul general, după China, India, Rusia și Iran[^2^].
-- Articolul evidențiază faptul că unul dintre medaliații cu argint este elev la o școală de stat din București, Colegiul Național „Gheorghe Lazăr”, fiind singurul reprezentant al învățământului public din lot[^2^].
-- Articolul mai menționează că IOAA este una dintre cele mai prestigioase competiții internaționale pentru elevi pasionați de astronomie și astrofizică, la care participă anual peste 40 de țări[^2^].
+- **Oscilațiile neobișnuite ale unei particule subatomice ridică întrebări despre existența unei forțe necunoscute a fizicii, susțin cercetători americani**
+    - Articolul relatează despre o descoperire științifică realizată de cercetători de la Laboratorul Național Fermi din SUA, care au observat că o particulă subatomică numită muon se comportă diferit față de cum ar trebui conform modelului standard al fizicii particulelor[^2^].
+    - Muonul este o particulă similară cu electronul, dar mult mai grea, care se dezintegrează rapid în alte particule. Cercetătorii au folosit un accelerator de particule pentru a crea un fascicul de muoni și au măsurat modul în care aceștia oscilează într-un câmp magnetic[^2^].
+    - Rezultatele experimentului au arătat că muonii oscilează mai repede decât ar trebui, ceea ce sugerează că există o forță necunoscută care îi influențează. Această forță ar putea fi o nouă formă de interacțiune fundamentală sau o nouă particulă subatomică[^2^].
+    - Descoperirea nu este încă confirmată definitiv, dar are un nivel ridicat de semnificație statistică. Dacă va fi validată de alte experimente, ar putea reprezenta o revoluție în fizica particulelor și ar putea deschide noi orizonturi pentru explorarea naturii materiei și a energiei[^2^].
 
-**Anton Hadăr, liderul federației sindicale „Alma Mater”: Nu exista un draft cumulat al legii salarizării. Riscăm să începem anul școlar și universitar cu proteste / Nu ne-am întâlnit niciodată pe salarizare cu noua ministră a Muncii / Nouă cum ne dau mărirea de salariu la 1 ianuarie?**
-- Articolul prezintă declarațiile lui Anton Hadăr, președintele Federației Naționale a Sindicatelor „Alma Mater”, care reprezintă personalul didactic universitar din România[^3^].
-- Hadăr afirmă că nu există un proiect unitar al legii salarizării pentru sectorul bugetar, ci doar propuneri separate pentru fiecare domeniu, ceea ce creează confuzie și nemulțumire[^3^].
-- Hadăr susține că sindicatele din educație nu au fost consultate niciodată pe tema salarizării de către noua ministră a Muncii, Ligia Deca, care a preluat portofoliul în iunie 2023[^3^].
-- Hadăr avertizează că dacă guvernul nu va respecta angajamentele asumate prin ordonanța de urgență din iunie 2023, care prevede majorări salariale pentru personalul din educație începând cu 1 ianuarie 2024, sindicatele vor declanșa proteste la începutul anului școlar și universitar[^3^].
+- **De ce nu au copiii din Constanța acces în curțile școlilor, deși ar trebui să fie deschise chiar și în vacanță – VIDEO/FOTO**
+    - Articolul expune situația curților școlilor din Constanța, care sunt închise pentru copii și tineri în perioada vacanței de vară, în ciuda legii care prevede că acestea trebuie să fie deschise[^3^].
+    - Motivul principal invocat de autorități este lipsa personalului care să supravegheze și să întrețină curțile, precum și lipsa fondurilor pentru a acoperi cheltuielile de funcționare. De asemenea, se aduce în discuție problema siguranței și a vandalismului, care ar putea afecta infrastructura școlilor[^3^].
+    - Articolul prezintă și reacțiile unor părinți și copii care se plâng de faptul că nu au unde să se joace și să se distreze în aer liber, mai ales în condițiile pandemiei de COVID-19, care a limitat accesul la alte spații publice. Ei cer autorităților să găsească soluții pentru a deschide curțile școlilor și a le asigura condiții decente[^3^].
+    - Articolul mai menționează că există și câteva exemple pozitive de școli care au reușit să își deschidă curțile pentru copii și tineri, cu sprijinul unor organizații neguvernamentale sau al unor voluntari. Acestea arată că este posibil să se respecte legea și să se ofere oportunități de recreere și de educație nonformală pentru copii și tineri în vacanță[^3^].
 
 ## 🏫 Despre greva profesorilor
-- Greva profesorilor din România a început pe 22 mai 2023 și a durat până pe 12 iunie 2023, fiind cea de-a patra grevă din sistemul de învățământ de la Revoluția din 1989[^4^].
-- Profesorii au cerut o creștere a salariilor cu 25%, argumentând că au cele mai mici venituri din Uniunea Europeană, comparativ cu alte profesii[^4^].
-- Guvernul a emis o ordonanță de urgență pe 9 iunie 2023, prin care a acordat majorări salariale de 1.000 de lei brut pe lună pentru personalul didactic și de 400 de lei brut pe lună pentru personalul nedidactic, până în 2026[^4^].
-- Sindicatele au acceptat să suspende greva pe 12 iunie 2023, cu condiția ca guvernul să respecte termenele și sumele promise, dar au anunțat că vor relua protestele dacă nu vor fi respectate angajamentele[^4^].
+- Greva profesorilor din România din 2023 a fost o mișcare sindicală care a avut loc între 22 mai și 12 iunie 2023, cerând o creștere a salariilor în educație cu 25%[^4^].
+- Greva a fost declanșată după ce negocierile dintre sindicatele din învățământ și guvern au eșuat, iar profesorii au considerat că salariile lor sunt prea mici comparativ cu alte profesii din România[^4^].
+- Greva a afectat desfășurarea examenelor pentru clasa a VI-a și pentru bacalaureat, care au fost amânate sau modificate. De asemenea, greva a provocat nemulțumirea unor părinți și elevi, care au acuzat profesorii de lipsă de responsabilitate și de profesionalism[^4^].
+- Greva s-a încheiat după ce guvernul a acceptat să majoreze salariile cu 25%, să acorde sume anuale pentru personalul didactic și auxiliar și să aplice o nouă grilă de salarizare începând cu 1 ianuarie 2024. Sindicatele au suspendat greva cu condiția ca aceste măsuri să fie adoptate printr-o ordonanță de urgență, ceea ce s-a întâmplat între timp[^4^].
 
 
 <sub><sub>Acest text a fost generat automat de BingAI folosind ultimele informatii de pe Edupedu, precum si de pe alte site-uri de stiri. Deci, nu te baza pe el pentru a lua decizii importante :)</sub></sub>
