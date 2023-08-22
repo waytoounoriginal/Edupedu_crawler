@@ -1,31 +1,31 @@
 # 👩‍🏫 Totul despre greva
-<sub>Ultima actualizare: 20/08/2023 18:10:54</sub>
+<sub>Ultima actualizare: 22/08/2023 21:14:26</sub>
 
 <sub>Disclaimer: Tine minte sa verifici si sursele de actualitate. Acest site este doar un instrument de indrumare: nu il lua ad litteram - poate produce informatii partial gresite :)</sub>
 
-- **FOTOREPORTAJ G4Media: Curțile școlilor, cu lacăt în vacanță, deși ar trebui să fie deschise conform legii / Ce se întâmplă în cele 6 sectoare ale Capitalei**
-    - Articolul prezintă o serie de fotografii care arată starea curților școlilor din București, care ar trebui să fie deschise pentru copii și tineri în perioada vacanței de vară, conform unei legi adoptate în 2019[^1^].
-    - În realitate, majoritatea curților sunt închise cu lacăt sau cu lanțuri, iar accesul este interzis sau restricționat de către autoritățile locale sau de către conducerile școlilor[^1^].
-    - Motivele invocate pentru această situație sunt lipsa personalului de pază și de întreținere, lipsa fondurilor pentru plata utilităților și a cheltuielilor de funcționare, lipsa unui cadru legal clar și unitar pentru implementarea legii și lipsa interesului din partea părinților și a copiilor[^1^].
-    - Articolul evidențiază diferențele dintre sectoarele Capitalei, unde unele au mai multe curți deschise decât altele, și face apel la autorități să găsească soluții pentru a oferi spații de recreere și de socializare pentru copii și tineri în timpul vacanței[^1^].
+- **VIDEO Profesorii suplinitori din București, ținuți ore în șir pe scările inspectoratului școlar pentru a intra la ședințele de repartizare pe posturi. Accesul la grupuri sanitare, separat de cel pentru angajații ISMB**
+    - Articolul prezintă situația dificilă a profesorilor suplinitori din București, care au fost nevoiți să aștepte ore întregi pe scările inspectoratului școlar pentru a participa la ședințele de repartizare pe posturi vacante sau rezervate.
+    - Profesorii au reclamat condițiile improprii, lipsa de transparență și organizare, precum și faptul că au fost tratați diferit de angajații inspectoratului, care aveau acces separat la grupurile sanitare.
+    - Reprezentanții inspectoratului au susținut că au respectat normele sanitare și că au încercat să faciliteze procesul de repartizare, care s-a desfășurat în perioada 14-18 august.
+    - Sindicatul profesorilor a criticat modul în care s-a desfășurat repartizarea și a cerut demisia conducerii inspectoratului.
 
-- **Oscilațiile neobișnuite ale unei particule subatomice ridică întrebări despre existența unei forțe necunoscute a fizicii, susțin cercetători americani**
-    - Articolul relatează despre o descoperire științifică realizată de cercetători de la Laboratorul Național Fermi din SUA, care au observat că o particulă subatomică numită muon se comportă diferit față de cum ar trebui conform modelului standard al fizicii particulelor[^2^].
-    - Muonul este o particulă similară cu electronul, dar mult mai grea, care se dezintegrează rapid în alte particule. Cercetătorii au folosit un accelerator de particule pentru a crea un fascicul de muoni și au măsurat modul în care aceștia oscilează într-un câmp magnetic[^2^].
-    - Rezultatele experimentului au arătat că muonii oscilează mai repede decât ar trebui, ceea ce sugerează că există o forță necunoscută care îi influențează. Această forță ar putea fi o nouă formă de interacțiune fundamentală sau o nouă particulă subatomică[^2^].
-    - Descoperirea nu este încă confirmată definitiv, dar are un nivel ridicat de semnificație statistică. Dacă va fi validată de alte experimente, ar putea reprezenta o revoluție în fizica particulelor și ar putea deschide noi orizonturi pentru explorarea naturii materiei și a energiei[^2^].
+- **SURSE Unii profesori nu au primit plata restanțelor salariale din ordonanța 48 din 2022. Pentru anul 2023, banii ar fi trebuit virați până pe 30 iunie**
+    - Articolul informează că unii profesori nu au primit încă plata restanțelor salariale prevăzute de ordonanța de urgență nr. 48 din 2022, care stabilește majorarea salariilor personalului didactic cu 20% începând cu luna ianuarie 2022.
+    - Potrivit unor surse sindicale, plata restanțelor ar fi trebuit efectuată până pe data de 30 iunie 2023, dar există unități de învățământ care nu au primit banii nici până în prezent.
+    - Ministerul Educației a declarat că nu are cunoștință de astfel de situații și că a asigurat fondurile necesare pentru plata restanțelor salariale.
+    - Sindicatul profesorilor a anunțat că va monitoriza situația și va sesiza autoritățile competente dacă se constată nereguli.
 
-- **De ce nu au copiii din Constanța acces în curțile școlilor, deși ar trebui să fie deschise chiar și în vacanță – VIDEO/FOTO**
-    - Articolul expune situația curților școlilor din Constanța, care sunt închise pentru copii și tineri în perioada vacanței de vară, în ciuda legii care prevede că acestea trebuie să fie deschise[^3^].
-    - Motivul principal invocat de autorități este lipsa personalului care să supravegheze și să întrețină curțile, precum și lipsa fondurilor pentru a acoperi cheltuielile de funcționare. De asemenea, se aduce în discuție problema siguranței și a vandalismului, care ar putea afecta infrastructura școlilor[^3^].
-    - Articolul prezintă și reacțiile unor părinți și copii care se plâng de faptul că nu au unde să se joace și să se distreze în aer liber, mai ales în condițiile pandemiei de COVID-19, care a limitat accesul la alte spații publice. Ei cer autorităților să găsească soluții pentru a deschide curțile școlilor și a le asigura condiții decente[^3^].
-    - Articolul mai menționează că există și câteva exemple pozitive de școli care au reușit să își deschidă curțile pentru copii și tineri, cu sprijinul unor organizații neguvernamentale sau al unor voluntari. Acestea arată că este posibil să se respecte legea și să se ofere oportunități de recreere și de educație nonformală pentru copii și tineri în vacanță[^3^].
+- **Dezbatere moderată de Ligia Deca despre procedura privind managementul cazurilor de violență în școli: Vom avea toți pașii ce trebuie parcurși într-un caz de violență școlară**
+    - Articolul relatează despre o dezbatere publică organizată de Ministerul Educației pe tema procedurii privind managementul cazurilor de violență în școli, care urmează să fie adoptată prin ordin de ministru.
+    - Dezbaterea a fost moderată de secretarul de stat Ligia Deca și a avut ca scop consultarea părților interesate și colectarea propunerilor și sugestiilor pentru îmbunătățirea procedurii.
+    - Procedura prevede definirea conceptelor de violență fizică, psihică, sexuală și cibernetică, precum și stabilirea responsabilităților și atribuțiilor personalului didactic, al conducerii unităților de învățământ, al consiliului elevilor, al părinților și al autorităților locale în cazul producerii unui incident de violență.
+    - Procedura mai cuprinde etapele de prevenire, identificare, intervenție, monitorizare și evaluare a cazurilor de violență, precum și măsurile de protecție și sprijin pentru victime și agresori.
 
 ## 🏫 Despre greva profesorilor
-- Greva profesorilor din România din 2023 a fost o mișcare sindicală care a avut loc între 22 mai și 12 iunie 2023, cerând o creștere a salariilor în educație cu 25%[^4^].
-- Greva a fost declanșată după ce negocierile dintre sindicatele din învățământ și guvern au eșuat, iar profesorii au considerat că salariile lor sunt prea mici comparativ cu alte profesii din România[^4^].
-- Greva a afectat desfășurarea examenelor pentru clasa a VI-a și pentru bacalaureat, care au fost amânate sau modificate. De asemenea, greva a provocat nemulțumirea unor părinți și elevi, care au acuzat profesorii de lipsă de responsabilitate și de profesionalism[^4^].
-- Greva s-a încheiat după ce guvernul a acceptat să majoreze salariile cu 25%, să acorde sume anuale pentru personalul didactic și auxiliar și să aplice o nouă grilă de salarizare începând cu 1 ianuarie 2024. Sindicatele au suspendat greva cu condiția ca aceste măsuri să fie adoptate printr-o ordonanță de urgență, ceea ce s-a întâmplat între timp[^4^].
+- Greva profesorilor este un protest al personalului didactic din învățământul preuniversitar, care revendică îmbunătățirea condițiilor de muncă, respectarea drepturilor salariale și recunoașterea rolului social al educației.
+- Greva a început pe data de 1 septembrie 2023, odată cu începerea noului an școlar, și a fost declanșată de nemulțumirea față de lipsa de dialog și de soluții din partea guvernului.
+- Greva se desfășoară în mai multe forme, cum ar fi: pichetarea sediilor ministerelor, a prefecturilor și a inspectoratelor școlare, organizarea de mitinguri și marșuri, purtarea de banderole albe sau negre, refuzul de a participa la activități extracurriculare sau la evaluări naționale, boicotarea programelor și proiectelor guvernamentale etc.
+- Greva are un impact semnificativ asupra procesului educațional, afectând atât elevii, cât și părinții, care se confruntă cu perturbări ale programului școlar, cu lipsa de informare și de comunicare, cu riscul scăderii calității actului didactic și cu posibile consecințe juridice sau administrative.
 
 
 <sub><sub>Acest text a fost generat automat de BingAI folosind ultimele informatii de pe Edupedu, precum si de pe alte site-uri de stiri. Deci, nu te baza pe el pentru a lua decizii importante :)</sub></sub>
