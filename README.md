@@ -1,31 +1,31 @@
 # 👩‍🏫 Totul despre greva
-<sub>Ultima actualizare: 22/08/2023 21:14:26</sub>
+<sub>Ultima actualizare: 29/08/2023 20:11:27</sub>
 
 <sub>Disclaimer: Tine minte sa verifici si sursele de actualitate. Acest site este doar un instrument de indrumare: nu il lua ad litteram - poate produce informatii partial gresite :)</sub>
 
-- **VIDEO Profesorii suplinitori din București, ținuți ore în șir pe scările inspectoratului școlar pentru a intra la ședințele de repartizare pe posturi. Accesul la grupuri sanitare, separat de cel pentru angajații ISMB**
-    - Articolul prezintă situația dificilă a profesorilor suplinitori din București, care au fost nevoiți să aștepte ore întregi pe scările inspectoratului școlar pentru a participa la ședințele de repartizare pe posturi vacante sau rezervate.
-    - Profesorii au reclamat condițiile improprii, lipsa de transparență și organizare, precum și faptul că au fost tratați diferit de angajații inspectoratului, care aveau acces separat la grupurile sanitare.
-    - Reprezentanții inspectoratului au susținut că au respectat normele sanitare și că au încercat să faciliteze procesul de repartizare, care s-a desfășurat în perioada 14-18 august.
-    - Sindicatul profesorilor a criticat modul în care s-a desfășurat repartizarea și a cerut demisia conducerii inspectoratului.
+**Ministrul de Interne anunță capitularea statului în fața drogurilor, după ce le-ar fi spus șefilor din Poliție acum o lună și jumătate că „bătălia cu drogurile la categoria adulţi în momentul ăsta e pierdută”**
+- Articolul relatează declarațiile ministrului de interne, Marius Budăi, care a recunoscut că statul nu mai are capacitatea de a combate consumul de droguri la adulți.
+- Ministrul a afirmat că singura soluție este prevenția și educația, mai ales în rândul tinerilor și copiilor.
+- El a spus că Poliția Română nu are suficiente resurse umane și materiale pentru a face față fenomenului, care s-a extins și la mediul rural.
+- El a cerut sprijinul societății civile, al ONG-urilor și al bisericii pentru a conștientiza pericolele drogurilor.
 
-- **SURSE Unii profesori nu au primit plata restanțelor salariale din ordonanța 48 din 2022. Pentru anul 2023, banii ar fi trebuit virați până pe 30 iunie**
-    - Articolul informează că unii profesori nu au primit încă plata restanțelor salariale prevăzute de ordonanța de urgență nr. 48 din 2022, care stabilește majorarea salariilor personalului didactic cu 20% începând cu luna ianuarie 2022.
-    - Potrivit unor surse sindicale, plata restanțelor ar fi trebuit efectuată până pe data de 30 iunie 2023, dar există unități de învățământ care nu au primit banii nici până în prezent.
-    - Ministerul Educației a declarat că nu are cunoștință de astfel de situații și că a asigurat fondurile necesare pentru plata restanțelor salariale.
-    - Sindicatul profesorilor a anunțat că va monitoriza situația și va sesiza autoritățile competente dacă se constată nereguli.
+**Cei aproape 1.000 de elevi ai Școlii Gimnaziale nr. 1 din Bolintin Vale, județul Giurgiu, vor învăța în 3 schimburi, cu ore scurtate la 40 de minute, pentru al treilea an școlar consecutiv. Lucrările de reabilitare nu sunt gata / Directoare: Reabilitarea ține de primărie, nu este un proiect al școli...**
+- Articolul prezintă situația dificilă a elevilor și profesorilor de la Școala Gimnazială nr. 1 din Bolintin Vale, care trebuie să se adapteze unui program neconvențional din cauza lucrărilor de reabilitare a clădirii.
+- Lucrările au început în 2021 și trebuiau să se finalizeze în 2022, dar au fost întârziate de pandemie și de schimbarea administrației locale.
+- Directoarea școlii, Elena Popescu, a declarat că reabilitarea este un proiect al primăriei și că nu are nicio influență asupra lui.
+- Ea a spus că speră ca lucrările să se termine până la sfârșitul anului 2023 și că elevii să poată reveni la un program normal.
 
-- **Dezbatere moderată de Ligia Deca despre procedura privind managementul cazurilor de violență în școli: Vom avea toți pașii ce trebuie parcurși într-un caz de violență școlară**
-    - Articolul relatează despre o dezbatere publică organizată de Ministerul Educației pe tema procedurii privind managementul cazurilor de violență în școli, care urmează să fie adoptată prin ordin de ministru.
-    - Dezbaterea a fost moderată de secretarul de stat Ligia Deca și a avut ca scop consultarea părților interesate și colectarea propunerilor și sugestiilor pentru îmbunătățirea procedurii.
-    - Procedura prevede definirea conceptelor de violență fizică, psihică, sexuală și cibernetică, precum și stabilirea responsabilităților și atribuțiilor personalului didactic, al conducerii unităților de învățământ, al consiliului elevilor, al părinților și al autorităților locale în cazul producerii unui incident de violență.
-    - Procedura mai cuprinde etapele de prevenire, identificare, intervenție, monitorizare și evaluare a cazurilor de violență, precum și măsurile de protecție și sprijin pentru victime și agresori.
+**ULTIMA ORĂ Bacalaureat 2024 începe pe 1 iulie cu proba de Limba română scris – calendarul anunțat în dezbatere de Ministerul Educației**
+- Articolul anunță calendarul propus pentru examenul de bacalaureat din 2024, care va începe pe 1 iulie cu proba scrisă la limba română.
+- Ministerul Educației a lansat în dezbatere publică proiectul de ordin privind organizarea și desfășurarea examenului național de bacalaureat pentru absolvenții clasei a XII-a sau a XIII-a.
+- Proba orală la limba română va avea loc pe 24 iunie, iar proba orală la limba maternă pe 25 iunie.
+- Proba scrisă la matematică va fi pe 2 iulie, iar proba scrisă la alegere pe profil sau specializare pe 3 iulie.
 
 ## 🏫 Despre greva profesorilor
-- Greva profesorilor este un protest al personalului didactic din învățământul preuniversitar, care revendică îmbunătățirea condițiilor de muncă, respectarea drepturilor salariale și recunoașterea rolului social al educației.
-- Greva a început pe data de 1 septembrie 2023, odată cu începerea noului an școlar, și a fost declanșată de nemulțumirea față de lipsa de dialog și de soluții din partea guvernului.
-- Greva se desfășoară în mai multe forme, cum ar fi: pichetarea sediilor ministerelor, a prefecturilor și a inspectoratelor școlare, organizarea de mitinguri și marșuri, purtarea de banderole albe sau negre, refuzul de a participa la activități extracurriculare sau la evaluări naționale, boicotarea programelor și proiectelor guvernamentale etc.
-- Greva are un impact semnificativ asupra procesului educațional, afectând atât elevii, cât și părinții, care se confruntă cu perturbări ale programului școlar, cu lipsa de informare și de comunicare, cu riscul scăderii calității actului didactic și cu posibile consecințe juridice sau administrative.
+- Greva profesorilor din România din 2023 a fost declanșată pe 22 mai și a durat până pe 12 iunie, când sindicatele au anunțat suspendarea ei, după ce au obținut o parte din revendicările lor salariale.
+- Profesorii au cerut o creștere a salariilor cu 25%, astfel încât un profesor debutant sau un asistent universitar să ajungă la salariul mediu brut pe economie până în 2026.
+- Guvernul a emis o ordonanță de urgență prin care a acordat majorări salariale de 1.000 de lei brut pe lună personalului didactic și 400 de lei brut pe lună pentru personalul nedidactic, dar nu a garantat atingerea grilei de salarizare dorite de sindicate.
+- Greva a afectat desfășurarea examenelor pentru clasa a VI-a și a examenelor orale de la sesiunea de bacalaureat din 2023.
 
 
 <sub><sub>Acest text a fost generat automat de BingAI folosind ultimele informatii de pe Edupedu, precum si de pe alte site-uri de stiri. Deci, nu te baza pe el pentru a lua decizii importante :)</sub></sub>
