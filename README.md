@@ -1,34 +1,35 @@
 # 👩‍🏫 Totul despre greva
-<sub>Ultima actualizare: 03/09/2023 05:19:23</sub>
+<sub>Ultima actualizare: 04/09/2023 09:15:04</sub>
 
 <sub>Disclaimer: Tine minte sa verifici si sursele de actualitate. Acest site este doar un instrument de indrumare: nu il lua ad litteram - poate produce informatii partial gresite :)</sub>
 
-**Alianța studenților reacționează, după anunțul CFR și al Softrans că studenții nu vor mai primi nicio reducere din 3 septembrie până la aprobarea noilor norme de aplicare a legilor Educației: Companiile încalcă legea**
+- **A mai rămas o săptămână până când elevii încep școala / Anul școlar 2023-2024 are 36 de săptămâni de cursuri**
+    - Anul școlar 2023-2024 începe pe 11 septembrie și se încheie pe 15 iunie.
+    - Structura anului școlar cuprinde două semestre, trei vacanțe și o perioadă de evaluare națională și examene naționale.
+    - Anul școlar are 36 de săptămâni de cursuri, dintre care 17 în semestrul I și 19 în semestrul II.
+    - Vacanțele sunt: vacanța de iarnă (23 decembrie - 7 ianuarie), vacanța intersemestrială (10 - 18 februarie) și vacanța de primăvară (6 - 15 aprilie).
+    - Evaluarea națională pentru clasa a VIII-a are loc între 18 și 22 iunie, iar examenul de bacalaureat între 25 iunie și 6 iulie.
+    - Sursa: [1](^1^)
 
-- Articolul relatează despre nemulțumirea exprimată de Alianța Națională a Organizațiilor Studențești din România (ANOSR) față de decizia CFR Călători și Softrans de a suspenda reducerile pentru studenți la biletele de tren începând cu 3 septembrie 2023.
-- ANOSR susține că operatorii feroviari încalcă legea nr. 199/2023, care prevede o reducere de 90% pentru studenți la transportul pe calea ferată, indiferent dacă există sau nu norme metodologice de aplicare a acesteia.
-- ANOSR solicită CFR Călători și Softrans să respecte legea și să nu refuze drepturile studenților, cerând un comunicat public până la sfârșitul zilei de 2 septembrie 2023.
-- Articolul menționează și poziția Ministerului Transporturilor, prin Autoritatea pentru Reformă Feroviară, care confirmă că reducerile se pot acorda pe legislația veche, până la intrarea în vigoare a noilor norme metodologice[^1^].
+- **Elevii olimpici români au câștigat trei medalii de argint și una de bronz la Olimpiada Internațională de Informatică 2023, în Ungaria / Performanța menține România în locul 2 mondial după numărul de premii**
+    - Echipa României a obținut trei medalii de argint și una de bronz la Olimpiada Internațională de Informatică (IOI) 2023, care a avut loc în perioada 19-26 august la Budapesta, Ungaria.
+    - Medaliile de argint au fost câștigate de Andrei Popa (clasa a XI-a), Andrei Costin Constantinescu (clasa a XII-a) și Alexandru Iosif Mincu (clasa a XII-a), iar medalia de bronz a fost obținută de Andrei Toma (clasa a X-a).
+    - România a ocupat locul 13 în clasamentul pe națiuni, dintr-un total de 88 de țări participante, cu un punctaj total de 1.007 puncte din maxim 1.200 posibile.
+    - Performanța elevilor români menține România pe locul al doilea în lume după numărul total de medalii obținute la IOI, cu un palmares impresionant de 30 de medalii de aur, 81 de medalii de argint și 51 de medalii de bronz.
+    - Sursa: [2](^2^)
 
-**CFR Călători anunță că din 3 septembrie nu mai acordă nicio reducere studenților pe tren, deși Autoritatea Feroviară anunța că reducerile actuale vor fi acordate chiar și după intrarea în vigoare a noilor legi ale Educației, până la aprobarea normelor de aplicare cu noile facilități, de către Guvern**
-
-- Articolul prezintă anunțul făcut de CFR Călători în data de 2 septembrie 2023, prin care informează că nu va mai elibera legitimații de transport cu reducere pentru studenți până la publicarea normelor metodologice aferente legii nr. 199/2023.
-- CFR Călători explică că această măsură este determinată de abrogarea parțială a legii nr. 1/2011, care reglementa facilitățile acordate studenților la transportul pe calea ferată, odată cu intrarea în vigoare a noilor legi ale educației pe 3 septembrie 2023.
-- CFR Călători precizează că se vor elibera legitimații de transport cu gratuitate sau reducere doar pentru elevi, conform prevederilor legii nr. 198/2023, și recomandă călătorilor să se asigure că au bilet valid înainte de urcarea în tren[^2^].
-
-**OFICIAL Termenele limită până la care trebuie aprobate actele normative pe noile legi ale educației, publicate în Monitorul Oficial – listă / Sunt aproape 400 de ordine de ministru și hotărâri de guvern**
-
-- Articolul oferă o listă cu aproape 400 de acte normative care trebuie elaborate pentru a pune în aplicare prevederile din legea educației în învățământul preuniversitar și legea educației în învățământul universitar, publicată în Monitorul Oficial.
-- Lista cuprinde ordine de ministru și hotărâri de guvern care au termene limită diferite, cuprinse între anii 2023 și 2027, conform unui ordin al ministrului educației.
-- Cele mai multe documente au termene de adoptare în anii 2023 și 2024, iar unele dintre ele vizează aspecte importante precum bursele elevilor, transportul elevilor și studenților, admiterea la liceu și la facultate, examenele naționale, gradul didactic al profesorilor etc.
-- Articolul remarcă faptul că peste 270 de acte normative vor intra în vigoare în anul electoral 2024, care va fi marcat de patru rânduri de alegeri politice[^3^].
+- **Alianța studenților reacționează, după anunțul CFR și al Softrans că studenții nu vor mai primi nicio reducere din 3 septembrie până la aprobarea noilor norme de aplicare a legilor Educației: Companiile încalcă legea**
+    - Alianța Națională a Organizațiilor Studențești din România (ANOSR) a criticat decizia CFR Călători și Softrans de a suspenda gratuitatea și reducerile pentru studenți la transportul feroviar, începând cu data de 3 septembrie, până la emiterea noilor norme metodologice pentru aplicarea legilor educației.
+    - ANOSR susține că această decizie este ilegală și discriminatorie, întrucât drepturile studenților la transport gratuit sau redus sunt garantate prin lege, indiferent de normele metodologice.
+    - ANOSR cere Ministerului Transporturilor, Infrastructurii și Comunicațiilor să intervină urgent pentru a asigura respectarea legii și a drepturilor studenților, precum și să sancționeze companiile care au luat această măsură abuzivă.
+    - ANOSR solicită, totodată, Ministerului Educației să elaboreze și să publice cât mai curând posibil noile norme metodologice pentru aplicarea legilor educației, care să clarifice modalitatea de acordare a gratuității și reducerilor pentru studenți la transportul feroviar și rutier.
+    - Sursa: [3](^3^)
 
 ## 🏫 Despre greva profesorilor
-
-- Greva profesorilor este un protest declanșat de sindicatele din învățământ împotriva noilor legi ale educației, care aduc modificări majore în sistemul de salarizare, de evaluare și de carieră al cadrelor didactice.
-- Greva a început pe 1 septembrie 2023, când profesorii au refuzat să intre la ore și au pichetat sediile ministerului educației și ale inspectoratelor școlare. Sindicatele au anunțat că greva va continua până la obținerea unor garanții privind respectarea drepturilor salariale și profesionale ale angajaților din învățământ.
-- Greva afectează peste 3 milioane de elevi și studenți din toată țara, care nu beneficiază de cursuri online sau de alte forme alternative de învățare. Părinții și elevii sunt nemulțumiți de situația creată și cer soluții urgente pentru reluarea activității didactice.
-- Guvernul a declarat că este dispus să dialogheze cu sindicatele, dar nu poate renunța la reforma educației, care este necesară pentru modernizarea și eficientizarea sistemului. Premierul a făcut apel la responsabilitatea profesorilor și le-a cerut să își reia activitatea în interesul elevilor.
+- Greva profesorilor din România din 2023 a fost declanșată pe 22 mai și a durat până pe 12 iunie, când sindicatele au anunțat suspendarea ei, după ce au obținut o parte din revendicările lor salariale.
+- Profesorii au cerut o creștere a salariilor cu 25%, astfel încât un profesor debutant sau un asistent universitar să ajungă la salariul mediu brut pe economie, precum și alte beneficii materiale și sociale.
+- Guvernul a emis o ordonanță de urgență prin care a acordat majorări salariale de 1.000 lei brut pe lună pentru personalul didactic și 400 de lei brut pe lună pentru personalul nedidactic, începând cu 1 iunie, precum și alte creșteri etapizate până în 2026.
+- Greva profesorilor a afectat desfășurarea normală a activității didactice, precum și organizarea examenelor naționale, care au fost amânate sau modificate.
 
 
 <sub><sub>Acest text a fost generat automat de BingAI folosind ultimele informatii de pe Edupedu, precum si de pe alte site-uri de stiri. Deci, nu te baza pe el pentru a lua decizii importante :)</sub></sub>
