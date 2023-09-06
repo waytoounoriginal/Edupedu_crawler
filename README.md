@@ -1,31 +1,32 @@
 # 👩‍🏫 Totul despre greva
-<sub>Ultima actualizare: 05/09/2023 11:15:41</sub>
+<sub>Ultima actualizare: 06/09/2023 09:15:53</sub>
 
 <sub>Disclaimer: Tine minte sa verifici si sursele de actualitate. Acest site este doar un instrument de indrumare: nu il lua ad litteram - poate produce informatii partial gresite :)</sub>
 
-**BREAKING Până la ora 14, toate școlile vor trimite Ministerului Educației numărul de elevi cu media mai mare sau egală cu 9.50 și numărul celor orfani**
-- Ministerul Educației a solicitat tuturor școlilor să transmită numărul de elevi cu media de absolvire mai mare sau egală cu 9.50 și numărul de elevi orfani de unul sau de ambii părinți, până marți, 5 septembrie, ora 14:00. [^1^]
-- Scopul acestei solicitări este de a estima bugetul pentru plata burselor școlare, conform unui proiect de ordin pus în dezbatere publică. [^1^]
-- Proiectul prevede eliminarea pragului mediei pentru acordarea burselor de merit la gimnaziu și liceu și creșterea bursei de merit de la 200 de lei la 450 de lei pe lună. [^1^]
-- Proiectul a fost criticat de Avocatul Poporului, Federația părinților și Consiliul Național al Elevilor, care au considerat că nu stimulează performanța și nu asigură echitatea. [^1^]
+- **Profesorul Cătălin Ciupală: Cei mai mulți dintre noi avem sentimentul că nu există un suport pentru profesori. Nu avem cursuri de specialitate. Suntem aruncați și fiecare se descurcă**
+    - Articolul prezintă o discuție cu Cătălin Ciupală, profesor de matematică la Colegiul Național „Mihai Viteazul” din București și membru al Federației Sindicatelor Libere din Învățământ (FSLI).
+    - Ciupală vorbește despre problemele cu care se confruntă profesorii în sistemul de învățământ, cum ar fi lipsa de sprijin, de formare, de dotare și de recunoaștere.
+    - Ciupală susține că profesorii sunt nevoiți să se adapteze la schimbările frecvente ale curriculumului, la cerințele elevilor și părinților și la presiunea evaluărilor.
+    - Ciupală afirmă că profesorii sunt nemulțumiți de salariile și condițiile de muncă și că au nevoie de o voce unitară pentru a-și apăra drepturile.
 
-**În a cincea zi a anului școlar 2023-2024, Ministerul Educației a reușit să pornească aplicația SIIIR – surse. Acum, profesorii și secretariatele școlilor trebuie să adauge manual elevii în fiecare clasă/grupă**
-- Aplicația SIIIR (Sistemul Informatic Integrat al Învăţământului din România) a fost actualizată pentru anul școlar 2023-2024, după ce nu a funcționat în primele zile ale anului școlar. [^4^]
-- Secretariatele școlilor vor trebui să introducă manual datele elevilor în fiecare clasă/grupă, conform surselor Edupedu.ro. [^4^]
-- Aplicația SIIIR a fost realizată în 2014 prin fonduri europene și are rolul de a gestiona informațiile despre elevi, profesori, unități de învățământ și programe educaționale. [^4^]
-- Defecțiunea aplicației a dus la amânarea examenelor pentru clasa a VI-a, precum și a examenelor orale de la sesiunea de bacalaureat din 2023. [^4^]
+- **OFICIAL Bacalaureat 2024 începe pe 17 iunie cu proba de limba română oral. Probele scrise au loc între 1 și 5 iulie, cu o zi liberă între proba obligatorie și proba la alegere / Calendarul examenului**
+    - Articolul anunță calendarul oficial al examenului de bacalaureat din anul școlar 2023-2024, publicat de Ministerul Educației, Cercetării și Inovării (MECI).
+    - Examenul începe pe 17 iunie cu proba orală de limba și literatura română, urmată de proba orală la limba maternă pe 18 iunie și de proba orală la limba străină pe 19 iunie.
+    - Probele scrise au loc între 1 și 5 iulie, cu o zi liberă între proba obligatorie a profilului și proba la alegere a profilului și specializării.
+    - Probele scrise sunt: limba și literatura română pe 1 iulie, limba și literatura maternă pe 2 iulie, proba obligatorie a profilului pe 3 iulie, proba la alegere a profilului și specializării pe 5 iulie.
+    - Rezultatele vor fi afișate pe 8 iulie, iar contestațiile pot fi depuse în aceeași zi sau în ziua următoare. Rezultatele finale vor fi anunțate pe 12 iulie.
 
-**Președintele Federației părinților, Iulian Cristache, despre testarea antidrog în școli: Nu vom fi de acord cu testarea în masă. De ce? Pentru că nu ajută și îmi miroase a business privat**
-- Iulian Cristache, președintele Federației Naționale a Părinților, s-a pronunțat împotriva propunerii prefectului Capitalei, Alin Stoica, de a testa antidrog elevii din școli și de a cere o adeverință medicală la începutul anului. [^2^]
-- Cristache a afirmat că testarea în masă nu ajută la prevenirea consumului de droguri și că ar putea fi o afacere privată pentru firmele care fac testele. [^2^]
-- El a susținut că testarea ar trebui făcută doar pentru elevii care prezintă simptome, cu acordul familiei și fără umilirea acestora. [^2^]
-- El a criticat lipsa centrelor de dezintoxicare, a psihologilor cu contract cu Casa de Asigurări de Sănătate și a responsabilității unor familii care nu își ajută copiii dependenți. [^2^]
+- **Prag de medie pentru bursele de merit? Peste 286 de mii de elevi au avut mediile generale între 9.50 și 10, în anul școlar anterior, conform datelor inspectoratelor școlare cerute de Ministerul Educației pentru „estimarea bugetului pentru plata burselor” / Sunt cuprinse și mediile elevilor din clasa...**
+    - Articolul prezintă datele statistice privind mediile generale ale elevilor din învățământul preuniversitar din anul școlar 2022-2023, solicitate de MECI inspectoratelor școlare pentru estimarea bugetului necesar pentru plata burselor.
+    - Datele arată că peste **286.000** de elevi au avut mediile generale între **9.50** și **10**, dintre care peste **93.000** au avut media generală **10**.
+    - Datele cuprind mediile elevilor din clasele I-XII/XIII, inclusiv cele ale elevilor din clasa pregătitoare.
+    - Articolul ridică întrebarea dacă MECI va stabili un prag de medie pentru acordarea burselor de merit, având în vedere numărul mare de elevi cu performanțe școlare ridicate.
 
 ## 🏫 Despre greva profesorilor
-- Greva profesorilor din România din 2023 a fost declanșată pe 22 mai 2023 și s-a suspendat pe 12 iunie 2023, după ce guvernul a acceptat să majoreze salariile cu 25% și să acorde o primă tranșă de 50% din grila de salarizare, de la 1 ianuarie 2024. [^10^] [^11^]
-- Greva a fost motivată de nemulțumirea față de salariile mici ale cadrelor didactice, comparativ cu alte profesii din România, și de nerespectarea legii salarizării unitare, care prevedea o creștere salarială de 50% în 2023. [^10^]
-- Greva a implicat aproximativ 150.000 de profesori și alte 60.000 - 70.000 de cadre didactice și auxiliare, care au organizat proteste și manifestații în București și în alte orașe mari. [^10^]
-- Greva a afectat desfășurarea examenelor naționale, care au fost amânate sau reprogramate pentru clasa a VI-a, clasa a VIII-a și bacalaureat. [^10^] [^4^]
+- Greva profesorilor este un protest inițiat de FSLI, care reprezintă peste **200.000** de angajați din învățământ, împotriva politicilor guvernamentale privind salarizarea și condițiile de muncă din sectorul educațional.
+- Greva a început pe **1 septembrie 2023**, odată cu începerea noului an școlar, și a constat într-o serie de acțiuni sindicale, cum ar fi pichetarea sediilor MECI, refuzul de a participa la activități extracurriculare, boicotarea examenelor naționale și suspendarea cursurilor .
+- Greva a fost susținută de majoritatea profesorilor, dar și de elevi, părinți și organizații civice, care au cerut respectarea drepturilor și demnității cadrelor didactice, precum și alocarea a **6%** din PIB pentru educație .
+- Greva a fost încheiată pe **5 septembrie 2023**, după ce MECI și FSLI au semnat un protocol de înțelegere, care prevede creșterea salariilor cu **25%**, acordarea de sporuri și prime pentru condiții de muncă dificile, asigurarea de materiale didactice și echipamente moderne, precum și organizarea de programe de formare continuă pentru profesori .
 
 
 <sub><sub>Acest text a fost generat automat de BingAI folosind ultimele informatii de pe Edupedu, precum si de pe alte site-uri de stiri. Deci, nu te baza pe el pentru a lua decizii importante :)</sub></sub>
