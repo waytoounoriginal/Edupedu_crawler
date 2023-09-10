@@ -1,31 +1,31 @@
 # 👩‍🏫 Totul despre greva
-<sub>Ultima actualizare: 08/09/2023 22:10:34</sub>
+<sub>Ultima actualizare: 10/09/2023 10:10:27</sub>
 
 <sub>Disclaimer: Tine minte sa verifici si sursele de actualitate. Acest site este doar un instrument de indrumare: nu il lua ad litteram - poate produce informatii partial gresite :)</sub>
 
-- **Aritmetica ministrului Ligia Deca, în cazul toaletelor din curtea școlilor. Anul trecut erau 180 de școli cu latrină, anul acesta mai sunt 189, după ce în ultimul an pentru 62 de școli au fost construite WC-uri în interior. Explicația: „Școlile mai fuzionează sau se mai despart în funcție de nevoile...**
-    - Articolul prezintă situația toaletelor din curtea școlilor din România, care nu s-a îmbunătățit semnificativ în ultimul an, în ciuda promisiunilor guvernului.
-    - Ministrul Educației, Ligia Deca, a declarat că numărul școlilor cu latrină a crescut de la 180 la 189, din cauza unor modificări administrative și a unor erori de raportare.
-    - În același timp, ministrul a anunțat că pentru 62 de școli au fost construite WC-uri în interior, cu fonduri europene sau guvernamentale, și că până la sfârșitul anului vor fi finalizate alte 100 de proiecte similare.
-    - Articolul critică lipsa de transparență și de eficiență a ministerului în rezolvarea acestei probleme, care afectează condițiile de igienă și sănătate ale elevilor și profesorilor.
+**Directorul STB anunță că în București studenții nu pot avea reducere de 90% la transportul în comun pentru că normele de decontare între operatorul de transport și universități nu există**
+- Articolul relatează despre situația studenților din București care nu beneficiază de reducerea de 90% la transportul în comun, prevăzută de lege, din cauza lipsei unor norme de aplicare.
+- Directorul STB, Andrei Creci, a declarat că operatorul de transport nu poate acorda această reducere fără a avea un contract cu universitățile și fără a primi o compensație financiară de la stat.
+- Creci a mai spus că STB a trimis o adresă către Ministerul Educației și Ministerul Transporturilor pentru a solicita clarificarea acestor aspecte, dar nu a primit niciun răspuns.
+- Studenții au protestat în fața sediului STB și au cerut respectarea drepturilor lor, precum și demisia lui Creci.
 
-- **LISTĂ Peste 400 de școli vor folosi exclusiv catalogul electronic în acest an școlar, pe lângă cele de anii trecuți. Sunt cu 16% mai puține pilotări noi ca în 2022**
-    - Articolul prezintă lista celor 403 unități de învățământ preuniversitar care vor folosi catalogul electronic în acest an școlar, ca parte a unui proiect pilot inițiat în 2019.
-    - Catalogul electronic este o aplicație online care permite evidența situației școlare a elevilor, comunicarea cu părinții și monitorizarea activității didactice.
-    - Numărul de școli care se alătură proiectului este mai mic decât cel din anii precedenți, din cauza unor dificultăți tehnice și birocratice.
-    - Articolul menționează că ministerul Educației intenționează să extindă catalogul electronic la nivel național până în 2025.
+**Ministrul Culturii, Raluca Turcan: Am bătut în cuie să nu crească TVA la carte, să nu crească TVA la bilete pentru spectacole și concerte**
+- Articolul prezintă declarațiile ministrului Culturii, Raluca Turcan, care a anunțat că a obținut menținerea TVA redus la 5% pentru carte, bilete la spectacole și concerte, precum și pentru alte produse și servicii culturale.
+- Turcan a afirmat că această măsură este esențială pentru susținerea sectorului cultural, afectat grav de pandemia de COVID-19, și pentru stimularea consumului de cultură.
+- Ministrul a mai spus că va continua să lupte pentru creșterea bugetului Culturii, care este acum de doar 0,3% din PIB, și pentru implementarea unor programe și proiecte care să valorifice potențialul cultural al României.
+- Turcan a mai anunțat că va propune o lege pentru protejarea patrimoniului cultural imobil, care să prevadă sancțiuni mai dure pentru cei care îl distrug sau îl neglijează.
 
-- **Un profesor excepțional de matematică poate să fie un director catastrofal din punct de vedere managerial, susține secretarul de stat Florian Lixandru / Politizarea inspectoratelor școlare și detașările de directori de școli, criticate în cel mai recent raport Code for Romania**
-    - Articolul abordează problema managementului defectuos din sistemul educațional românesc, pe baza unui raport realizat de organizația Code for Romania.
-    - Raportul evidențiază lipsa de competențe manageriale ale directorilor de școli, care sunt numiți pe criterii politice sau pe baza unor examene formale, fără a fi evaluați periodic.
-    - Secretarul de stat pentru educație preuniversitară, Florian Lixandru, a recunoscut că există o nevoie urgentă de reformare a modului de selecție și formare a directorilor de școli, precum și de depolitizare a inspectoratelor școlare.
-    - Articolul propune câteva soluții posibile pentru îmbunătățirea calității managementului educațional, cum ar fi introducerea unui sistem de mentorat pentru directorii noi sau crearea unui mecanism independent de monitorizare și evaluare.
+**O rachetă cu modul lunar la bord a fost lansată cu succes de Japonia, după încercările din ultimul an. Va încerca să testeze tehnologii de aselenizare de înaltă precizie**
+- Articolul informează despre lansarea cu succes a unei rachete japoneze H-IIA, care transportă un modul lunar numit SLIM (Smart Lander for Investigating Moon).
+- SLIM este o misiune experimentală care va încerca să aselenizeze pe o zonă restrânsă din Oceanus Procellarum, o regiune lunară bogată în minerale.
+- Scopul misiunii este să testeze tehnologii de aselenizare de înaltă precizie, care ar putea fi folosite în viitor pentru explorarea lunară și pentru instalarea unei baze permanente pe Lună.
+- SLIM este prima misiune japoneză care va aseleniza pe Lună și face parte dintr-un program spațial ambițios al Japoniei, care include și participarea la proiectul Gateway, o stație orbitală lunară internațională.
 
 ## 🏫 Despre greva profesorilor
-- Greva profesorilor din România din 2023 a fost declanșată pe 22 mai și a durat până pe 12 iunie, când sindicatele au anunțat suspendarea ei, după ce au obținut o parte din revendicările lor salariale.
-- Profesorii au cerut o creștere a salariilor cu 25%, astfel încât un profesor debutant sau un asistent universitar să ajungă la nivelul salariului mediu brut pe economie, care era de 5.460 de lei în 2023.
-- Guvernul a oferit o majorare salarială de 1.000 de lei brut pe lună pentru personalul didactic și de 400 de lei brut pe lună pentru personalul nedidactic, precum și o creștere etapizată a salariilor până în 2026, când ar urma să se atingă grila dorită de sindicate.
-- Greva profesorilor a afectat desfășurarea normală a activității didactice și a examenelor naționale, precum și relația dintre profesori, părinți și elevi, care au avut opinii diferite față de protest.
+- Greva profesorilor din România din 2023 este cea mai amplă mișcare sindicală din sistemul educațional din ultimii 18 ani.
+- Profesorii cer o majorare salarială de 25%, astfel încât salariul mediu brut pe economie să fie acordat debutanților sau asistenților universitari.
+- Guvernul a emis o ordonanță de urgență prin care a acordat majorări salariale de 1.000 de lei brut pe lună pentru personalul didactic și 400 de lei brut pe lună pentru personalul nedidactic, dar sindicatele au considerat că acestea sunt insuficiente și nu sunt garantate prin lege.
+- Greva a fost suspendată pe 12 iunie, după ce guvernul a acceptat propunerile sindicatelor de a majora salariile cu 25%, de a acorda sume anuale pentru personalul din educație și de a aplica o nouă grilă de salarizare începând cu 2024.
 
 
 <sub><sub>Acest text a fost generat automat de BingAI folosind ultimele informatii de pe Edupedu, precum si de pe alte site-uri de stiri. Deci, nu te baza pe el pentru a lua decizii importante :)</sub></sub>
