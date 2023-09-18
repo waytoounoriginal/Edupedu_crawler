@@ -1,3 +1,3 @@
-[ERROR] TIME: 2023-09-18 16:13:34.132208
-502, message='Invalid response status', url=URL('wss://sydney.bing.com/sydney/ChatHub')
+[ERROR] TIME: 2023-09-18 17:09:49.084983
+CaptchaChallenge: User needs to solve CAPTCHA to continue.
 
