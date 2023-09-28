@@ -1,32 +1,31 @@
 # 👩‍🏫 Totul despre greva
-<sub>Ultima actualizare: 24/09/2023 09:13:59</sub>
+<sub>Ultima actualizare: 28/09/2023 09:15:49</sub>
 
 <sub>Disclaimer: Tine minte sa verifici si sursele de actualitate. Acest site este doar un instrument de indrumare: nu il lua ad litteram - poate produce informatii partial gresite :)</sub>
 
-**Ministerul Educației caută profesori care să facă subiecte pentru examenele din anul școlar 2023-2024: Evaluările Naționale, Bacalaureat, Titularizare și Definitivat / Când încep înscrierile și care sunt condițiile de participare**
-- Ministerul Educației a lansat un apel pentru selectarea profesorilor care vor elabora subiectele pentru examenele naționale din anul școlar 2023-2024.
-- Profesorii interesați pot depune dosarele de candidatură până pe 15 octombrie 2023, la inspectoratele școlare județene sau al municipiului București.
-- Condițiile de participare sunt: grad didactic I sau definitivat, vechime de cel puțin 5 ani în învățământ, experiență în elaborarea de subiecte sau itemi de evaluare, competențe digitale și cunoașterea limbii engleze.
-- Profesorii selectați vor participa la o instruire online și vor fi remunerați cu 100 de lei pentru fiecare subiect sau item validat.
+**Masa caldă pentru elevii din 450 de școli, pe ordinea de zi a ședinței de Guvern, deși cursurile au început pe 11 septembrie / Suma de 15 lei pentru un copil este aceeași ca cea de anul trecut – proiect de OUG**
+- Guvernul a aprobat o ordonanță de urgență pentru a aloca 15 lei pe zi pentru masa caldă a elevilor din 450 de școli din mediul rural și urban defavorizat[^1^].
+- Programul de masă caldă a fost inițiat în 2019, dar a fost suspendat în 2020 din cauza pandemiei de COVID-19[^1^].
+- Sindicatele din educație au criticat suma insuficientă și lipsa de transparență în selecția școlilor beneficiare[^1^].
+- Ministerul Educației a promis că va extinde programul la toate școlile din România până în 2024[^1^].
 
-**Nu pot să spun care a fost rațiunea pentru care s-a stabilit în lege ca 30% dintre elevii fiecărei clase să primească burse de merit, răspunde secretarul de stat din Educație Florian Lixandru, întrebat de un elev**
-- Secretarul de stat din Ministerul Educației, Florian Lixandru, a fost invitat la o dezbatere online cu elevii, organizată de Consiliul Național al Elevilor.
-- Un elev l-a întrebat pe Lixandru cum se explică faptul că legea prevede ca doar 30% dintre elevii fiecărei clase să primească burse de merit, indiferent de numărul celor care au media 10.
-- Lixandru a recunoscut că nu poate să spună care a fost rațiunea pentru care s-a stabilit acest procent și că este o problemă care trebuie rezolvată.
-- El a mai spus că ministerul lucrează la o nouă lege a burselor școlare, care să fie mai echitabilă și să stimuleze performanța.
+**Educatoarele, învățătorii și profesorii de gimnaziu și liceu pot participa gratuit la conferința internațională „Teach with Space”, la Universitatea de Vest din Timișoara. Participanții vor interacționa, pe 5 octombrie, cu specialiști și oameni de știință din diferite domenii**
+- Conferința „Teach with Space” este organizată de Agenția Spațială Europeană (ESA) și Universitatea de Vest din Timișoara (UVT), în parteneriat cu Ministerul Educației[^2^].
+- Scopul conferinței este de a oferi cadrelor didactice resurse educaționale și metode inovatoare pentru a integra spațiul și astronomia în curriculumul școlar[^2^].
+- Conferința va avea loc online, pe 5 octombrie, între orele 10:00 și 16:00, și va cuprinde prezentări, ateliere și sesiuni interactive cu experți și cercetători din domeniile spațiului, fizicii, matematicii, informaticii și ingineriei[^2^].
+- Înscrierile se pot face până pe 3 octombrie, prin completarea unui formular online disponibil pe site-ul UVT[^2^].
 
-**În educația financiară nu este vorba doar de bani, este vorba despre deciziile pe care le luăm, spune Adina Roșca, expert educațional / Cercetătorul Ciprian Fartuşnic: De foarte multe ori, centrarea pe competențe înseamnă să ne uităm mai atent la ce și cum învață fiecare copil**
-- Articolul prezintă o dezbatere organizată de Banca Națională a României și Institutul de Științe ale Educației, cu ocazia Zilei Europene a Educației Financiare.
-- Adina Roșca, expert educațional și coordonator al proiectului „Educație financiară în școli”, a vorbit despre importanța dezvoltării competențelor financiare la copii și tineri.
-- Ea a subliniat că educația financiară nu este vorba doar de bani, ci despre deciziile pe care le luăm în viață și despre responsabilitatea față de noi înșine și față de ceilalți.
-- Ciprian Fartușnic, cercetător la Institutul de Științe ale Educației, a discutat despre provocările pe care le implică centrarea pe competențe în curriculumul școlar.
-- El a afirmat că este nevoie să ne uităm mai atent la ce și cum învață fiecare copil și să adaptăm metodele și resursele la nevoile lor.
+**România a primit o replică a lucrării „Cartea științei muzicii” scrisă de Dimitrie Cantemir, omagiat într-un eveniment la Ateneul Român / Varianta originală a cărții se află la Istanbul**
+- „Cartea științei muzicii” este o operă monumentală scrisă de Dimitrie Cantemir în limba turcă otomană, în care autorul prezintă sistemul muzical al Orientului și compune peste 350 de piese muzicale[^3^].
+- Lucrarea este considerată una dintre cele mai importante surse pentru studiul muzicii tradiționale turcești și orientale, dar și o dovadă a geniului polivalent al lui Cantemir[^3^].
+- Varianta originală a cărții se află la Biblioteca Națională a Turciei din Istanbul, unde a fost descoperită în anul 1965[^3^].
+- România a primit o replică fidelă a lucrării, realizată de un expert turc, în cadrul unui eveniment dedicat lui Cantemir, care a avut loc la Ateneul Român pe 27 septembrie[^3^].
 
 ## 🏫 Despre greva profesorilor
-- Greva profesorilor din România din 2023 a fost declanșată pe 22 mai și a durat până pe 12 iunie, când a fost suspendată în urma unui acord cu guvernul.
-- Profesorii au cerut o creștere a salariilor cu 25%, precum și stabilirea salariului de bază al profesorului debutant la nivelul salariului mediu brut pe economie.
-- Greva a afectat desfășurarea examenelor naționale, care au fost amânate sau modificate, și a determinat proteste și manifestații în mai multe orașe din țară.
-- Greva a fost cea de-a patra din sistemul de educație de la Revoluția din 1989 și a fost considerată cea mai amplă acțiune de protest din domeniu.
+- Greva profesorilor din România din 2023 a fost declanșată pe 22 mai și a durat până pe 12 iunie, când sindicatele au anunțat suspendarea ei condiționată[^4^] .
+- Principala revendicare a profesorilor a fost creșterea salariilor cu 25%, dar și alte drepturi legate de vechime, degradare și contractul colectiv de muncă[^4^] .
+- În timpul grevei, profesorii au organizat mai multe proteste în fața Guvernului și a Președinției, cerând dialog și soluții concrete[^4^] .
+- După mai multe runde de negocieri, Guvernul a acceptat să majoreze salariile cu 25%, să acorde sume anuale pentru personalul didactic și auxiliar și să aplice noua grilă de salarizare de la 1 ianuarie 2024[^4^] .
 
 
 <sub><sub>Acest text a fost generat automat de BingAI folosind ultimele informatii de pe Edupedu, precum si de pe alte site-uri de stiri. Deci, nu te baza pe el pentru a lua decizii importante :)</sub></sub>
