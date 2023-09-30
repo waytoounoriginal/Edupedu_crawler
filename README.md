@@ -1,31 +1,31 @@
 # 👩‍🏫 Totul despre greva
-<sub>Ultima actualizare: 28/09/2023 09:15:49</sub>
+<sub>Ultima actualizare: 01/10/2023 00:10:46</sub>
 
 <sub>Disclaimer: Tine minte sa verifici si sursele de actualitate. Acest site este doar un instrument de indrumare: nu il lua ad litteram - poate produce informatii partial gresite :)</sub>
 
-**Masa caldă pentru elevii din 450 de școli, pe ordinea de zi a ședinței de Guvern, deși cursurile au început pe 11 septembrie / Suma de 15 lei pentru un copil este aceeași ca cea de anul trecut – proiect de OUG**
-- Guvernul a aprobat o ordonanță de urgență pentru a aloca 15 lei pe zi pentru masa caldă a elevilor din 450 de școli din mediul rural și urban defavorizat[^1^].
-- Programul de masă caldă a fost inițiat în 2019, dar a fost suspendat în 2020 din cauza pandemiei de COVID-19[^1^].
-- Sindicatele din educație au criticat suma insuficientă și lipsa de transparență în selecția școlilor beneficiare[^1^].
-- Ministerul Educației a promis că va extinde programul la toate școlile din România până în 2024[^1^].
+**- Aproape 2 milioane de copii ar trebui să primească zilnic la școală, lapte și produse lactate și de panificație, iar de două ori porții de fructe. În realitate nu primesc nimic, deși școala a început de 3 săptămâni / Motivele pentru care licitațiile nici nu au fost demarate**
+- Articolul prezintă situația programului național de distribuire a laptelui și fructelor în școli, care nu a fost implementat nici până acum, la trei săptămâni de la începerea anului școlar.
+- Motivele invocate de Ministerul Educației pentru întârzierea licitațiilor sunt lipsa banilor, schimbarea legislației și pandemia de COVID-19.
+- Reprezentanții asociațiilor de părinți și ai sindicatelor din educație critică lipsa de interes a autorităților pentru acest program, care ar trebui să asigure o alimentație sănătoasă pentru aproape 2 milioane de elevi.
+- Articolul mai arată că programul a fost afectat și în anii anteriori de nereguli, fraude și controale insuficiente.
 
-**Educatoarele, învățătorii și profesorii de gimnaziu și liceu pot participa gratuit la conferința internațională „Teach with Space”, la Universitatea de Vest din Timișoara. Participanții vor interacționa, pe 5 octombrie, cu specialiști și oameni de știință din diferite domenii**
-- Conferința „Teach with Space” este organizată de Agenția Spațială Europeană (ESA) și Universitatea de Vest din Timișoara (UVT), în parteneriat cu Ministerul Educației[^2^].
-- Scopul conferinței este de a oferi cadrelor didactice resurse educaționale și metode inovatoare pentru a integra spațiul și astronomia în curriculumul școlar[^2^].
-- Conferința va avea loc online, pe 5 octombrie, între orele 10:00 și 16:00, și va cuprinde prezentări, ateliere și sesiuni interactive cu experți și cercetători din domeniile spațiului, fizicii, matematicii, informaticii și ingineriei[^2^].
-- Înscrierile se pot face până pe 3 octombrie, prin completarea unui formular online disponibil pe site-ul UVT[^2^].
+**- Cel mai întârziat proiect de digitalizare din fonduri PNRR al Ministerului Educației este cel dedicat managementului eticii universitare. Mediul academic se confruntă cu o avalanșă de plagiate**
+- Articolul analizează stadiul proiectelor de digitalizare din fondurile PNRR (Planul Național de Redresare și Reziliență) ale Ministerului Educației, Culturii și Cercetării (MECC).
+- Cel mai întârziat proiect este cel privind managementul eticii universitare, care ar trebui să creeze o platformă națională pentru verificarea tezelor de doctorat și a altor lucrări științifice.
+- Proiectul este considerat vital pentru combaterea plagiatului în mediul academic, care a crescut alarmant în ultimii ani, afectând credibilitatea instituțiilor de învățământ superior și a cercetătorilor români.
+- Articolul mai menționează că proiectul este blocat din cauza lipsei unui cadru legal clar și a unor dispute între MECC și Consiliul Național de Atestare a Titlurilor, Diplomelor și Certificatelor Universitare (CNATDCU).
 
-**România a primit o replică a lucrării „Cartea științei muzicii” scrisă de Dimitrie Cantemir, omagiat într-un eveniment la Ateneul Român / Varianta originală a cărții se află la Istanbul**
-- „Cartea științei muzicii” este o operă monumentală scrisă de Dimitrie Cantemir în limba turcă otomană, în care autorul prezintă sistemul muzical al Orientului și compune peste 350 de piese muzicale[^3^].
-- Lucrarea este considerată una dintre cele mai importante surse pentru studiul muzicii tradiționale turcești și orientale, dar și o dovadă a geniului polivalent al lui Cantemir[^3^].
-- Varianta originală a cărții se află la Biblioteca Națională a Turciei din Istanbul, unde a fost descoperită în anul 1965[^3^].
-- România a primit o replică fidelă a lucrării, realizată de un expert turc, în cadrul unui eveniment dedicat lui Cantemir, care a avut loc la Ateneul Român pe 27 septembrie[^3^].
+**- USR: Ligia Deca consfinţeşte degradarea iremediabilă a Educaţiei / Lista persoanelor acuzate de plagiat numite în instituția care ar trebui să analizeze cauzele de plagiat**
+- Articolul relatează reacția USR (Uniunea Salvați România) față de numirea unor persoane acuzate sau condamnate pentru plagiat în cadrul Institutului Național pentru Studierea Holocaustului din România „Elie Wiesel” (INSHR-EW).
+- USR acuză ministrul educației, Ligia Deca, că prin această numire consfințește „degradarea iremediabilă” a educației și încalcă principiile etice ale guvernării.
+- Printre persoanele numite se află Adrian Cioflâncă, director al INSHR-EW, care a fost condamnat definitiv pentru plagiat în 2019, și Ioan Aurel Pop, președintele Academiei Române, care este acuzat de plagiat în mai multe lucrări.
+- Articolul mai precizează că INSHR-EW este implicat într-un proiect finanțat din PNRR pentru studierea cauzelor plagiatului în mediul academic.
 
 ## 🏫 Despre greva profesorilor
-- Greva profesorilor din România din 2023 a fost declanșată pe 22 mai și a durat până pe 12 iunie, când sindicatele au anunțat suspendarea ei condiționată[^4^] .
-- Principala revendicare a profesorilor a fost creșterea salariilor cu 25%, dar și alte drepturi legate de vechime, degradare și contractul colectiv de muncă[^4^] .
-- În timpul grevei, profesorii au organizat mai multe proteste în fața Guvernului și a Președinției, cerând dialog și soluții concrete[^4^] .
-- După mai multe runde de negocieri, Guvernul a acceptat să majoreze salariile cu 25%, să acorde sume anuale pentru personalul didactic și auxiliar și să aplice noua grilă de salarizare de la 1 ianuarie 2024[^4^] .
+- Greva profesorilor din România din 2023 a fost declanșată pe 22 mai și a durat până pe 12 iunie, când sindicatele au anunțat suspendarea ei, după ce au obținut o parte din revendicările lor salariale.
+- Profesorii au cerut o majorare a salariilor cu 25%, o nouă grilă de salarizare și respectarea legii educației naționale, care prevede alocarea a 6% din PIB pentru învățământ.
+- Greva a afectat peste 2 milioane de elevi, care nu au avut ore în perioada respectivă, și a perturbat desfășurarea examenelor naționale, care au fost amânate sau modificate.
+- Greva a fost cea mai amplă din ultimii 18 ani și a fost marcată de proteste masive ale profesorilor în fața Guvernului și a Președinției, precum și de negocieri dificile cu autoritățile.
 
 
 <sub><sub>Acest text a fost generat automat de BingAI folosind ultimele informatii de pe Edupedu, precum si de pe alte site-uri de stiri. Deci, nu te baza pe el pentru a lua decizii importante :)</sub></sub>
