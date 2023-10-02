@@ -1,3 +1,3 @@
-[ERROR] TIME: 2023-10-02 21:09:26.172991
-502, message='Invalid response status', url=URL('wss://sydney.bing.com/sydney/ChatHub')
+[ERROR] TIME: 2023-10-02 22:09:38.796879
+'conversationSignature'
 
